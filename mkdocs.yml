@@ -1,0 +1,152 @@
+site_name: Léo Gilson Ribeiro
+copyright: 
+site_description: Obras reunidas de Léo Gilson Ribeiro
+repo_name: 
+repo_url: 
+edit_uri: tree/main
+docs_dir: docs/src/markdown/
+theme:
+  name: material
+  custom_dir: docs/theme
+  language: pt-BR
+  font:
+    text: Alegreya
+    code: Inconsolata
+  favicon: 
+  icon:
+    logo: material/book-open-page-variant
+    repo: fontawesome/brands/git-alt
+  palette:
+    scheme: dracula
+    primary: deep purple
+    accent: deep purple
+  features:
+    - header.autohide
+    - navigation.expand
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+plugins:
+  - git-revision-date-localized:
+      type: iso_date
+      locale: pt
+      timezone: America/Sao_Paulo
+  - minify:
+     minify_html: true
+  - search:
+      lang: pt
+  - tags:
+      tags_file: tags.md
+  - redirects:
+      redirect_maps:
+
+
+markdown_extensions:
+  - markdown.extensions.abbr:
+  - markdown.extensions.admonition:
+  - markdown.extensions.attr_list:
+  - markdown.extensions.def_list:
+  - markdown.extensions.footnotes:
+  - markdown.extensions.md_in_html:
+  - markdown.extensions.smarty:
+      smart_quotes: false
+  - markdown.extensions.tables:
+  - markdown.extensions.toc:
+      slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
+      permalink: ""
+  - pymdownx.arithmatex:
+      generic: true
+      block_tag: 'pre'
+  - pymdownx.betterem:
+  - pymdownx.caret:
+  - pymdownx.details:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.escapeall:
+      hardbreak: True
+      nbsp: True
+  - pymdownx.highlight:
+      anchor_linenums: true
+      extend_pygments_lang:
+        - name: php-inline
+          lang: php
+          options:
+            startinline: true
+        - name: pycon3
+          lang: pycon
+          options:
+            python3: true
+      linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite:
+      custom_inline:
+        - name: math
+          class: arithmatex
+          format: !!python/object/apply:pymdownx.arithmatex.arithmatex_inline_format {kwds: {mode: generic}}
+  - pymdownx.keys:
+      separator: "\uff0b"
+  - pymdownx.mark:
+  - pymdownx.progressbar:
+  - pymdownx.saneheaders:
+  - pymdownx.smartsymbols:
+  - pymdownx.striphtml:
+  - pymdownx.superfences:
+      preserve_tabs: true
+      custom_fences:
+        # Mermaid diagrams
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+        - name: math
+          class: arithmatex
+          format: !!python/object/apply:pymdownx.arithmatex.arithmatex_fenced_format {kwds: {mode: generic, tag: pre}}
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde:
+
+nav:
+  - Volume 1:
+    - Volume 1: volume-1/README.md
+    - Semana de Arte Moderna:
+      - Semana de Arte Moderna: volume-1/semana-de-arte-moderna/README.md
+      - E foi assim que nasceu o Brasil de hoje, com Drummond e o romance social: volume-1/semana-de-arte-moderna/e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummo.md
+      - Foi nosso primeio happening urbano: volume-1/semana-de-arte-moderna/foi-nosso-primeio-happening-urbano.md
+    - Emílio Di Cavalcanti:
+      - Emílio Di Cavalcanti: volume-1/em-lio-di-cavalcanti/README.md
+      - O adeus do mestre - Para a pintura brasileira, ficam as mulatas, o morro, o mar e a Semana de Arte Moderna: volume-1/em-lio-di-cavalcanti/o-adeus-do-mestre---para-a-pintura-brasileira-fica.md
+      - Di, para quem viver era um círculo mágico: volume-1/em-lio-di-cavalcanti/di-para-quem-viver-era-um-c-rculo-m-gico.md
+    - Tarsila do Amaral:
+      - Tarsila do Amaral: volume-1/tarsila-do-amaral/README.md
+      - A última entrevista: volume-1/tarsila-do-amaral/a-ltima-entrevista.md
+    - Menotti del Picchia:
+      - Menotti del Picchia: volume-1/menotti-del-picchia/README.md
+      - Nada me orgulha mais do que ter sido poeta: volume-1/menotti-del-picchia/nada-me-orgulha-mais-do-que-ter-sido-poeta.md
+    - Oswald de Andrade:
+      - Oswald de Andrade: volume-1/oswald-de-andrade/README.md
+      - Oswald de Andrade, o incoerente: volume-1/oswald-de-andrade/oswald-de-andrade-o-incoerente.md
+    - Mário de Andrade:
+      - Mário de Andrade: volume-1/m-rio-de-andrade/README.md
+      - Astuto ou generoso: volume-1/m-rio-de-andrade/astuto-ou-generoso.md
+      - Mário, o campo aberto e nevoento do debate: volume-1/m-rio-de-andrade/m-rio-o-campo-aberto-e-nevoento-do-debate.md
+      - Curso sobre o movimento modernista: volume-1/m-rio-de-andrade/curso-sobre-o-movimento-modernista.md
+  - Tags: tags.md
+
+
+extra_css:
+  - assets/extra.css
+  - assets/pymdownx-extras/extra.css
+
+extra_javascript:
+  - assets/js/tablesort.js
+  - assets/pymdownx-extras/extra-loader.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://unpkg.com/mermaid@8.13.3/dist/mermaid.min.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
