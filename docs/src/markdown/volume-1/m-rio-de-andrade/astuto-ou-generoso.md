@@ -2,7 +2,7 @@
 tags: []
 prototype: MarkdownNote
 edit_url: tinderbox://LGR/docs/src/markdown/Volume%201/M%C3%A1rio%20de%20Andrade?view=outline+select=1658234628
-view_url: /commits/main/docs/src/markdown/volume-1/m-rio-de-andrade/astuto-ou-generoso.md
+view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/volume-1/m-rio-de-andrade/astuto-ou-generoso.md
 ---
 
 # Astuto ou generoso

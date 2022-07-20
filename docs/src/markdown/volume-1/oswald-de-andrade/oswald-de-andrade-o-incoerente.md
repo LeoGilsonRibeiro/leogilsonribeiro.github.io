@@ -2,7 +2,7 @@
 tags: []
 prototype: MarkdownNote
 edit_url: tinderbox://LGR/docs/src/markdown/Volume%201/Oswald%20de%20Andrade?view=outline+select=1658234627
-view_url: /commits/main/docs/src/markdown/volume-1/oswald-de-andrade/oswald-de-andrade-o-incoerente.md
+view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/volume-1/oswald-de-andrade/oswald-de-andrade-o-incoerente.md
 ---
 
 # Oswald de Andrade, o incoerente

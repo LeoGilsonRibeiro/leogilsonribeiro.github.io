@@ -2,7 +2,7 @@
 tags: []
 prototype: MarkdownNote
 edit_url: tinderbox://LGR/docs/src/markdown/Volume%201/Em%C3%ADlio%20Di%20Cavalcanti?view=outline+select=1658234624
-view_url: /commits/main/docs/src/markdown/volume-1/em-lio-di-cavalcanti/di-para-quem-viver-era-um-c-rculo-m-gico.md
+view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/volume-1/em-lio-di-cavalcanti/di-para-quem-viver-era-um-c-rculo-m-gico.md
 ---
 
 # Di, para quem viver era um círculo mágico

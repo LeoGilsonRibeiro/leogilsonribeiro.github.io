@@ -1,8 +1,8 @@
 site_name: Léo Gilson Ribeiro
 copyright: 
 site_description: Obras reunidas de Léo Gilson Ribeiro
-repo_name: 
-repo_url: 
+repo_name: bcdavasconcelos/LGR
+repo_url: https://github.com/bcdavasconcelos/LGR
 edit_uri: tree/main
 docs_dir: docs/src/markdown/
 theme:

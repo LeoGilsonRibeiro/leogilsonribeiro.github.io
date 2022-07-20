@@ -2,7 +2,7 @@
 tags: [Arte moderna, Drummond, Jornal da Tarde]
 prototype: MarkdownNote
 edit_url: tinderbox://LGR/docs/src/markdown/Volume%201/Semana%20de%20Arte%20Moderna?view=outline+select=1658234621
-view_url: /commits/main/docs/src/markdown/volume-1/semana-de-arte-moderna/e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummo.md
+view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/volume-1/semana-de-arte-moderna/e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummo.md
 ---
 
 # E foi assim que nasceu o Brasil de hoje, com Drummond e o romance social

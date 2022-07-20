@@ -2,7 +2,7 @@
 tags: [Artes plásticas, Veja]
 prototype: MarkdownNote
 edit_url: tinderbox://LGR/docs/src/markdown/Volume%201/Em%C3%ADlio%20Di%20Cavalcanti?view=outline+select=1658234623
-view_url: /commits/main/docs/src/markdown/volume-1/em-lio-di-cavalcanti/o-adeus-do-mestre---para-a-pintura-brasileira-fica.md
+view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/volume-1/em-lio-di-cavalcanti/o-adeus-do-mestre---para-a-pintura-brasileira-fica.md
 ---
 
 # O adeus do mestre - Para a pintura brasileira, ficam as mulatas, o morro, o mar e a Semana de Arte Moderna

@@ -2,7 +2,7 @@
 tags: [Jornal da Tarde, Oswald de Andrade]
 prototype: MarkdownNote
 edit_url: tinderbox://LGR/docs/src/markdown/Volume%201/Semana%20de%20Arte%20Moderna?view=outline+select=1658234622
-view_url: /commits/main/docs/src/markdown/volume-1/semana-de-arte-moderna/foi-nosso-primeio-happening-urbano.md
+view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/volume-1/semana-de-arte-moderna/foi-nosso-primeio-happening-urbano.md
 ---
 
 # Foi nosso primeio happening urbano

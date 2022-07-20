@@ -2,7 +2,7 @@
 tags: []
 prototype: Header
 edit_url: tinderbox://LGR/docs/src?view=outline+select=1654145855
-view_url: /commits/main/docs/src/markdown.md
+view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown.md
 ---
 
 # Obras reunidas de Léo Gilson Ribeiro

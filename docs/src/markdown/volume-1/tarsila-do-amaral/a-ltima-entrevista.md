@@ -2,7 +2,7 @@
 tags: [Veja]
 prototype: MarkdownNote
 edit_url: tinderbox://LGR/docs/src/markdown/Volume%201/Tarsila%20do%20Amaral?view=outline+select=1658234625
-view_url: /commits/main/docs/src/markdown/volume-1/tarsila-do-amaral/a-ltima-entrevista.md
+view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/volume-1/tarsila-do-amaral/a-ltima-entrevista.md
 ---
 
 # A última entrevista

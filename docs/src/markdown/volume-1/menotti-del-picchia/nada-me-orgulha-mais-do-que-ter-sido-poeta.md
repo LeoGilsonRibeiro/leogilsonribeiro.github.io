@@ -2,7 +2,7 @@
 tags: [Jornal da Tarde, Literatura]
 prototype: MarkdownNote
 edit_url: tinderbox://LGR/docs/src/markdown/Volume%201/Menotti%20del%20Picchia?view=outline+select=1658234626
-view_url: /commits/main/docs/src/markdown/volume-1/menotti-del-picchia/nada-me-orgulha-mais-do-que-ter-sido-poeta.md
+view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/volume-1/menotti-del-picchia/nada-me-orgulha-mais-do-que-ter-sido-poeta.md
 ---
 
 # Nada me orgulha mais do que ter sido poeta
