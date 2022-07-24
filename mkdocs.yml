@@ -112,30 +112,59 @@ markdown_extensions:
   - pymdownx.tilde:
 
 nav:
-  - Volume 1:
-    - Volume 1: volume-1/README.md
-    - Semana de Arte Moderna:
-      - Semana de Arte Moderna: volume-1/semana-de-arte-moderna/README.md
-      - E foi assim que nasceu o Brasil de hoje, com Drummond e o romance social: volume-1/semana-de-arte-moderna/e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummo.md
-      - Foi nosso primeio happening urbano: volume-1/semana-de-arte-moderna/foi-nosso-primeio-happening-urbano.md
-    - Emílio Di Cavalcanti:
-      - Emílio Di Cavalcanti: volume-1/em-lio-di-cavalcanti/README.md
-      - O adeus do mestre - Para a pintura brasileira, ficam as mulatas, o morro, o mar e a Semana de Arte Moderna: volume-1/em-lio-di-cavalcanti/o-adeus-do-mestre---para-a-pintura-brasileira-fica.md
-      - Di, para quem viver era um círculo mágico: volume-1/em-lio-di-cavalcanti/di-para-quem-viver-era-um-c-rculo-m-gico.md
-    - Tarsila do Amaral:
-      - Tarsila do Amaral: volume-1/tarsila-do-amaral/README.md
-      - A última entrevista: volume-1/tarsila-do-amaral/a-ltima-entrevista.md
-    - Menotti del Picchia:
-      - Menotti del Picchia: volume-1/menotti-del-picchia/README.md
-      - Nada me orgulha mais do que ter sido poeta: volume-1/menotti-del-picchia/nada-me-orgulha-mais-do-que-ter-sido-poeta.md
-    - Oswald de Andrade:
-      - Oswald de Andrade: volume-1/oswald-de-andrade/README.md
-      - Oswald de Andrade, o incoerente: volume-1/oswald-de-andrade/oswald-de-andrade-o-incoerente.md
-    - Mário de Andrade:
-      - Mário de Andrade: volume-1/m-rio-de-andrade/README.md
-      - Astuto ou generoso: volume-1/m-rio-de-andrade/astuto-ou-generoso.md
-      - Mário, o campo aberto e nevoento do debate: volume-1/m-rio-de-andrade/m-rio-o-campo-aberto-e-nevoento-do-debate.md
-      - Curso sobre o movimento modernista: volume-1/m-rio-de-andrade/curso-sobre-o-movimento-modernista.md
+  - Racismo e literatura negra:
+    - Racismo e literatura negra: racismo-e-literatura-negra/README.md
+    - Introdução:
+      - Introdução: racismo-e-literatura-negra/introdu-o/README.md
+      - Racismo, ideologia, propostas. E o artista?: racismo-e-literatura-negra/introdu-o/racismo-ideologia-propostas-e-o-artista-.md
+      - Perfil da Literatura Negra: racismo-e-literatura-negra/introdu-o/perfil-da-literatura-negra.md
+    - Literatura Brasileira:
+      - Literatura Brasileira: racismo-e-literatura-negra/literatura-brasileira/README.md
+      - O negro na literatura brasileira: racismo-e-literatura-negra/literatura-brasileira/o-negro-na-literatura-brasileira.md
+      - Entrevista - León Damas e a Negritude brasileira: racismo-e-literatura-negra/literatura-brasileira/entrevista---le-n-damas-e-a-negritude-brasileira.md
+      - Invenções e algemas de Castro Alves: racismo-e-literatura-negra/literatura-brasileira/inven-es-e-algemas-de-castro-alves.md
+      - O mulato Raimundo faz cem anos: racismo-e-literatura-negra/literatura-brasileira/o-mulato-raimundo-faz-cem-anos.md
+      - Resenha de LGR vetada e não publicada no *JT* sobre Adolfo Caminha: racismo-e-literatura-negra/literatura-brasileira/resenha-de-lgr-vetada-e-n-o-publicada-no-jt-sobre-.md
+      - A revolta de um precursor: racismo-e-literatura-negra/literatura-brasileira/a-revolta-de-um-precursor.md
+      - Lima Barreto - altamente inovador. E quase desconhecido.: racismo-e-literatura-negra/literatura-brasileira/lima-barreto---altamente-inovador-e-quase-desconhe.md
+      - Lima Barreto - doce, feroz, iluminado. E esquecido.: racismo-e-literatura-negra/literatura-brasileira/lima-barreto---doce-feroz-iluminado-e-esquecido-.md
+      - Policarpo Quaresma, uma obra-prima envolta em doce amargura: racismo-e-literatura-negra/literatura-brasileira/policarpo-quaresma-uma-obra-prima-envolta-em-doce-.md
+      - A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus: racismo-e-literatura-negra/literatura-brasileira/a-m-e-coragem-negra-de-canind-sobre-os-di-rios-de-.md
+      - O negro nos livros, poemas e teses: racismo-e-literatura-negra/literatura-brasileira/o-negro-nos-livros-poemas-e-teses.md
+      - Poesia. Uma obra reunindo poetas negros de várias épocas: racismo-e-literatura-negra/literatura-brasileira/poesia-uma-obra-reunindo-poetas-negros-de-v-rias-p.md
+      - Nossa poesia negra, tentando falar alemão: racismo-e-literatura-negra/literatura-brasileira/nossa-poesia-negra-tentando-falar-alem-o.md
+      - O Evangelho da Solidão de Eduardo de Oliveira: racismo-e-literatura-negra/literatura-brasileira/o-evangelho-da-solid-o-de-eduardo-de-oliveira.md
+      - Prefácio ao livro de Paulo Colina: racismo-e-literatura-negra/literatura-brasileira/pref-cio-ao-livro-de-paulo-colina.md
+      - Paulo Colina - o poeta das cinzas: racismo-e-literatura-negra/literatura-brasileira/paulo-colina---o-poeta-das-cinzas.md
+    - Literatura Norte-americana:
+      - Literatura Norte-americana: racismo-e-literatura-negra/literatura-norte-americana/README.md
+      - Literatura negra nos Estados Unidos - James Baldwin: racismo-e-literatura-negra/literatura-norte-americana/literatura-negra-nos-estados-unidos---james-baldwi.md
+      - James Baldwin e o negro nos EUA: racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-e-o-negro-nos-eua.md
+      -  O negro Baldwin luta pelos seus: racismo-e-literatura-negra/literatura-norte-americana/-o-negro-baldwin-luta-pelos-seus.md
+      - James Baldwin (necrológio): racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-necrol-gio-.md
+      - Resenha do livro *O Mensageiro* de Charles Wright(Editora Nova Crítica, 1969) : racismo-e-literatura-negra/literatura-norte-americana/resenha-do-livro-o-mensageiro-de-charles-wright-ed.md
+      - A influência decisiva de Richard Wright: racismo-e-literatura-negra/literatura-norte-americana/a-influ-ncia-decisiva-de-richard-wright.md
+      - Entrevista - Toni Morrison e os negros da América: racismo-e-literatura-negra/literatura-norte-americana/entrevista---toni-morrison-e-os-negros-da-am-rica.md
+      - Nota sobre o livro *O Olho mais Azul* de Toni Morrison: racismo-e-literatura-negra/literatura-norte-americana/nota-sobre-o-livro-o-olho-mais-azul-de-toni-morris.md
+    - Literatura Africana:
+      - Literatura Africana: racismo-e-literatura-negra/literatura-africana/README.md
+      - A África em lendas e contos. Lembrando nossa História: racismo-e-literatura-negra/literatura-africana/a-frica-em-lendas-e-contos-lembrando-nossa-hist-ri.md
+      - A Negritude -- Transfiguração Poética do Rosto Africano: racismo-e-literatura-negra/literatura-africana/a-negritude----transfigura-o-po-tica-do-rosto-afri.md
+      - Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe.: racismo-e-literatura-negra/literatura-africana/angola-escreve-uma-arte-m-gica-e-sofrida-vinda-de-.md
+      - Angola Escreve. Alguns grandes autores do romance ao conto.: racismo-e-literatura-negra/literatura-africana/angola-escreve-alguns-grandes-autores-do-romance-a.md
+      - A África e a liberdade. Entrevista com Luandino Vieira: racismo-e-literatura-negra/literatura-africana/a-frica-e-a-liberdade-entrevista-com-luandino-viei.md
+      - Angola, num momento de reflexões e mudanças. Entrevista com o escritor angolano Agostinho Mendes: racismo-e-literatura-negra/literatura-africana/angola-num-momento-de-reflex-es-e-mudan-as-entrevi.md
+      - A última denúncia de Soromenho: racismo-e-literatura-negra/literatura-africana/a-ltima-den-ncia-de-soromenho.md
+      - Senghor, o Orfeu negro: racismo-e-literatura-negra/literatura-africana/senghor-o-orfeu-negro.md
+      - Resenha sobre *Poemas* de Senghor: racismo-e-literatura-negra/literatura-africana/resenha-sobre-poemas-de-senghor.md
+      - "A poesia não deve morrer. Senão, que esperança restaria ao mundo?": racismo-e-literatura-negra/literatura-africana/-a-poesia-n-o-deve-morrer-sen-o-que-esperan-a-rest.md
+      - Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução\...: racismo-e-literatura-negra/literatura-africana/seb-ne-ousmane-do-senegal-um-importante-momento-da.md
+      - A África, hoje. Em dois bons livros. LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi: racismo-e-literatura-negra/literatura-africana/a-frica-hoje-em-dois-bons-livros-lgr-comenta-as-ob.md
+      - O negro e a cultura de Moçambique não merecem romance tão ruim quanto este: racismo-e-literatura-negra/literatura-africana/o-negro-e-a-cultura-de-mo-ambique-n-o-merecem-roma.md
+      - Resenha do livro - *Um fuzil na mão um poema no bolso* de Emmanuel Dongala: racismo-e-literatura-negra/literatura-africana/resenha-do-livro---um-fuzil-na-m-o-um-poema-no-bol.md
+      - Um Nobel para a África - Wole Soyinka: racismo-e-literatura-negra/literatura-africana/um-nobel-para-a-frica---wole-soyinka.md
+      - Nota sobre o livro *A Arma da Casa* de Nadine Gordimer: racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordim.md
+      - Nota sobre o livro *Desonra* de J. M. Coetzee: racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-desonra-de-j-m-coetzee.md
   - Tags: tags.md
 
 
