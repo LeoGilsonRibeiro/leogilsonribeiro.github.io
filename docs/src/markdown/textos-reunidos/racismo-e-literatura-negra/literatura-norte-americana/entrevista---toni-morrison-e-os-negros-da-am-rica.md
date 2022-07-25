@@ -45,7 +45,7 @@ Ah, sim, os árabes parecem que partilham esse sentimento: não decididamente, o
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Entrevista - Toni Morrison e os negros da América". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1990/11/08. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/entrevista---toni-morrison-e-os-negros-da-am-rica  
+    RIBEIRO, Leo Gilson. "Entrevista - Toni Morrison e os negros da América". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/entrevista---toni-morrison-e-os-negros-da-am-rica](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/entrevista---toni-morrison-e-os-negros-da-am-rica). Publicação original: Jornal da Tarde, 1990/11/08.  
 
 === "BibTeX"
     ```latex  

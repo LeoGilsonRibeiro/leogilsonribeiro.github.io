@@ -37,7 +37,7 @@ Não: eu danço, portanto eu me irmano com o próximo, retruca a África alegre.
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. ""A poesia não deve morrer. Senão, que esperança restaria ao mundo?"". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1977/11/5. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/-a-poesia-n-o-deve-morrer-sen-o-que-esperan-a-rest  
+    RIBEIRO, Leo Gilson. ""A poesia não deve morrer. Senão, que esperança restaria ao mundo?"". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/-a-poesia-n-o-deve-morrer-sen-o-que-esperan-a-rest](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/-a-poesia-n-o-deve-morrer-sen-o-que-esperan-a-rest). Publicação original: Jornal da Tarde, 1977/11/5.  
 
 === "BibTeX"
     ```latex  

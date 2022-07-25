@@ -91,7 +91,7 @@ Até o coro que se ergue na prisão, paralelo ao sangue que se esvai:
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe.". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1981/07/04. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-uma-arte-m-gica-e-sofrida-vinda-de-  
+    RIBEIRO, Leo Gilson. "Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe.". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-uma-arte-m-gica-e-sofrida-vinda-de-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-uma-arte-m-gica-e-sofrida-vinda-de-). Publicação original: Jornal da Tarde, 1981/07/04.  
 
 === "BibTeX"
     ```latex  

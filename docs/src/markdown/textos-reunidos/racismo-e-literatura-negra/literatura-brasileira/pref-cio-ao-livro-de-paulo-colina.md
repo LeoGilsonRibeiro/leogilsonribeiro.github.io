@@ -62,7 +62,7 @@ Mais elevada e menos efêmera é esta poesia que começa da constatação da qua
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Prefácio ao livro de Paulo Colina". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: In _A noite não pede licença_, Roswitha Kempf Editores, 1987. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/pref-cio-ao-livro-de-paulo-colina  
+    RIBEIRO, Leo Gilson. "Prefácio ao livro de Paulo Colina". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/pref-cio-ao-livro-de-paulo-colina](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/pref-cio-ao-livro-de-paulo-colina). Publicação original: In _A noite não pede licença_, Roswitha Kempf Editores, 1987.  
 
 === "BibTeX"
     ```latex  

@@ -45,7 +45,7 @@ Mas editá-los sem censura?
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Angola, num momento de reflexões e mudanças. Entrevista com o escritor angolano Agostinho Mendes". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, Sem data. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-num-momento-de-reflex-es-e-mudan-as-entrevi  
+    RIBEIRO, Leo Gilson. "Angola, num momento de reflexões e mudanças. Entrevista com o escritor angolano Agostinho Mendes". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-num-momento-de-reflex-es-e-mudan-as-entrevi](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-num-momento-de-reflex-es-e-mudan-as-entrevi). Publicação original: Jornal da Tarde, Sem data.  
 
 === "BibTeX"
     ```latex  

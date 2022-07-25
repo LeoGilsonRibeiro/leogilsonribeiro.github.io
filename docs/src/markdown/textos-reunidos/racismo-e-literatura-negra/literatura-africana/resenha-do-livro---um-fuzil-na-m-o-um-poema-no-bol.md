@@ -39,7 +39,7 @@ A literatura não se faz apenas com "cor local e pitoresco". Nem, como Emmanuel 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Resenha do livro - *Um fuzil na mão um poema no bolso* de Emmanuel Dongala". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Veja, 1974/09/11. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-do-livro---um-fuzil-na-m-o-um-poema-no-bol  
+    RIBEIRO, Leo Gilson. "Resenha do livro - *Um fuzil na mão um poema no bolso* de Emmanuel Dongala". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-do-livro---um-fuzil-na-m-o-um-poema-no-bol](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-do-livro---um-fuzil-na-m-o-um-poema-no-bol). Publicação original: Veja, 1974/09/11.  
 
 === "BibTeX"
     ```latex  

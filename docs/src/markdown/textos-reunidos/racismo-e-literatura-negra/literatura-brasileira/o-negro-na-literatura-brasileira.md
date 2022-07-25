@@ -80,7 +80,7 @@ Estas anotações, na realidade, sinto-as como prematuras. Amanhã, tenho certez
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O negro na literatura brasileira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Anais do Seminários de Literatura brasileira, 1990. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-na-literatura-brasileira  
+    RIBEIRO, Leo Gilson. "O negro na literatura brasileira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-na-literatura-brasileira](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-na-literatura-brasileira). Publicação original: Anais do Seminários de Literatura brasileira, 1990.  
 
 === "BibTeX"
     ```latex  

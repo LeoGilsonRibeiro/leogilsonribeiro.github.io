@@ -59,7 +59,7 @@ O livro da brasileira testemunha similarmente uma crença absoluta na transcend�
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Christ und Welt, n.28, 1962/07/13. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/a-m-e-coragem-negra-de-canind-sobre-os-di-rios-de-  
+    RIBEIRO, Leo Gilson. "A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/a-m-e-coragem-negra-de-canind-sobre-os-di-rios-de-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/a-m-e-coragem-negra-de-canind-sobre-os-di-rios-de-). Publicação original: Christ und Welt, n.28, 1962/07/13.  
 
 === "BibTeX"
     ```latex  

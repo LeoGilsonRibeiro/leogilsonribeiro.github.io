@@ -39,7 +39,7 @@ Agora, James Baldwin forjou admiravelmente esta linguagem, que utiliza como uma 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Literatura negra nos Estados Unidos - James Baldwin". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Correio da Manhã, 1965/3/27. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/literatura-negra-nos-estados-unidos---james-baldwi  
+    RIBEIRO, Leo Gilson. "Literatura negra nos Estados Unidos - James Baldwin". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/literatura-negra-nos-estados-unidos---james-baldwi](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/literatura-negra-nos-estados-unidos---james-baldwi). Publicação original: Correio da Manhã, 1965/3/27.  
 
 === "BibTeX"
     ```latex  

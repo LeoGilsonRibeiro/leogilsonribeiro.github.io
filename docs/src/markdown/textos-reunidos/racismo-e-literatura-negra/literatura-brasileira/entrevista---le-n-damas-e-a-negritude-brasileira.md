@@ -34,7 +34,7 @@ Despedimo-nos do poeta artífice do movimento da *Négritude* enquanto ele se vo
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Entrevista - León Damas e a Negritude brasileira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Correio da Manhã, 1965/04/03. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/entrevista---le-n-damas-e-a-negritude-brasileira  
+    RIBEIRO, Leo Gilson. "Entrevista - León Damas e a Negritude brasileira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/entrevista---le-n-damas-e-a-negritude-brasileira](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/entrevista---le-n-damas-e-a-negritude-brasileira). Publicação original: Correio da Manhã, 1965/04/03.  
 
 === "BibTeX"
     ```latex  

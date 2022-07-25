@@ -37,7 +37,7 @@ E nesse *maelstrom* de ideias em conflito, o poeta, o artista, o escritor de ra�
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Racismo, ideologia, propostas. E o artista?". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1990/03/16. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/racismo-ideologia-propostas-e-o-artista-  
+    RIBEIRO, Leo Gilson. "Racismo, ideologia, propostas. E o artista?". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/racismo-ideologia-propostas-e-o-artista-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/racismo-ideologia-propostas-e-o-artista-). Publicação original: Jornal da Tarde, 1990/03/16.  
 
 === "BibTeX"
     ```latex  

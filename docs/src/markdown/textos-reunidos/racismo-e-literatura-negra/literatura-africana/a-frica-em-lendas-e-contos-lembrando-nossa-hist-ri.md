@@ -81,7 +81,7 @@ Mas no Brasil de hoje em que, nunca é demais repisar no assunto, como que uma m
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A África em lendas e contos. Lembrando nossa História". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1982/1/30. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-em-lendas-e-contos-lembrando-nossa-hist-ri  
+    RIBEIRO, Leo Gilson. "A África em lendas e contos. Lembrando nossa História". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-em-lendas-e-contos-lembrando-nossa-hist-ri](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-em-lendas-e-contos-lembrando-nossa-hist-ri). Publicação original: Jornal da Tarde, 1982/1/30.  
 
 === "BibTeX"
     ```latex  

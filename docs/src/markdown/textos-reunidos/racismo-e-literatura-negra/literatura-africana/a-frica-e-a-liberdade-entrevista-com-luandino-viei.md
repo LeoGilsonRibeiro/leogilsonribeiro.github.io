@@ -161,7 +161,7 @@ E as culturas autóctones estão sendo, então, preservadas?
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A África e a liberdade. Entrevista com Luandino Vieira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1987/01/03. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-e-a-liberdade-entrevista-com-luandino-viei  
+    RIBEIRO, Leo Gilson. "A África e a liberdade. Entrevista com Luandino Vieira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-e-a-liberdade-entrevista-com-luandino-viei](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-e-a-liberdade-entrevista-com-luandino-viei). Publicação original: Jornal da Tarde, 1987/01/03.  
 
 === "BibTeX"
     ```latex  

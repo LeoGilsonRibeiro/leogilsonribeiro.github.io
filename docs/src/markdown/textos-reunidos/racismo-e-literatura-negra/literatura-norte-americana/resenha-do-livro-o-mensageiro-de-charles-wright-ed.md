@@ -19,7 +19,7 @@ __Leo Gilson Ribeiro__ &nbsp;&nbsp;&nbsp; :octicons-calendar-24: 1969 &nbsp;&nbs
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Resenha do livro *O Mensageiro* de Charles Wright(Editora Nova Crítica, 1969) ". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1969. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/resenha-do-livro-o-mensageiro-de-charles-wright-ed  
+    RIBEIRO, Leo Gilson. "Resenha do livro *O Mensageiro* de Charles Wright(Editora Nova Crítica, 1969) ". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/resenha-do-livro-o-mensageiro-de-charles-wright-ed](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/resenha-do-livro-o-mensageiro-de-charles-wright-ed). Publicação original: Jornal da Tarde, 1969.  
 
 === "BibTeX"
     ```latex  

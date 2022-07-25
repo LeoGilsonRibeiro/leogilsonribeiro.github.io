@@ -124,7 +124,7 @@ O esplêndido escritor irlandês George Bernard Shaw exprimiu esse mesmo anseio 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Perfil da Literatura Negra". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Mostra Internacional de São Paulo, 1985/05/20-26. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/perfil-da-literatura-negra  
+    RIBEIRO, Leo Gilson. "Perfil da Literatura Negra". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/perfil-da-literatura-negra](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/perfil-da-literatura-negra). Publicação original: Mostra Internacional de São Paulo, 1985/05/20-26.  
 
 === "BibTeX"
     ```latex  

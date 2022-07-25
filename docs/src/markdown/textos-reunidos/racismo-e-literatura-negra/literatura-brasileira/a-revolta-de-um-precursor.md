@@ -25,7 +25,7 @@ Fugindo ao desfile das elegantes na Rua do Ouvirdor e a inauguração do cinema,
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A revolta de um precursor". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Veja, n.41, 1969/06. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/a-revolta-de-um-precursor  
+    RIBEIRO, Leo Gilson. "A revolta de um precursor". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/a-revolta-de-um-precursor](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/a-revolta-de-um-precursor). Publicação original: Veja, n.41, 1969/06.  
 
 === "BibTeX"
     ```latex  

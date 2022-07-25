@@ -21,7 +21,7 @@ Este livro, que levou 25 anos para ser publicado e foi recusado por todas as edi
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Nota sobre o livro *O Olho mais Azul* de Toni Morrison". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Caros Amigos, n.71, 2003/02. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/nota-sobre-o-livro-o-olho-mais-azul-de-toni-morris  
+    RIBEIRO, Leo Gilson. "Nota sobre o livro *O Olho mais Azul* de Toni Morrison". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/nota-sobre-o-livro-o-olho-mais-azul-de-toni-morris](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/nota-sobre-o-livro-o-olho-mais-azul-de-toni-morris). Publicação original: Caros Amigos, n.71, 2003/02.  
 
 === "BibTeX"
     ```latex  

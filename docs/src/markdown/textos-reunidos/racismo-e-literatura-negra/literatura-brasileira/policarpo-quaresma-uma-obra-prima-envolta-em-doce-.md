@@ -61,7 +61,7 @@ Será justa essa aferição da conclusão de Lima Barreto? É impossível determ
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Policarpo Quaresma, uma obra-prima envolta em doce amargura". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1983/4/9. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/policarpo-quaresma-uma-obra-prima-envolta-em-doce-  
+    RIBEIRO, Leo Gilson. "Policarpo Quaresma, uma obra-prima envolta em doce amargura". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/policarpo-quaresma-uma-obra-prima-envolta-em-doce-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/policarpo-quaresma-uma-obra-prima-envolta-em-doce-). Publicação original: Jornal da Tarde, 1983/4/9.  
 
 === "BibTeX"
     ```latex  

@@ -159,7 +159,7 @@ Como a literatura é por essência democrática, não caberia ao crítico mostra
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O negro nos livros, poemas e teses". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1982/12/25. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-nos-livros-poemas-e-teses  
+    RIBEIRO, Leo Gilson. "O negro nos livros, poemas e teses". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-nos-livros-poemas-e-teses](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-nos-livros-poemas-e-teses). Publicação original: Jornal da Tarde, 1982/12/25.  
 
 === "BibTeX"
     ```latex  

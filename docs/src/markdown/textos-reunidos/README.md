@@ -56,7 +56,7 @@ title: Textos reunidos
 
 
 === "ABNT"
-    PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_. 2022. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos  
+    PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_. 2022. URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos](https://github.com/bcdavasconcelos/lgr/textos-reunidos).  
 
 === "BibTeX"
     ```latex  

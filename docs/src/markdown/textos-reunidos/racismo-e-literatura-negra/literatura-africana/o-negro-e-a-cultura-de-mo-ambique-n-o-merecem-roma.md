@@ -43,7 +43,7 @@ Diante de um romance tão capenga quanto este, reminiscente de algum original gu
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O negro e a cultura de Moçambique não merecem romance tão ruim quanto este". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1982/02/27. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/o-negro-e-a-cultura-de-mo-ambique-n-o-merecem-roma  
+    RIBEIRO, Leo Gilson. "O negro e a cultura de Moçambique não merecem romance tão ruim quanto este". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/o-negro-e-a-cultura-de-mo-ambique-n-o-merecem-roma](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/o-negro-e-a-cultura-de-mo-ambique-n-o-merecem-roma). Publicação original: Jornal da Tarde, 1982/02/27.  
 
 === "BibTeX"
     ```latex  

@@ -129,7 +129,7 @@ Sem a contribuição original, livre de tutelas estrangeiras adiposas, a África
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Angola Escreve. Alguns grandes autores do romance ao conto.". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1981/08/04. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-alguns-grandes-autores-do-romance-a  
+    RIBEIRO, Leo Gilson. "Angola Escreve. Alguns grandes autores do romance ao conto.". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-alguns-grandes-autores-do-romance-a](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-alguns-grandes-autores-do-romance-a). Publicação original: Jornal da Tarde, 1981/08/04.  
 
 === "BibTeX"
     ```latex  

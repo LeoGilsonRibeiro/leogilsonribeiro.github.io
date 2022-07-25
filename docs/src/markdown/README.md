@@ -14,14 +14,13 @@ Para navegar pelo projeto, utilize a barra superior e a barra lateral à esquerd
 
 
 === "ABNT"
-    PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_. 2022. URL: https://github.com/bcdavasconcelos/lgr  
+    PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_. 2022. URL: [https://github.com/bcdavasconcelos/lgr](https://github.com/bcdavasconcelos/lgr).  
 
 === "BibTeX"
     ```latex  
     @book{,  
     editor = {Fernando Rey Puente},  
-    title = {markdown},  
-    booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
+    title = {Textos Reunidos de Leo Gilson Ribeiro},
     date = {2022},
     url = {https://github.com/bcdavasconcelos/lgr}
     }

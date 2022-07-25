@@ -40,7 +40,7 @@ Um sinal interessante e ao mesmo tempo triste de nossa memória cultural é que 
 
 
 === "ABNT"
-    PUENTE, Fernando Rey. "Racismo e literatura negra". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra  
+    PUENTE, Fernando Rey. "Racismo e literatura negra". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  
 
 === "BibTeX"
     ```latex  

@@ -23,7 +23,7 @@ Mas a poesia de Senghor não se restringe ao exótico. Suas "Elegias" ultrapassa
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Senghor, o Orfeu negro". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Veja, 1969/12/31. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/senghor-o-orfeu-negro  
+    RIBEIRO, Leo Gilson. "Senghor, o Orfeu negro". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/senghor-o-orfeu-negro](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/senghor-o-orfeu-negro). Publicação original: Veja, 1969/12/31.  
 
 === "BibTeX"
     ```latex  

@@ -74,7 +74,7 @@ Recusa-se a banalizar palavras como solidariedade ou povo, despejadas de qualque
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Paulo Colina - o poeta das cinzas". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Revista Goodyear, n.47, 1988. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/paulo-colina---o-poeta-das-cinzas  
+    RIBEIRO, Leo Gilson. "Paulo Colina - o poeta das cinzas". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/paulo-colina---o-poeta-das-cinzas](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/paulo-colina---o-poeta-das-cinzas). Publicação original: Revista Goodyear, n.47, 1988.  
 
 === "BibTeX"
     ```latex  

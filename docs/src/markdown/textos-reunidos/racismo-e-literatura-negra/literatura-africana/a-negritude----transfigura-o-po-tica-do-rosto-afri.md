@@ -135,7 +135,7 @@ Sobretudo, porém, essa consciência africana é fruto da reflexão do negro sob
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A Negritude -- Transfiguração Poética do Rosto Africano". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Correio da Manhã, 1964/12/20. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-negritude----transfigura-o-po-tica-do-rosto-afri  
+    RIBEIRO, Leo Gilson. "A Negritude -- Transfiguração Poética do Rosto Africano". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-negritude----transfigura-o-po-tica-do-rosto-afri](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-negritude----transfigura-o-po-tica-do-rosto-afri). Publicação original: Correio da Manhã, 1964/12/20.  
 
 === "BibTeX"
     ```latex  

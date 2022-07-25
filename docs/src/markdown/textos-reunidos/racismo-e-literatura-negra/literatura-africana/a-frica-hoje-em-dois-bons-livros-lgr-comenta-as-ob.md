@@ -55,7 +55,7 @@ A África tornou-se igual aos outros continentes? A extirpação da sua personal
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A África, hoje. Em dois bons livros. LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1983/05/28. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-hoje-em-dois-bons-livros-lgr-comenta-as-ob  
+    RIBEIRO, Leo Gilson. "A África, hoje. Em dois bons livros. LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-hoje-em-dois-bons-livros-lgr-comenta-as-ob](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-hoje-em-dois-bons-livros-lgr-comenta-as-ob). Publicação original: Jornal da Tarde, 1983/05/28.  
 
 === "BibTeX"
     ```latex  

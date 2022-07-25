@@ -25,7 +25,7 @@ Seus livros não trouxeram a revolução que ele esperava? O racismo continua vi
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A influência decisiva de Richard Wright". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1992*. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/a-influ-ncia-decisiva-de-richard-wright  
+    RIBEIRO, Leo Gilson. "A influência decisiva de Richard Wright". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/a-influ-ncia-decisiva-de-richard-wright](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/a-influ-ncia-decisiva-de-richard-wright). Publicação original: Jornal da Tarde, 1992*.  
 
 === "BibTeX"
     ```latex  

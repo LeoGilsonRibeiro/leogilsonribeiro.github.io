@@ -84,7 +84,7 @@ O contacto com esta raiz expressiva e com os exemplos vigorosos da poesia negra 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O Evangelho da Solidão de Eduardo de Oliveira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: O Estado de São Paulo, 1970/7/23. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-evangelho-da-solid-o-de-eduardo-de-oliveira  
+    RIBEIRO, Leo Gilson. "O Evangelho da Solidão de Eduardo de Oliveira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-evangelho-da-solid-o-de-eduardo-de-oliveira](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-evangelho-da-solid-o-de-eduardo-de-oliveira). Publicação original: O Estado de São Paulo, 1970/7/23.  
 
 === "BibTeX"
     ```latex  

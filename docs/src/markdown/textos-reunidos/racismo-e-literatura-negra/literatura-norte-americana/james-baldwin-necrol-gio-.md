@@ -53,7 +53,7 @@ Ou, exprimindo seu pensamento de outra maneira: as leis não *mudam* o coração
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "James Baldwin (necrológio)". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1987/12/2. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-necrol-gio-  
+    RIBEIRO, Leo Gilson. "James Baldwin (necrológio)". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-necrol-gio-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-necrol-gio-). Publicação original: Jornal da Tarde, 1987/12/2.  
 
 === "BibTeX"
     ```latex  

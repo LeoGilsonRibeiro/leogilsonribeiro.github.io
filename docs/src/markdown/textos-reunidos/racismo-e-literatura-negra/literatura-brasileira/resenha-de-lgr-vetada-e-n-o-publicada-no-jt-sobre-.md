@@ -85,7 +85,7 @@ As questões complexíssimas que *O Bom-Crioulo* suscita fazem deste livro uma r
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Resenha de LGR vetada e não publicada no *JT* sobre Adolfo Caminha". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Livro: O Bom Crioulo (Por ocasião da reedição de sua obra ), 1983. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/resenha-de-lgr-vetada-e-n-o-publicada-no-jt-sobre-  
+    RIBEIRO, Leo Gilson. "Resenha de LGR vetada e não publicada no *JT* sobre Adolfo Caminha". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/resenha-de-lgr-vetada-e-n-o-publicada-no-jt-sobre-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/resenha-de-lgr-vetada-e-n-o-publicada-no-jt-sobre-). Publicação original: Livro: O Bom Crioulo (Por ocasião da reedição de sua obra ), 1983.  
 
 === "BibTeX"
     ```latex  

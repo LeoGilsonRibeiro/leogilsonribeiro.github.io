@@ -23,7 +23,7 @@ Nadine Gordimer, sem exagero, desenha-se como uma Dostoiévski de nossos dias, b
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Nota sobre o livro *A Arma da Casa* de Nadine Gordimer". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Caros Amigos, n.39, 2000/06. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordim  
+    RIBEIRO, Leo Gilson. "Nota sobre o livro *A Arma da Casa* de Nadine Gordimer". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordim](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordim). Publicação original: Caros Amigos, n.39, 2000/06.  
 
 === "BibTeX"
     ```latex  

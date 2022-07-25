@@ -29,7 +29,7 @@ Estes senões são menores. O importante é o encontro do leitor brasileiro com 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Resenha sobre *Poemas* de Senghor". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1970/1/29. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-sobre-poemas-de-senghor  
+    RIBEIRO, Leo Gilson. "Resenha sobre *Poemas* de Senghor". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-sobre-poemas-de-senghor](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-sobre-poemas-de-senghor). Publicação original: Jornal da Tarde, 1970/1/29.  
 
 === "BibTeX"
     ```latex  

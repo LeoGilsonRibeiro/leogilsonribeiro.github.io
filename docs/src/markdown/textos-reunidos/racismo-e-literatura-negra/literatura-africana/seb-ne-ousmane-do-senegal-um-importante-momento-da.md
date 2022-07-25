@@ -55,7 +55,7 @@ Sembène Ousmane é o outro lado da África: sem fanatismos, sem despotismos, se
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução\...". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1984. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/seb-ne-ousmane-do-senegal-um-importante-momento-da  
+    RIBEIRO, Leo Gilson. "Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução\...". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/seb-ne-ousmane-do-senegal-um-importante-momento-da](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/seb-ne-ousmane-do-senegal-um-importante-momento-da). Publicação original: Jornal da Tarde, 1984.  
 
 === "BibTeX"
     ```latex  

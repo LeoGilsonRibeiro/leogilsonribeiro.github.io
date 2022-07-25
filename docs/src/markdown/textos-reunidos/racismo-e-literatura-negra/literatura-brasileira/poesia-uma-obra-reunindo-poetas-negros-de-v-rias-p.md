@@ -76,7 +76,7 @@ Com exceção de Abelardo Rodrigues e de Éle Semog, os demais poetas não apres
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Poesia. Uma obra reunindo poetas negros de várias épocas". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1986*. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/poesia-uma-obra-reunindo-poetas-negros-de-v-rias-p  
+    RIBEIRO, Leo Gilson. "Poesia. Uma obra reunindo poetas negros de várias épocas". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/poesia-uma-obra-reunindo-poetas-negros-de-v-rias-p](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/poesia-uma-obra-reunindo-poetas-negros-de-v-rias-p). Publicação original: Jornal da Tarde, 1986*.  
 
 === "BibTeX"
     ```latex  

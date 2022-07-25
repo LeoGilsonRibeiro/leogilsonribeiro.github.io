@@ -77,7 +77,7 @@ Vendo a existência humana com um estoicismo valente, incapaz de ater-se a uma f
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Lima Barreto - altamente inovador. E quase desconhecido.". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1981/5/9. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/lima-barreto---altamente-inovador-e-quase-desconhe  
+    RIBEIRO, Leo Gilson. "Lima Barreto - altamente inovador. E quase desconhecido.". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/lima-barreto---altamente-inovador-e-quase-desconhe](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/lima-barreto---altamente-inovador-e-quase-desconhe). Publicação original: Jornal da Tarde, 1981/5/9.  
 
 === "BibTeX"
     ```latex  

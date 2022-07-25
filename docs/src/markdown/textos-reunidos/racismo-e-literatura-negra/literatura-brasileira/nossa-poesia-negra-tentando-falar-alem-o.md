@@ -120,7 +120,7 @@ Houvesse mais vagar, não cometeríamos a injustiça de não focalizar outros po
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Nossa poesia negra, tentando falar alemão". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1990/03/17. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/nossa-poesia-negra-tentando-falar-alem-o  
+    RIBEIRO, Leo Gilson. "Nossa poesia negra, tentando falar alemão". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/nossa-poesia-negra-tentando-falar-alem-o](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/nossa-poesia-negra-tentando-falar-alem-o). Publicação original: Jornal da Tarde, 1990/03/17.  
 
 === "BibTeX"
     ```latex  

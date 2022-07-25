@@ -78,7 +78,7 @@ Tardiamente aboliu-se a escravidão: proclamou-se a República: mas a ignorânci
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O mulato Raimundo faz cem anos". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1981/5/23. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-mulato-raimundo-faz-cem-anos  
+    RIBEIRO, Leo Gilson. "O mulato Raimundo faz cem anos". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-mulato-raimundo-faz-cem-anos](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-mulato-raimundo-faz-cem-anos). Publicação original: Jornal da Tarde, 1981/5/23.  
 
 === "BibTeX"
     ```latex  

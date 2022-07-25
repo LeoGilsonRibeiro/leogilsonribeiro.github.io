@@ -58,7 +58,7 @@ Romance inicial de um dos poucos gênios da Literatura Brasileira que o descaso 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Lima Barreto - doce, feroz, iluminado. E esquecido.". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1984/04/14. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/lima-barreto---doce-feroz-iluminado-e-esquecido-  
+    RIBEIRO, Leo Gilson. "Lima Barreto - doce, feroz, iluminado. E esquecido.". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/lima-barreto---doce-feroz-iluminado-e-esquecido-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/lima-barreto---doce-feroz-iluminado-e-esquecido-). Publicação original: Jornal da Tarde, 1984/04/14.  
 
 === "BibTeX"
     ```latex  

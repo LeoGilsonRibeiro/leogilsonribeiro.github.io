@@ -61,7 +61,7 @@ Como para Castro Soromenho, será, como para a consciência do próprio homem, a
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A última denúncia de Soromenho". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1971/02/24. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-ltima-den-ncia-de-soromenho  
+    RIBEIRO, Leo Gilson. "A última denúncia de Soromenho". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-ltima-den-ncia-de-soromenho](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-ltima-den-ncia-de-soromenho). Publicação original: Jornal da Tarde, 1971/02/24.  
 
 === "BibTeX"
     ```latex  

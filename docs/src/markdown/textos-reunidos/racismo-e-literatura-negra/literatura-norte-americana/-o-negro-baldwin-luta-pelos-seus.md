@@ -19,7 +19,7 @@ __Leo Gilson Ribeiro__ &nbsp;&nbsp;&nbsp; :octicons-calendar-24: 1966/10/29 &nbs
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. " O negro Baldwin luta pelos seus". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1966/10/29. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/-o-negro-baldwin-luta-pelos-seus  
+    RIBEIRO, Leo Gilson. " O negro Baldwin luta pelos seus". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/-o-negro-baldwin-luta-pelos-seus](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/-o-negro-baldwin-luta-pelos-seus). Publicação original: Jornal da Tarde, 1966/10/29.  
 
 === "BibTeX"
     ```latex  

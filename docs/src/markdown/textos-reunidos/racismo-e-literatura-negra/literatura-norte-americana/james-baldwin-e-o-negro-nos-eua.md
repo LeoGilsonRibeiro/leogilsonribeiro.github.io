@@ -37,7 +37,7 @@ Seu impressionante documento pessoal e humano termina com um apelo aos negros e 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "James Baldwin e o negro nos EUA". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Correio da Manhã (Caminhos da cultura), 1965. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-e-o-negro-nos-eua  
+    RIBEIRO, Leo Gilson. "James Baldwin e o negro nos EUA". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-e-o-negro-nos-eua](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-e-o-negro-nos-eua). Publicação original: Correio da Manhã (Caminhos da cultura), 1965.  
 
 === "BibTeX"
     ```latex  

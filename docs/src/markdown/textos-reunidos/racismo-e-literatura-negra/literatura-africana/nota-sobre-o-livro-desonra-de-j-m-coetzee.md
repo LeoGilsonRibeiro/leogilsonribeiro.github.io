@@ -19,7 +19,7 @@ J. M. Coetzee é um narrador sul-africano como Nadine Gordimer e Doris Lessing r
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Nota sobre o livro *Desonra* de J. M. Coetzee". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Caros Amigos, n.46, 2001/01. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-desonra-de-j-m-coetzee  
+    RIBEIRO, Leo Gilson. "Nota sobre o livro *Desonra* de J. M. Coetzee". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-desonra-de-j-m-coetzee](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-desonra-de-j-m-coetzee). Publicação original: Caros Amigos, n.46, 2001/01.  
 
 === "BibTeX"
     ```latex  
