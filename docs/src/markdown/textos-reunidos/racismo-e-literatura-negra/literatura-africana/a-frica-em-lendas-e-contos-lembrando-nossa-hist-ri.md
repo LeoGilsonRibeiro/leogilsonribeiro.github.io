@@ -77,11 +77,11 @@ Quanto à religião, todas as tribos acreditam num ser supremo, sendo também im
 
 O livro, farto em ilustrações, relata mais algumas lendas tradicionais, belas e interessantes, justificando sua leitura até o capítulo final, dedicado aos povos Suailis: neste trecho cessa realmente o interesse por que a cultura africana se desfigura, mera copiadora dos preceitos árabes, impostos pela conversão religiosa forçada aos Islamismos e meramente repetem, sem nenhuma originalidade, preceitos e preconceitos do Corão, sufocando a autenticidade autóctone e tornando supérflua essa parte do livro, como seria inútil um relato bíblico "africanizado" por mentes colonizadas por premissas e metas inteiramente estranhas à mentalidade aborígene da África Negra.
 
-Mas no Brasil de hoje em que, nunca é demais repisar no assunto, como que uma muralha de silêncio se ergue entre a informação existente no mundo e que não chega, por meio de traduções, até nós, em qualquer campo, da ecologia à ideologia e à memória histórica, esse livrinho abre uma fresta minúscula sobre a herança africana e nos deixa entrever quanto de fecundante, para o Brasil que os trouxe, além-oceano, e deve grande parte de sua especificidade como nação, reconhecidamente, ao elemento africano que aqui se aclimatou e com outros segmentos étnicos criou uma cultura que, dia a dia, delineia-se como inconfundivelmente brasileira, fruto de miscigenação como talvez o exemplo único em todo o mundo contemporâneo.
+Mas no Brasil de hoje em que, nunca é demais repisar no assunto, como que uma muralha de silêncio se ergue entre a informação existente no mundo e que não chega, por meio de traduções, até nós, em qualquer campo, da ecologia à ideologia e à memória histórica, esse livrinho abre uma fresta minúscula sobre a herança africana e nos deixa entrever quanto de fecundante, para o Brasil que os trouxe, além-oceano, e deve grande parte de sua especificidade como nação, reconhecidamente, ao elemento africano que aqui se aclimatou e com outros segmentos étnicos criou uma cultura que, dia a dia, delineia-se como inconfundivelmente brasileira, fruto de miscigenação como talvez o exemplo único em todo o mundo contemporâneo.  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A África em lendas e contos. Lembrando nossa História" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1982/1/30. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-em-lendas-e-contos-lembrando-nossa-hist-ri  
+    RIBEIRO, Leo Gilson. "A África em lendas e contos. Lembrando nossa História". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1982/1/30. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-em-lendas-e-contos-lembrando-nossa-hist-ri  
 
 === "BibTeX"
     ```latex  
@@ -90,7 +90,7 @@ Mas no Brasil de hoje em que, nunca é demais repisar no assunto, como que uma m
     editor = {Fernando Rey Puente},  
     title = {A África em lendas e contos. Lembrando nossa História},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Jornal da Tarde},  
     origdate = {1982/1/30},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-em-lendas-e-contos-lembrando-nossa-hist-ri}

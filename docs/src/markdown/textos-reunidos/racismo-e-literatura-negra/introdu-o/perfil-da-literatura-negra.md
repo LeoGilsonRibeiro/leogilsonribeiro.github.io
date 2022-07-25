@@ -53,14 +53,14 @@ Poeta, ao contrário de Dubois, que fundou a Associação para a Defesa das Pess
 
 Essa reação do negro transplantado para outros países se divide em vertentes diferentes, naturalmente. De um lado, há os que anseiam por voltar à África, à aldeia tribal, ao ambiente primevo dos avós e bisavós: em sua busca de readquirir uma identidade perdida. De outro, a aceitação consciente de que "agora somos parte integrante e inalienável do mosaico das Américas". Esta aceitação de seu americanismo -- afinal há mais ou menos 400 anos os negros aculturados no Novo Mundo são dos mais antigos e básicos "americanos", do Sul, do Centro ou do Norte da América -- não deixa de ter uma subdivisão amarga, cheia de ódio e ironia, em que se emprega a mais ácida ironia contra o branco opressor. Demonstra essa reação um dos poetas brasileiros mais talentosos dentre os que Paulo Clina judiciosamente coligiu em sua pioneira coletânea de poetas negros brasileiros contemporâneos, denominada *Axé*, pela qual lutei denodadamente e com razão na reunião da Associação Paulista de Críticos de Arte que lhe atribuiu um prêmio justíssimo e até então outorgado somente a autores brancos ou mestiços. O poeta Cuti exemplifica essa atitude em seu poema intitulado "Palavra":
 
-> Palavra
-> Que sai da violência, do sarcasmo
-> Dos bêbados felizes
-> Deitados na rede da ilusão dum Brasil branco
-> Arrotando a vergonha-sobremesa do nosso olho
-> Hesitante em olhar para trás
-> Dos partidários de Rui Barbosa hoje
-> Na queima da "mancha negra da escravidão"
+> Palavra  
+> Que sai da violência, do sarcasmo  
+> Dos bêbados felizes  
+> Deitados na rede da ilusão dum Brasil branco  
+> Arrotando a vergonha-sobremesa do nosso olho  
+> Hesitante em olhar para trás  
+> Dos partidários de Rui Barbosa hoje  
+> Na queima da "mancha negra da escravidão"  
 > Do esquecimento das feridas que escorrem pus
 > Na carne de milhões de brasileiros
 > Nós
@@ -120,11 +120,11 @@ O esplêndido escritor irlandês George Bernard Shaw exprimiu esse mesmo anseio 
 
 > "Você vê como estão as coisas e diz: Por quê? Mas eu sonho com coisas que nunca existiram e então eu digo: Por que não?"
 
-É o sonho visionário da grande alma de Martin Luther King exclamando: "*I have a dream*!" ("Eu tenho um sonho!"): o sonho da justiça, da liberdade, do respeito mútuo, da pacífica e fecunda convivência de todos os seres humanos no mundo: não é chegado o momento de começarmos a realizar concretamente o que sonhamos?
+É o sonho visionário da grande alma de Martin Luther King exclamando: "*I have a dream*!" ("Eu tenho um sonho!"): o sonho da justiça, da liberdade, do respeito mútuo, da pacífica e fecunda convivência de todos os seres humanos no mundo: não é chegado o momento de começarmos a realizar concretamente o que sonhamos?  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Perfil da Literatura Negra" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Mostra Internacional de São Paulo, 1985/05/20-26. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/perfil-da-literatura-negra  
+    RIBEIRO, Leo Gilson. "Perfil da Literatura Negra". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Mostra Internacional de São Paulo, 1985/05/20-26. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/perfil-da-literatura-negra  
 
 === "BibTeX"
     ```latex  
@@ -133,7 +133,7 @@ O esplêndido escritor irlandês George Bernard Shaw exprimiu esse mesmo anseio 
     editor = {Fernando Rey Puente},  
     title = {Perfil da Literatura Negra},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Mostra Internacional de São Paulo},  
     origdate = {1985/05/20-26},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/perfil-da-literatura-negra}

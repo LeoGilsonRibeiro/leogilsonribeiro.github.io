@@ -10,19 +10,19 @@ title: markdown
 
 **Textos transcritos, reunidos e organizados por Fernando Rey Puente.**
 
-Para navegar pelo projeto, utilize a barra superior e a barra lateral à esquerda. Para navegar pelo texto em exibição, utilize a barra lateral direita. Para alternar entre os modos de exibição claro e escuro, clique no ícone no cabeçalho. Pressione `/`   para iniciar uma *busca textual* ou utilize o sistema de *tags*.
+Para navegar pelo projeto, utilize a barra superior e a barra lateral à esquerda. Para navegar pelo texto em exibição, utilize a barra lateral direita. Para alternar entre os modos de exibição claro e escuro, clique no ícone no cabeçalho. Pressione `/`   para iniciar uma *busca textual* ou utilize o sistema de *tags*.  
 
 
 === "ABNT"
-    PUENTE, Fernando Rey "markdown" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. URL: https://github.com/bcdavasconcelos/lgr  
+    PUENTE, Fernando Rey (org.). Textos Reunidos de Leo Gilson Ribeiro. 2022. URL: https://github.com/bcdavasconcelos/lgr  
 
 === "BibTeX"
     ```latex  
-    @incollection{,  
+    @book{,  
     editor = {Fernando Rey Puente},  
     title = {markdown},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     url = {https://github.com/bcdavasconcelos/lgr}
     }
     ```

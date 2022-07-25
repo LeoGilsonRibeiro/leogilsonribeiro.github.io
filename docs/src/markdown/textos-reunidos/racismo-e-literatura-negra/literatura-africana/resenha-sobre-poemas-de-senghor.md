@@ -25,11 +25,11 @@ O tom majestoso e solene de suas elegias não exclui uma referência aos fados d
 
 Poeta lírico do amor, poeta religioso que mescla o latim ritual da missa com os dialetos e instrumentos musicais africanos, poeta social que transforma o ódio dos negros contra os racistas numa profunda meditação filosófica sobre a condição humana ou no espírito de paz e boa vontade do Natal, Senghor não perde sua vitalidade nem mesmo nesta tradução um pouco prosaica e sem voo poético feita agora no Brasil. Afinal, seria preciso ser poeta para traduzir bem um grande poeta. O leitor porém apreciaria ter explicações ao pé da página de termos africanos abundantes e que são citados sem qualquer esclarecimento: *Kor-Sanou*! *Paragnessês*. *Bayetê Babá*! *Bayetê ó Zoulou*! *KhalamI. Balafong* -- o que significam exatamente? São lugares? Invocações? Instrumentos?
 
-Estes senões são menores. O importante é o encontro do leitor brasileiro com um dos grandes poetas do século. Senghor, como em sua própria "Oração às Máscaras", sem saber, definiu exemplarmente a majestosa contribuição que sua poesia trouxe à renovação poética mundial: "Que respondemos 'presente' ao renascer do Mundo/ Qual fermento necessário à farinha branca./ Pois quem ensinaria o ritmo ao falecido mundo das máquinas e dos canhões? Quem daria o grito de alegria para despertar mortos e órfãos à aurora?/ Dizei, quem poderia restituir a memória da vida ao homem desesperançado?\... Somos os homens da dança, cujos pés se revigoram ferindo o rude chão".
+Estes senões são menores. O importante é o encontro do leitor brasileiro com um dos grandes poetas do século. Senghor, como em sua própria "Oração às Máscaras", sem saber, definiu exemplarmente a majestosa contribuição que sua poesia trouxe à renovação poética mundial: "Que respondemos 'presente' ao renascer do Mundo/ Qual fermento necessário à farinha branca./ Pois quem ensinaria o ritmo ao falecido mundo das máquinas e dos canhões? Quem daria o grito de alegria para despertar mortos e órfãos à aurora?/ Dizei, quem poderia restituir a memória da vida ao homem desesperançado?\... Somos os homens da dança, cujos pés se revigoram ferindo o rude chão".  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Resenha sobre *Poemas* de Senghor" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1970/1/29. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-sobre-poemas-de-senghor  
+    RIBEIRO, Leo Gilson. "Resenha sobre *Poemas* de Senghor". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1970/1/29. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-sobre-poemas-de-senghor  
 
 === "BibTeX"
     ```latex  
@@ -38,7 +38,7 @@ Estes senões são menores. O importante é o encontro do leitor brasileiro com 
     editor = {Fernando Rey Puente},  
     title = {Resenha sobre *Poemas* de Senghor},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Jornal da Tarde},  
     origdate = {1970/1/29},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-sobre-poemas-de-senghor}

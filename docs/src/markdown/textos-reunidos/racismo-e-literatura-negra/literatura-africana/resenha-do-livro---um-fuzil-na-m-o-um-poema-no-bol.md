@@ -35,11 +35,11 @@ E por que não revelar em primeira mão o esplêndido e original poeta congolês
 
 Opondo às armas reais as do escritor, as palavras que denunciam, o sul-africano Alan Paton com seu dilacerante *Cry, the Beloved Country!* constituiriam ainda um roteiro seguro para quem quiser seguir as trilhas da África fora das rotas da importação do folclórico ou "exótico".
 
-A literatura não se faz apenas com "cor local e pitoresco". Nem, como Emmanuel Dongala prova tão claramente, com um fuzil na mão e um poema no bolso. Principalmente se a pólvora estiver molhada de lacrimejante sentimentalismo e o poema se perdeu num bolso furado.
+A literatura não se faz apenas com "cor local e pitoresco". Nem, como Emmanuel Dongala prova tão claramente, com um fuzil na mão e um poema no bolso. Principalmente se a pólvora estiver molhada de lacrimejante sentimentalismo e o poema se perdeu num bolso furado.  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Resenha do livro - *Um fuzil na mão um poema no bolso* de Emmanuel Dongala" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Veja, 1974/09/11. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-do-livro---um-fuzil-na-m-o-um-poema-no-bol  
+    RIBEIRO, Leo Gilson. "Resenha do livro - *Um fuzil na mão um poema no bolso* de Emmanuel Dongala". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Veja, 1974/09/11. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-do-livro---um-fuzil-na-m-o-um-poema-no-bol  
 
 === "BibTeX"
     ```latex  
@@ -48,7 +48,7 @@ A literatura não se faz apenas com "cor local e pitoresco". Nem, como Emmanuel 
     editor = {Fernando Rey Puente},  
     title = {Resenha do livro - *Um fuzil na mão um poema no bolso* de Emmanuel Dongala},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Veja},  
     origdate = {1974/09/11},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-do-livro---um-fuzil-na-m-o-um-poema-no-bol}

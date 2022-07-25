@@ -33,11 +33,11 @@ A veemência de James Baldwin não é menor absolutamente com relação ao resse
 >
 > "Como pode alguém respeitar, muito menos adotar, os valores de um povo que não vive, em nenhuma forma imaginável, de maneira que diz ou da maneira que afirma deveria viver? Não posso aceitar a declaração de que o labor intenso do negro americano durante quatrocentos anos deve resultar meramente na sua integração no nível atual da civilização americana. Estou longe de deixar-me persuadir de que valeu a pena terem-me liberado do curandeiro africano se agora -- a fim de apoiar minhas contradições morais e a aridez espiritual da minha vida -- eu tenho que me tornar dependente do psiquiatra americano. É uma troca que recuso absolutamente".
 
-Seu impressionante documento pessoal e humano termina com um apelo aos negros e aos brancos "relativamente conscientes". É tarefa desses elementos lúcidos da sociedade americana despertar a consciência dos demais e cumprirem juntos o dever inadiável de por a termo ao "pesadelo racial", coo o denomina Baldwin, e mudar o curso dos acontecimentos nos Estados Unidos e no mundo. Se não ousarmos tudo para atingir esse objetivo de inspiração bíblica contida na canção do escravo que cantava: "Deus deu a Noé o sinal do arco-íris: Chega de água, da próxima vez: fogo!"
+Seu impressionante documento pessoal e humano termina com um apelo aos negros e aos brancos "relativamente conscientes". É tarefa desses elementos lúcidos da sociedade americana despertar a consciência dos demais e cumprirem juntos o dever inadiável de por a termo ao "pesadelo racial", coo o denomina Baldwin, e mudar o curso dos acontecimentos nos Estados Unidos e no mundo. Se não ousarmos tudo para atingir esse objetivo de inspiração bíblica contida na canção do escravo que cantava: "Deus deu a Noé o sinal do arco-íris: Chega de água, da próxima vez: fogo!"  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "James Baldwin e o negro nos EUA" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Correio da Manhã (Caminhos da cultura), 1965. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-e-o-negro-nos-eua  
+    RIBEIRO, Leo Gilson. "James Baldwin e o negro nos EUA". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Correio da Manhã (Caminhos da cultura), 1965. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-e-o-negro-nos-eua  
 
 === "BibTeX"
     ```latex  
@@ -46,7 +46,7 @@ Seu impressionante documento pessoal e humano termina com um apelo aos negros e 
     editor = {Fernando Rey Puente},  
     title = {James Baldwin e o negro nos EUA},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Correio da Manhã (Caminhos da cultura)},  
     origdate = {1965},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-e-o-negro-nos-eua}

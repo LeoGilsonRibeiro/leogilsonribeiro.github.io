@@ -51,11 +51,11 @@ Não, sublinhe-se bem que Chinua Achebe seja um saudosista de um Èden inexisten
 
 Já em *Gente da Cidade*, Cyprian Ekwensi avocará para si a tarefa de retratar a Nigéria de hoje, com seu tumulto urbano, sua transição repentina de um estágio cultural para a proletarização citadina, para a burocratização e uniformização das metrópoles do século XX. A violentação das sociedades africanas é também, sem nenhuma metáfora, a destruição de suas estruturas éticas, a perda de sua identidade psíquica. É tarde, agora, porém, parece concluir Ekwensi: seus personagens são repórteres, músicos, moças que vendem sua beleza exótica a brancos milionários, favelados vindos de Gana ou do Alto Volta todos indistintos naquele caldeirão governamental de Lagos, a capital e seu burburinho cacofônico.
 
-A África tornou-se igual aos outros continentes? A extirpação da sua personalidade foi total? Não parece ser a resposta de autores tão diferentes e, no entanto, semelhantes em sua visão da Nigéria atual: a África milenar sutilmente se insinua em meio a uma civilização que lhe é antípoda e nela reconstrói o lado positivo da herança africana -- a doçura, a humanidade, o riso, o abandono do relógio de ponto em prol de uma cooperação comunitária cheia de solidariedade e reconquistada alegria. Apesar dos preconceitos e da opressão, a África vive.
+A África tornou-se igual aos outros continentes? A extirpação da sua personalidade foi total? Não parece ser a resposta de autores tão diferentes e, no entanto, semelhantes em sua visão da Nigéria atual: a África milenar sutilmente se insinua em meio a uma civilização que lhe é antípoda e nela reconstrói o lado positivo da herança africana -- a doçura, a humanidade, o riso, o abandono do relógio de ponto em prol de uma cooperação comunitária cheia de solidariedade e reconquistada alegria. Apesar dos preconceitos e da opressão, a África vive.  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A África, hoje. Em dois bons livros. LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1983/05/28. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-hoje-em-dois-bons-livros-lgr-comenta-as-ob  
+    RIBEIRO, Leo Gilson. "A África, hoje. Em dois bons livros. LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1983/05/28. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-hoje-em-dois-bons-livros-lgr-comenta-as-ob  
 
 === "BibTeX"
     ```latex  
@@ -64,7 +64,7 @@ A África tornou-se igual aos outros continentes? A extirpação da sua personal
     editor = {Fernando Rey Puente},  
     title = {A África, hoje. Em dois bons livros. LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Jornal da Tarde},  
     origdate = {1983/05/28},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-hoje-em-dois-bons-livros-lgr-comenta-as-ob}

@@ -12,19 +12,5 @@ title: Introdução
 | Título | Veículo | Data |
 |-------| ---------|------|
 | Racismo, ideologia, propostas. E o artista? | _Jornal da Tarde_ | 1990/03/16 |
-| Perfil da Literatura Negra | _Mostra Internacional de São Paulo_ | 1985/05/20-26 |
+| Perfil da Literatura Negra | _Mostra Internacional de São Paulo_ | 1985/05/20-26 |  
 
-
-=== "ABNT"
-    PUENTE, Fernando Rey "Introdução" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o  
-
-=== "BibTeX"
-    ```latex  
-    @incollection{,  
-    editor = {Fernando Rey Puente},  
-    title = {Introdução},  
-    booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
-    url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o}
-    }
-    ```

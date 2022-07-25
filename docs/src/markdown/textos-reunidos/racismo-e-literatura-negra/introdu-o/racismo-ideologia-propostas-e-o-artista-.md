@@ -33,11 +33,11 @@ Sobra então o que deve soar como uma blasfêmia aos ouvidos dos militares e de 
 
 Um intelectual russo de grande renome, Afanasyev, argumenta *a favor* da liquidação da Nação-Estado soviética que é também um Império de mais de 100 nacionalidades diferentes: será, crê, uma forma de solucionar os entrechoques étnicos e impedir o colapso e o caos da "Desunião Soviética".
 
-E nesse *maelstrom* de ideias em conflito, o poeta, o artista, o escritor de raça negra e dos dois sexos: que devem fazer?
+E nesse *maelstrom* de ideias em conflito, o poeta, o artista, o escritor de raça negra e dos dois sexos: que devem fazer?  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Racismo, ideologia, propostas. E o artista?" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1990/03/16. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/racismo-ideologia-propostas-e-o-artista-  
+    RIBEIRO, Leo Gilson. "Racismo, ideologia, propostas. E o artista?". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1990/03/16. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/racismo-ideologia-propostas-e-o-artista-  
 
 === "BibTeX"
     ```latex  
@@ -46,7 +46,7 @@ E nesse *maelstrom* de ideias em conflito, o poeta, o artista, o escritor de ra�
     editor = {Fernando Rey Puente},  
     title = {Racismo, ideologia, propostas. E o artista?},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Jornal da Tarde},  
     origdate = {1990/03/16},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/racismo-ideologia-propostas-e-o-artista-}

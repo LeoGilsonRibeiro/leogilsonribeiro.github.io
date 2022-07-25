@@ -81,11 +81,11 @@ Em futuras edições dessa pequena obra-prima, a Editora Ática deveria proceder
 
 As questões complexíssimas que *O Bom-Crioulo* suscita fazem deste livro uma ruptura, na literatura brasileira, entre o antigo e o moderno. Caminha não faz preleções, não "moraliza" no sentido estreito que as digníssimas e zelosas Senhoras da Lapa dão a esse termo. Quer dizer: não permanece indiferente ao tradicionalismo das ideias feitas e nunca questionadas. O autor cearense está fundamentalmente empenhado com a Ética, cético à "moral" imposta segundo os ditames variáveis de uma época ou de um período histórico e social. À saia baião não se sucederam o biquini, o *topless* e a pílula anticoncepcional? Ao processo e encarceramento de Oscar Wilde não sobrevieram a adoção de leis liberais e a conscientização do *Gay Movement* em vários países? A Lei Afonso Arinos não penaliza, pelo menos juridicamente, a discriminação racial?
 
-É singular, por último, como mero fecho destas anotações sucintas sobre uma de nossas obras-primas, destacar: o autor *não se exime* de formular uma pergunta muito mais importante do que as indagações sobre a libido, a sexualidade permitida ou não e até mesmo capaz de ultrapassar a injustiça que circunda a crueldade e a estupidez do racismo. Qual deve ser o procedimento ético, humano, de um ser humano para com o outro?
+É singular, por último, como mero fecho destas anotações sucintas sobre uma de nossas obras-primas, destacar: o autor *não se exime* de formular uma pergunta muito mais importante do que as indagações sobre a libido, a sexualidade permitida ou não e até mesmo capaz de ultrapassar a injustiça que circunda a crueldade e a estupidez do racismo. Qual deve ser o procedimento ético, humano, de um ser humano para com o outro?  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Resenha de LGR vetada e não publicada no *JT* sobre Adolfo Caminha" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Livro: O Bom Crioulo (Por ocasião da reedição de sua obra ), 1983. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/resenha-de-lgr-vetada-e-n-o-publicada-no-jt-sobre-  
+    RIBEIRO, Leo Gilson. "Resenha de LGR vetada e não publicada no *JT* sobre Adolfo Caminha". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Livro: O Bom Crioulo (Por ocasião da reedição de sua obra ), 1983. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/resenha-de-lgr-vetada-e-n-o-publicada-no-jt-sobre-  
 
 === "BibTeX"
     ```latex  
@@ -94,7 +94,7 @@ As questões complexíssimas que *O Bom-Crioulo* suscita fazem deste livro uma r
     editor = {Fernando Rey Puente},  
     title = {Resenha de LGR vetada e não publicada no *JT* sobre Adolfo Caminha},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Livro: O Bom Crioulo (Por ocasião da reedição de sua obra )},  
     origdate = {1983},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/resenha-de-lgr-vetada-e-n-o-publicada-no-jt-sobre-}

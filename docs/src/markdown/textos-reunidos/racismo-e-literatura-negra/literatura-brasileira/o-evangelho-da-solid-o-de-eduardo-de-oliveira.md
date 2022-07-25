@@ -80,11 +80,11 @@ Mas uma força que adquiri um ritmo e uma expressão próprias, quando o poeta n
 > belos sonhos
 > com soluços de noites e pedaços do meu povo."
 
-O contacto com esta raiz expressiva e com os exemplos vigorosos da poesia negra -- de Langston Hughes aos poetas contemporâneos do Congo -- poderá trazer uma diretriz certa às suas hesitações poéticas, tornando-o uma expressão inédita da nossa poesia virgem -- a da negritude brasileira original.
+O contacto com esta raiz expressiva e com os exemplos vigorosos da poesia negra -- de Langston Hughes aos poetas contemporâneos do Congo -- poderá trazer uma diretriz certa às suas hesitações poéticas, tornando-o uma expressão inédita da nossa poesia virgem -- a da negritude brasileira original.  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O Evangelho da Solidão de Eduardo de Oliveira" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: O Estado de São Paulo, 1970/7/23. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-evangelho-da-solid-o-de-eduardo-de-oliveira  
+    RIBEIRO, Leo Gilson. "O Evangelho da Solidão de Eduardo de Oliveira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: O Estado de São Paulo, 1970/7/23. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-evangelho-da-solid-o-de-eduardo-de-oliveira  
 
 === "BibTeX"
     ```latex  
@@ -93,7 +93,7 @@ O contacto com esta raiz expressiva e com os exemplos vigorosos da poesia negra 
     editor = {Fernando Rey Puente},  
     title = {O Evangelho da Solidão de Eduardo de Oliveira},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {O Estado de São Paulo},  
     origdate = {1970/7/23},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-evangelho-da-solid-o-de-eduardo-de-oliveira}

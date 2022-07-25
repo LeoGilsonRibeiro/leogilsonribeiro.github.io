@@ -45,11 +45,11 @@ Um momento de rara distensão de Wole Soyinka, pouco inclinado a brincadeiras, m
 
 Se Virgínia Woolf, assustadoramente, perguntava: "Para que viver?" o autor nigeriano perscruta o porquê da arte, se é que ela tem uma função específica. Numa época em que as liberdades de imprensa, de expressão, de dissenção estendem um arco macabro do Chile a Vladivostock, na União Soviética, na era dos Gulags, das 41 guerras contemporâneas, das ditaduras da África, na Ásia, na Europa do Leste, na América Latina, deve ter ressoado fortemente na consciência da Academia Sueca de Literatura o testemunho de um intelectual que escreve da prisão um dos relatos mais comovedores em prol de uma coerência ética que não se dobra diante de regimes despóticos.
 
-Da prisão Wole Soyinka estabeleceu um princípio que antes dele todos os prisioneiros de consciência do mundo reafirmaram com a própria vida: não pode haver uma sociedade livre se a liberdade for extinta por um decreto governamental apoiado no poder de fogo das armas, de Manágua a Varsóvia. Deve ter sido este inabalável princípio ético de todos os tempos que levou o Prêmio Nobel a distinguir, este ano, afortunadamente, o nome íntegro e fecundo de Wole Soyinka.
+Da prisão Wole Soyinka estabeleceu um princípio que antes dele todos os prisioneiros de consciência do mundo reafirmaram com a própria vida: não pode haver uma sociedade livre se a liberdade for extinta por um decreto governamental apoiado no poder de fogo das armas, de Manágua a Varsóvia. Deve ter sido este inabalável princípio ético de todos os tempos que levou o Prêmio Nobel a distinguir, este ano, afortunadamente, o nome íntegro e fecundo de Wole Soyinka.  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Um Nobel para a África - Wole Soyinka" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1986/10/17. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/um-nobel-para-a-frica---wole-soyinka  
+    RIBEIRO, Leo Gilson. "Um Nobel para a África - Wole Soyinka". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1986/10/17. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/um-nobel-para-a-frica---wole-soyinka  
 
 === "BibTeX"
     ```latex  
@@ -58,7 +58,7 @@ Da prisão Wole Soyinka estabeleceu um princípio que antes dele todos os prisio
     editor = {Fernando Rey Puente},  
     title = {Um Nobel para a África - Wole Soyinka},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Jornal da Tarde},  
     origdate = {1986/10/17},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/um-nobel-para-a-frica---wole-soyinka}

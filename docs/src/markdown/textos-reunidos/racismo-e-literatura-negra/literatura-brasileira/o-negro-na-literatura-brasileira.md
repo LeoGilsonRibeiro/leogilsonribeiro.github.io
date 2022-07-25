@@ -76,11 +76,11 @@ Já Lima Barreto teria um destino bastante mais trágico. Não só a miséria e 
 
 > "É preciso não carregar a pele como um fardo"
 
-Estas anotações, na realidade, sinto-as como prematuras. Amanhã, tenho certeza, o negro fará parte decisiva da Literatura Brasileira. Trará à criação nacional toda a brandura e sabedoria que falta aos rígidos gêneros dos brancos desprovidos de fantasia, darão facetas novas da literatura que não se enquadram no museu de formol da literatura cartesiana europeia, natimorta hoje. Afinal é da África, é da América Latina mestiça que nos vêm hoje as vozes mais importantes da metamorfose que Mallarmé queria: "da vida estuante na sua complexidade quase indecifrável de um poema, de um romance, a vida vista pelo prisma de um indivíduo e transformada naquele material de criação humana perene: o livro". Seja qual for a sua cor e a sua origem, o negro, quem sabe, será amanhã a inovação indispensável e especificamente negra para a Literatura Brasileira e deixará de ser, de certa forma, sinônima com ela. Quem sabe o negro será amanhã a própria Literatura Brasileira, em sua parte decisiva. Assim seja.
+Estas anotações, na realidade, sinto-as como prematuras. Amanhã, tenho certeza, o negro fará parte decisiva da Literatura Brasileira. Trará à criação nacional toda a brandura e sabedoria que falta aos rígidos gêneros dos brancos desprovidos de fantasia, darão facetas novas da literatura que não se enquadram no museu de formol da literatura cartesiana europeia, natimorta hoje. Afinal é da África, é da América Latina mestiça que nos vêm hoje as vozes mais importantes da metamorfose que Mallarmé queria: "da vida estuante na sua complexidade quase indecifrável de um poema, de um romance, a vida vista pelo prisma de um indivíduo e transformada naquele material de criação humana perene: o livro". Seja qual for a sua cor e a sua origem, o negro, quem sabe, será amanhã a inovação indispensável e especificamente negra para a Literatura Brasileira e deixará de ser, de certa forma, sinônima com ela. Quem sabe o negro será amanhã a própria Literatura Brasileira, em sua parte decisiva. Assim seja.  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O negro na literatura brasileira" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Anais do Seminários de Literatura brasileira, 1990. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-na-literatura-brasileira  
+    RIBEIRO, Leo Gilson. "O negro na literatura brasileira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Anais do Seminários de Literatura brasileira, 1990. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-na-literatura-brasileira  
 
 === "BibTeX"
     ```latex  
@@ -89,7 +89,7 @@ Estas anotações, na realidade, sinto-as como prematuras. Amanhã, tenho certez
     editor = {Fernando Rey Puente},  
     title = {O negro na literatura brasileira},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Anais do Seminários de Literatura brasileira},  
     origdate = {1990},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-na-literatura-brasileira}

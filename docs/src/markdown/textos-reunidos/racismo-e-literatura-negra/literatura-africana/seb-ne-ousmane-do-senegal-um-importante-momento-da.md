@@ -51,11 +51,11 @@ Da literatura africana de hoje é que se pode esperar aquele renascimento que a 
 
 Da literatura africana é que nos virão temas novos, a libertação do jugo do materialismo politizado, dela virá o despertar de um humanismo contagiante, desvinculado tanto do relógio de ponto da linha de montagem quanto de utopias de ditaduras de classes ou de partidos únicos.
 
-Sembène Ousmane é o outro lado da África: sem fanatismos, sem despotismos, sem terrorismos, sem obsessão pela epiderme. Ele lança um olhar penetrante, convincente sobre os seus semelhantes e não duvida da criação consciente de um mundo melhor. Um mundo sem usurpadores, mesmo quando estes empunham as bandeiras mais falsamente "democráticas" e "igualitárias" que podem desfraldar. A literatura africana claramente comprova, se for necessário comprovar o óbvio, que a literatura é o território mais livre, mais democrático, menos maleável pela propaganda -- comercial ou política -- de todas as atividades criativas do ser humano. Desta liberdade ela deriva a sua perenidade e a sua solidariedade com todos os seres humanos da Terra: ela é que acena com o verdadeiro e abrangente humanismo redescoberto.
+Sembène Ousmane é o outro lado da África: sem fanatismos, sem despotismos, sem terrorismos, sem obsessão pela epiderme. Ele lança um olhar penetrante, convincente sobre os seus semelhantes e não duvida da criação consciente de um mundo melhor. Um mundo sem usurpadores, mesmo quando estes empunham as bandeiras mais falsamente "democráticas" e "igualitárias" que podem desfraldar. A literatura africana claramente comprova, se for necessário comprovar o óbvio, que a literatura é o território mais livre, mais democrático, menos maleável pela propaganda -- comercial ou política -- de todas as atividades criativas do ser humano. Desta liberdade ela deriva a sua perenidade e a sua solidariedade com todos os seres humanos da Terra: ela é que acena com o verdadeiro e abrangente humanismo redescoberto.  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução\..." In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1984. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/seb-ne-ousmane-do-senegal-um-importante-momento-da  
+    RIBEIRO, Leo Gilson. "Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução\...". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1984. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/seb-ne-ousmane-do-senegal-um-importante-momento-da  
 
 === "BibTeX"
     ```latex  
@@ -64,7 +64,7 @@ Sembène Ousmane é o outro lado da África: sem fanatismos, sem despotismos, se
     editor = {Fernando Rey Puente},  
     title = {Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução\...},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Jornal da Tarde},  
     origdate = {1984},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/seb-ne-ousmane-do-senegal-um-importante-momento-da}

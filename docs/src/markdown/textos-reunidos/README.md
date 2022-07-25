@@ -52,18 +52,18 @@ title: Textos reunidos
 | Resenha do livro - *Um fuzil na mão um poema no bolso* de Emmanuel Dongala | _Veja_ | 1974/09/11 |
 | Um Nobel para a África - Wole Soyinka | _Jornal da Tarde_ | 1986/10/17 |
 | Nota sobre o livro *A Arma da Casa* de Nadine Gordimer | _Caros Amigos_ | 2000/06 |
-| Nota sobre o livro *Desonra* de J. M. Coetzee | _Caros Amigos_ | 2001/01 |
+| Nota sobre o livro *Desonra* de J. M. Coetzee | _Caros Amigos_ | 2001/01 |  
 
 
 === "ABNT"
-    PUENTE, Fernando Rey (org.) Textos Reunidos de Leo Gilson Ribeiro. 2022. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos  
+    PUENTE, Fernando Rey (org.). Textos Reunidos de Leo Gilson Ribeiro. 2022. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos  
 
 === "BibTeX"
     ```latex  
     @book{Puente2022a,  
     editor = {Fernando Rey Puente},  
     title = {Textos Reunidos de Leo Gilson Ribeiro},
-    year = {2022},
+    date = {2022},
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos}
     }
     ```

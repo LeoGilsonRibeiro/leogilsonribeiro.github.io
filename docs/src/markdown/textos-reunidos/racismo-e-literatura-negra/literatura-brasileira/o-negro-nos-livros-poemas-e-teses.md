@@ -155,11 +155,11 @@ Com tanta imbecilidade disposta como o diagrama da própria estultice, o rapaz/h
 
 Esta antologia não teria desculpas que pedir por incluir alguns nomes que ombreiam com os maiores criadores de *kitsch*, pois no Brasil, afinal, o *kitsch* serve até para eleger à Câmara dos Deputados, em Brasília, o "poeta" J. G. de Araújo Jorge, fora outras manifestações Certezabsurdônika que galgaram, através do voto, o Planalto ou até mesmo a Assembleia diante do Parque Ibirapuera, nas últimas eleições.
 
-Como a literatura é por essência democrática, não caberia ao crítico mostrar-se didático, complacente nem intolerante para com esses poetas desiguais no talento e na obtenção de suas metas poéticas. No entanto, o que se constata, visivelmente, é que uma parte decisiva da população brasileira, a que tem uma origem étnica africana, dia a dia desfaz os chavões que, como esparadrapos amorfos, são colocados no negro como futebolista, carnavalista, garanhão erótico, temperamento infantil, quando não malandro, assaltante e quimbandista. Essa antologia comprova que, se há, certamente, uma temática negra no vasto repertório da poesia brasileira -- e em alguns casos, parece-me, da melhor qualidade - , ela, inexoravelmente, se funde com a população de outras etnias, na luta por um avanço efetivo da Massa de todo o povo brasileiro, na qual está fundida, inevitavelmente, seu segmento negro. Não esmorecer diante do muro dos preconceitos, da prepotência, da injustiça e da ignorância, insuflar à fisionomia do Brasil o traço que mais caracteriza a raça negra: a dignidade. Atualizar os livros que omitem sua participação decisiva na construção deste país, atingir níveis altos de educação e manter os valores ancestrais de sua cultura. Haverá ideal que mais se coadune com os brasileiros de origem africana?
+Como a literatura é por essência democrática, não caberia ao crítico mostrar-se didático, complacente nem intolerante para com esses poetas desiguais no talento e na obtenção de suas metas poéticas. No entanto, o que se constata, visivelmente, é que uma parte decisiva da população brasileira, a que tem uma origem étnica africana, dia a dia desfaz os chavões que, como esparadrapos amorfos, são colocados no negro como futebolista, carnavalista, garanhão erótico, temperamento infantil, quando não malandro, assaltante e quimbandista. Essa antologia comprova que, se há, certamente, uma temática negra no vasto repertório da poesia brasileira -- e em alguns casos, parece-me, da melhor qualidade - , ela, inexoravelmente, se funde com a população de outras etnias, na luta por um avanço efetivo da Massa de todo o povo brasileiro, na qual está fundida, inevitavelmente, seu segmento negro. Não esmorecer diante do muro dos preconceitos, da prepotência, da injustiça e da ignorância, insuflar à fisionomia do Brasil o traço que mais caracteriza a raça negra: a dignidade. Atualizar os livros que omitem sua participação decisiva na construção deste país, atingir níveis altos de educação e manter os valores ancestrais de sua cultura. Haverá ideal que mais se coadune com os brasileiros de origem africana?  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O negro nos livros, poemas e teses" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1982/12/25. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-nos-livros-poemas-e-teses  
+    RIBEIRO, Leo Gilson. "O negro nos livros, poemas e teses". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1982/12/25. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-nos-livros-poemas-e-teses  
 
 === "BibTeX"
     ```latex  
@@ -168,7 +168,7 @@ Como a literatura é por essência democrática, não caberia ao crítico mostra
     editor = {Fernando Rey Puente},  
     title = {O negro nos livros, poemas e teses},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Jornal da Tarde},  
     origdate = {1982/12/25},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-nos-livros-poemas-e-teses}

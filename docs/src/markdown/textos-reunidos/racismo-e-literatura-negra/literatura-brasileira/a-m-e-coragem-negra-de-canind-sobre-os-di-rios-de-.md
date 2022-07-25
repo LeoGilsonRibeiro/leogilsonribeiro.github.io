@@ -55,11 +55,11 @@ Carolina Maria de Jesus é uma autêntica representante do povo brasileiro: o am
 
 Talvez nós encontremos o sentido profundo de seu documento à miséria humana, modesto e quase analfabeto, em uma surpreendente analogia com a obra de Kafka - naturalmente em outro nível do dizer literário. Não apenas na célebre citação de Kafka: "Eu escrevi assim, porque eu vi a vida assim!" se fundamenta essa inesperada afinidade. Também na semelhança da temática por eles tratada se baseia a aproximação entre ambos habitantes solitários de guetos sociais e culturais: é a descrição do medo e da angústia. Sem dúvida, a cronista da favela se ocupa de um medo físico por sua sobrevivência biológica, enquanto o criador do inalcançável "castelo" sentia angústia metafísica. Nas suas confissões Carolina escreve: "Há pessoas que desesperam da vida e somente pensam na morte como solução. Eu me defendo sempre contra isso na medida em que eu escrevo o meu diário." Como um eco distante soam as palavras de Kafka: "No ato de escrever há uma consolação especial, enigmática, talvez perigosa, talvez salvadora\... Talvez a literatura leve à oração\..."
 
-O livro da brasileira testemunha similarmente uma crença absoluta na transcendência da palavra, na sua força de mudar o mundo circundante, como ela muito concretamente deveria vivenciar. Como um *negro spiritual* esse livro amargo contém ao lado de tanta tristeza uma faísca de consolação quando Carolina afirma que: "O ser humano não nasce despido - veste-o a esperança."
+O livro da brasileira testemunha similarmente uma crença absoluta na transcendência da palavra, na sua força de mudar o mundo circundante, como ela muito concretamente deveria vivenciar. Como um *negro spiritual* esse livro amargo contém ao lado de tanta tristeza uma faísca de consolação quando Carolina afirma que: "O ser humano não nasce despido - veste-o a esperança."  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Christ und Welt, n.28, 1962/07/13. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/a-m-e-coragem-negra-de-canind-sobre-os-di-rios-de-  
+    RIBEIRO, Leo Gilson. "A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Christ und Welt, n.28, 1962/07/13. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/a-m-e-coragem-negra-de-canind-sobre-os-di-rios-de-  
 
 === "BibTeX"
     ```latex  
@@ -68,7 +68,7 @@ O livro da brasileira testemunha similarmente uma crença absoluta na transcend�
     editor = {Fernando Rey Puente},  
     title = {A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Christ und Welt},  
     orignumber = {28},  
     origdate = {1962/07/13},  

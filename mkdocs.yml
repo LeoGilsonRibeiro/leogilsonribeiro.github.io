@@ -13,17 +13,15 @@ theme:
   font:
     text: Alegreya
     code: Inconsolata
-  favicon:
+  favicon: 
   icon:
     logo: material/book-open-page-variant
     repo: fontawesome/brands/git-alt
   palette:
-    # Palette toggle for light mode
     - scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    # Palette toggle for dark mode
     - scheme: slate
       toggle:
         icon: material/brightness-4
@@ -54,9 +52,6 @@ plugins:
 
 markdown_extensions:
   - markdown.extensions.abbr:
-  - markdown.extensions.admonition:
-  - markdown.extensions.attr_list:
-  - markdown.extensions.def_list:
   - markdown.extensions.footnotes:
   - markdown.extensions.md_in_html:
   - markdown.extensions.smarty:
@@ -65,11 +60,7 @@ markdown_extensions:
   - markdown.extensions.toc:
       slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
       permalink: ""
-  - pymdownx.arithmatex:
-      generic: true
-      block_tag: 'pre'
   - pymdownx.betterem:
-  - pymdownx.caret:
   - pymdownx.details:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
@@ -77,27 +68,6 @@ markdown_extensions:
   - pymdownx.escapeall:
       hardbreak: True
       nbsp: True
-  - pymdownx.highlight:
-      anchor_linenums: true
-      extend_pygments_lang:
-        - name: php-inline
-          lang: php
-          options:
-            startinline: true
-        - name: pycon3
-          lang: pycon
-          options:
-            python3: true
-      linenums_style: pymdownx-inline
-  - pymdownx.inlinehilite:
-      custom_inline:
-        - name: math
-          class: arithmatex
-          format: !!python/object/apply:pymdownx.arithmatex.arithmatex_inline_format {kwds: {mode: generic}}
-  - pymdownx.keys:
-      separator: "\uff0b"
-  - pymdownx.mark:
-  - pymdownx.progressbar:
   - pymdownx.saneheaders:
   - pymdownx.smartsymbols:
   - pymdownx.striphtml:
@@ -113,9 +83,6 @@ markdown_extensions:
           format: !!python/object/apply:pymdownx.arithmatex.arithmatex_fenced_format {kwds: {mode: generic, tag: pre}}
   - pymdownx.tabbed:
       alternate_style: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde:
 
 nav:
   - Textos reunidos:
@@ -179,6 +146,8 @@ nav:
   - Tags: tags.md
 
 
+extra_css:
+  - 
 
 extra_javascript:
   - assets/js/tablesort.js

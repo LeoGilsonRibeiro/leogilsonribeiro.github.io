@@ -19,11 +19,11 @@ Há muitos anos não leio um livro tão perfeito: *A Arma da Casa*, da magistral
 
 E atualmente? A mestria da autora permite-lhe visualizar todos os personagens sob vários pontos de vista: o crime cometido -- inesperadamente -- numa família branca, de tendência liberal, detona o romance inteiro. Os pais do jovem assassino são uma caricatura do "bom comportamento" dos brancos depois da nova bandeira, da mudança radical havida no país? O advogado negro, imbuído de idealismo, será aceito, mesmo sendo *gay*?
 
-Nadine Gordimer, sem exagero, desenha-se como uma Dostoiévski de nossos dias, buscando as raízes do crime, do preconceito, do sofrimento, não na aparência da mudança política e cultural de uma sociedade, mas como efeito de uma origem remota, entranhada na própria alma humana desde tempos da pedra lascada. Se não fosse uma aposta precipitada, eu diria, eu afirmaria que este é o livro do ano, que comprássemos apenas este para sentir as palpitações do mundo da Bósnia, dos terremotos no Japão, das guerrilhas em Serra Leoa, do Líbano e também do Brasil, que ainda busca seu rumo, distante da política, da corrupção, do racismo, do desleixo governamental, da parte podre -- mas não toda -- do Brasil que caminha estonteado em meio à ruína de seus problemas e do caos mundial. Um livro eletrizante que demonstra, cabalmente, que a literatura não só está viva, como se põe à frente de todas as tecnologias que a desafiam como consciência mais funda do ser humano trilhando um novo milênio.
+Nadine Gordimer, sem exagero, desenha-se como uma Dostoiévski de nossos dias, buscando as raízes do crime, do preconceito, do sofrimento, não na aparência da mudança política e cultural de uma sociedade, mas como efeito de uma origem remota, entranhada na própria alma humana desde tempos da pedra lascada. Se não fosse uma aposta precipitada, eu diria, eu afirmaria que este é o livro do ano, que comprássemos apenas este para sentir as palpitações do mundo da Bósnia, dos terremotos no Japão, das guerrilhas em Serra Leoa, do Líbano e também do Brasil, que ainda busca seu rumo, distante da política, da corrupção, do racismo, do desleixo governamental, da parte podre -- mas não toda -- do Brasil que caminha estonteado em meio à ruína de seus problemas e do caos mundial. Um livro eletrizante que demonstra, cabalmente, que a literatura não só está viva, como se põe à frente de todas as tecnologias que a desafiam como consciência mais funda do ser humano trilhando um novo milênio.  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Nota sobre o livro *A Arma da Casa* de Nadine Gordimer" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Caros Amigos, n.39, 2000/06. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordim  
+    RIBEIRO, Leo Gilson. "Nota sobre o livro *A Arma da Casa* de Nadine Gordimer". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Caros Amigos, n.39, 2000/06. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordim  
 
 === "BibTeX"
     ```latex  
@@ -32,7 +32,7 @@ Nadine Gordimer, sem exagero, desenha-se como uma Dostoiévski de nossos dias, b
     editor = {Fernando Rey Puente},  
     title = {Nota sobre o livro *A Arma da Casa* de Nadine Gordimer},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Caros Amigos},  
     orignumber = {39},  
     origdate = {2000/06},  

@@ -49,11 +49,11 @@ A sua solidão foi a de um eterno marginal que, ao contrário de Jean Genet, a q
 
 A celebridade, ele parece dizer, é a miséria presente que será festejada pela geração vindoura, como os quadros de Van Gogh disputados hoje a milhões de dólares, depois que seu atormentado e magnífico autor morreu, anônimo, paupérrimo, um suicida a mais em um remoto asilo de loucos.
 
-Ou, exprimindo seu pensamento de outra maneira: as leis não *mudam* o coração dos homens. Será que a biogenética conseguirá dotar o homem moderno de um coração sem ódio?
+Ou, exprimindo seu pensamento de outra maneira: as leis não *mudam* o coração dos homens. Será que a biogenética conseguirá dotar o homem moderno de um coração sem ódio?  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "James Baldwin (necrológio)" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1987/12/2. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-necrol-gio-  
+    RIBEIRO, Leo Gilson. "James Baldwin (necrológio)". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1987/12/2. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-necrol-gio-  
 
 === "BibTeX"
     ```latex  
@@ -62,7 +62,7 @@ Ou, exprimindo seu pensamento de outra maneira: as leis não *mudam* o coração
     editor = {Fernando Rey Puente},  
     title = {James Baldwin (necrológio)},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Jornal da Tarde},  
     origdate = {1987/12/2},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-necrol-gio-}

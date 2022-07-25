@@ -1,0 +1,127 @@
+
+.md-typeset h1 {
+  font-weight:700;
+  margin:0 0 0.25em;
+}
+
+.md-typeset h2 {
+  font-weight:600
+}
+
+.md-typeset h3,
+.md-typeset h4 {
+  font-weight:500
+}
+
+/*
+.md-typeset {
+  font-size: .85rem;
+  font-weight: 400
+}
+ */
+
+/*
+a:hover {
+  text-decoration: underline
+}
+ */
+
+/*
+p a:hover {
+  color: var(--md-default-bg-color)!important;
+  background-color: var(--md-primary-fg-color);
+}
+ */
+
+.md-typeset .admonition.inboundlinks,
+.md-typeset details.inboundlinks {
+  border-color: var(--md-default-bg-color)!important;
+  padding: 0!important;
+  box-shadow: none!important;
+    text-align: right;
+}
+.md-typeset .inboundlinks > .admonition-title,
+.md-typeset .inboundlinks > summary {
+  background-color: var(--md-default-bg-color)!important;
+  text-align: right;
+  margin-right: 1em;
+  padding-right: 3em!important;
+}
+.md-typeset .inboundlinks > .admonition-title::before,
+.md-typeset .inboundlinks > summary::before {
+  background-color: var(--md-default-bg-color)!important;
+  -webkit-mask-image: var(--md-admonition-icon--inboundlinks);
+          mask-image: var(--md-admonition-icon--inboundlinks);
+}
+
+
+.references csl-bib-body,
+#refs {
+padding-top: 2em;
+word-wrap: normal;
+padding-bottom:2em;
+}
+
+
+.csl-entry > a::before {
+content: "🖇";
+padding-left: 5px;
+font-size: 1rem;
+}
+
+.csl-entry > a {
+font-size: 0em;
+text-decoration: none
+}
+
+
+
+
+/* Sidenote counter */
+body {
+    counter-reset: sidenote-counter;
+}
+.sidenote-number {
+    counter-increment: sidenote-counter;
+}
+/* Counter before the sidenote in the margin. */
+.sidenote::before {
+    content: counter(sidenote-counter)".";
+    position: relative;
+    vertical-align: baseline;
+    font-size: 0.9em;
+    font-weight: bold;
+}
+/* Counter in the main body. */
+.sidenote-number::after {
+    content: counter(sidenote-counter);
+    vertical-align: super;
+    font-size: 0.7em;
+    font-weight: bold;
+    margin-right: 0.5rem;
+}
+
+@media (min-width: 1400px) {
+    /* Highlight the sidenote when mouse hovers on the sidenote number in body. */
+    .sidenote-number:hover .sidenote {
+        background-color: yellow;
+    }
+}
+
+.sidenote {
+    font-size: 80%;
+    position: relative;
+}
+/* Wide viewport */
+@media (min-width: 1400px) {
+    .sidenote {
+        float: right;
+        clear: right;
+        margin-right: -23vw;
+        text-align: left;
+
+        top: -3rem;
+        width: 20vw;
+        margin-top: 1rem;
+    }
+}

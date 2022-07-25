@@ -26,19 +26,5 @@ title: Literatura Brasileira
 | Nossa poesia negra, tentando falar alemão | _Jornal da Tarde_ | 1990/03/17 |
 | O Evangelho da Solidão de Eduardo de Oliveira | _O Estado de São Paulo_ | 1970/7/23 |
 | Prefácio ao livro de Paulo Colina | _In _A noite não pede licença_, Roswitha Kempf Editores_ | 1987 |
-| Paulo Colina - o poeta das cinzas | _Revista Goodyear_ | 1988 |
+| Paulo Colina - o poeta das cinzas | _Revista Goodyear_ | 1988 |  
 
-
-=== "ABNT"
-    PUENTE, Fernando Rey "Literatura Brasileira" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira  
-
-=== "BibTeX"
-    ```latex  
-    @incollection{,  
-    editor = {Fernando Rey Puente},  
-    title = {Literatura Brasileira},  
-    booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
-    url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira}
-    }
-    ```

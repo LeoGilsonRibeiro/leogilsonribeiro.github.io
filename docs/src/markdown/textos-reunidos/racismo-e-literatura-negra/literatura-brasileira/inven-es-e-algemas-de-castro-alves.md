@@ -29,11 +29,11 @@ Cultuado nas palavras do poeta senegalês Léopold Senghor como "o poeta dos con
 
 Mas, se a perspectiva do presente emagrece seu perfil qualitativo, aumenta a importância de suas inovações. Castro Alves não hesita em chocar os ouvidos afinados por uma gramática e uma paisagem rigidamente importadas de Portugal. Utiliza a contração "pra" em vez de "para" e integra uma geografia brasileira em versos que falam de "picadas" na floresta, "gerais" e "capinzais" -- embora se limite a só ver borboletas azuis forçado pela rima e cego à variedade de colorido de nossa fauna. Nessa descrição intimista de estados da natureza -- alegria, melancolia, morte, esperança -- que refletem as emoções humanas diante da paisagem, ele cria pequenas joias de perfeita adequação de linguagem onomatopaica e frescor inventivo: "Em músico estalo rangia o coqueiro", ou "a surdina da tarde ao sol, que morre lento", entre dezenas de outros achados à procura de um garimpador paciente.
 
-Ao formular sua poesia social -- em parte deslocada no tempo, pois alude ao tráfico negreiro abolido quase vinte anos antes de seu nascimento -- ele se aproximaria da definição de poesia que Shelley formulou: "O poeta é o desconhecido legislador da humanidade". Seus versos aceleraram a proclamação da lei de 13 de Maio e apressaram indiretamente a proclamação da República por sua arrebatadora comunicabilidade popular. No continente americano, só Whitman teria, em sua época, um impacto e uma grandeza democrática tão profundos.
+Ao formular sua poesia social -- em parte deslocada no tempo, pois alude ao tráfico negreiro abolido quase vinte anos antes de seu nascimento -- ele se aproximaria da definição de poesia que Shelley formulou: "O poeta é o desconhecido legislador da humanidade". Seus versos aceleraram a proclamação da lei de 13 de Maio e apressaram indiretamente a proclamação da República por sua arrebatadora comunicabilidade popular. No continente americano, só Whitman teria, em sua época, um impacto e uma grandeza democrática tão profundos.  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Invenções e algemas de Castro Alves" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Veja, 1971/07/14. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/inven-es-e-algemas-de-castro-alves  
+    RIBEIRO, Leo Gilson. "Invenções e algemas de Castro Alves". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Veja, 1971/07/14. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/inven-es-e-algemas-de-castro-alves  
 
 === "BibTeX"
     ```latex  
@@ -42,7 +42,7 @@ Ao formular sua poesia social -- em parte deslocada no tempo, pois alude ao trá
     editor = {Fernando Rey Puente},  
     title = {Invenções e algemas de Castro Alves},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Veja},  
     origdate = {1971/07/14},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/inven-es-e-algemas-de-castro-alves}

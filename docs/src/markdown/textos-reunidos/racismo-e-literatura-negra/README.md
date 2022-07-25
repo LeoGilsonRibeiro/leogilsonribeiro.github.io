@@ -36,11 +36,11 @@ Percebe-se da leitura atenta desses textos, evidentemente circunstanciais como s
 
 Outro aspecto que chama a atenção e que evidencia a formação acadêmica do autor é seu pendor comparativista. Em diversos artigos, escritores e escritoras de outras literaturas são mencionados para podermos pensar melhor determinados aspectos da obra de um autor ou autora que está sob análise. Deste modo, mas sem perder a singularidade de cada artista ou sem deixar de acentuar a imensa dificuldade hermenêutica de mergulhar em outros universos literários distantes do ocidental, Leo Gilson Ribeiro procura sempre inserir uma escritora ou um escritor em um universo literário mais amplo e com isso, obviamente, somos nós, leitores de seus textos - notas, resenhas, perfis ou entrevistas - que ganhamos novas intuições e pistas que poderão - caso alguém se dê ao trabalho de segui-las e de se aprofundar nelas -- de nos levar a descobrir novos horizontes literários, bem como novas áreas de pesquisa em literatura comparada.
 
-Um sinal interessante e ao mesmo tempo triste de nossa memória cultural é que muitos dos livros comentados por Leo Gilson Ribeiro de autores africanos, e que mais recentemente foram reeditados ou traduzidos pela primeira vez, infelizmente, não fazem nenhuma menção ao nosso crítico em suas respectivas introduções. Por outro lado, muitos autores por ele citados, ainda continuam inéditos esperando alguma editora que os disponibilize em boas traduções para o público ledor brasileiro.
+Um sinal interessante e ao mesmo tempo triste de nossa memória cultural é que muitos dos livros comentados por Leo Gilson Ribeiro de autores africanos, e que mais recentemente foram reeditados ou traduzidos pela primeira vez, infelizmente, não fazem nenhuma menção ao nosso crítico em suas respectivas introduções. Por outro lado, muitos autores por ele citados, ainda continuam inéditos esperando alguma editora que os disponibilize em boas traduções para o público ledor brasileiro.  
 
 
 === "ABNT"
-    PUENTE, Fernando Rey "Racismo e literatura negra" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra  
+    PUENTE, Fernando Rey. "Racismo e literatura negra". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra  
 
 === "BibTeX"
     ```latex  
@@ -49,7 +49,7 @@ Um sinal interessante e ao mesmo tempo triste de nossa memória cultural é que 
     editor = {Fernando Rey Puente},  
     title = {Racismo e literatura negra},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra}
     }
     ```

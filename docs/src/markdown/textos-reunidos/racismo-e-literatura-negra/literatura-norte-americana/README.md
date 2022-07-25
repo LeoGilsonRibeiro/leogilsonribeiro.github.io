@@ -18,19 +18,5 @@ title: Literatura Norte-americana
 | Resenha do livro *O Mensageiro* de Charles Wright(Editora Nova Crítica, 1969)  | _Jornal da Tarde_ | 1969 |
 | A influência decisiva de Richard Wright | _Jornal da Tarde_ | 1992* |
 | Entrevista - Toni Morrison e os negros da América | _Jornal da Tarde_ | 1990/11/08 |
-| Nota sobre o livro *O Olho mais Azul* de Toni Morrison | _Caros Amigos_ | 2003/02 |
+| Nota sobre o livro *O Olho mais Azul* de Toni Morrison | _Caros Amigos_ | 2003/02 |  
 
-
-=== "ABNT"
-    PUENTE, Fernando Rey "Literatura Norte-americana" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana  
-
-=== "BibTeX"
-    ```latex  
-    @incollection{,  
-    editor = {Fernando Rey Puente},  
-    title = {Literatura Norte-americana},  
-    booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
-    url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana}
-    }
-    ```

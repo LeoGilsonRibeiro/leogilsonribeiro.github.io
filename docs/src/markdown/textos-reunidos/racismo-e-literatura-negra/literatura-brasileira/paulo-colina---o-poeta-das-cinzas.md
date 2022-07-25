@@ -70,11 +70,11 @@ Sem se deixar rotular de pessimista, ele vê o ser humano ainda em um estado mui
 
 As vocações de Paulo Colina e James Baldwin coincidem em sua relutância em limitar seus escritos a ensaios anti-racistas como *Da Próxima Vez, Fogo!* ou a fazer uma poesia panfletária, obcecada apenas por um tema: "A visão que se tem de dentro do gueto negro, eu digo sempre, é uma visão menor da realidade, que é múltipla e muda rapidissimamente. Não posso bater só nessa tecla: sou negro. Gosto de ser negro. Amo minhas raízes africanas. Não sou um disco quebrado. Quem for escrever, negro ou branco, tem que ter uma única coisa indispensável: talento. No 'movimento negro' temos de tudo. Há negros bajuladores de Maluf, do Jânio e, antigamente, do Adhemar de Barros. Dedicam livros babosos aos poderosos e querem usar sua subliteratura rastejante para subir socialmente. Basta de o negro eternamente 'morder o granito' das estátuas que povoam as praças das cidades brasileiras." Seu é o sonho de Martin Luther King transportado para o Brasil: o de um dia haver uma efetiva democracia brasileira, quando a cor da pele do indivíduo não pesar mais na avaliação do seu valor, do seu caráter, da sua dignidade: "Será que estou sonhando alto demais?"
 
-Recusa-se a banalizar palavras como solidariedade ou povo, despejadas de qualquer palanque político e toda a propaganda governamental. Afinal, sua poesia e sua ação social estão longe dos desfiles do "reinado de Momo". Estão fincadas firmemente na realidade da Quarta-Feira de Cinzas, "de olhos bem abertos e sentidos alerta".
+Recusa-se a banalizar palavras como solidariedade ou povo, despejadas de qualquer palanque político e toda a propaganda governamental. Afinal, sua poesia e sua ação social estão longe dos desfiles do "reinado de Momo". Estão fincadas firmemente na realidade da Quarta-Feira de Cinzas, "de olhos bem abertos e sentidos alerta".  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Paulo Colina - o poeta das cinzas" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Revista Goodyear, n.47, 1988. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/paulo-colina---o-poeta-das-cinzas  
+    RIBEIRO, Leo Gilson. "Paulo Colina - o poeta das cinzas". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Revista Goodyear, n.47, 1988. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/paulo-colina---o-poeta-das-cinzas  
 
 === "BibTeX"
     ```latex  
@@ -83,7 +83,7 @@ Recusa-se a banalizar palavras como solidariedade ou povo, despejadas de qualque
     editor = {Fernando Rey Puente},  
     title = {Paulo Colina - o poeta das cinzas},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Revista Goodyear},  
     orignumber = {47},  
     origdate = {1988},  

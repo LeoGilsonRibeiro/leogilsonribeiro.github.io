@@ -41,11 +41,11 @@ Além da tarefa de alfabetizar o povo, com as mulheres que se apresentam como pr
 
 Mas editá-los sem censura?
 
-> "Nós não temos censura, cada escritor escreve seu livro como crê e cria. Só não admitimos é uma literatura imoral, pornográfica, porque isso de nada serve para uma sociedade nova: isso, sim, é proibido, só se alguns indivíduos quiserem trazer material desse tipo em livros e videocassetes, não impedimos. Veja: Portugal, ou melhor, seu regime, durante muito tempo proibiu que falássemos em manifestações públicas ou nas escolas os nossos idiomas nativos; os batuques, por exemplo, deles temos notícias apenas pelas anotações feitas pelos missionários católicos protestantes, quando esses grupos eram apresentados aos turistas como coisa exótica: em resumo, Angola está-se fazendo dia a dia.
+> "Nós não temos censura, cada escritor escreve seu livro como crê e cria. Só não admitimos é uma literatura imoral, pornográfica, porque isso de nada serve para uma sociedade nova: isso, sim, é proibido, só se alguns indivíduos quiserem trazer material desse tipo em livros e videocassetes, não impedimos. Veja: Portugal, ou melhor, seu regime, durante muito tempo proibiu que falássemos em manifestações públicas ou nas escolas os nossos idiomas nativos; os batuques, por exemplo, deles temos notícias apenas pelas anotações feitas pelos missionários católicos protestantes, quando esses grupos eram apresentados aos turistas como coisa exótica: em resumo, Angola está-se fazendo dia a dia.  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Angola, num momento de reflexões e mudanças. Entrevista com o escritor angolano Agostinho Mendes" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, Sem data. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-num-momento-de-reflex-es-e-mudan-as-entrevi  
+    RIBEIRO, Leo Gilson. "Angola, num momento de reflexões e mudanças. Entrevista com o escritor angolano Agostinho Mendes". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, Sem data. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-num-momento-de-reflex-es-e-mudan-as-entrevi  
 
 === "BibTeX"
     ```latex  
@@ -54,7 +54,7 @@ Mas editá-los sem censura?
     editor = {Fernando Rey Puente},  
     title = {Angola, num momento de reflexões e mudanças. Entrevista com o escritor angolano Agostinho Mendes},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Jornal da Tarde},  
     origdate = {Sem data},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-num-momento-de-reflex-es-e-mudan-as-entrevi}

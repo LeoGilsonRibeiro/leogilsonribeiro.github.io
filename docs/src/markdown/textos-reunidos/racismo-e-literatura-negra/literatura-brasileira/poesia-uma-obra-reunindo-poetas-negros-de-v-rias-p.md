@@ -72,11 +72,11 @@ Paulo Colina, um poeta a meu ver já se afirma em plena maturidade do seu canto,
 > bastaria ao poema apenas
 > a cor da minha pele?"
 
-Com exceção de Abelardo Rodrigues e de Éle Semog, os demais poetas não apresentam, nesta antologia (nem o incisivo Cuti), nada de extraordinário e é com a expectativa de futuras coletâneas, melhores, que fechamos esta agora, magra e insatisfatória no seu todo.
+Com exceção de Abelardo Rodrigues e de Éle Semog, os demais poetas não apresentam, nesta antologia (nem o incisivo Cuti), nada de extraordinário e é com a expectativa de futuras coletâneas, melhores, que fechamos esta agora, magra e insatisfatória no seu todo.  
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Poesia. Uma obra reunindo poetas negros de várias épocas" In: PUENTE, Fernando Rey (org.) _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1986*. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/poesia-uma-obra-reunindo-poetas-negros-de-v-rias-p  
+    RIBEIRO, Leo Gilson. "Poesia. Uma obra reunindo poetas negros de várias épocas". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1986*. URL: https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/poesia-uma-obra-reunindo-poetas-negros-de-v-rias-p  
 
 === "BibTeX"
     ```latex  
@@ -85,7 +85,7 @@ Com exceção de Abelardo Rodrigues e de Éle Semog, os demais poetas não apres
     editor = {Fernando Rey Puente},  
     title = {Poesia. Uma obra reunindo poetas negros de várias épocas},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
-    year = {2022},
+    date = {2022},
     origpublisher = {Jornal da Tarde},  
     origdate = {1986*},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/poesia-uma-obra-reunindo-poetas-negros-de-v-rias-p}
