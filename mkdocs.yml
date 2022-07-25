@@ -1,6 +1,7 @@
-site_name: Léo Gilson Ribeiro
-copyright: 
-site_description: Obras reunidas de Léo Gilson Ribeiro
+site_name: Leo Gilson Ribeiro
+copyright: |
+  <span style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"><em>Textos Reunidos de Leo Gilson Ribeiro</em>. Transcrição, organização e introdução de Fernando Rey Puente <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0 2022</a> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="m245.83 214.87-33.22 17.28c-9.43-19.58-25.24-19.93-27.46-19.93-22.13 0-33.22 14.61-33.22 43.84 0 23.57 9.21 43.84 33.22 43.84 14.47 0 24.65-7.09 30.57-21.26l30.55 15.5c-6.17 11.51-25.69 38.98-65.1 38.98-22.6 0-73.96-10.32-73.96-77.05 0-58.69 43-77.06 72.63-77.06 30.72-.01 52.7 11.95 65.99 35.86zm143.05 0-32.78 17.28c-9.5-19.77-25.72-19.93-27.9-19.93-22.14 0-33.22 14.61-33.22 43.84 0 23.55 9.23 43.84 33.22 43.84 14.45 0 24.65-7.09 30.54-21.26l31 15.5c-2.1 3.75-21.39 38.98-65.09 38.98-22.69 0-73.96-9.87-73.96-77.05 0-58.67 42.97-77.06 72.63-77.06 30.71-.01 52.58 11.95 65.56 35.86zM247.56 8.05C104.74 8.05 0 123.11 0 256.05c0 138.49 113.6 248 247.56 248 129.93 0 248.44-100.87 248.44-248 0-137.87-106.62-248-248.44-248zm.87 450.81c-112.54 0-203.7-93.04-203.7-202.81 0-105.42 85.43-203.27 203.72-203.27 112.53 0 202.82 89.46 202.82 203.26-.01 121.69-99.68 202.82-202.84 202.82z"></path></svg></span> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M314.9 194.4v101.4h-28.3v120.5h-77.1V295.9h-28.3V194.4c0-4.4 1.6-8.2 4.6-11.3 3.1-3.1 6.9-4.7 11.3-4.7H299c4.1 0 7.8 1.6 11.1 4.7 3.1 3.2 4.8 6.9 4.8 11.3zm-101.5-63.7c0-23.3 11.5-35 34.5-35s34.5 11.7 34.5 35c0 23-11.5 34.5-34.5 34.5s-34.5-11.5-34.5-34.5zM247.6 8C389.4 8 496 118.1 496 256c0 147.1-118.5 248-248.4 248C113.6 504 0 394.5 0 256 0 123.1 104.7 8 247.6 8zm.8 44.7C130.2 52.7 44.7 150.6 44.7 256c0 109.8 91.2 202.8 203.7 202.8 103.2 0 202.8-81.1 202.8-202.8.1-113.8-90.2-203.3-202.8-203.3z"></path></svg></span> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M247.6 8C387.4 8 496 115.9 496 256c0 147.2-118.5 248-248.4 248C113.1 504 0 393.2 0 256 0 123.1 104.7 8 247.6 8zM55.8 189.1c-7.4 20.4-11.1 42.7-11.1 66.9 0 110.9 92.1 202.4 203.7 202.4 122.4 0 177.2-101.8 178.5-104.1l-93.4-41.6c-7.7 37.1-41.2 53-68.2 55.4v38.1h-28.8V368c-27.5-.3-52.6-10.2-75.3-29.7l34.1-34.5c31.7 29.4 86.4 31.8 86.4-2.2 0-6.2-2.2-11.2-6.6-15.1-14.2-6-1.8-.1-219.3-97.4zM248.4 52.3c-38.4 0-112.4 8.7-170.5 93l94.8 42.5c10-31.3 40.4-42.9 63.8-44.3v-38.1h28.8v38.1c22.7 1.2 43.4 8.9 62 23L295 199.7c-42.7-29.9-83.5-8-70 11.1 53.4 24.1 43.8 19.8 93 41.6l127.1 56.7c4.1-17.4 6.2-35.1 6.2-53.1 0-57-19.8-105-59.3-143.9-39.3-39.9-87.2-59.8-143.6-59.8z"></path></svg></span> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M247.6 8C389.4 8 496 118.1 496 256c0 147.1-118.5 248-248.4 248C113.6 504 0 394.5 0 256 0 123.1 104.7 8 247.6 8zm.8 44.7C130.2 52.7 44.7 150.6 44.7 256c0 109.8 91.2 202.8 203.7 202.8 103.2 0 202.8-81.1 202.8-202.8.1-113.8-90.2-203.3-202.8-203.3zm94 144.3v42.5H162.1V197h180.3zm0 79.8v42.5H162.1v-42.5h180.3z"></path></svg></span></span>
+site_description: Textos reunidos de Leo Gilson Ribeiro
 repo_name: bcdavasconcelos/LGR
 repo_url: https://github.com/bcdavasconcelos/LGR
 edit_uri: tree/main
@@ -12,22 +13,41 @@ theme:
   font:
     text: Alegreya
     code: Inconsolata
-  favicon: 
+  favicon:
   icon:
     logo: material/book-open-page-variant
     repo: fontawesome/brands/git-alt
   palette:
-    scheme: dracula
-    primary: deep purple
-    accent: deep purple
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+#    scheme: dracula
+#    primary: deep purple
+#    accent: deep purple
   features:
     - header.autohide
-    - navigation.expand
     - navigation.indexes
     - navigation.instant
     - navigation.tabs
     - navigation.top
-    - navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
@@ -112,59 +132,64 @@ markdown_extensions:
   - pymdownx.tilde:
 
 nav:
-  - Racismo e literatura negra:
-    - Racismo e literatura negra: racismo-e-literatura-negra/README.md
-    - Introdução:
-      - Introdução: racismo-e-literatura-negra/introdu-o/README.md
-      - Racismo, ideologia, propostas. E o artista?: racismo-e-literatura-negra/introdu-o/racismo-ideologia-propostas-e-o-artista-.md
-      - Perfil da Literatura Negra: racismo-e-literatura-negra/introdu-o/perfil-da-literatura-negra.md
-    - Literatura Brasileira:
-      - Literatura Brasileira: racismo-e-literatura-negra/literatura-brasileira/README.md
-      - O negro na literatura brasileira: racismo-e-literatura-negra/literatura-brasileira/o-negro-na-literatura-brasileira.md
-      - Entrevista - León Damas e a Negritude brasileira: racismo-e-literatura-negra/literatura-brasileira/entrevista---le-n-damas-e-a-negritude-brasileira.md
-      - Invenções e algemas de Castro Alves: racismo-e-literatura-negra/literatura-brasileira/inven-es-e-algemas-de-castro-alves.md
-      - O mulato Raimundo faz cem anos: racismo-e-literatura-negra/literatura-brasileira/o-mulato-raimundo-faz-cem-anos.md
-      - Resenha de LGR vetada e não publicada no *JT* sobre Adolfo Caminha: racismo-e-literatura-negra/literatura-brasileira/resenha-de-lgr-vetada-e-n-o-publicada-no-jt-sobre-.md
-      - A revolta de um precursor: racismo-e-literatura-negra/literatura-brasileira/a-revolta-de-um-precursor.md
-      - Lima Barreto - altamente inovador. E quase desconhecido.: racismo-e-literatura-negra/literatura-brasileira/lima-barreto---altamente-inovador-e-quase-desconhe.md
-      - Lima Barreto - doce, feroz, iluminado. E esquecido.: racismo-e-literatura-negra/literatura-brasileira/lima-barreto---doce-feroz-iluminado-e-esquecido-.md
-      - Policarpo Quaresma, uma obra-prima envolta em doce amargura: racismo-e-literatura-negra/literatura-brasileira/policarpo-quaresma-uma-obra-prima-envolta-em-doce-.md
-      - A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus: racismo-e-literatura-negra/literatura-brasileira/a-m-e-coragem-negra-de-canind-sobre-os-di-rios-de-.md
-      - O negro nos livros, poemas e teses: racismo-e-literatura-negra/literatura-brasileira/o-negro-nos-livros-poemas-e-teses.md
-      - Poesia. Uma obra reunindo poetas negros de várias épocas: racismo-e-literatura-negra/literatura-brasileira/poesia-uma-obra-reunindo-poetas-negros-de-v-rias-p.md
-      - Nossa poesia negra, tentando falar alemão: racismo-e-literatura-negra/literatura-brasileira/nossa-poesia-negra-tentando-falar-alem-o.md
-      - O Evangelho da Solidão de Eduardo de Oliveira: racismo-e-literatura-negra/literatura-brasileira/o-evangelho-da-solid-o-de-eduardo-de-oliveira.md
-      - Prefácio ao livro de Paulo Colina: racismo-e-literatura-negra/literatura-brasileira/pref-cio-ao-livro-de-paulo-colina.md
-      - Paulo Colina - o poeta das cinzas: racismo-e-literatura-negra/literatura-brasileira/paulo-colina---o-poeta-das-cinzas.md
-    - Literatura Norte-americana:
-      - Literatura Norte-americana: racismo-e-literatura-negra/literatura-norte-americana/README.md
-      - Literatura negra nos Estados Unidos - James Baldwin: racismo-e-literatura-negra/literatura-norte-americana/literatura-negra-nos-estados-unidos---james-baldwi.md
-      - James Baldwin e o negro nos EUA: racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-e-o-negro-nos-eua.md
-      -  O negro Baldwin luta pelos seus: racismo-e-literatura-negra/literatura-norte-americana/-o-negro-baldwin-luta-pelos-seus.md
-      - James Baldwin (necrológio): racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-necrol-gio-.md
-      - Resenha do livro *O Mensageiro* de Charles Wright(Editora Nova Crítica, 1969) : racismo-e-literatura-negra/literatura-norte-americana/resenha-do-livro-o-mensageiro-de-charles-wright-ed.md
-      - A influência decisiva de Richard Wright: racismo-e-literatura-negra/literatura-norte-americana/a-influ-ncia-decisiva-de-richard-wright.md
-      - Entrevista - Toni Morrison e os negros da América: racismo-e-literatura-negra/literatura-norte-americana/entrevista---toni-morrison-e-os-negros-da-am-rica.md
-      - Nota sobre o livro *O Olho mais Azul* de Toni Morrison: racismo-e-literatura-negra/literatura-norte-americana/nota-sobre-o-livro-o-olho-mais-azul-de-toni-morris.md
-    - Literatura Africana:
-      - Literatura Africana: racismo-e-literatura-negra/literatura-africana/README.md
-      - A África em lendas e contos. Lembrando nossa História: racismo-e-literatura-negra/literatura-africana/a-frica-em-lendas-e-contos-lembrando-nossa-hist-ri.md
-      - A Negritude -- Transfiguração Poética do Rosto Africano: racismo-e-literatura-negra/literatura-africana/a-negritude----transfigura-o-po-tica-do-rosto-afri.md
-      - Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe.: racismo-e-literatura-negra/literatura-africana/angola-escreve-uma-arte-m-gica-e-sofrida-vinda-de-.md
-      - Angola Escreve. Alguns grandes autores do romance ao conto.: racismo-e-literatura-negra/literatura-africana/angola-escreve-alguns-grandes-autores-do-romance-a.md
-      - A África e a liberdade. Entrevista com Luandino Vieira: racismo-e-literatura-negra/literatura-africana/a-frica-e-a-liberdade-entrevista-com-luandino-viei.md
-      - Angola, num momento de reflexões e mudanças. Entrevista com o escritor angolano Agostinho Mendes: racismo-e-literatura-negra/literatura-africana/angola-num-momento-de-reflex-es-e-mudan-as-entrevi.md
-      - A última denúncia de Soromenho: racismo-e-literatura-negra/literatura-africana/a-ltima-den-ncia-de-soromenho.md
-      - Senghor, o Orfeu negro: racismo-e-literatura-negra/literatura-africana/senghor-o-orfeu-negro.md
-      - Resenha sobre *Poemas* de Senghor: racismo-e-literatura-negra/literatura-africana/resenha-sobre-poemas-de-senghor.md
-      - "A poesia não deve morrer. Senão, que esperança restaria ao mundo?": racismo-e-literatura-negra/literatura-africana/-a-poesia-n-o-deve-morrer-sen-o-que-esperan-a-rest.md
-      - Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução\...: racismo-e-literatura-negra/literatura-africana/seb-ne-ousmane-do-senegal-um-importante-momento-da.md
-      - A África, hoje. Em dois bons livros. LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi: racismo-e-literatura-negra/literatura-africana/a-frica-hoje-em-dois-bons-livros-lgr-comenta-as-ob.md
-      - O negro e a cultura de Moçambique não merecem romance tão ruim quanto este: racismo-e-literatura-negra/literatura-africana/o-negro-e-a-cultura-de-mo-ambique-n-o-merecem-roma.md
-      - Resenha do livro - *Um fuzil na mão um poema no bolso* de Emmanuel Dongala: racismo-e-literatura-negra/literatura-africana/resenha-do-livro---um-fuzil-na-m-o-um-poema-no-bol.md
-      - Um Nobel para a África - Wole Soyinka: racismo-e-literatura-negra/literatura-africana/um-nobel-para-a-frica---wole-soyinka.md
-      - Nota sobre o livro *A Arma da Casa* de Nadine Gordimer: racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordim.md
-      - Nota sobre o livro *Desonra* de J. M. Coetzee: racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-desonra-de-j-m-coetzee.md
+  - Textos reunidos:
+    - Textos reunidos: textos-reunidos/README.md
+    - Racismo e literatura negra:
+      - Racismo e literatura negra: textos-reunidos/racismo-e-literatura-negra/README.md
+      - Introdução:
+        - Introdução: textos-reunidos/racismo-e-literatura-negra/introdu-o/README.md
+        - Racismo, ideologia, propostas. E o artista?: textos-reunidos/racismo-e-literatura-negra/introdu-o/racismo-ideologia-propostas-e-o-artista-.md
+        - Perfil da Literatura Negra: textos-reunidos/racismo-e-literatura-negra/introdu-o/perfil-da-literatura-negra.md
+      - Literatura Brasileira:
+        - Literatura Brasileira: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/README.md
+        - O negro na literatura brasileira: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-na-literatura-brasileira.md
+        - Entrevista - León Damas e a Negritude brasileira: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/entrevista---le-n-damas-e-a-negritude-brasileira.md
+        - Invenções e algemas de Castro Alves: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/inven-es-e-algemas-de-castro-alves.md
+        - O mulato Raimundo faz cem anos: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-mulato-raimundo-faz-cem-anos.md
+        - Resenha de LGR vetada e não publicada no *JT* sobre Adolfo Caminha: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/resenha-de-lgr-vetada-e-n-o-publicada-no-jt-sobre-.md
+        - A revolta de um precursor: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/a-revolta-de-um-precursor.md
+        - Lima Barreto - altamente inovador. E quase desconhecido.: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/lima-barreto---altamente-inovador-e-quase-desconhe.md
+        - Lima Barreto - doce, feroz, iluminado. E esquecido.: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/lima-barreto---doce-feroz-iluminado-e-esquecido-.md
+        - Policarpo Quaresma, uma obra-prima envolta em doce amargura: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/policarpo-quaresma-uma-obra-prima-envolta-em-doce-.md
+        - A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/a-m-e-coragem-negra-de-canind-sobre-os-di-rios-de-.md
+        - O negro nos livros, poemas e teses: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-nos-livros-poemas-e-teses.md
+        - Poesia. Uma obra reunindo poetas negros de várias épocas: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/poesia-uma-obra-reunindo-poetas-negros-de-v-rias-p.md
+        - Nossa poesia negra, tentando falar alemão: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/nossa-poesia-negra-tentando-falar-alem-o.md
+        - O Evangelho da Solidão de Eduardo de Oliveira: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-evangelho-da-solid-o-de-eduardo-de-oliveira.md
+        - Prefácio ao livro de Paulo Colina: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/pref-cio-ao-livro-de-paulo-colina.md
+        - Paulo Colina - o poeta das cinzas: textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/paulo-colina---o-poeta-das-cinzas.md
+      - Literatura Norte-americana:
+        - Literatura Norte-americana: textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/README.md
+        - Literatura negra nos Estados Unidos - James Baldwin: textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/literatura-negra-nos-estados-unidos---james-baldwi.md
+        - James Baldwin e o negro nos EUA: textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-e-o-negro-nos-eua.md
+        -  O negro Baldwin luta pelos seus: textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/-o-negro-baldwin-luta-pelos-seus.md
+        - James Baldwin (necrológio): textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-necrol-gio-.md
+        - Resenha do livro *O Mensageiro* de Charles Wright(Editora Nova Crítica, 1969) : textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/resenha-do-livro-o-mensageiro-de-charles-wright-ed.md
+        - A influência decisiva de Richard Wright: textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/a-influ-ncia-decisiva-de-richard-wright.md
+        - Entrevista - Toni Morrison e os negros da América: textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/entrevista---toni-morrison-e-os-negros-da-am-rica.md
+        - Nota sobre o livro *O Olho mais Azul* de Toni Morrison: textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/nota-sobre-o-livro-o-olho-mais-azul-de-toni-morris.md
+      - Literatura Africana:
+        - Literatura Africana: textos-reunidos/racismo-e-literatura-negra/literatura-africana/README.md
+        - A África em lendas e contos. Lembrando nossa História: textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-em-lendas-e-contos-lembrando-nossa-hist-ri.md
+        - A Negritude -- Transfiguração Poética do Rosto Africano: textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-negritude----transfigura-o-po-tica-do-rosto-afri.md
+        - Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe.: textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-uma-arte-m-gica-e-sofrida-vinda-de-.md
+        - Angola Escreve. Alguns grandes autores do romance ao conto.: textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-alguns-grandes-autores-do-romance-a.md
+        - A África e a liberdade. Entrevista com Luandino Vieira: textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-e-a-liberdade-entrevista-com-luandino-viei.md
+        - Angola, num momento de reflexões e mudanças. Entrevista com o escritor angolano Agostinho Mendes: textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-num-momento-de-reflex-es-e-mudan-as-entrevi.md
+        - A última denúncia de Soromenho: textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-ltima-den-ncia-de-soromenho.md
+        - Senghor, o Orfeu negro: textos-reunidos/racismo-e-literatura-negra/literatura-africana/senghor-o-orfeu-negro.md
+        - Resenha sobre *Poemas* de Senghor: textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-sobre-poemas-de-senghor.md
+        - "A poesia não deve morrer. Senão, que esperança restaria ao mundo?": textos-reunidos/racismo-e-literatura-negra/literatura-africana/-a-poesia-n-o-deve-morrer-sen-o-que-esperan-a-rest.md
+        - Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução\...: textos-reunidos/racismo-e-literatura-negra/literatura-africana/seb-ne-ousmane-do-senegal-um-importante-momento-da.md
+        - A África, hoje. Em dois bons livros. LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi: textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-hoje-em-dois-bons-livros-lgr-comenta-as-ob.md
+        - O negro e a cultura de Moçambique não merecem romance tão ruim quanto este: textos-reunidos/racismo-e-literatura-negra/literatura-africana/o-negro-e-a-cultura-de-mo-ambique-n-o-merecem-roma.md
+        - Resenha do livro - *Um fuzil na mão um poema no bolso* de Emmanuel Dongala: textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-do-livro---um-fuzil-na-m-o-um-poema-no-bol.md
+        - Um Nobel para a África - Wole Soyinka: textos-reunidos/racismo-e-literatura-negra/literatura-africana/um-nobel-para-a-frica---wole-soyinka.md
+        - Nota sobre o livro *A Arma da Casa* de Nadine Gordimer: textos-reunidos/racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordim.md
+        - Nota sobre o livro *Desonra* de J. M. Coetzee: textos-reunidos/racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-desonra-de-j-m-coetzee.md
+  - Índices:
+    - Índices: -ndices/README.md
+    - Volume 1 - Racismo e Literatura Negra: -ndices/volume-1---racismo-e-literatura-negra.md
   - Tags: tags.md
 
 

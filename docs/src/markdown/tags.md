@@ -10,3 +10,16 @@ title: Tags
 
 [TAGS]
 
+
+=== "ABNT"
+    PUENTE, Fernando Rey (org.) Textos Reunidos de Leo Gilson Ribeiro. 2022. URL: https://github.com/bcdavasconcelos/lgr/tags  
+
+=== "BibTeX"
+    ```latex  
+    @book{,  
+    editor = {Fernando Rey Puente},  
+    title = {Textos Reunidos de Leo Gilson Ribeiro},
+    year = {2022},
+    url = {https://github.com/bcdavasconcelos/lgr/tags}
+    }
+    ```
