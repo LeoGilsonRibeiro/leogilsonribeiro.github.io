@@ -1,12 +1,11 @@
 ---
-tags: [Caros Amigos, "2003"]
+title: Nota sobre o livro *O Olho mais Azul* de Toni Morrison
 date: 2003/02
 publisher: Caros Amigos, n.71
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Norte-americana?view=outline+select=1658628320
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/nota-sobre-o-livro-o-olho-mais-azul-de-toni-morris.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Norte-americana/Nota%20sobre%20o%20livro%20*O%20Olho%20mais%20Azul*%20de%20Toni%20Morrison.md
-title: Nota sobre o livro *O Olho mais Azul* de Toni Morrison
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Norte-americana?view=outline+select=1658628320
+prototype: MarkdownNote
 ---
 
 # Nota sobre o livro *O Olho mais Azul* de Toni Morrison
@@ -20,8 +19,10 @@ A consagrada novelista negra norte-americana Toni Morrison, a primeira a ganhar 
 Este livro, que levou 25 anos para ser publicado e foi recusado por todas as editoras, consigna a frase pungente de Toni Morrison: "Ouvindo línguas 'civilizadas' aviltar seres humanos, vendo exorcismos culturais aviltar a literatura, vendo a mim mesma preservada no âmbar de metáforas desqualificativas, posso dizer que meu projeto de narrativa é tão difícil hoje quanto o foi trinta anos atrás".  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Nota sobre o livro *O Olho mais Azul* de Toni Morrison". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/nota-sobre-o-livro-o-olho-mais-azul-de-toni-morris](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/nota-sobre-o-livro-o-olho-mais-azul-de-toni-morris). Publicação original: Caros Amigos, n.71, 2003/02.  
+    RIBEIRO, Leo Gilson. "Nota sobre o livro *O Olho mais Azul* de Toni Morrison". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Caros Amigos, n.71, 2003/02.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/nota-sobre-o-livro-o-olho-mais-azul-de-toni-morris](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/nota-sobre-o-livro-o-olho-mais-azul-de-toni-morris).  
 
 === "BibTeX"
     ```latex  

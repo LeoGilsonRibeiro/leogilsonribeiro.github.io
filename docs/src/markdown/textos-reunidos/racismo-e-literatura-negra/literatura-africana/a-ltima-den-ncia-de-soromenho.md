@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1971"]
+title: A última denúncia de Soromenho
 date: 1971/02/24
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628304
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-ltima-den-ncia-de-soromenho.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Africana/A%20u%CC%81ltima%20denu%CC%81ncia%20de%20Soromenho.md
-title: A última denúncia de Soromenho
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628304
+prototype: MarkdownNote
 ---
 
 # A última denúncia de Soromenho
@@ -60,8 +59,10 @@ Para o leitor deste terrível mural, sóbrio e de paixão contida por um estilo 
 Como para Castro Soromenho, será, como para a consciência do próprio homem, a chaga na pele de um Continente, admiravelmente captada por uma sensibilidade compassiva e que não compactua com sua gangrena.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A última denúncia de Soromenho". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-ltima-den-ncia-de-soromenho](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-ltima-den-ncia-de-soromenho). Publicação original: Jornal da Tarde, 1971/02/24.  
+    RIBEIRO, Leo Gilson. "A última denúncia de Soromenho". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1971/02/24.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-ltima-den-ncia-de-soromenho](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-ltima-den-ncia-de-soromenho).  
 
 === "BibTeX"
     ```latex  

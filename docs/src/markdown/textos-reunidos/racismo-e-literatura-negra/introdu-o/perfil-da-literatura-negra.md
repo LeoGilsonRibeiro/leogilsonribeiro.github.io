@@ -1,12 +1,11 @@
 ---
-tags: [Mostra Internacional de São Paulo, "1985"]
+title: Perfil da Literatura Negra
 date: 1985/05/20-26
 publisher: Mostra Internacional de São Paulo
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Introdu%C3%A7%C3%A3o?view=outline+select=1658628296
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/introdu-o/perfil-da-literatura-negra.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Introduc%CC%A7a%CC%83o/Perfil%20da%20Literatura%20Negra%20.md
-title: Perfil da Literatura Negra
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Introdu%C3%A7%C3%A3o?view=outline+select=1658628296
+prototype: MarkdownNote
 ---
 
 # Perfil da Literatura Negra
@@ -123,8 +122,10 @@ O esplêndido escritor irlandês George Bernard Shaw exprimiu esse mesmo anseio 
 É o sonho visionário da grande alma de Martin Luther King exclamando: "*I have a dream*!" ("Eu tenho um sonho!"): o sonho da justiça, da liberdade, do respeito mútuo, da pacífica e fecunda convivência de todos os seres humanos no mundo: não é chegado o momento de começarmos a realizar concretamente o que sonhamos?  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Perfil da Literatura Negra". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/perfil-da-literatura-negra](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/perfil-da-literatura-negra). Publicação original: Mostra Internacional de São Paulo, 1985/05/20-26.  
+    RIBEIRO, Leo Gilson. "Perfil da Literatura Negra". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Mostra Internacional de São Paulo, 1985/05/20-26.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/perfil-da-literatura-negra](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/perfil-da-literatura-negra).  
 
 === "BibTeX"
     ```latex  

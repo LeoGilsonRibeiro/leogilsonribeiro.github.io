@@ -1,12 +1,11 @@
 ---
-tags: [Caros Amigos, "2000"]
+title: Nota sobre o livro *A Arma da Casa* de Nadine Gordimer
 date: 2000/06
 publisher: Caros Amigos, n.39
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628302
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordim.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Africana/Nota%20sobre%20o%20livro%20*A%20Arma%20da%20Casa*%20de%20Nadine%20Gordimer.md
-title: Nota sobre o livro *A Arma da Casa* de Nadine Gordimer
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628302
+prototype: MarkdownNote
 ---
 
 # Nota sobre o livro *A Arma da Casa* de Nadine Gordimer
@@ -22,8 +21,10 @@ E atualmente? A mestria da autora permite-lhe visualizar todos os personagens so
 Nadine Gordimer, sem exagero, desenha-se como uma Dostoiévski de nossos dias, buscando as raízes do crime, do preconceito, do sofrimento, não na aparência da mudança política e cultural de uma sociedade, mas como efeito de uma origem remota, entranhada na própria alma humana desde tempos da pedra lascada. Se não fosse uma aposta precipitada, eu diria, eu afirmaria que este é o livro do ano, que comprássemos apenas este para sentir as palpitações do mundo da Bósnia, dos terremotos no Japão, das guerrilhas em Serra Leoa, do Líbano e também do Brasil, que ainda busca seu rumo, distante da política, da corrupção, do racismo, do desleixo governamental, da parte podre -- mas não toda -- do Brasil que caminha estonteado em meio à ruína de seus problemas e do caos mundial. Um livro eletrizante que demonstra, cabalmente, que a literatura não só está viva, como se põe à frente de todas as tecnologias que a desafiam como consciência mais funda do ser humano trilhando um novo milênio.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Nota sobre o livro *A Arma da Casa* de Nadine Gordimer". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordim](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordim). Publicação original: Caros Amigos, n.39, 2000/06.  
+    RIBEIRO, Leo Gilson. "Nota sobre o livro *A Arma da Casa* de Nadine Gordimer". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Caros Amigos, n.39, 2000/06.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordim](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordim).  
 
 === "BibTeX"
     ```latex  

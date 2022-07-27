@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1970"]
+title: Resenha sobre *Poemas* de Senghor
 date: 1970/1/29
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628307
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-sobre-poemas-de-senghor.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Africana/Resenha%20sobre%20*Poemas*%20de%20Senghor.md
-title: Resenha sobre *Poemas* de Senghor
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628307
+prototype: MarkdownNote
 ---
 
 # Resenha sobre *Poemas* de Senghor
@@ -28,8 +27,10 @@ Poeta lírico do amor, poeta religioso que mescla o latim ritual da missa com os
 Estes senões são menores. O importante é o encontro do leitor brasileiro com um dos grandes poetas do século. Senghor, como em sua própria "Oração às Máscaras", sem saber, definiu exemplarmente a majestosa contribuição que sua poesia trouxe à renovação poética mundial: "Que respondemos 'presente' ao renascer do Mundo/ Qual fermento necessário à farinha branca./ Pois quem ensinaria o ritmo ao falecido mundo das máquinas e dos canhões? Quem daria o grito de alegria para despertar mortos e órfãos à aurora?/ Dizei, quem poderia restituir a memória da vida ao homem desesperançado?\... Somos os homens da dança, cujos pés se revigoram ferindo o rude chão".  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Resenha sobre *Poemas* de Senghor". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-sobre-poemas-de-senghor](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-sobre-poemas-de-senghor). Publicação original: Jornal da Tarde, 1970/1/29.  
+    RIBEIRO, Leo Gilson. "Resenha sobre *Poemas* de Senghor". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1970/1/29.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-sobre-poemas-de-senghor](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-sobre-poemas-de-senghor).  
 
 === "BibTeX"
     ```latex  

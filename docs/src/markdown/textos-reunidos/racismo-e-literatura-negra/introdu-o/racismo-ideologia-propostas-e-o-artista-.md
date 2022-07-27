@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1990"]
+title: Racismo, ideologia, propostas. E o artista?
 date: 1990/03/16
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Introdu%C3%A7%C3%A3o?view=outline+select=1658628295
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/introdu-o/racismo-ideologia-propostas-e-o-artista-.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Introduc%CC%A7a%CC%83o/Racismo,%20ideologia,%20propostas.%20E%20o%20artista%3F.md
-title: Racismo, ideologia, propostas. E o artista?
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Introdu%C3%A7%C3%A3o?view=outline+select=1658628295
+prototype: MarkdownNote
 ---
 
 # Racismo, ideologia, propostas. E o artista?
@@ -36,8 +35,10 @@ Um intelectual russo de grande renome, Afanasyev, argumenta *a favor* da liquida
 E nesse *maelstrom* de ideias em conflito, o poeta, o artista, o escritor de raça negra e dos dois sexos: que devem fazer?  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Racismo, ideologia, propostas. E o artista?". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/racismo-ideologia-propostas-e-o-artista-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/racismo-ideologia-propostas-e-o-artista-). Publicação original: Jornal da Tarde, 1990/03/16.  
+    RIBEIRO, Leo Gilson. "Racismo, ideologia, propostas. E o artista?". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1990/03/16.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/racismo-ideologia-propostas-e-o-artista-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/introdu-o/racismo-ideologia-propostas-e-o-artista-).  
 
 === "BibTeX"
     ```latex  

@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1987"]
+title: A África e a liberdade. Entrevista com Luandino Vieira
 date: 1987/01/03
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628310
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-e-a-liberdade-entrevista-com-luandino-viei.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Africana/A%20A%CC%81frica%20e%20a%20liberdade.%20Entrevista%20com%20Luandino%20Vieira.md
-title: A África e a liberdade. Entrevista com Luandino Vieira
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628310
+prototype: MarkdownNote
 ---
 
 # A África e a liberdade. Entrevista com Luandino Vieira
@@ -160,8 +159,10 @@ E as culturas autóctones estão sendo, então, preservadas?
 > "Ah, sim: a música, a dança, as artes plásticas fundamentalmente, além da culinária, certas formas de vestir, de decorar a casa, que se vão mantendo enquanto a industrialização e a urbanização não chegarem, não é? Eu mesmo sou um exemplo dessa pluralidade de culturas que existe em Angola. Há a influências europeia sobre populações africanas e vice-versa. Eu, filho de portugueses, educado em escola de feição nitidamente portuguesa, tinha porém a rua, os meninos do bairro, e a influência do quimbundo se fez sentir fortemente em mim. Angola, variam os casos de aculturação, é estranhamente isto. A convivência fecunda de etnias e culturas diversas, sem eurocentrismos nem predominâncias culturais obsoletas".  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A África e a liberdade. Entrevista com Luandino Vieira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-e-a-liberdade-entrevista-com-luandino-viei](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-e-a-liberdade-entrevista-com-luandino-viei). Publicação original: Jornal da Tarde, 1987/01/03.  
+    RIBEIRO, Leo Gilson. "A África e a liberdade. Entrevista com Luandino Vieira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1987/01/03.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-e-a-liberdade-entrevista-com-luandino-viei](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-e-a-liberdade-entrevista-com-luandino-viei).  
 
 === "BibTeX"
     ```latex  

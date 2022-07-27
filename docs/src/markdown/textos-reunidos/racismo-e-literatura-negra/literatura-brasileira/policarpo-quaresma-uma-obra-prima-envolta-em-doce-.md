@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1983"]
+title: Policarpo Quaresma, uma obra-prima envolta em doce amargura
 date: 1983/4/9
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628342
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/policarpo-quaresma-uma-obra-prima-envolta-em-doce-.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Brasileira/Policarpo%20Quaresma,%20uma%20obra-prima%20envolta%20em%20doce%20amargura.md
-title: Policarpo Quaresma, uma obra-prima envolta em doce amargura
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628342
+prototype: MarkdownNote
 ---
 
 # Policarpo Quaresma, uma obra-prima envolta em doce amargura
@@ -60,8 +59,10 @@ Há quem queira ver nas frases finais do livro uma esperança: "Tinha havido gra
 Será justa essa aferição da conclusão de Lima Barreto? É impossível determinar, a não ser por um *parti pris* ideológico, que sim ou que não. De qualquer maneira, o que o leitor constata é uma mecânica da imobilidade do Brasil: de 1911, quando foi publicado esse livro, até hoje, o que mudou senão a aparência? Que modificações houve senão de alcance estatístico? De forma confusa, no entanto, sem rótulos precisos de "esperança" ou "desânimo", Lima Barreto incute em quem o lê a noção dual de que o prisma das coisas tristes é sem dúvida mais amplo e mais abrangente do que o da alegria, mas viver, como um inexplicável paradoxo, imbui as derrotas de uma atmosfera que só o enigma da doçura define e delimita.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Policarpo Quaresma, uma obra-prima envolta em doce amargura". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/policarpo-quaresma-uma-obra-prima-envolta-em-doce-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/policarpo-quaresma-uma-obra-prima-envolta-em-doce-). Publicação original: Jornal da Tarde, 1983/4/9.  
+    RIBEIRO, Leo Gilson. "Policarpo Quaresma, uma obra-prima envolta em doce amargura". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1983/4/9.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/policarpo-quaresma-uma-obra-prima-envolta-em-doce-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/policarpo-quaresma-uma-obra-prima-envolta-em-doce-).  
 
 === "BibTeX"
     ```latex  

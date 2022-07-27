@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1982"]
+title: O negro nos livros, poemas e teses
 date: 1982/12/25
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628332
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-nos-livros-poemas-e-teses.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Brasileira/O%20negro%20nos%20livros,%20poemas%20e%20teses.md
-title: O negro nos livros, poemas e teses
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628332
+prototype: MarkdownNote
 ---
 
 # O negro nos livros, poemas e teses
@@ -15,7 +14,6 @@ __Leo Gilson Ribeiro__ &nbsp;&nbsp;&nbsp; :octicons-calendar-24: 1982/12/25 &nbs
 
 ---
 
-Textos Reunidos de Leo Gilson Ribeiro. Organização: Fernando Rey Puente <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0 2022</a> :fontawesome-brands-creative-commons: :fontawesome-brands-creative-commons-by: :fontawesome-brands-creative-commons-nc: :fontawesome-brands-creative-commons-nd:
 > "África! Áfirca da reconquista das liberdades/ África do Negro,/ Não há ninguém na África" (Bernard Dadie, poeta da Costa do Marfim)
 
 Livros com enfoques diversos tornam este ano que termina talvez aquele que, na última década, mais refletiu sobre o negro e mais revelou sobre a Negritude. O luxuoso, informativo e rico primeiro tomo de uma *História Geral da África*, nas suas quase 800 páginas e redigido por cientistas das mais diversas nacionalidades, remonta às origens das diversas culturas e civilizações africanas (publicação da Editora Ática com a cooperação da Unesco).
@@ -158,8 +156,10 @@ Esta antologia não teria desculpas que pedir por incluir alguns nomes que ombre
 Como a literatura é por essência democrática, não caberia ao crítico mostrar-se didático, complacente nem intolerante para com esses poetas desiguais no talento e na obtenção de suas metas poéticas. No entanto, o que se constata, visivelmente, é que uma parte decisiva da população brasileira, a que tem uma origem étnica africana, dia a dia desfaz os chavões que, como esparadrapos amorfos, são colocados no negro como futebolista, carnavalista, garanhão erótico, temperamento infantil, quando não malandro, assaltante e quimbandista. Essa antologia comprova que, se há, certamente, uma temática negra no vasto repertório da poesia brasileira -- e em alguns casos, parece-me, da melhor qualidade - , ela, inexoravelmente, se funde com a população de outras etnias, na luta por um avanço efetivo da Massa de todo o povo brasileiro, na qual está fundida, inevitavelmente, seu segmento negro. Não esmorecer diante do muro dos preconceitos, da prepotência, da injustiça e da ignorância, insuflar à fisionomia do Brasil o traço que mais caracteriza a raça negra: a dignidade. Atualizar os livros que omitem sua participação decisiva na construção deste país, atingir níveis altos de educação e manter os valores ancestrais de sua cultura. Haverá ideal que mais se coadune com os brasileiros de origem africana?  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O negro nos livros, poemas e teses". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-nos-livros-poemas-e-teses](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-nos-livros-poemas-e-teses). Publicação original: Jornal da Tarde, 1982/12/25.  
+    RIBEIRO, Leo Gilson. "O negro nos livros, poemas e teses". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1982/12/25.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-nos-livros-poemas-e-teses](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-negro-nos-livros-poemas-e-teses).  
 
 === "BibTeX"
     ```latex  

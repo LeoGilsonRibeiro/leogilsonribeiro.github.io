@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1981"]
+title: Lima Barreto - altamente inovador. E quase desconhecido.
 date: 1981/5/9
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628339
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/lima-barreto---altamente-inovador-e-quase-desconhe.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Brasileira/Lima%20Barreto:%20altamente%20inovador.%20E%20quase%20desconhecido..md
-title: Lima Barreto - altamente inovador. E quase desconhecido.
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628339
+prototype: MarkdownNote
 ---
 
 # Lima Barreto - altamente inovador. E quase desconhecido.
@@ -76,8 +75,10 @@ Vendo a existência humana com um estoicismo valente, incapaz de ater-se a uma f
 > "Saiu e andou. Olhou o céu, os ares, as árvores de Santa Teresa, e se lembrou que, por estas terras, já tinham errado tribos selvagens, das quais um dos chefes se orgulhava de ter no sangue o sangue de dez mil inimigos. Fora há quatro séculos. Olhou de novo o céu, os ares, as árvores de Santa Teresa, as casas, as igrejas: viu os bondes passarem; uma locomotiva apitou; um carro, puxado por uma linda parelha, atravessou-lhe na frente, quando já a entrar no campo\... Tinha havido grandes e inúmeras modificações. Que fora aquele parque? Talvez um charco. Tinha havido grande modificações nos aspectos, na fisionomia da terra, talvez no clima\... Esperemos mais, pensou ela; e seguiu serenamente ao encontro de Ricardo Coração dos Outros."  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Lima Barreto - altamente inovador. E quase desconhecido.". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/lima-barreto---altamente-inovador-e-quase-desconhe](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/lima-barreto---altamente-inovador-e-quase-desconhe). Publicação original: Jornal da Tarde, 1981/5/9.  
+    RIBEIRO, Leo Gilson. "Lima Barreto - altamente inovador. E quase desconhecido.". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1981/5/9.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/lima-barreto---altamente-inovador-e-quase-desconhe](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/lima-barreto---altamente-inovador-e-quase-desconhe).  
 
 === "BibTeX"
     ```latex  

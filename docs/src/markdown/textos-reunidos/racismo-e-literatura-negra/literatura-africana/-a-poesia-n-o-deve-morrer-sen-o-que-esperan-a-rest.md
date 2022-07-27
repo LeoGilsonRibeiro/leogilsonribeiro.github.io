@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1977"]
+title: "A poesia não deve morrer. Senão, que esperança restaria ao mundo?"
 date: 1977/11/5
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628309
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-africana/-a-poesia-n-o-deve-morrer-sen-o-que-esperan-a-rest.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Africana/%22A%20poesia%20na%CC%83o%20deve%20morrer.%20Sena%CC%83o,%20que%20esperanc%CC%A7a%20restaria%20ao%20mundo%3F%22.md
-title: "A poesia não deve morrer. Senão, que esperança restaria ao mundo?"
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628309
+prototype: MarkdownNote
 ---
 
 # "A poesia não deve morrer. Senão, que esperança restaria ao mundo?"
@@ -36,8 +35,10 @@ Não: eu danço, portanto eu me irmano com o próximo, retruca a África alegre.
 "Já é tempo de sustar o processo de desagregação do mundo moderno e em primeiro lugar o da poesia. É preciso restituí-la às suas origens, aos tempos em que ela era cantada e dançada. Como na Grécia, em Israel sobretudo no Egito dos faraós. Como hoje em dia na África Negra. 'Toda casa dividida por lutas internas', toda arte voltada contra si mesma não pode deixar de perecer. A poesia não deve morrer. Senão, que esperança restaria ao mundo?"  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. ""A poesia não deve morrer. Senão, que esperança restaria ao mundo?"". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/-a-poesia-n-o-deve-morrer-sen-o-que-esperan-a-rest](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/-a-poesia-n-o-deve-morrer-sen-o-que-esperan-a-rest). Publicação original: Jornal da Tarde, 1977/11/5.  
+    RIBEIRO, Leo Gilson. ""A poesia não deve morrer. Senão, que esperança restaria ao mundo?"". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1977/11/5.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/-a-poesia-n-o-deve-morrer-sen-o-que-esperan-a-rest](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/-a-poesia-n-o-deve-morrer-sen-o-que-esperan-a-rest).  
 
 === "BibTeX"
     ```latex  

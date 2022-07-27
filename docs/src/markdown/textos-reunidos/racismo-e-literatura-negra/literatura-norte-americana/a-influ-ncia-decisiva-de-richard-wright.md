@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1992"]
+title: A influência decisiva de Richard Wright
 date: 1992*
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Norte-americana?view=outline+select=1658628323
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/a-influ-ncia-decisiva-de-richard-wright.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Norte-americana/A%20influe%CC%82ncia%20decisiva%20de%20Richard%20Wright.md
-title: A influência decisiva de Richard Wright
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Norte-americana?view=outline+select=1658628323
+prototype: MarkdownNote
 ---
 
 # A influência decisiva de Richard Wright
@@ -24,8 +23,10 @@ Agora, dois volumes que, juntos, ultrapassam mais de 1.500 páginas, englobam de
 Seus livros não trouxeram a revolução que ele esperava? O racismo continua vivíssimo nos Estados Unidos? Richard Wright não fez diferença alguma, então? A distância do tempo decorrido comprova que, até o limite imposto à literatura que não for meramente panfletária, seus livros possivelmente estão por detrás de Martin Luther King e da revolta estudantil de Little Rock. Ao contrário de Alfred Kazin, numa perspectiva mais abrangente, ser a ignição de todos os movimentos reivindicatórios nos Estados Unidos e logo na *Négritude* do antilhano Aimé Césaire ao senegalês Senghor. Sem dúvida, há falhas em determinados trechos grandiloquentes do estilo de Wright, mas hoje é mais fácil compreender como James Baldwin errou ao julgá-lo o autor de um livro "tão simplório" quanto *A Cabana do Pai Tomás*. Nem *Native Son* é ingênuo nem *Uncle Tom's Cabin* pode ser considerado "simplório". Se *Invisible Man* de Ralph Ellison, é mais perfeito, *Native Son* é uma primeira semente fecunda, lançada na década de 30, numa literatura que a partir daí não é, realmente, a mesma de antes.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A influência decisiva de Richard Wright". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/a-influ-ncia-decisiva-de-richard-wright](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/a-influ-ncia-decisiva-de-richard-wright). Publicação original: Jornal da Tarde, 1992*.  
+    RIBEIRO, Leo Gilson. "A influência decisiva de Richard Wright". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1992*.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/a-influ-ncia-decisiva-de-richard-wright](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/a-influ-ncia-decisiva-de-richard-wright).  
 
 === "BibTeX"
     ```latex  

@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1981"]
+title: O mulato Raimundo faz cem anos
 date: 1981/5/23
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628340
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-mulato-raimundo-faz-cem-anos.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Brasileira/O%20mulato%20Raimundo%20faz%20cem%20anos.md
-title: O mulato Raimundo faz cem anos
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628340
+prototype: MarkdownNote
 ---
 
 # O mulato Raimundo faz cem anos
@@ -77,8 +76,10 @@ Tardiamente aboliu-se a escravidão: proclamou-se a República: mas a ignorânci
 É um centenário um tanto embaraçoso dos 100 anos da publicação de *O Mulato*, pois muito pouco há para se celebrar e literariamente há mais para se calar. Zola dizia, ele mesmo fazendo o diagnóstico-epitáfio de seus romances naturalistas, que ao escrever queria proceder a "uma autópsia cirúrgica no corpo da sociedade". Como *O Mulato* infelizmente comprova, para se fazer uma autópsia é preciso primeiro que exista um cadáver e este é de belíssimas feições idealistas mas corroído por uma enfermidade insanável: a verborragia a serviço da pregação de ideias, doença que a História da Literatura demonstra ser fatal para o autor, o indefeso leitor e as estropiadas ideias atingidas pelo cancro crescente de uma retórica oca e balofa.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O mulato Raimundo faz cem anos". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-mulato-raimundo-faz-cem-anos](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-mulato-raimundo-faz-cem-anos). Publicação original: Jornal da Tarde, 1981/5/23.  
+    RIBEIRO, Leo Gilson. "O mulato Raimundo faz cem anos". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1981/5/23.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-mulato-raimundo-faz-cem-anos](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-mulato-raimundo-faz-cem-anos).  
 
 === "BibTeX"
     ```latex  

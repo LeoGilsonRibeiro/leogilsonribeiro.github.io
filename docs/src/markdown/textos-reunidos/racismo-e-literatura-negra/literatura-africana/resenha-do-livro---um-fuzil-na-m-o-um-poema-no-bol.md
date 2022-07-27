@@ -1,12 +1,11 @@
 ---
-tags: [Veja, "1974"]
+title: Resenha do livro - *Um fuzil na mão um poema no bolso* de Emmanuel Dongala
 date: 1974/09/11
 publisher: Veja
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628300
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-do-livro---um-fuzil-na-m-o-um-poema-no-bol.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Africana/Resenha%20do%20livro:%20*Um%20fuzil%20na%20ma%CC%83o%20um%20poema%20no%20bolso*%20de%20Emmanuel%20Dongala.md
-title: Resenha do livro - *Um fuzil na mão um poema no bolso* de Emmanuel Dongala
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628300
+prototype: MarkdownNote
 ---
 
 # Resenha do livro - *Um fuzil na mão um poema no bolso* de Emmanuel Dongala
@@ -38,8 +37,10 @@ Opondo às armas reais as do escritor, as palavras que denunciam, o sul-africano
 A literatura não se faz apenas com "cor local e pitoresco". Nem, como Emmanuel Dongala prova tão claramente, com um fuzil na mão e um poema no bolso. Principalmente se a pólvora estiver molhada de lacrimejante sentimentalismo e o poema se perdeu num bolso furado.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Resenha do livro - *Um fuzil na mão um poema no bolso* de Emmanuel Dongala". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-do-livro---um-fuzil-na-m-o-um-poema-no-bol](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-do-livro---um-fuzil-na-m-o-um-poema-no-bol). Publicação original: Veja, 1974/09/11.  
+    RIBEIRO, Leo Gilson. "Resenha do livro - *Um fuzil na mão um poema no bolso* de Emmanuel Dongala". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Veja, 1974/09/11.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-do-livro---um-fuzil-na-m-o-um-poema-no-bol](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/resenha-do-livro---um-fuzil-na-m-o-um-poema-no-bol).  
 
 === "BibTeX"
     ```latex  

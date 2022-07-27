@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1982"]
+title: O negro e a cultura de Moçambique não merecem romance tão ruim quanto este
 date: 1982/02/27
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628315
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-africana/o-negro-e-a-cultura-de-mo-ambique-n-o-merecem-roma.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Africana/O%20negro%20e%20a%20cultura%20de%20Moc%CC%A7ambique%20na%CC%83o%20merecem%20romance%20ta%CC%83o%20ruim%20quanto%20este.md
-title: O negro e a cultura de Moçambique não merecem romance tão ruim quanto este
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628315
+prototype: MarkdownNote
 ---
 
 # O negro e a cultura de Moçambique não merecem romance tão ruim quanto este
@@ -42,8 +41,10 @@ Orlando Mendes, profissionalmente, é fitopatologista: nada demais, há escritor
 Diante de um romance tão capenga quanto este, reminiscente de algum original guardado em alguma gaveta de Rondônia como "o maior romance escrito por um autor do novo Estado", só nos resta uma saudável esperança: a de que surjam novos romances moçambicanos. Não poderão ser piores. A menos que enveredem pela cartilha suicida do "realismo socialista" leninista-stalinista, do qual Deus há de preservar a nós, à literatura, à inteligência e a Moçambique. Amém.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O negro e a cultura de Moçambique não merecem romance tão ruim quanto este". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/o-negro-e-a-cultura-de-mo-ambique-n-o-merecem-roma](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/o-negro-e-a-cultura-de-mo-ambique-n-o-merecem-roma). Publicação original: Jornal da Tarde, 1982/02/27.  
+    RIBEIRO, Leo Gilson. "O negro e a cultura de Moçambique não merecem romance tão ruim quanto este". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1982/02/27.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/o-negro-e-a-cultura-de-mo-ambique-n-o-merecem-roma](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/o-negro-e-a-cultura-de-mo-ambique-n-o-merecem-roma).  
 
 === "BibTeX"
     ```latex  

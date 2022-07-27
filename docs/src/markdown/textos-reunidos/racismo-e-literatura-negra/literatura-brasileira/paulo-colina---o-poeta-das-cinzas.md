@@ -1,12 +1,11 @@
 ---
-tags: [Revista Goodyear, "1988"]
+title: Paulo Colina - o poeta das cinzas
 date: 1988
 publisher: Revista Goodyear, n.47
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628331
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/paulo-colina---o-poeta-das-cinzas.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Brasileira/Paulo%20Colina:%20o%20poeta%20das%20cinzas.md
-title: Paulo Colina - o poeta das cinzas
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628331
+prototype: MarkdownNote
 ---
 
 # Paulo Colina - o poeta das cinzas
@@ -73,8 +72,10 @@ As vocações de Paulo Colina e James Baldwin coincidem em sua relutância em li
 Recusa-se a banalizar palavras como solidariedade ou povo, despejadas de qualquer palanque político e toda a propaganda governamental. Afinal, sua poesia e sua ação social estão longe dos desfiles do "reinado de Momo". Estão fincadas firmemente na realidade da Quarta-Feira de Cinzas, "de olhos bem abertos e sentidos alerta".  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Paulo Colina - o poeta das cinzas". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/paulo-colina---o-poeta-das-cinzas](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/paulo-colina---o-poeta-das-cinzas). Publicação original: Revista Goodyear, n.47, 1988.  
+    RIBEIRO, Leo Gilson. "Paulo Colina - o poeta das cinzas". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Revista Goodyear, n.47, 1988.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/paulo-colina---o-poeta-das-cinzas](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/paulo-colina---o-poeta-das-cinzas).  
 
 === "BibTeX"
     ```latex  

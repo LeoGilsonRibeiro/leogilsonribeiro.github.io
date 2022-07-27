@@ -1,12 +1,11 @@
 ---
-tags: [In _A noite não pede licença_, Roswitha Kempf Editores, "1987"]
+title: Prefácio ao livro de Paulo Colina
 date: 1987
 publisher: In _A noite não pede licença_, Roswitha Kempf Editores
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628341
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/pref-cio-ao-livro-de-paulo-colina.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Brasileira/Prefa%CC%81cio%20ao%20livro%20de%20Paulo%20Colina.md
-title: Prefácio ao livro de Paulo Colina
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628341
+prototype: MarkdownNote
 ---
 
 # Prefácio ao livro de Paulo Colina
@@ -61,8 +60,10 @@ E nós todos, buscando no bar, no álcool, no esquecimento, estarmos refletidos 
 Mais elevada e menos efêmera é esta poesia que começa da constatação da quarta-feira e cinzas cotidiana, longe das passarelas, do ópio da cor, das luzes, do som e dos aplausos da multidão. Quero crer que Paulo Colina forja um canto muito mais abrangente e que desafia um período de tempo tão escasso e tão artificialmente celebrado. As suas conquistas de estilo, a concisão e o impacto de seus versos nos asseguram que ele depura, cada vez mais, o seu ritmo contemporaneamente sincopado, traspassado de *blues* -- uma voz autêntica da ebulição do Brasil deste final da década de 80 e que todos os prognósticos tranquilamente indicam que será uma das vozes decisivas da poesia brasileira a fincar a sua inspiração de talento, inteligência e vigor neste solo nem sempre mãe gentil. Mas não é o destino dos poetas autênticos da modernidade, de Baudelaire a Fernando Pessoa, tecerem seu canto como quem se sobrepõe às correntes adversas de um tempo sombrio, o mais ferozmente armado de códigos e látegos para "disciplinar" o poeta?  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Prefácio ao livro de Paulo Colina". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/pref-cio-ao-livro-de-paulo-colina](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/pref-cio-ao-livro-de-paulo-colina). Publicação original: In _A noite não pede licença_, Roswitha Kempf Editores, 1987.  
+    RIBEIRO, Leo Gilson. "Prefácio ao livro de Paulo Colina". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: In _A noite não pede licença_, Roswitha Kempf Editores, 1987.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/pref-cio-ao-livro-de-paulo-colina](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/pref-cio-ao-livro-de-paulo-colina).  
 
 === "BibTeX"
     ```latex  

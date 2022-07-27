@@ -1,12 +1,11 @@
 ---
-tags: [Correio da Manhã, "1965"]
+title: Literatura negra nos Estados Unidos - James Baldwin
 date: 1965/3/27
 publisher: Correio da Manhã
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Norte-americana?view=outline+select=1658628322
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/literatura-negra-nos-estados-unidos---james-baldwi.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Norte-americana/Literatura%20negra%20nos%20Estados%20Unidos%20-%20James%20Baldwin.md
-title: Literatura negra nos Estados Unidos - James Baldwin
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Norte-americana?view=outline+select=1658628322
+prototype: MarkdownNote
 ---
 
 # Literatura negra nos Estados Unidos - James Baldwin
@@ -38,8 +37,10 @@ James Baldwin ultrapassa essa incursão que terminou quando cessou o efeito das 
 Agora, James Baldwin forjou admiravelmente esta linguagem, que utiliza como uma catapulta de ideias e reflexões. A nossa época, que já conta com o *Diário de Anna Frank* e o de Maria Carolina de Jesus, além do *Journal du Voleur* de Jean Genet, tem agora completo o triângulo dos párias de vários regimes e várias épocas: o judeu, o negro e o homossexual. São misteriosas e muitas vezes ilógicas as trajetórias das palavras de um reformador que se exprime através da literatura. Não se exclui assim a possibilidade de que, apelando para a razão do americano branco consciente das suas responsabilidades, o autor nascido no Harlem atinja o ponto central do qual unicamente poderá partir a modificação que ele propõe e todos ambicionamos. Exemplarmente, a língua inglesa fala de *a change of heart* quando uma pessoa muda de opinião ou de ideia. É nesta "transformação de corações" e de cérebros cegados pelo racismo que reside a nossa esperança.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Literatura negra nos Estados Unidos - James Baldwin". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/literatura-negra-nos-estados-unidos---james-baldwi](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/literatura-negra-nos-estados-unidos---james-baldwi). Publicação original: Correio da Manhã, 1965/3/27.  
+    RIBEIRO, Leo Gilson. "Literatura negra nos Estados Unidos - James Baldwin". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Correio da Manhã, 1965/3/27.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/literatura-negra-nos-estados-unidos---james-baldwi](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/literatura-negra-nos-estados-unidos---james-baldwi).  
 
 === "BibTeX"
     ```latex  

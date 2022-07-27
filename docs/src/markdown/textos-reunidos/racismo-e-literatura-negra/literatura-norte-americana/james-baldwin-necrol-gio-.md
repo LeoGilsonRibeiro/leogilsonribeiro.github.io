@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1987"]
+title: James Baldwin (necrológio)
 date: 1987/12/2
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Norte-americana?view=outline+select=1658628325
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-necrol-gio-.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Norte-americana/James%20Baldwin%20(necrolo%CC%81gio).md
-title: James Baldwin (necrológio)
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Norte-americana?view=outline+select=1658628325
+prototype: MarkdownNote
 ---
 
 # James Baldwin (necrológio)
@@ -52,8 +51,10 @@ A celebridade, ele parece dizer, é a miséria presente que será festejada pela
 Ou, exprimindo seu pensamento de outra maneira: as leis não *mudam* o coração dos homens. Será que a biogenética conseguirá dotar o homem moderno de um coração sem ódio?  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "James Baldwin (necrológio)". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-necrol-gio-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-necrol-gio-). Publicação original: Jornal da Tarde, 1987/12/2.  
+    RIBEIRO, Leo Gilson. "James Baldwin (necrológio)". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1987/12/2.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-necrol-gio-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-necrol-gio-).  
 
 === "BibTeX"
     ```latex  

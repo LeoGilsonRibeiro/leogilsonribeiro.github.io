@@ -1,12 +1,11 @@
 ---
-tags: [Correio da Manhã, "1965"]
+title: Entrevista - León Damas e a Negritude brasileira
 date: 1965/04/03
 publisher: Correio da Manhã
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628336
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/entrevista---le-n-damas-e-a-negritude-brasileira.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Brasileira/Entrevista:%20Leo%CC%81n%20Damas%20e%20a%20NEgritude%20brasileira.md
-title: Entrevista - León Damas e a Negritude brasileira
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628336
+prototype: MarkdownNote
 ---
 
 # Entrevista - León Damas e a Negritude brasileira
@@ -33,8 +32,10 @@ Para o poeta, que já foi deputado, há uma estreita vinculação entre moviment
 Despedimo-nos do poeta artífice do movimento da *Négritude* enquanto ele se volta para os microfilmes tirados, na Biblioteca Nacional, dos escritores brasileiros e de seus antepassados. Sua atenção se detinha justamente na mãe de Castro Alves, na qual ele crê reconhecer traços de uma mestiça, justificando assim a eloquência veemente do "Navio Negreiro", partida de uma revolta emocional e intensamente pessoal. León Damas elabora uma obra sobre a contribuição do negro à cultura brasileira, focalizando um aspecto ainda não explorado da cultura que é do nosso País e dos seus ancestrais.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Entrevista - León Damas e a Negritude brasileira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/entrevista---le-n-damas-e-a-negritude-brasileira](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/entrevista---le-n-damas-e-a-negritude-brasileira). Publicação original: Correio da Manhã, 1965/04/03.  
+    RIBEIRO, Leo Gilson. "Entrevista - León Damas e a Negritude brasileira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Correio da Manhã, 1965/04/03.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/entrevista---le-n-damas-e-a-negritude-brasileira](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/entrevista---le-n-damas-e-a-negritude-brasileira).  
 
 === "BibTeX"
     ```latex  

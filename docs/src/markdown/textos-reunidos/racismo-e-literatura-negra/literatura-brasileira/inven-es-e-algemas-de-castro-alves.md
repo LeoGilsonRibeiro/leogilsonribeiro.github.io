@@ -1,12 +1,11 @@
 ---
-tags: [Veja, "1971"]
+title: Invenções e algemas de Castro Alves
 date: 1971/07/14
 publisher: Veja
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628329
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/inven-es-e-algemas-de-castro-alves.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Brasileira/Invenc%CC%A7o%CC%83es%20e%20algemas%20de%20Castro%20Alves.md
-title: Invenções e algemas de Castro Alves
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628329
+prototype: MarkdownNote
 ---
 
 # Invenções e algemas de Castro Alves
@@ -32,8 +31,10 @@ Mas, se a perspectiva do presente emagrece seu perfil qualitativo, aumenta a imp
 Ao formular sua poesia social -- em parte deslocada no tempo, pois alude ao tráfico negreiro abolido quase vinte anos antes de seu nascimento -- ele se aproximaria da definição de poesia que Shelley formulou: "O poeta é o desconhecido legislador da humanidade". Seus versos aceleraram a proclamação da lei de 13 de Maio e apressaram indiretamente a proclamação da República por sua arrebatadora comunicabilidade popular. No continente americano, só Whitman teria, em sua época, um impacto e uma grandeza democrática tão profundos.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Invenções e algemas de Castro Alves". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/inven-es-e-algemas-de-castro-alves](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/inven-es-e-algemas-de-castro-alves). Publicação original: Veja, 1971/07/14.  
+    RIBEIRO, Leo Gilson. "Invenções e algemas de Castro Alves". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Veja, 1971/07/14.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/inven-es-e-algemas-de-castro-alves](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/inven-es-e-algemas-de-castro-alves).  
 
 === "BibTeX"
     ```latex  

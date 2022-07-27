@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1981"]
+title: Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe.
 date: 1981/07/04
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628305
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-uma-arte-m-gica-e-sofrida-vinda-de-.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Africana/Angola%20escreve.%20Uma%20arte%20ma%CC%81gica%20e%20sofrida%20vinda%20de%20onde%20na%CC%83o%20se%20sabe..md
-title: Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe.
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628305
+prototype: MarkdownNote
 ---
 
 # Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe.
@@ -90,8 +89,10 @@ Até o coro que se ergue na prisão, paralelo ao sangue que se esvai:
 > Porque não quis falar"  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe.". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-uma-arte-m-gica-e-sofrida-vinda-de-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-uma-arte-m-gica-e-sofrida-vinda-de-). Publicação original: Jornal da Tarde, 1981/07/04.  
+    RIBEIRO, Leo Gilson. "Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe.". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1981/07/04.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-uma-arte-m-gica-e-sofrida-vinda-de-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-uma-arte-m-gica-e-sofrida-vinda-de-).  
 
 === "BibTeX"
     ```latex  

@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1986"]
+title: Poesia. Uma obra reunindo poetas negros de várias épocas
 date: 1986*
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628328
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/poesia-uma-obra-reunindo-poetas-negros-de-v-rias-p.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Brasileira/Poesia.%20Uma%20obra%20reunindo%20poetas%20negros%20de%20va%CC%81rias%20e%CC%81pocas.md
-title: Poesia. Uma obra reunindo poetas negros de várias épocas
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628328
+prototype: MarkdownNote
 ---
 
 # Poesia. Uma obra reunindo poetas negros de várias épocas
@@ -75,8 +74,10 @@ Paulo Colina, um poeta a meu ver já se afirma em plena maturidade do seu canto,
 Com exceção de Abelardo Rodrigues e de Éle Semog, os demais poetas não apresentam, nesta antologia (nem o incisivo Cuti), nada de extraordinário e é com a expectativa de futuras coletâneas, melhores, que fechamos esta agora, magra e insatisfatória no seu todo.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Poesia. Uma obra reunindo poetas negros de várias épocas". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/poesia-uma-obra-reunindo-poetas-negros-de-v-rias-p](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/poesia-uma-obra-reunindo-poetas-negros-de-v-rias-p). Publicação original: Jornal da Tarde, 1986*.  
+    RIBEIRO, Leo Gilson. "Poesia. Uma obra reunindo poetas negros de várias épocas". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1986*.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/poesia-uma-obra-reunindo-poetas-negros-de-v-rias-p](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/poesia-uma-obra-reunindo-poetas-negros-de-v-rias-p).  
 
 === "BibTeX"
     ```latex  

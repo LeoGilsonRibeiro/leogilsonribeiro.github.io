@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1981"]
+title: Angola Escreve. Alguns grandes autores do romance ao conto.
 date: 1981/08/04
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628314
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-alguns-grandes-autores-do-romance-a.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Africana/Angola%20Escreve.%20Alguns%20grandes%20autores%20do%20romance%20ao%20conto..md
-title: Angola Escreve. Alguns grandes autores do romance ao conto.
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628314
+prototype: MarkdownNote
 ---
 
 # Angola Escreve. Alguns grandes autores do romance ao conto.
@@ -128,8 +127,10 @@ Enfaticamente: não. Angola se faz TAMBÉM com a inteligência, a sensibilidade,
 Sem a contribuição original, livre de tutelas estrangeiras adiposas, a África Negra insuflará, na civilização maquinal que nos massacra, aquela alma que dela se alijou à força dentro do maniqueísmo asfixiante do capitalismo selvagem e do marxismo arcaizante. Afinal, a literatura permanece como testemunho da imaginação e como documento de uma época: são os tiranos que perecem e mal deixam rastros de sua passagem no efêmero quebradiço da História.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Angola Escreve. Alguns grandes autores do romance ao conto.". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-alguns-grandes-autores-do-romance-a](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-alguns-grandes-autores-do-romance-a). Publicação original: Jornal da Tarde, 1981/08/04.  
+    RIBEIRO, Leo Gilson. "Angola Escreve. Alguns grandes autores do romance ao conto.". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1981/08/04.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-alguns-grandes-autores-do-romance-a](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/angola-escreve-alguns-grandes-autores-do-romance-a).  
 
 === "BibTeX"
     ```latex  

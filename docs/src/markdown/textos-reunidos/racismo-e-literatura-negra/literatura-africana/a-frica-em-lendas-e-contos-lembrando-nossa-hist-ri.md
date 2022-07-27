@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1982"]
+title: A África em lendas e contos. Lembrando nossa História
 date: 1982/1/30
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628303
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-em-lendas-e-contos-lembrando-nossa-hist-ri.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Africana/A%20A%CC%81frica%20em%20lendas%20e%20contos.%20Lembrando%20nossa%20Histo%CC%81ria.md
-title: A África em lendas e contos. Lembrando nossa História
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628303
+prototype: MarkdownNote
 ---
 
 # A África em lendas e contos. Lembrando nossa História
@@ -80,8 +79,10 @@ O livro, farto em ilustrações, relata mais algumas lendas tradicionais, belas 
 Mas no Brasil de hoje em que, nunca é demais repisar no assunto, como que uma muralha de silêncio se ergue entre a informação existente no mundo e que não chega, por meio de traduções, até nós, em qualquer campo, da ecologia à ideologia e à memória histórica, esse livrinho abre uma fresta minúscula sobre a herança africana e nos deixa entrever quanto de fecundante, para o Brasil que os trouxe, além-oceano, e deve grande parte de sua especificidade como nação, reconhecidamente, ao elemento africano que aqui se aclimatou e com outros segmentos étnicos criou uma cultura que, dia a dia, delineia-se como inconfundivelmente brasileira, fruto de miscigenação como talvez o exemplo único em todo o mundo contemporâneo.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A África em lendas e contos. Lembrando nossa História". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-em-lendas-e-contos-lembrando-nossa-hist-ri](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-em-lendas-e-contos-lembrando-nossa-hist-ri). Publicação original: Jornal da Tarde, 1982/1/30.  
+    RIBEIRO, Leo Gilson. "A África em lendas e contos. Lembrando nossa História". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1982/1/30.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-em-lendas-e-contos-lembrando-nossa-hist-ri](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-em-lendas-e-contos-lembrando-nossa-hist-ri).  
 
 === "BibTeX"
     ```latex  

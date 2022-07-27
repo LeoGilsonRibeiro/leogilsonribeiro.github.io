@@ -1,21 +1,18 @@
 ---
-tags: [Livro: O Bom Crioulo (Por ocasião da reedição de sua obra ), "1983"]
+title: Resenha de LGR vetada e não publicada no *JT* sobre Adolfo Caminha
 date: 1983
-publisher: Livro: O Bom Crioulo (Por ocasião da reedição de sua obra )
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628330
+publisher: Reedição de sua obra "O Bom Crioulo"
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/resenha-de-lgr-vetada-e-n-o-publicada-no-jt-sobre-.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Brasileira/Resenha%20de%20LGR%20vetada%20e%20na%CC%83o%20publicada%20no%20*JT*%20sobre%20Adolfo%20Caminha.md
-title: Resenha de LGR vetada e não publicada no *JT* sobre Adolfo Caminha
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628330
+prototype: MarkdownNote
 ---
 
 # Resenha de LGR vetada e não publicada no *JT* sobre Adolfo Caminha
 
-__Leo Gilson Ribeiro__ &nbsp;&nbsp;&nbsp; :octicons-calendar-24: 1983 &nbsp;&nbsp;&nbsp; :material-newspaper-variant-outline: Livro: O Bom Crioulo (Por ocasião da reedição de sua obra )  
+__Leo Gilson Ribeiro__ &nbsp;&nbsp;&nbsp; :octicons-calendar-24: 1983 &nbsp;&nbsp;&nbsp; :material-newspaper-variant-outline: Reedição de sua obra "O Bom Crioulo"  
 
 ---
-
-*Por ocasião da reedição de sua obra *O Bom Crioulo* em 1983*
 
 > "Esse acervo de mentiras galantes e torpezas dissimuladas, esse cortiço de vespas que se denomina -- sociedade" Adolfo Caminha
 
@@ -84,8 +81,10 @@ As questões complexíssimas que *O Bom-Crioulo* suscita fazem deste livro uma r
 É singular, por último, como mero fecho destas anotações sucintas sobre uma de nossas obras-primas, destacar: o autor *não se exime* de formular uma pergunta muito mais importante do que as indagações sobre a libido, a sexualidade permitida ou não e até mesmo capaz de ultrapassar a injustiça que circunda a crueldade e a estupidez do racismo. Qual deve ser o procedimento ético, humano, de um ser humano para com o outro?  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Resenha de LGR vetada e não publicada no *JT* sobre Adolfo Caminha". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/resenha-de-lgr-vetada-e-n-o-publicada-no-jt-sobre-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/resenha-de-lgr-vetada-e-n-o-publicada-no-jt-sobre-). Publicação original: Livro: O Bom Crioulo (Por ocasião da reedição de sua obra ), 1983.  
+    RIBEIRO, Leo Gilson. "Resenha de LGR vetada e não publicada no *JT* sobre Adolfo Caminha". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Reedição de sua obra "O Bom Crioulo", 1983.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/resenha-de-lgr-vetada-e-n-o-publicada-no-jt-sobre-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/resenha-de-lgr-vetada-e-n-o-publicada-no-jt-sobre-).  
 
 === "BibTeX"
     ```latex  
@@ -95,7 +94,7 @@ As questões complexíssimas que *O Bom-Crioulo* suscita fazem deste livro uma r
     title = {Resenha de LGR vetada e não publicada no *JT* sobre Adolfo Caminha},  
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},  
     date = {2022},
-    origpublisher = {Livro: O Bom Crioulo (Por ocasião da reedição de sua obra )},  
+    origpublisher = {Reedição de sua obra "O Bom Crioulo"},  
     origdate = {1983},  
     url = {https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/resenha-de-lgr-vetada-e-n-o-publicada-no-jt-sobre-}
     }

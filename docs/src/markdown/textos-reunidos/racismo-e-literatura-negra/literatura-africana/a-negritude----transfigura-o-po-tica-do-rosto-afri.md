@@ -1,12 +1,11 @@
 ---
-tags: [Correio da Manhã, "1964"]
+title: A Negritude -- Transfiguração Poética do Rosto Africano
 date: 1964/12/20
 publisher: Correio da Manhã
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628312
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-negritude----transfigura-o-po-tica-do-rosto-afri.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Africana/A%20Negritude%20--%20Transfigurac%CC%A7a%CC%83o%20Poe%CC%81tica%20do%20Rosto%20Africano.md
-title: A Negritude -- Transfiguração Poética do Rosto Africano
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628312
+prototype: MarkdownNote
 ---
 
 # A Negritude -- Transfiguração Poética do Rosto Africano
@@ -134,8 +133,10 @@ Sobretudo, porém, essa consciência africana é fruto da reflexão do negro sob
 > Para nutrir as raízes da vida."  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A Negritude -- Transfiguração Poética do Rosto Africano". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-negritude----transfigura-o-po-tica-do-rosto-afri](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-negritude----transfigura-o-po-tica-do-rosto-afri). Publicação original: Correio da Manhã, 1964/12/20.  
+    RIBEIRO, Leo Gilson. "A Negritude -- Transfiguração Poética do Rosto Africano". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Correio da Manhã, 1964/12/20.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-negritude----transfigura-o-po-tica-do-rosto-afri](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-negritude----transfigura-o-po-tica-do-rosto-afri).  
 
 === "BibTeX"
     ```latex  

@@ -1,12 +1,11 @@
 ---
-tags: [O Estado de São Paulo, "1970"]
+title: O Evangelho da Solidão de Eduardo de Oliveira
 date: 1970/7/23
 publisher: O Estado de São Paulo
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628335
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-evangelho-da-solid-o-de-eduardo-de-oliveira.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Brasileira/O%20Evangelho%20da%20Solida%CC%83o%20de%20Eduardo%20de%20Oliveira.md
-title: O Evangelho da Solidão de Eduardo de Oliveira
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628335
+prototype: MarkdownNote
 ---
 
 # O Evangelho da Solidão de Eduardo de Oliveira
@@ -83,8 +82,10 @@ Mas uma força que adquiri um ritmo e uma expressão próprias, quando o poeta n
 O contacto com esta raiz expressiva e com os exemplos vigorosos da poesia negra -- de Langston Hughes aos poetas contemporâneos do Congo -- poderá trazer uma diretriz certa às suas hesitações poéticas, tornando-o uma expressão inédita da nossa poesia virgem -- a da negritude brasileira original.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O Evangelho da Solidão de Eduardo de Oliveira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-evangelho-da-solid-o-de-eduardo-de-oliveira](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-evangelho-da-solid-o-de-eduardo-de-oliveira). Publicação original: O Estado de São Paulo, 1970/7/23.  
+    RIBEIRO, Leo Gilson. "O Evangelho da Solidão de Eduardo de Oliveira". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: O Estado de São Paulo, 1970/7/23.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-evangelho-da-solid-o-de-eduardo-de-oliveira](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/o-evangelho-da-solid-o-de-eduardo-de-oliveira).  
 
 === "BibTeX"
     ```latex  

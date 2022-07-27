@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1990"]
+title: Nossa poesia negra, tentando falar alemão
 date: 1990/03/17
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628334
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/nossa-poesia-negra-tentando-falar-alem-o.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Brasileira/Nossa%20poesia%20negra,%20tentando%20falar%20alema%CC%83o.md
-title: Nossa poesia negra, tentando falar alemão
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628334
+prototype: MarkdownNote
 ---
 
 # Nossa poesia negra, tentando falar alemão
@@ -119,8 +118,10 @@ Houvesse mais vagar, não cometeríamos a injustiça de não focalizar outros po
 > só os ais."  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Nossa poesia negra, tentando falar alemão". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/nossa-poesia-negra-tentando-falar-alem-o](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/nossa-poesia-negra-tentando-falar-alem-o). Publicação original: Jornal da Tarde, 1990/03/17.  
+    RIBEIRO, Leo Gilson. "Nossa poesia negra, tentando falar alemão". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1990/03/17.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/nossa-poesia-negra-tentando-falar-alem-o](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/nossa-poesia-negra-tentando-falar-alem-o).  
 
 === "BibTeX"
     ```latex  

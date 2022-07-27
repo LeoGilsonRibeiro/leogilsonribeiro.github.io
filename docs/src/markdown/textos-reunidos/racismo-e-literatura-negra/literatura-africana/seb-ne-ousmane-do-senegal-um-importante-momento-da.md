@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1984"]
+title: Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução\...
 date: 1984
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628308
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-africana/seb-ne-ousmane-do-senegal-um-importante-momento-da.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Africana/Sebe%CC%80ne%20Ousmane%20do%20Senegal.%20Um%20importante%20momento%20da%20literatura%20africana.%20Mas%20a%20traduc%CC%A7a%CC%83o%5C....md
-title: Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução\...
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628308
+prototype: MarkdownNote
 ---
 
 # Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução\...
@@ -54,8 +53,10 @@ Da literatura africana é que nos virão temas novos, a libertação do jugo do 
 Sembène Ousmane é o outro lado da África: sem fanatismos, sem despotismos, sem terrorismos, sem obsessão pela epiderme. Ele lança um olhar penetrante, convincente sobre os seus semelhantes e não duvida da criação consciente de um mundo melhor. Um mundo sem usurpadores, mesmo quando estes empunham as bandeiras mais falsamente "democráticas" e "igualitárias" que podem desfraldar. A literatura africana claramente comprova, se for necessário comprovar o óbvio, que a literatura é o território mais livre, mais democrático, menos maleável pela propaganda -- comercial ou política -- de todas as atividades criativas do ser humano. Desta liberdade ela deriva a sua perenidade e a sua solidariedade com todos os seres humanos da Terra: ela é que acena com o verdadeiro e abrangente humanismo redescoberto.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução\...". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/seb-ne-ousmane-do-senegal-um-importante-momento-da](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/seb-ne-ousmane-do-senegal-um-importante-momento-da). Publicação original: Jornal da Tarde, 1984.  
+    RIBEIRO, Leo Gilson. "Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução\...". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1984.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/seb-ne-ousmane-do-senegal-um-importante-momento-da](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/seb-ne-ousmane-do-senegal-um-importante-momento-da).  
 
 === "BibTeX"
     ```latex  

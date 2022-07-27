@@ -1,12 +1,11 @@
 ---
-tags: [Correio da Manhã (Caminhos da cultura), "1965"]
+title: James Baldwin e o negro nos EUA
 date: 1965
 publisher: Correio da Manhã (Caminhos da cultura)
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Norte-americana?view=outline+select=1658628321
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-e-o-negro-nos-eua.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Norte-americana/James%20Baldwin%20e%20o%20negro%20nos%20EUA.md
-title: James Baldwin e o negro nos EUA
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Norte-americana?view=outline+select=1658628321
+prototype: MarkdownNote
 ---
 
 # James Baldwin e o negro nos EUA
@@ -36,8 +35,10 @@ A veemência de James Baldwin não é menor absolutamente com relação ao resse
 Seu impressionante documento pessoal e humano termina com um apelo aos negros e aos brancos "relativamente conscientes". É tarefa desses elementos lúcidos da sociedade americana despertar a consciência dos demais e cumprirem juntos o dever inadiável de por a termo ao "pesadelo racial", coo o denomina Baldwin, e mudar o curso dos acontecimentos nos Estados Unidos e no mundo. Se não ousarmos tudo para atingir esse objetivo de inspiração bíblica contida na canção do escravo que cantava: "Deus deu a Noé o sinal do arco-íris: Chega de água, da próxima vez: fogo!"  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "James Baldwin e o negro nos EUA". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-e-o-negro-nos-eua](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-e-o-negro-nos-eua). Publicação original: Correio da Manhã (Caminhos da cultura), 1965.  
+    RIBEIRO, Leo Gilson. "James Baldwin e o negro nos EUA". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Correio da Manhã (Caminhos da cultura), 1965.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-e-o-negro-nos-eua](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/james-baldwin-e-o-negro-nos-eua).  
 
 === "BibTeX"
     ```latex  

@@ -1,11 +1,10 @@
 ---
-tags: ["2022"]
+title: Racismo e literatura negra
 date: 2022/05
-prototype: Header
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos?view=outline+select=1658628293
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/
-title: Racismo e literatura negra
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos?view=outline+select=1658628293
+prototype: Header
 ---
 
 # Racismo e literatura negra
@@ -39,8 +38,10 @@ Outro aspecto que chama a atenção e que evidencia a formação acadêmica do a
 Um sinal interessante e ao mesmo tempo triste de nossa memória cultural é que muitos dos livros comentados por Leo Gilson Ribeiro de autores africanos, e que mais recentemente foram reeditados ou traduzidos pela primeira vez, infelizmente, não fazem nenhuma menção ao nosso crítico em suas respectivas introduções. Por outro lado, muitos autores por ele citados, ainda continuam inéditos esperando alguma editora que os disponibilize em boas traduções para o público ledor brasileiro.  
 
 
+
+
 === "ABNT"
-    PUENTE, Fernando Rey. "Racismo e literatura negra". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  
+    PUENTE, Fernando Rey. "Racismo e literatura negra". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra).  
 
 === "BibTeX"
     ```latex  

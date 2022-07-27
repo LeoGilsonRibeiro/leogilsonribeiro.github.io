@@ -1,12 +1,11 @@
 ---
-tags: [Christ und Welt, "1962"]
+title: A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus
 date: 1962/07/13
 publisher: Christ und Welt, n.28
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628333
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/a-m-e-coragem-negra-de-canind-sobre-os-di-rios-de-.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Brasileira/A%20Ma%CC%83e%20Coragem%20negra%20de%20Caninde%CC%81.%20Sobre%20os%20dia%CC%81rios%20de%20Carolina%20Maria%20de%20Jesus.md
-title: A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Brasileira?view=outline+select=1658628333
+prototype: MarkdownNote
 ---
 
 # A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus
@@ -58,8 +57,10 @@ Talvez nós encontremos o sentido profundo de seu documento à miséria humana, 
 O livro da brasileira testemunha similarmente uma crença absoluta na transcendência da palavra, na sua força de mudar o mundo circundante, como ela muito concretamente deveria vivenciar. Como um *negro spiritual* esse livro amargo contém ao lado de tanta tristeza uma faísca de consolação quando Carolina afirma que: "O ser humano não nasce despido - veste-o a esperança."  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/a-m-e-coragem-negra-de-canind-sobre-os-di-rios-de-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/a-m-e-coragem-negra-de-canind-sobre-os-di-rios-de-). Publicação original: Christ und Welt, n.28, 1962/07/13.  
+    RIBEIRO, Leo Gilson. "A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Christ und Welt, n.28, 1962/07/13.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/a-m-e-coragem-negra-de-canind-sobre-os-di-rios-de-](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-brasileira/a-m-e-coragem-negra-de-canind-sobre-os-di-rios-de-).  
 
 === "BibTeX"
     ```latex  

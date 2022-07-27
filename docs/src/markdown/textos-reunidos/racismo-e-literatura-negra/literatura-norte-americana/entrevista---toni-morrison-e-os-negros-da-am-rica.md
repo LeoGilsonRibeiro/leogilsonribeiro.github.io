@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1990"]
+title: Entrevista - Toni Morrison e os negros da América
 date: 1990/11/08
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Norte-americana?view=outline+select=1658628318
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/entrevista---toni-morrison-e-os-negros-da-am-rica.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Norte-americana/Entrevista:%20Toni%20Morrison%20e%20os%20negros%20da%20Ame%CC%81rica.md
-title: Entrevista - Toni Morrison e os negros da América
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Norte-americana?view=outline+select=1658628318
+prototype: MarkdownNote
 ---
 
 # Entrevista - Toni Morrison e os negros da América
@@ -44,8 +43,10 @@ Outra característica extraordinária de Toni Morrison, como escritora, que ela 
 Ah, sim, os árabes parecem que partilham esse sentimento: não decididamente, o preconceito racial não foi inventado em nossos países! "Há um livro extraordinário de Orlando Patterson chamado *Slavery and Social Death*, em que ele vai às fontes da escravidão em todas as regiões e épocas e chega à conclusão de que não há ninguém que não descenda de escravos". É verdade, lembro, a antropologia contemporânea fala de uma mãe universal, negra, africana, mãe dos mais louros escandinavos e até de Hitler\... E mesmo a majestosa Constituição dos Estados Unidos ignorou o *status* dos negros, dos índios: eles teriam alma? Seriam seres inteiramente humanos? "É, o Iluminismo e o racismo surgiram juntos, eis outra contradição da condição humana, Toni Morrison observa, prosseguindo: temos, *é indispensável* que mudemos isso antes da possível guerra no Iraque, sei lá, nos levar de roldão a todos pelos ares". E concorda comigo quando aos livros escolares e às leis anti-racistas acrescento o amor: "Realmente, o amor humano, embora não possamos legislar o coração. São os três elementos necessários além de eliminarmos o trauma de *todos* os preconceitos, não só o racismo. A literatura, a arte, têm poder, por isso estiveram sempre vigiadas por regimes totalitários, por puritanismos, pela censura. Mas mesmo que dure gerações e gerações, é imperativo mudarmos o mundo".  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Entrevista - Toni Morrison e os negros da América". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/entrevista---toni-morrison-e-os-negros-da-am-rica](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/entrevista---toni-morrison-e-os-negros-da-am-rica). Publicação original: Jornal da Tarde, 1990/11/08.  
+    RIBEIRO, Leo Gilson. "Entrevista - Toni Morrison e os negros da América". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1990/11/08.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/entrevista---toni-morrison-e-os-negros-da-am-rica](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-norte-americana/entrevista---toni-morrison-e-os-negros-da-am-rica).  
 
 === "BibTeX"
     ```latex  

@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1986"]
+title: Um Nobel para a África - Wole Soyinka
 date: 1986/10/17
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628313
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-africana/um-nobel-para-a-frica---wole-soyinka.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Africana/Um%20Nobel%20para%20a%20A%CC%81frica:%20Wole%20Soyinka%20.md
-title: Um Nobel para a África - Wole Soyinka
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628313
+prototype: MarkdownNote
 ---
 
 # Um Nobel para a África - Wole Soyinka
@@ -48,8 +47,10 @@ Se Virgínia Woolf, assustadoramente, perguntava: "Para que viver?" o autor nige
 Da prisão Wole Soyinka estabeleceu um princípio que antes dele todos os prisioneiros de consciência do mundo reafirmaram com a própria vida: não pode haver uma sociedade livre se a liberdade for extinta por um decreto governamental apoiado no poder de fogo das armas, de Manágua a Varsóvia. Deve ter sido este inabalável princípio ético de todos os tempos que levou o Prêmio Nobel a distinguir, este ano, afortunadamente, o nome íntegro e fecundo de Wole Soyinka.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Um Nobel para a África - Wole Soyinka". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/um-nobel-para-a-frica---wole-soyinka](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/um-nobel-para-a-frica---wole-soyinka). Publicação original: Jornal da Tarde, 1986/10/17.  
+    RIBEIRO, Leo Gilson. "Um Nobel para a África - Wole Soyinka". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1986/10/17.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/um-nobel-para-a-frica---wole-soyinka](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/um-nobel-para-a-frica---wole-soyinka).  
 
 === "BibTeX"
     ```latex  

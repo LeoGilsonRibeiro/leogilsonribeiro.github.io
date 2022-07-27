@@ -1,12 +1,11 @@
 ---
-tags: [Jornal da Tarde, "1983"]
+title: A África, hoje. Em dois bons livros. LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi
 date: 1983/05/28
 publisher: Jornal da Tarde
-prototype: MarkdownNote
-edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628306
 view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/markdown/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-hoje-em-dois-bons-livros-lgr-comenta-as-ob.md
 file_url: file:///Users/bcdav/Dropbox/Libraries/Blog/LGR/src/Markdown/Vol%201/Literatura%20Africana/A%20A%CC%81frica,%20hoje.%20Em%20dois%20bons%20livros.LGR%20comenta%20as%20obras%20de%20Chinua%20Achebe%20e%20Cyprian%20Ekwensi.md
-title: A África, hoje. Em dois bons livros. LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi
+edit_url: tinderbox://LGR/docs/src/markdown/Textos%20reunidos/Racismo%20e%20literatura%20negra/Literatura%20Africana?view=outline+select=1658628306
+prototype: MarkdownNote
 ---
 
 # A África, hoje. Em dois bons livros. LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi
@@ -54,8 +53,10 @@ Já em *Gente da Cidade*, Cyprian Ekwensi avocará para si a tarefa de retratar 
 A África tornou-se igual aos outros continentes? A extirpação da sua personalidade foi total? Não parece ser a resposta de autores tão diferentes e, no entanto, semelhantes em sua visão da Nigéria atual: a África milenar sutilmente se insinua em meio a uma civilização que lhe é antípoda e nela reconstrói o lado positivo da herança africana -- a doçura, a humanidade, o riso, o abandono do relógio de ponto em prol de uma cooperação comunitária cheia de solidariedade e reconquistada alegria. Apesar dos preconceitos e da opressão, a África vive.  
 
 
+
+
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A África, hoje. Em dois bons livros. LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-hoje-em-dois-bons-livros-lgr-comenta-as-ob](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-hoje-em-dois-bons-livros-lgr-comenta-as-ob). Publicação original: Jornal da Tarde, 1983/05/28.  
+    RIBEIRO, Leo Gilson. "A África, hoje. Em dois bons livros. LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi". In: PUENTE, Fernando Rey (org.). _Textos Reunidos de Leo Gilson Ribeiro_, 2022. Publicação original: Jornal da Tarde, 1983/05/28.  URL: [https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-hoje-em-dois-bons-livros-lgr-comenta-as-ob](https://github.com/bcdavasconcelos/lgr/textos-reunidos/racismo-e-literatura-negra/literatura-africana/a-frica-hoje-em-dois-bons-livros-lgr-comenta-as-ob).  
 
 === "BibTeX"
     ```latex  
