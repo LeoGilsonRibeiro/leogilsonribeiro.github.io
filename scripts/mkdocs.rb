@@ -11,8 +11,8 @@ require 'tempfile'
 require 'fileutils'
 
 replace = false
-folders = Dir['/Users/bcdav/Dropbox/Libraries/Blog/LGR/docs/src/**/']
-files = Dir['/Users/bcdav/Dropbox/Libraries/Blog/LGR/docs/src/**/*.md']
+folders = Dir['/Users/bcdav/Dropbox/Blog/LGR/docs/src/**/']
+files = Dir['/Users/bcdav/Dropbox/Blog/LGR/docs/src/**/*.md']
 
 links = {  }
 
