@@ -2,7 +2,11 @@
 .vscode/settings.json
 desktop.ini
 .texpadtmp/
+.idea/
 /*.png
+/*.rtf
+*.scriv
+/site
 .env.local
 .env.development.local
 .env.test.local
