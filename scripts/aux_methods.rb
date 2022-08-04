@@ -3,11 +3,11 @@
 # Métodos auxiliares
 
 # Adicionar metadados ao cabeçalho do arquivo markdown
-def add_metadata(author, title, text, path)
+def add_metadata(author, title, text, path) # rubocop:disable Metrics/AbcSize
 
   metadata = begin
                text.split("\n")[0].split(/;\h*/)
-             rescue
+             rescue StandardError
                return text
              end
 
@@ -24,10 +24,10 @@ def add_metadata(author, title, text, path)
   yml_delimiter = '---'
 
   yml_header = [yml_delimiter,
-                "title: #{fix_title(title)}",
+                "title: #{fix_doc_title(title)}",
                 "author: #{author}",
                 "date: #{date}",
-                "publisher: #{fix_title(publisher)}",
+                "publisher: #{fix_doc_title(publisher)}",
                 "view_url: #{yml_view_url}",
                 annote,
                 yml_delimiter].reject(&:empty?).join("\n")
@@ -37,33 +37,34 @@ def add_metadata(author, title, text, path)
 end
 
 # Método para eliminar caracteres ilegais em nomes de arquivos
-def fix_name(str)
+def string_to_path(str)
   str.unicode_normalize(:nfd).gsub(/\p{Mn}/, '') # Remover acentos (normalizar decompondo e remover non-spacing marks)
-     .gsub(/[\/?*:|"<>,.\\]/, '')                # Remover caracteres proibidos em nomes de arquivos
+     .gsub(/[\/?*:|"'<>,.\\]*/, '')                # Remover caracteres proibidos em nomes de arquivos
      .gsub(/  /, ' ')                            # Remover espaços duplos
      .gsub(/^(#|\s)+/, '')                       # Remover hash (#) e espaços antes
      .gsub(/^(\X{1,70}\b)/, '\1')                # Limitar tamanho do nome de arquivo a aprox. 70 caracteres
      .gsub(/ /, '-')
-     .gsub('--', '-')
+     .gsub(/-+/, '-')
      .unicode_normalize(:nfc)                    # Normalizar para NFC
+     .downcase
 end
 
-def fix_path(str)
+def path_to_slug(str)
   str.strip
      .gsub('/Users/bcdav/Dropbox/Blog/LGR/docs/markdown/', '')
      # .gsub(/\.md$/, '')
   # .gsub('/', '-')
 end
 
-def fix_title(str)
+def fix_doc_title(str)
   str.strip
-     .gsub(/\.$/, '')
+     .gsub(/\.*$/, '')
      .gsub(/[*]/, '')
-     .gsub(/Volume\W+(\d+):\W+/, '\1 ')
-     .gsub(/: /, ' - ')
+     .gsub(/Volume\W+(\d+):\W+/) { |_m| "Volume #{convert_to_new_roman(Regexp.last_match(1).to_i)}: " }
      .gsub(/--/, '-')
      .gsub('/', '-')
-     .gsub('"', '\"')
+     .gsub(/'/, '')
+     .gsub(/(^|$)/, "'")
 end
 
 

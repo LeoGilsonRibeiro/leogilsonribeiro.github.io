@@ -1,7 +1,8 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: false
 
-# Script para coletar, converter (docx → md) e dividir arquivos docx para serem usados em um site.
+# Converte arquivos em docx em um site utilizando mkdocs
+
 # Ruby static code analyzer & formatter configurations
 # https://rubocop.github.io/rubocop/
 # rubocop:disable Metrics/BlockLength
@@ -12,8 +13,8 @@
 
 start_time = Time.now
 require_relative 'aux_methods'
+require_relative 'roman_numerals'
 require 'fileutils'
-require 'clipboard'
 
 
 # Variáveis globais
@@ -58,19 +59,19 @@ Dir["#{markdown_volumes}/*.md"].each_with_index do |volume_file, v|
     vol_title = v.zero? ? 'Textos Reunidos' : text.split("\n")[0]
     if v.zero? # Apresentação
       vol_title = 'Textos Reunidos'
-      vol_dir = "#{docs_markdown}/#{fix_name(vol_title)}"
+      vol_dir = "#{docs_markdown}/#{string_to_path(vol_title)}"
       `mkdir -p "#{vol_dir}"` unless dry_run
       vol_file = "#{vol_dir}/README.md"
-      File.write(vol_file, add_metadata(AUTHOR1, fix_title(text.split("\n")[0]), text, vol_file)) unless dry_run
-      nav << "##{fix_title(vol_title)}:"
-      nav << "###{fix_title(text.split(/^# /)[0])}: #{fix_path(vol_file)}"
+      File.write(vol_file, add_metadata(AUTHOR1, fix_doc_title(text.split("\n")[0]), text, vol_file)) unless dry_run
+      nav << "##{fix_doc_title(vol_title)}:"
+      nav << "###{fix_doc_title(text.split(/^# /)[0])}: #{path_to_slug(vol_file)}"
       next
     else # Demais volumes
-      nav << "###{fix_title(vol_title)}:"
+      nav << "###{fix_doc_title(vol_title)}:"
     end
 
     text = text.gsub(vol_title, '').strip
-    vol_dir = "#{docs_markdown}/#{fix_name(vol_title.gsub(/:.+/, ''))}"
+    vol_dir = "#{docs_markdown}/#{string_to_path(vol_title.gsub(/:.+/, ''))}"
     `mkdir -p "#{(vol_dir)}"` unless dry_run
     puts "- #{vol_dir}" unless do_not_print_paths
 
@@ -79,7 +80,7 @@ Dir["#{markdown_volumes}/*.md"].each_with_index do |volume_file, v|
     parts_text.each_with_index do |part_text, i|
       next unless part_text =~ /[A-Za-z]+/
 
-      part_title = fix_title(part_text.split("\n")[0])
+      part_title = fix_doc_title(part_text.split("\n")[0])
       part_text = part_text.lines[1..-1].join
 
       if i.zero? && part_text !~ /^## /       # 1. Introdução H1 sem Capítulos (Padrão)
@@ -87,7 +88,7 @@ Dir["#{markdown_volumes}/*.md"].each_with_index do |volume_file, v|
         chapter_files << part_file = "#{part_dir}/README.md"
         File.write(part_file, add_metadata(AUTHOR1, 'Introdução', part_text.strip, part_file)) unless dry_run
         puts "    - #{part_file}" unless do_not_print_paths
-        nav << "####{fix_title(vol_title)}: #{fix_path(part_file)}"
+        nav << "####{fix_doc_title(vol_title)}: #{path_to_slug(part_file)}"
         next
 
       elsif i.zero? && part_text =~ /^## /    # 2. Introdução H1 com Capítulos (Solução adhoc)
@@ -95,7 +96,7 @@ Dir["#{markdown_volumes}/*.md"].each_with_index do |volume_file, v|
         chapter_files << part_file = "#{part_dir}/README.md"
         intro_text = part_text.split(/^## /)[0]
         File.write(part_file, add_metadata(AUTHOR1, part_title, intro_text, part_file)) unless dry_run
-        nav << "####{fix_title(vol_title)}: #{fix_path(part_file)}"
+        nav << "####{fix_doc_title(vol_title)}: #{path_to_slug(part_file)}"
 
         part_dir = "#{part_dir}/00-Introducao"
         `mkdir -p "#{part_dir}"` unless Dir.exist?(part_dir) || dry_run
@@ -105,7 +106,7 @@ Dir["#{markdown_volumes}/*.md"].each_with_index do |volume_file, v|
         puts "    - #{part_dir}" unless do_not_print_paths
 
       elsif i.positive? && part_text !~ /^## / # 3. Parte sem Capítulos (Exceções)
-        part_dir = "#{vol_dir}/#{i.to_s.rjust(2, '0')}-#{fix_name(part_title)}"
+        part_dir = "#{vol_dir}/#{i.to_s.rjust(2, '0')}-#{string_to_path(part_title)}"
         dir_list << [part_dir, part_title]
         dir_hash[part_dir] = part_title
         part_file = "#{part_dir}/README.md"
@@ -113,12 +114,12 @@ Dir["#{markdown_volumes}/*.md"].each_with_index do |volume_file, v|
         nav << "####{part_title.gsub(/: /, ' - ')}:"
         # puts "    - #{part_dir}" unless do_not_print_paths
         File.write(part_file, add_metadata(AUTHOR2, part_title, part_text, part_file)) unless dry_run
-        nav << "#####{part_title.gsub(/: /, ' - ')}: #{fix_path(part_file)}"
+        nav << "#####{part_title.gsub(/: /, ' - ')}: #{path_to_slug(part_file)}"
         # puts "        - #{part_file}" unless do_not_print_paths
         next
 
       elsif i.positive? && part_text =~ /^## / # 4. Parte com Capítulos (Padrão)
-        part_dir = "#{vol_dir}/#{i.to_s.rjust(2, '0')}-#{fix_name(part_title)}"
+        part_dir = "#{vol_dir}/#{i.to_s.rjust(2, '0')}-#{string_to_path(part_title)}"
         dir_list << [part_dir, part_title]
         dir_hash[part_dir] = part_title
         `mkdir -p "#{part_dir}"` unless Dir.exist?(part_dir) || dry_run
@@ -133,14 +134,14 @@ Dir["#{markdown_volumes}/*.md"].each_with_index do |volume_file, v|
       chapters.each_with_index do |chapter_text, ii|
         next if chapter_text !~ /[A-Za-z]+/
 
-        chapter_title = fix_title(chapter_text.split("\n")[0])
-        chapter_file  = "#{part_dir}/#{ii.to_s.rjust(2, '0')}-#{fix_name(chapter_title)}.md"
+        chapter_title = fix_doc_title(chapter_text.split("\n")[0])
+        chapter_file  = "#{part_dir}/#{ii.to_s.rjust(2, '0')}-#{string_to_path(chapter_title)}.md"
         chapter_text = chapter_text.lines[1..-1].join.strip
 
         `touch "#{chapter_file}"` unless dry_run
         File.write(chapter_file, add_metadata(AUTHOR2, chapter_title, chapter_text, chapter_file)) unless dry_run
         puts "        - #{chapter_file}" unless do_not_print_paths
-        nav << "#####{chapter_title.gsub(/: /, ' - ')}: #{fix_path(chapter_file)}"
+        nav << "#####{chapter_title.gsub(/: /, ' - ')}: #{path_to_slug(chapter_file)}"
       end # Capítulos
     end # Partes
   end # Volumes
