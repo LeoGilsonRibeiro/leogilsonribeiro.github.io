@@ -8,16 +8,16 @@
       <sourceFolder url="file://$MODULE_DIR$/features" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/site/Volume-1" />
-      <excludeFolder url="file://$MODULE_DIR$/site/Volume-2" />
-      <excludeFolder url="file://$MODULE_DIR$/site/Volume-3" />
-      <excludeFolder url="file://$MODULE_DIR$/site/Volume-4" />
-      <excludeFolder url="file://$MODULE_DIR$/site/Volume-5" />
-      <excludeFolder url="file://$MODULE_DIR$/site/Volume-6" />
       <excludeFolder url="file://$MODULE_DIR$/LGR.scriv/Files/Data" />
       <excludeFolder url="file://$MODULE_DIR$/LGR.scriv/QuickLook" />
       <excludeFolder url="file://$MODULE_DIR$/LGR.scriv/Settings" />
       <excludeFolder url="file://$MODULE_DIR$/LGR.scriv/Snapshots" />
+      <excludeFolder url="file://$MODULE_DIR$/site/volume-6" />
+      <excludeFolder url="file://$MODULE_DIR$/site/volume-5" />
+      <excludeFolder url="file://$MODULE_DIR$/site/volume-4" />
+      <excludeFolder url="file://$MODULE_DIR$/site/volume-3" />
+      <excludeFolder url="file://$MODULE_DIR$/site/volume-2" />
+      <excludeFolder url="file://$MODULE_DIR$/site/volume-1" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -44,6 +44,10 @@
 .md-typeset a {
     color: #3c95fa;
 }
+body > div.md-container > main > div > div.md-content > article > blockquote,
+body > div.md-container > main > div > div.md-content > article > p {
+  text-align: justify;
+}
 
 
 /*.md-typeset {*/
@@ -63,5 +67,3 @@
 /*  color: var(--md-default-bg-color)!important;*/
 /*  background-color: var(--md-primary-fg-color);*/
 /*}*/
-
-

@@ -93,7 +93,9 @@ markdown_extensions:
   - pymdownx.superfences:
       preserve_tabs: true
       custom_fences:
-        # Mermaid diagrams
+        - name: latex
+          class: latex
+          format: !!python/name:pymdownx.superfences.fence_code_format
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
@@ -112,252 +114,252 @@ extra_javascript:
   - assets/js/tablesort.js
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
 nav:
-  - 'Textos Reunidos':
-    - 'Apresentação aos Textos Reunidos de Leo Gilson Ribeiro': textos-reunidos/README.md
+  - 'Apresentação aos Textos Reunidos de Leo Gilson Ribeiro':
+    - 'Apresentação aos Textos Reunidos de Leo Gilson Ribeiro': apresentacao-aos-textos-reunidos-de-leo-gilson-ribeiro/README.md
     - 'Volume I: Racismo e literatura negra':
       - 'Volume I: Racismo e literatura negra': volume-1/README.md
       - Introdução:
         - 'Racismo, ideologia, propostas. E o artista?': volume-1/00-Introducao/00-racismo-ideologia-propostas-e-o-artista.md
         - 'Perfil da Literatura Negra': volume-1/00-Introducao/01-perfil-da-literatura-negra.md
-      - 'Literatura Brasileira':
-        - 'O negro na literatura brasileira': volume-1/01-literatura-brasileira/01-o-negro-na-literatura-brasileira.md
-        - 'Entrevista - León Damas e a Negritude brasileira': volume-1/01-literatura-brasileira/02-entrevista-leon-damas-e-a-negritude-brasileira.md
-        - 'Invenções e algemas de Castro Alves': volume-1/01-literatura-brasileira/03-invencoes-e-algemas-de-castro-alves.md
-        - 'O mulato Raimundo faz cem anos': volume-1/01-literatura-brasileira/04-o-mulato-raimundo-faz-cem-anos.md
-        - 'Resenha de LGR vetada e não publicada no JT sobre Adolfo Caminha': volume-1/01-literatura-brasileira/05-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha.md
-        - 'A revolta de um precursor': volume-1/01-literatura-brasileira/06-a-revolta-de-um-precursor.md
-        - 'Lima Barreto - altamente inovador. E quase desconhecido': volume-1/01-literatura-brasileira/07-lima-barreto-altamente-inovador-e-quase-desconhecido.md
-        - 'Lima Barreto - doce, feroz, iluminado. E esquecido': volume-1/01-literatura-brasileira/08-lima-barreto-doce-feroz-iluminado-e-esquecido.md
-        - 'Policarpo Quaresma, uma obra-prima envolta em doce amargura': volume-1/01-literatura-brasileira/09-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura.md
-        - 'A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus': volume-1/01-literatura-brasileira/10-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus.md
-        - 'O negro nos livros, poemas e teses': volume-1/01-literatura-brasileira/11-o-negro-nos-livros-poemas-e-teses.md
-        - 'Poesia. Uma obra reunindo poetas negros de várias épocas': volume-1/01-literatura-brasileira/12-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas.md
-        - 'Nossa poesia negra, tentando falar alemão': volume-1/01-literatura-brasileira/13-nossa-poesia-negra-tentando-falar-alemao.md
-        - 'O Evangelho da Solidão de Eduardo de Oliveira': volume-1/01-literatura-brasileira/14-o-evangelho-da-solidao-de-eduardo-de-oliveira.md
-        - 'Prefácio ao livro de Paulo Colina': volume-1/01-literatura-brasileira/15-prefacio-ao-livro-de-paulo-colina.md
-        - 'Paulo Colina - o poeta das cinzas': volume-1/01-literatura-brasileira/16-paulo-colina-o-poeta-das-cinzas.md
-      - 'Literatura Norte-americana':
-        - 'Literatura negra nos Estados Unidos - James Baldwin': volume-1/02-literatura-norte-americana/01-literatura-negra-nos-estados-unidos-james-baldwin.md
-        - 'James Baldwin e o negro nos EUA': volume-1/02-literatura-norte-americana/02-james-baldwin-e-o-negro-nos-eua.md
-        - 'O negro Baldwin luta pelos seus': volume-1/02-literatura-norte-americana/03-o-negro-baldwin-luta-pelos-seus.md
-        - 'James Baldwin (necrológio)': volume-1/02-literatura-norte-americana/04-james-baldwin-(necrologio).md
-        - 'Resenha do livro O Mensageiro de Charles Wright (Editora Nova Crítica, 1969)': volume-1/02-literatura-norte-americana/05-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969).md
-        - 'A influência decisiva de Richard Wright': volume-1/02-literatura-norte-americana/06-a-influencia-decisiva-de-richard-wright.md
-        - 'Entrevista - Toni Morrison e os negros da América': volume-1/02-literatura-norte-americana/07-entrevista-toni-morrison-e-os-negros-da-america.md
-        - 'Nota sobre o livro O Olho mais Azul de Toni Morrison': volume-1/02-literatura-norte-americana/08-nota-sobre-o-livro-o-olho-mais-azul-de-toni-morrison.md
-      - 'Literatura Africana':
-        - 'A África em lendas e contos. Lembrando nossa História': volume-1/03-literatura-africana/01-a-africa-em-lendas-e-contos-lembrando-nossa-historia.md
-        - 'A Negritude - Transfiguração Poética do Rosto Africano': volume-1/03-literatura-africana/02-a-negritude-transfiguracao-poetica-do-rosto-africano.md
-        - 'Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe': volume-1/03-literatura-africana/03-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe.md
-        - 'Angola Escreve. Alguns grandes autores do romance ao conto': volume-1/03-literatura-africana/04-angola-escreve-alguns-grandes-autores-do-romance-ao-conto.md
-        - 'A África e a liberdade. Entrevista com Luandino Vieira': volume-1/03-literatura-africana/05-a-africa-e-a-liberdade-entrevista-com-luandino-vieira.md
-        - 'Angola, num momento de reflexões e mudanças - Entrevista com o escritor angolano Agostinho Mendes': volume-1/03-literatura-africana/06-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes.md
-        - 'A última denúncia de Soromenho': volume-1/03-literatura-africana/07-a-ultima-denuncia-de-soromenho.md
-        - 'Senghor, o Orfeu negro': volume-1/03-literatura-africana/08-senghor-o-orfeu-negro.md
-        - 'Resenha sobre Poemas de Senghor': volume-1/03-literatura-africana/09-resenha-sobre-poemas-de-senghor.md
-        - '"A poesia não deve morrer. Senão, que esperança restaria ao mundo?"': volume-1/03-literatura-africana/10-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo.md
-        - 'Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução': volume-1/03-literatura-africana/11-sebene-ousmane-do-senegal-um-importante-momento-da-literatura-africana-mas-a-traducao.md
-        - 'A África, hoje. Em dois bons livros - LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi': volume-1/03-literatura-africana/12-a-africa-hoje-em-dois-bons-livros-lgr-comenta-as-obras-de-chinua-achebe-e-cyprian-ekwensi.md
-        - 'O negro e a cultura de Moçambique não merecem romance tão ruim quanto este': volume-1/03-literatura-africana/13-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este.md
-        - 'Resenha do livro - Um fuzil na mão um poema no bolso de Emmanuel Dongala': volume-1/03-literatura-africana/14-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala.md
-        - 'Um Nobel para a África - Wole Soyinka': volume-1/03-literatura-africana/15-um-nobel-para-a-africa-wole-soyinka.md
-        - 'Nota sobre o livro A Arma da Casa de Nadine Gordimer': volume-1/03-literatura-africana/16-nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordimer.md
-        - 'Nota sobre o livro Desonra de J. M. Coetzee': volume-1/03-literatura-africana/17-nota-sobre-o-livro-desonra-de-j-m-coetzee.md
+      - Literatura Brasileira:
+        - 'O negro na literatura brasileira': volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira.md
+        - 'Entrevista - León Damas e a Negritude brasileira': volume-1/01-literatura-brasileira/01-entrevista-leon-damas-e-a-negritude-brasileira.md
+        - 'Invenções e algemas de Castro Alves': volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves.md
+        - 'O mulato Raimundo faz cem anos': volume-1/01-literatura-brasileira/03-o-mulato-raimundo-faz-cem-anos.md
+        - 'Resenha de LGR vetada e não publicada no JT sobre Adolfo Caminha': volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha.md
+        - 'A revolta de um precursor': volume-1/01-literatura-brasileira/05-a-revolta-de-um-precursor.md
+        - 'Lima Barreto - altamente inovador. E quase desconhecido': volume-1/01-literatura-brasileira/06-lima-barreto-altamente-inovador-e-quase-desconhecido.md
+        - 'Lima Barreto - doce, feroz, iluminado. E esquecido': volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido.md
+        - 'Policarpo Quaresma, uma obra-prima envolta em doce amargura': volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura.md
+        - 'A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus': volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus.md
+        - 'O negro nos livros, poemas e teses': volume-1/01-literatura-brasileira/10-o-negro-nos-livros-poemas-e-teses.md
+        - 'Poesia. Uma obra reunindo poetas negros de várias épocas': volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas.md
+        - 'Nossa poesia negra, tentando falar alemão': volume-1/01-literatura-brasileira/12-nossa-poesia-negra-tentando-falar-alemao.md
+        - 'O Evangelho da Solidão de Eduardo de Oliveira': volume-1/01-literatura-brasileira/13-o-evangelho-da-solidao-de-eduardo-de-oliveira.md
+        - 'Prefácio ao livro de Paulo Colina': volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina.md
+        - 'Paulo Colina - o poeta das cinzas': volume-1/01-literatura-brasileira/15-paulo-colina-o-poeta-das-cinzas.md
+      - Literatura Norte-americana:
+        - 'Literatura negra nos Estados Unidos - James Baldwin': volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin.md
+        - 'James Baldwin e o negro nos EUA': volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua.md
+        - 'O negro Baldwin luta pelos seus': volume-1/02-literatura-norte-americana/02-o-negro-baldwin-luta-pelos-seus.md
+        - 'James Baldwin (necrológio)': volume-1/02-literatura-norte-americana/03-james-baldwin-(necrologio).md
+        - 'Resenha do livro O Mensageiro de Charles Wright (Editora Nova Crítica, 1969)': volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969).md
+        - 'A influência decisiva de Richard Wright': volume-1/02-literatura-norte-americana/05-a-influencia-decisiva-de-richard-wright.md
+        - 'Entrevista - Toni Morrison e os negros da América': volume-1/02-literatura-norte-americana/06-entrevista-toni-morrison-e-os-negros-da-america.md
+        - 'Nota sobre o livro O Olho mais Azul de Toni Morrison': volume-1/02-literatura-norte-americana/07-nota-sobre-o-livro-o-olho-mais-azul-de-toni-morrison.md
+      - Literatura Africana:
+        - 'A África em lendas e contos. Lembrando nossa História': volume-1/03-literatura-africana/00-a-africa-em-lendas-e-contos-lembrando-nossa-historia.md
+        - 'A Negritude - Transfiguração Poética do Rosto Africano': volume-1/03-literatura-africana/01-a-negritude-transfiguracao-poetica-do-rosto-africano.md
+        - 'Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe': volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe.md
+        - 'Angola Escreve. Alguns grandes autores do romance ao conto': volume-1/03-literatura-africana/03-angola-escreve-alguns-grandes-autores-do-romance-ao-conto.md
+        - 'A África e a liberdade. Entrevista com Luandino Vieira': volume-1/03-literatura-africana/04-a-africa-e-a-liberdade-entrevista-com-luandino-vieira.md
+        - 'Angola, num momento de reflexões e mudanças - Entrevista com o escritor angolano Agostinho Mendes': volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes.md
+        - 'A última denúncia de Soromenho': volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho.md
+        - 'Senghor, o Orfeu negro': volume-1/03-literatura-africana/07-senghor-o-orfeu-negro.md
+        - 'Resenha sobre Poemas de Senghor': volume-1/03-literatura-africana/08-resenha-sobre-poemas-de-senghor.md
+        - '"A poesia não deve morrer. Senão, que esperança restaria ao mundo?"': volume-1/03-literatura-africana/09-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo.md
+        - 'Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução': volume-1/03-literatura-africana/10-sebene-ousmane-do-senegal-um-importante-momento-da-literatura-africana-mas-a-traducao.md
+        - 'A África, hoje. Em dois bons livros - LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi': volume-1/03-literatura-africana/11-a-africa-hoje-em-dois-bons-livros-lgr-comenta-as-obras-de-chinua-achebe-e-cyprian-ekwensi.md
+        - 'O negro e a cultura de Moçambique não merecem romance tão ruim quanto este': volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este.md
+        - 'Resenha do livro - Um fuzil na mão um poema no bolso de Emmanuel Dongala': volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala.md
+        - 'Um Nobel para a África - Wole Soyinka': volume-1/03-literatura-africana/14-um-nobel-para-a-africa-wole-soyinka.md
+        - 'Nota sobre o livro A Arma da Casa de Nadine Gordimer': volume-1/03-literatura-africana/15-nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordimer.md
+        - 'Nota sobre o livro Desonra de J. M. Coetzee': volume-1/03-literatura-africana/16-nota-sobre-o-livro-desonra-de-j-m-coetzee.md
     - 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst':
       - 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst': volume-2/README.md
-      - 'Guimarães Rosa':
-        - 'Guimarães Rosa - o sertão, o mundo e a travessia': volume-2/01-guimaraes-rosa/01-guimaraes-rosa-o-sertao-o-mundo-e-a-travessia.md
-        - 'Breve roteiro da obra de Guimarães Rosa': volume-2/01-guimaraes-rosa/02-breve-roteiro-da-obra-de-guimaraes-rosa.md
-        - 'Um velho castelo maciço, uma nova flor poética': volume-2/01-guimaraes-rosa/03-um-velho-castelo-macico-uma-nova-flor-poetica.md
-        - 'Guimarães Rosa': volume-2/01-guimaraes-rosa/04-guimaraes-rosa.md
-        - 'Sobre o conto "A Hora e a Vez de Augusto Matraga"': volume-2/01-guimaraes-rosa/05-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga.md
-        - 'Tutaméia - um átomo explode': volume-2/01-guimaraes-rosa/06-tutameia-um-atomo-explode.md
-        - 'Orelha para a primeira edição do livro Estas Estórias (1969)': volume-2/01-guimaraes-rosa/07-orelha-para-a-primeira-edicao-do-livro-estas-estorias-(1969).md
-        - 'Adeus à palavra (nota sobre Ave, Palavra de G. Rosa)': volume-2/01-guimaraes-rosa/08-adeus-a-palavra-(nota-sobre-ave-palavra-de-g-rosa).md
-        - 'Guimarães Rosa 25 anos de veredas': volume-2/01-guimaraes-rosa/09-guimaraes-rosa-25-anos-de-veredas.md
-        - 'Vaqueiro de Roma': volume-2/01-guimaraes-rosa/10-vaqueiro-de-roma.md
-        - 'Entrevista com Edoardo Bizzarri': volume-2/01-guimaraes-rosa/11-entrevista-com-edoardo-bizzarri.md
-        - 'Guimarães Rosa - novas luzes sobre um fascinante enigma': volume-2/01-guimaraes-rosa/12-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma.md
-      - 'Clarice Lispector':
-        - 'Tentativa de explicação': volume-2/02-clarice-lispector/01-tentativa-de-explicacao.md
-        - 'Que mistérios tem Clarice Lispector?': volume-2/02-clarice-lispector/02-que-misterios-tem-clarice-lispector.md
-        - 'Carta de agradecimento a Clarice, por um novo livro': volume-2/02-clarice-lispector/03-carta-de-agradecimento-a-clarice-por-um-novo-livro.md
-        - 'Auto-inspecção': volume-2/02-clarice-lispector/04-auto-inspeccao.md
-        - 'Muito sveglia': volume-2/02-clarice-lispector/05-muito-sveglia.md
-        - 'Só os mais atentos conseguem encontrar esta maçã no escuro': volume-2/02-clarice-lispector/06-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro.md
-        - 'A hora das estrelas': volume-2/02-clarice-lispector/07-a-hora-das-estrelas.md
-        - 'Clarice num derradeiro espelho diante de si mesma': volume-2/02-clarice-lispector/08-clarice-num-derradeiro-espelho-diante-de-si-mesma.md
-        - 'Inéditos de Clarice, para se conhecer melhor Clarice': volume-2/02-clarice-lispector/09-ineditos-de-clarice-para-se-conhecer-melhor-clarice.md
-        - 'Clarice, uma mulher que morreu pela vontade de escrever': volume-2/02-clarice-lispector/10-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever.md
-        - 'Um reencontro fascinante com o universo de Clarice': volume-2/02-clarice-lispector/11-um-reencontro-fascinante-com-o-universo-de-clarice.md
-        - 'Clarice. Doando um fragmento iluminado de si mesma nestas crônicas': volume-2/02-clarice-lispector/12-clarice-doando-um-fragmento-iluminado-de-si-mesma-nestas-cronicas.md
-        - 'A silenciosa revolução de Clarice': volume-2/02-clarice-lispector/13-a-silenciosa-revolucao-de-clarice.md
-        - 'Evocação de Clarice': volume-2/02-clarice-lispector/14-evocacao-de-clarice.md
-      - 'Hilda Hilst':
-        - 'Nota sobre o livro Poesia 1959-1967 (Livraria Sal) de Hilda Hilst': volume-2/03-hilda-hilst/01-nota-sobre-o-livro-poesia-1959-1967-(livraria-sal)-de-hilda-hilst.md
-        - 'Esperando Haydum': volume-2/03-hilda-hilst/02-esperando-haydum.md
-        - 'Poetisa em prosa. Qadós de Hilda Hilst': volume-2/03-hilda-hilst/03-poetisa-em-prosa-qados-de-hilda-hilst.md
-        - 'O vermelho da vida. Júbilo, Memória, Noviciado da Paixão de Hilda Hilst LGR Veja 24 de abril de 1974': volume-2/03-hilda-hilst/04-o-vermelho-da-vida-jubilo-memoria-noviciado-da-paixao-de-hilda-hilst-lgr-veja-24-de-abril-de-1974.md
-        - 'Hilda Hilst. Em prosa ou poesia, a raridade de uma obra à frente de seu tempo': volume-2/03-hilda-hilst/05-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo.md
-        - 'Hilda Hilst, Ficções (São Paulo - Edições Quíron Limitada, 1977), pp. VII- XII': volume-2/03-hilda-hilst/06-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii.md
-        - 'As múltiplas seduções de Hilda Hilst - entrevista': volume-2/03-hilda-hilst/07-as-multiplas-seducoes-de-hilda-hilst-entrevista.md
-        - 'Depoimento de Hilda Hilst - "Eu quero a junção do misticismo com a ciência"': volume-2/03-hilda-hilst/08-depoimento-de-hilda-hilst-eu-quero-a-juncao-do-misticismo-com-a-ciencia.md
-        - 'A morte, saudada em versos iluminados. Por Hilda Hilst': volume-2/03-hilda-hilst/09-a-morte-saudada-em-versos-iluminados-por-hilda-hilst.md
-        - 'Quem tem medo de Hilda Hist?': volume-2/03-hilda-hilst/10-quem-tem-medo-de-hilda-hist.md
-        - 'Os versos de Hilda Hilst, integrando a nossa realidade': volume-2/03-hilda-hilst/11-os-versos-de-hilda-hilst-integrando-a-nossa-realidade.md
-        - 'Mais uma obra de Hilda Hilst. Com todos os superlativos': volume-2/03-hilda-hilst/12-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos.md
-        - 'Hilda, encantamento místico inigualável': volume-2/03-hilda-hilst/13-hilda-encantamento-mistico-inigualavel.md
-        - 'A esperança de chegar um dia a ter esperança. Hilda Hilst esta é a literatura que eu escrevo': volume-2/03-hilda-hilst/14-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo.md
-        - 'Hilda Hilst, cósmica e atemporal. Em busca de Deus': volume-2/03-hilda-hilst/15-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus.md
-        - 'Punhal destemido. Nota sobre Com os Meus Olhos de Cão de Hilda Hilst': volume-2/03-hilda-hilst/16-punhal-destemido-nota-sobre-com-os-meus-olhos-de-cao-de-hilda-hilst.md
-        - 'Hilda Hilst': volume-2/03-hilda-hilst/17-hilda-hilst.md
-        - 'A luminosa despedida seguida de um longo depoimento de Hilda Hilst': volume-2/03-hilda-hilst/18-a-luminosa-despedida-seguida-de-um-longo-depoimento-de-hilda-hilst.md
-        - 'Da Ficção': volume-2/03-hilda-hilst/19-da-ficcao.md
+      - Guimarães Rosa:
+        - 'Guimarães Rosa - o sertão, o mundo e a travessia': volume-2/01-guimaraes-rosa/00-guimaraes-rosa-o-sertao-o-mundo-e-a-travessia.md
+        - 'Breve roteiro da obra de Guimarães Rosa': volume-2/01-guimaraes-rosa/01-breve-roteiro-da-obra-de-guimaraes-rosa.md
+        - 'Um velho castelo maciço, uma nova flor poética': volume-2/01-guimaraes-rosa/02-um-velho-castelo-macico-uma-nova-flor-poetica.md
+        - 'Guimarães Rosa': volume-2/01-guimaraes-rosa/03-guimaraes-rosa.md
+        - 'Sobre o conto "A Hora e a Vez de Augusto Matraga"': volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga.md
+        - 'Tutaméia - um átomo explode': volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode.md
+        - 'Orelha para a primeira edição do livro Estas Estórias (1969)': volume-2/01-guimaraes-rosa/06-orelha-para-a-primeira-edicao-do-livro-estas-estorias-(1969).md
+        - 'Adeus à palavra (nota sobre Ave, Palavra de G. Rosa)': volume-2/01-guimaraes-rosa/07-adeus-a-palavra-(nota-sobre-ave-palavra-de-g-rosa).md
+        - 'Guimarães Rosa 25 anos de veredas': volume-2/01-guimaraes-rosa/08-guimaraes-rosa-25-anos-de-veredas.md
+        - 'Vaqueiro de Roma': volume-2/01-guimaraes-rosa/09-vaqueiro-de-roma.md
+        - 'Entrevista com Edoardo Bizzarri': volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri.md
+        - 'Guimarães Rosa - novas luzes sobre um fascinante enigma': volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma.md
+      - Clarice Lispector:
+        - 'Tentativa de explicação': volume-2/02-clarice-lispector/00-tentativa-de-explicacao.md
+        - 'Que mistérios tem Clarice Lispector?': volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector.md
+        - 'Carta de agradecimento a Clarice, por um novo livro': volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro.md
+        - 'Auto-inspecção': volume-2/02-clarice-lispector/03-auto-inspeccao.md
+        - 'Muito sveglia': volume-2/02-clarice-lispector/04-muito-sveglia.md
+        - 'Só os mais atentos conseguem encontrar esta maçã no escuro': volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro.md
+        - 'A hora das estrelas': volume-2/02-clarice-lispector/06-a-hora-das-estrelas.md
+        - 'Clarice num derradeiro espelho diante de si mesma': volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma.md
+        - 'Inéditos de Clarice, para se conhecer melhor Clarice': volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice.md
+        - 'Clarice, uma mulher que morreu pela vontade de escrever': volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever.md
+        - 'Um reencontro fascinante com o universo de Clarice': volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice.md
+        - 'Clarice. Doando um fragmento iluminado de si mesma nestas crônicas': volume-2/02-clarice-lispector/11-clarice-doando-um-fragmento-iluminado-de-si-mesma-nestas-cronicas.md
+        - 'A silenciosa revolução de Clarice': volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice.md
+        - 'Evocação de Clarice': volume-2/02-clarice-lispector/13-evocacao-de-clarice.md
+      - Hilda Hilst:
+        - 'Nota sobre o livro Poesia 1959-1967 (Livraria Sal) de Hilda Hilst': volume-2/03-hilda-hilst/00-nota-sobre-o-livro-poesia-1959-1967-(livraria-sal)-de-hilda-hilst.md
+        - 'Esperando Haydum': volume-2/03-hilda-hilst/01-esperando-haydum.md
+        - 'Poetisa em prosa. Qadós de Hilda Hilst': volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst.md
+        - 'O vermelho da vida. Júbilo, Memória, Noviciado da Paixão de Hilda Hilst LGR Veja 24 de abril de 1974': volume-2/03-hilda-hilst/03-o-vermelho-da-vida-jubilo-memoria-noviciado-da-paixao-de-hilda-hilst-lgr-veja-24-de-abril-de-1974.md
+        - 'Hilda Hilst. Em prosa ou poesia, a raridade de uma obra à frente de seu tempo': volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo.md
+        - 'Hilda Hilst, Ficções (São Paulo - Edições Quíron Limitada, 1977), pp. VII- XII': volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii.md
+        - 'As múltiplas seduções de Hilda Hilst - entrevista': volume-2/03-hilda-hilst/06-as-multiplas-seducoes-de-hilda-hilst-entrevista.md
+        - 'Depoimento de Hilda Hilst - "Eu quero a junção do misticismo com a ciência"': volume-2/03-hilda-hilst/07-depoimento-de-hilda-hilst-eu-quero-a-juncao-do-misticismo-com-a-ciencia.md
+        - 'A morte, saudada em versos iluminados. Por Hilda Hilst': volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst.md
+        - 'Quem tem medo de Hilda Hist?': volume-2/03-hilda-hilst/09-quem-tem-medo-de-hilda-hist.md
+        - 'Os versos de Hilda Hilst, integrando a nossa realidade': volume-2/03-hilda-hilst/10-os-versos-de-hilda-hilst-integrando-a-nossa-realidade.md
+        - 'Mais uma obra de Hilda Hilst. Com todos os superlativos': volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos.md
+        - 'Hilda, encantamento místico inigualável': volume-2/03-hilda-hilst/12-hilda-encantamento-mistico-inigualavel.md
+        - 'A esperança de chegar um dia a ter esperança. Hilda Hilst esta é a literatura que eu escrevo': volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo.md
+        - 'Hilda Hilst, cósmica e atemporal. Em busca de Deus': volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus.md
+        - 'Punhal destemido. Nota sobre Com os Meus Olhos de Cão de Hilda Hilst': volume-2/03-hilda-hilst/15-punhal-destemido-nota-sobre-com-os-meus-olhos-de-cao-de-hilda-hilst.md
+        - 'Hilda Hilst': volume-2/03-hilda-hilst/16-hilda-hilst.md
+        - 'A luminosa despedida seguida de um longo depoimento de Hilda Hilst': volume-2/03-hilda-hilst/17-a-luminosa-despedida-seguida-de-um-longo-depoimento-de-hilda-hilst.md
+        - 'Da Ficção': volume-2/03-hilda-hilst/18-da-ficcao.md
     - 'Volume III: Testemunhos Literários do século XX':
       - 'Volume III: Testemunhos Literários do século XX': volume-3/README.md
-      - 'Revolução Estética da Arte Moderna':
-        - 'Revolução Estética da Arte Moderna': volume-3/01-revolucao-estetica-da-arte-moderna/README.md
-      - 'Charles Baudelaire':
-        - 'Baudelaire e a revolução da metáfora poética': volume-3/02-charles-baudelaire/01-baudelaire-e-a-revolucao-da-metafora-poetica.md
-        - 'Dois adendos posteriores sobre Baudelaire': volume-3/02-charles-baudelaire/02-dois-adendos-posteriores-sobre-baudelaire.md
-        - 'A tradução de As Flores do Mal de Baudelaire': volume-3/02-charles-baudelaire/03-a-traducao-de-as-flores-do-mal-de-baudelaire.md
-      - 'Federico García Lorca':
-        - 'De sangue, de amor e morte falou Lorca': volume-3/03-federico-garcia-lorca/01-de-sangue-de-amor-e-morte-falou-lorca.md
-        - 'García Lorca e o Romancero Gitano': volume-3/03-federico-garcia-lorca/02-garcia-lorca-e-o-romancero-gitano.md
-        - 'Adendo': volume-3/03-federico-garcia-lorca/03-adendo.md
-      - 'Franz Kafka':
-        - 'Kafka (Curso)\': volume-3/04-franz-kafka/01-kafka-(curso).md
-        - 'As cartas a Milena como documento literário e da angústia de Kafka': volume-3/04-franz-kafka/02-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka.md
-        - 'Adendos sobre Kafka': volume-3/04-franz-kafka/03-adendos-sobre-kafka.md
-        - 'Kafka em Praga': volume-3/04-franz-kafka/04-kafka-em-praga.md
-        - 'Kafka (1983)\': volume-3/04-franz-kafka/05-kafka-(1983).md
-      - 'Jean Genet':
-        - 'A assunção do martírio': volume-3/05-jean-genet/01-a-assuncao-do-martirio.md
-        - 'Adendo': volume-3/05-jean-genet/02-adendo.md
-      - 'Henry James':
-        - 'A musa trágica': volume-3/06-henry-james/01-a-musa-tragica.md
-        - 'Adendos': volume-3/06-henry-james/02-adendos.md
-        - 'A redescoberta de Henry James II': volume-3/06-henry-james/03-a-redescoberta-de-henry-james-ii.md
-        - 'A tragédia e a vitória de Henry James': volume-3/06-henry-james/04-a-tragedia-e-a-vitoria-de-henry-james.md
-      - 'Guimarães Rosa':
-        - 'Miguilim e o conhecimento da dor': volume-3/07-guimaraes-rosa/01-miguilim-e-o-conhecimento-da-dor.md
+      - Revolução Estética da Arte Moderna:
+        - Revolução Estética da Arte Moderna: volume-3/01-revolucao-estetica-da-arte-moderna/README.md
+      - Charles Baudelaire:
+        - 'Baudelaire e a revolução da metáfora poética': volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica.md
+        - 'Dois adendos posteriores sobre Baudelaire': volume-3/02-charles-baudelaire/01-dois-adendos-posteriores-sobre-baudelaire.md
+        - 'A tradução de As Flores do Mal de Baudelaire': volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire.md
+      - Federico García Lorca:
+        - 'De sangue, de amor e morte falou Lorca': volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca.md
+        - 'García Lorca e o Romancero Gitano': volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano.md
+        - 'Adendo': volume-3/03-federico-garcia-lorca/02-adendo.md
+      - Franz Kafka:
+        - 'Kafka (Curso)\': volume-3/04-franz-kafka/00-kafka-(curso).md
+        - 'As cartas a Milena como documento literário e da angústia de Kafka': volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka.md
+        - 'Adendos sobre Kafka': volume-3/04-franz-kafka/02-adendos-sobre-kafka.md
+        - 'Kafka em Praga': volume-3/04-franz-kafka/03-kafka-em-praga.md
+        - 'Kafka (1983)\': volume-3/04-franz-kafka/04-kafka-(1983).md
+      - Jean Genet:
+        - 'A assunção do martírio': volume-3/05-jean-genet/00-a-assuncao-do-martirio.md
+        - 'Adendo': volume-3/05-jean-genet/01-adendo.md
+      - Henry James:
+        - 'A musa trágica': volume-3/06-henry-james/00-a-musa-tragica.md
+        - 'Adendos': volume-3/06-henry-james/01-adendos.md
+        - 'A redescoberta de Henry James II': volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii.md
+        - 'A tragédia e a vitória de Henry James': volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james.md
+      - Guimarães Rosa:
+        - 'Miguilim e o conhecimento da dor': volume-3/07-guimaraes-rosa/00-miguilim-e-o-conhecimento-da-dor.md
     - 'Volume IV: Poetas brasileiros contemporâneos':
       - 'Volume IV: Poetas brasileiros contemporâneos': volume-4/README.md
-      - 'A Prosa dos Poetas':
-        - 'Manuel não está falando à toa': volume-4/01-a-prosa-dos-poetas/01-manuel-nao-esta-falando-a-toa.md
-        - 'Nota sobre o livro Fala, Amendoeira': volume-4/01-a-prosa-dos-poetas/02-nota-sobre-o-livro-fala-amendoeira.md
-        - 'A prosa dos poetas, oportuna e brilhante': volume-4/01-a-prosa-dos-poetas/03-a-prosa-dos-poetas-oportuna-e-brilhante.md
-        - 'Drummond': volume-4/01-a-prosa-dos-poetas/04-drummond.md
-      - 'Manuel Bandeira':
-        - 'Manuel Bandeira, um poeta dez anos maior': volume-4/02-manuel-bandeira/01-manuel-bandeira-um-poeta-dez-anos-maior.md
-        - 'Manuel Bandeira': volume-4/02-manuel-bandeira/02-manuel-bandeira.md
-      - 'Carlos Drummond de Andrade':
-        - 'O universo mineiro de Drummond': volume-4/03-carlos-drummond-de-andrade/01-o-universo-mineiro-de-drummond.md
-        - 'Drummond - comovido, feroz. Exato': volume-4/03-carlos-drummond-de-andrade/02-drummond-comovido-feroz-exato.md
-      - 'Alphonsus de Guimaraens e Alphonsus de Guimaraens Filho':
-        - 'Lírios, luar, rosas desfolhadas - é a poesia de Alphonsus': volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-lirios-luar-rosas-desfolhadas-e-a-poesia-de-alphonsus.md
-        - 'Poemas. Beleza e magia em versos cintilantes': volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/02-poemas-beleza-e-magia-em-versos-cintilantes.md
-      - 'Cecília Meireles':
-        - 'Recordando Cecília Meireles': volume-4/05-cecilia-meireles/01-recordando-cecilia-meireles.md
-        - 'Cecília Meireles': volume-4/05-cecilia-meireles/02-cecilia-meireles.md
-        - 'Cecília em momentos de pouco brilho. Ainda assim, admirável': volume-4/05-cecilia-meireles/03-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel.md
-        - 'Cecília Meireles. Um canto fascinado e lúcido': volume-4/05-cecilia-meireles/04-cecilia-meireles-um-canto-fascinado-e-lucido.md
-      - 'Murilo Mendes':
-        - 'Entrevista': volume-4/06-murilo-mendes/01-entrevista.md
-        - 'Inconfundível marca diáfana, abstrata': volume-4/06-murilo-mendes/02-inconfundivel-marca-diafana-abstrata.md
-        - 'Na singeleza dos versos, a revelação de uma poetisa inigualável': volume-4/06-murilo-mendes/03-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel.md
-        - 'A poesia deste livro inaugura nosso ano literário': volume-4/06-murilo-mendes/04-a-poesia-deste-livro-inaugura-nosso-ano-literario.md
-        - 'Um presente para a sensibilidade': volume-4/06-murilo-mendes/05-um-presente-para-a-sensibilidade.md
-      - 'Jorge de Lima':
-        - 'Jorge de Lima, poeta maior': volume-4/07-jorge-de-lima/01-jorge-de-lima-poeta-maior.md
-      - 'João Cabral de Melo Neto':
-        - 'João Cabral rega com poesia a aridez de nossa literatura': volume-4/08-joao-cabral-de-melo-neto/01-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura.md
-      - 'Mário Chamie':
-        - 'Um poeta como os gregos queriam - profetizando o futuro, observando o presente': volume-4/09-mario-chamie/01-um-poeta-como-os-gregos-queriam-profetizando-o-futuro-observando-o-presente.md
-        - 'Mário Chamie. Meditações sobre a falta de liberdade': volume-4/09-mario-chamie/02-mario-chamie-meditacoes-sobre-a-falta-de-liberdade.md
-      - 'Carlos Nejar':
-        - 'Amoroso, elegíaco, meditativo, social, épico - Carlos Nejar': volume-4/10-carlos-nejar/01-amoroso-elegiaco-meditativo-social-epico-carlos-nejar.md
-        - 'Vinte anos de poesia, à procura de novos caminhos': volume-4/10-carlos-nejar/02-vinte-anos-de-poesia-a-procura-de-novos-caminhos.md
-      - 'Mauro Mota':
-        - 'A poesia quase secreta do Recife - Mauro Mota, Itinerário': volume-4/11-mauro-mota/01-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario.md
-      - 'Emílio Moura':
-        - 'A delicada textura poética de Emílio Moura': volume-4/12-emilio-moura/01-a-delicada-textura-poetica-de-emilio-moura.md
-      - 'Sérgio Campos':
-        - 'Fino, sutil, erudito - Sérgio Campos, Móbiles de Sal': volume-4/13-sergio-campos/01-fino-sutil-erudito-sergio-campos-mobiles-de-sal.md
-      - 'Cora Coralina':
-        - 'Cora Coralina. A morte da poetisa. E de um grande ser humano': volume-4/14-cora-coralina/01-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano.md
-        - 'Jovem, cínica, desesperada, terna... A nova poesia brasileira é mais que uma promessa': volume-4/14-cora-coralina/02-jovem-cinica-desesperada-terna-a-nova-poesia-brasileira-e-mais-que-uma-promessa.md
-      - 'Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos':
-        - 'Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos': volume-4/15-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos/README.md
+      - A Prosa dos Poetas:
+        - 'Manuel não está falando à toa': volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa.md
+        - 'Nota sobre o livro Fala, Amendoeira': volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira.md
+        - 'A prosa dos poetas, oportuna e brilhante': volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante.md
+        - 'Drummond': volume-4/01-a-prosa-dos-poetas/03-drummond.md
+      - Manuel Bandeira:
+        - 'Manuel Bandeira, um poeta dez anos maior': volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior.md
+        - 'Manuel Bandeira': volume-4/02-manuel-bandeira/01-manuel-bandeira.md
+      - Carlos Drummond de Andrade:
+        - 'O universo mineiro de Drummond': volume-4/03-carlos-drummond-de-andrade/00-o-universo-mineiro-de-drummond.md
+        - 'Drummond - comovido, feroz. Exato': volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato.md
+      - Alphonsus de Guimaraens e Alphonsus de Guimaraens Filho:
+        - 'Lírios, luar, rosas desfolhadas - é a poesia de Alphonsus': volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/00-lirios-luar-rosas-desfolhadas-e-a-poesia-de-alphonsus.md
+        - 'Poemas. Beleza e magia em versos cintilantes': volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes.md
+      - Cecília Meireles:
+        - 'Recordando Cecília Meireles': volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles.md
+        - 'Cecília Meireles': volume-4/05-cecilia-meireles/01-cecilia-meireles.md
+        - 'Cecília em momentos de pouco brilho. Ainda assim, admirável': volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel.md
+        - 'Cecília Meireles. Um canto fascinado e lúcido': volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido.md
+      - Murilo Mendes:
+        - 'Entrevista': volume-4/06-murilo-mendes/00-entrevista.md
+        - 'Inconfundível marca diáfana, abstrata': volume-4/06-murilo-mendes/01-inconfundivel-marca-diafana-abstrata.md
+        - 'Na singeleza dos versos, a revelação de uma poetisa inigualável': volume-4/06-murilo-mendes/02-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel.md
+        - 'A poesia deste livro inaugura nosso ano literário': volume-4/06-murilo-mendes/03-a-poesia-deste-livro-inaugura-nosso-ano-literario.md
+        - 'Um presente para a sensibilidade': volume-4/06-murilo-mendes/04-um-presente-para-a-sensibilidade.md
+      - Jorge de Lima:
+        - 'Jorge de Lima, poeta maior': volume-4/07-jorge-de-lima/00-jorge-de-lima-poeta-maior.md
+      - João Cabral de Melo Neto:
+        - 'João Cabral rega com poesia a aridez de nossa literatura': volume-4/08-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura.md
+      - Mário Chamie:
+        - 'Um poeta como os gregos queriam - profetizando o futuro, observando o presente': volume-4/09-mario-chamie/00-um-poeta-como-os-gregos-queriam-profetizando-o-futuro-observando-o-presente.md
+        - 'Mário Chamie. Meditações sobre a falta de liberdade': volume-4/09-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade.md
+      - Carlos Nejar:
+        - 'Amoroso, elegíaco, meditativo, social, épico - Carlos Nejar': volume-4/10-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar.md
+        - 'Vinte anos de poesia, à procura de novos caminhos': volume-4/10-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos.md
+      - Mauro Mota:
+        - 'A poesia quase secreta do Recife - Mauro Mota, Itinerário': volume-4/11-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario.md
+      - Emílio Moura:
+        - 'A delicada textura poética de Emílio Moura': volume-4/12-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura.md
+      - Sérgio Campos:
+        - 'Fino, sutil, erudito - Sérgio Campos, Móbiles de Sal': volume-4/13-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal.md
+      - Cora Coralina:
+        - 'Cora Coralina. A morte da poetisa. E de um grande ser humano': volume-4/14-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano.md
+        - 'Jovem, cínica, desesperada, terna... A nova poesia brasileira é mais que uma promessa': volume-4/14-cora-coralina/01-jovem-cinica-desesperada-terna-a-nova-poesia-brasileira-e-mais-que-uma-promessa.md
+      - Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos.:
+        - Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos.: volume-4/15-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos/README.md
     - 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios':
       - 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios': volume-5/README.md
-      - 'Semana de Arte Moderna de 1922':
-        - 'Foi nosso primeiro happening urbano': volume-5/01-semana-de-arte-moderna-de-1922/01-foi-nosso-primeiro-happening-urbano.md
-        - 'E foi assim que nasceu o Brasil de hoje, com Drummond e o romance social': volume-5/01-semana-de-arte-moderna-de-1922/02-e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummond-e-o-romance-social.md
-      - 'Emílio Di Cavalcanti':
-        - 'O adeus do mestre - Para a pintura brasileira, ficam as mulatas, o morro, o mar e a Semana de Arte Moderna': volume-5/02-emilio-di-cavalcanti/01-o-adeus-do-mestre-para-a-pintura-brasileira-ficam-as-mulatas-o-morro-o-mar-e-a-semana-de-arte-moderna.md
-        - 'Di, para quem viver era um círculo mágico': volume-5/02-emilio-di-cavalcanti/02-di-para-quem-viver-era-um-circulo-magico.md
-      - 'Tarsila do Amaral':
-        - 'Tarsila do Amaral - A última entrevista': volume-5/03-tarsila-do-amaral/01-tarsila-do-amaral-a-ultima-entrevista.md
-      - 'Menotti del Picchia':
-        - 'Menotti del Picchia - "nada me orgulha mais do que ter sido poeta"': volume-5/04-menotti-del-picchia/01-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta.md
-      - 'Oswald de Andrade':
-        - 'Oswald de Andrade, o incoerente': volume-5/05-oswald-de-andrade/01-oswald-de-andrade-o-incoerente.md
-      - 'Mário de Andrade':
-        - 'Astuto ou generoso. Mas sempre amoral': volume-5/06-mario-de-andrade/01-astuto-ou-generoso-mas-sempre-amoral.md
-        - 'Mário, o campo aberto e nevoento do debate': volume-5/06-mario-de-andrade/02-mario-o-campo-aberto-e-nevoento-do-debate.md
-        - 'Curso sobre o movimento modernista - Mário de Andrade': volume-5/06-mario-de-andrade/03-curso-sobre-o-movimento-modernista-mario-de-andrade.md
+      - Semana de Arte Moderna de 1922:
+        - 'Foi nosso primeiro happening urbano': volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano.md
+        - 'E foi assim que nasceu o Brasil de hoje, com Drummond e o romance social': volume-5/01-semana-de-arte-moderna-de-1922/01-e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummond-e-o-romance-social.md
+      - Emílio Di Cavalcanti:
+        - 'O adeus do mestre - Para a pintura brasileira, ficam as mulatas, o morro, o mar e a Semana de Arte Moderna': volume-5/02-emilio-di-cavalcanti/00-o-adeus-do-mestre-para-a-pintura-brasileira-ficam-as-mulatas-o-morro-o-mar-e-a-semana-de-arte-moderna.md
+        - 'Di, para quem viver era um círculo mágico': volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico.md
+      - Tarsila do Amaral:
+        - 'Tarsila do Amaral - A última entrevista': volume-5/03-tarsila-do-amaral/00-tarsila-do-amaral-a-ultima-entrevista.md
+      - Menotti del Picchia:
+        - 'Menotti del Picchia - "nada me orgulha mais do que ter sido poeta"': volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta.md
+      - Oswald de Andrade:
+        - 'Oswald de Andrade, o incoerente': volume-5/05-oswald-de-andrade/00-oswald-de-andrade-o-incoerente.md
+      - Mário de Andrade:
+        - 'Astuto ou generoso. Mas sempre amoral': volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral.md
+        - 'Mário, o campo aberto e nevoento do debate': volume-5/06-mario-de-andrade/01-mario-o-campo-aberto-e-nevoento-do-debate.md
+        - 'Curso sobre o movimento modernista - Mário de Andrade': volume-5/06-mario-de-andrade/02-curso-sobre-o-movimento-modernista-mario-de-andrade.md
     - 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses':
       - 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses': volume-6/README.md
-      - 'Brasil-Portugal - tentativas de aproximação':
-        - 'Na contramão (resenha sobre o livro Contistas Portuguêses Modernos; seleção de João Alves das Neves - Editorial Tanagra)': volume-6/01-brasil-portugal-tentativas-de-aproximacao/01-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra).md
-        - 'Poetas portugueses. Versos e duas culturas reencontram seu ponto de união': volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-poetas-portugueses-versos-e-duas-culturas-reencontram-seu-ponto-de-uniao.md
-        - 'Um encontro de Portugal e Brasil. Sobre a liberdade': volume-6/01-brasil-portugal-tentativas-de-aproximacao/03-um-encontro-de-portugal-e-brasil-sobre-a-liberdade.md
-      - 'Fernão Mendes Pinto':
-        - 'A fascinante aventura do Marco Polo português': volume-6/02-fernao-mendes-pinto/01-a-fascinante-aventura-do-marco-polo-portugues.md
-      - 'Eça de Queirós':
-        - 'Tese e Antítese de Eça de Queirós': volume-6/03-eca-de-queiros/01-tese-e-antitese-de-eca-de-queiros.md
-        - 'Suave milagre - no fim da vida, um Eça religioso': volume-6/03-eca-de-queiros/02-suave-milagre-no-fim-da-vida-um-eca-religioso.md
-        - 'Depois dele, Portugal não foi mais o mesmo. Nem o Português': volume-6/03-eca-de-queiros/03-depois-dele-portugal-nao-foi-mais-o-mesmo-nem-o-portugues.md
-        - 'Uma obra-prima inacabada com a marca da grandeza olímpica de Eça': volume-6/03-eca-de-queiros/04-uma-obra-prima-inacabada-com-a-marca-da-grandeza-olimpica-de-eca.md
-        - 'Eça de Queirós - cem anos de sua morte': volume-6/03-eca-de-queiros/05-eca-de-queiros-cem-anos-de-sua-morte.md
-      - 'Antero de Quental':
-        - 'Antero de Quental - o ideal estético e político': volume-6/04-antero-de-quental/01-antero-de-quental-o-ideal-estetico-e-politico.md
-      - 'Antônio Lobo Antunes':
-        - 'A ousadia deste irreverente escritor português': volume-6/05-antonio-lobo-antunes/01-a-ousadia-deste-irreverente-escritor-portugues.md
-      - 'Antônio José Saraiva':
-        - 'Entrevista com Antônio José Saraiva': volume-6/06-antonio-jose-saraiva/01-entrevista-com-antonio-jose-saraiva.md
-      - 'Manuel Ferreira':
-        - 'Manuel Ferreira - a bondade e a opressão': volume-6/07-manuel-ferreira/01-manuel-ferreira-a-bondade-e-a-opressao.md
-      - 'Antônio Alçada Baptista':
-        - 'Um feminismo sutil, sucesso em Portugal': volume-6/08-antonio-alcada-baptista/01-um-feminismo-sutil-sucesso-em-portugal.md
-      - 'Ferreira de Castro':
-        - 'As novas dimensões do realismo literário (A Selva de Ferreira de Castro)': volume-6/09-ferreira-de-castro/01-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro).md
-      - 'Teixeira de Pascoais':
-        - 'Um poeta místico na era atômica': volume-6/10-teixeira-de-pascoais/01-um-poeta-mistico-na-era-atomica.md
-      - 'Fernando Namora':
-        - 'Fernando Namora': volume-6/11-fernando-namora/01-fernando-namora.md
-      - 'Fernando Pessoa':
-        - 'Fernando Pessoa I': volume-6/12-fernando-pessoa/01-fernando-pessoa-i.md
-        - 'Fernando Pessoa II - Fotobiografias': volume-6/12-fernando-pessoa/02-fernando-pessoa-ii-fotobiografias.md
-        - 'Fernando Pessoa III, o Poeta Singular e Plural de João Alves das Neves (Editora Expressão)': volume-6/12-fernando-pessoa/03-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao).md
-        - 'Entrevista com João Gaspar Simões - o poeta e a humanidade': volume-6/12-fernando-pessoa/04-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade.md
-      - 'Vergílio Ferreira':
-        - 'Entrevista a Vergílio Ferreira': volume-6/13-vergilio-ferreira/01-entrevista-a-vergilio-ferreira.md
-        - 'Destruindo a palavra. Para reencontrá-la mais bela e pura': volume-6/13-vergilio-ferreira/02-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura.md
-      - 'Eugênio de Andrade':
-        - 'O amor erótico de Eugênio de Andrade. Delicado, audaz': volume-6/14-eugenio-de-andrade/01-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz.md
-      - 'José Cardoso Pires':
-        - 'Eis um grande escritor': volume-6/15-jose-cardoso-pires/01-eis-um-grande-escritor.md
-        - 'Uma entrevista com o maior escritor português do momento': volume-6/15-jose-cardoso-pires/02-uma-entrevista-com-o-maior-escritor-portugues-do-momento.md
-        - 'Cardoso Pires, para quando o Brasil descobrir Portugal': volume-6/15-jose-cardoso-pires/03-cardoso-pires-para-quando-o-brasil-descobrir-portugal.md
-        - 'A tardia descoberta de um polêmico escritor português': volume-6/15-jose-cardoso-pires/04-a-tardia-descoberta-de-um-polemico-escritor-portugues.md
-        - 'Cardoso Pires reinventa Portugal': volume-6/15-jose-cardoso-pires/05-cardoso-pires-reinventa-portugal.md
-        - 'Desafiando os rinocerontes do poder': volume-6/15-jose-cardoso-pires/06-desafiando-os-rinocerontes-do-poder.md
-      - 'José Saramago':
-        - 'Saramago': volume-6/16-jose-saramago/01-saramago.md
-        - 'Um Deus sádico martiriza sua marionete, Jesus': volume-6/16-jose-saramago/02-um-deus-sadico-martiriza-sua-marionete-jesus.md
-      - 'Três breves notícias sobre escritores ou livros portugueses':
-        - 'Casais Monteiro': volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-casais-monteiro.md
-        - 'de Maria Isabel Barreno, Maria Teresa Horta e Maria Velho da Costa': volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa.md
-        - 'Os novos tempos de Portugal': volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/03-os-novos-tempos-de-portugal.md
+      - Brasil-Portugal - tentativas de aproximação:
+        - 'Na contramão (resenha sobre o livro Contistas Portuguêses Modernos; seleção de João Alves das Neves - Editorial Tanagra)': volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra).md
+        - 'Poetas portugueses. Versos e duas culturas reencontram seu ponto de união': volume-6/01-brasil-portugal-tentativas-de-aproximacao/01-poetas-portugueses-versos-e-duas-culturas-reencontram-seu-ponto-de-uniao.md
+        - 'Um encontro de Portugal e Brasil. Sobre a liberdade': volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade.md
+      - Fernão Mendes Pinto:
+        - 'A fascinante aventura do Marco Polo português': volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues.md
+      - Eça de Queirós:
+        - 'Tese e Antítese de Eça de Queirós': volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros.md
+        - 'Suave milagre - no fim da vida, um Eça religioso': volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso.md
+        - 'Depois dele, Portugal não foi mais o mesmo. Nem o Português': volume-6/03-eca-de-queiros/02-depois-dele-portugal-nao-foi-mais-o-mesmo-nem-o-portugues.md
+        - 'Uma obra-prima inacabada com a marca da grandeza olímpica de Eça': volume-6/03-eca-de-queiros/03-uma-obra-prima-inacabada-com-a-marca-da-grandeza-olimpica-de-eca.md
+        - 'Eça de Queirós - cem anos de sua morte': volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte.md
+      - Antero de Quental:
+        - 'Antero de Quental - o ideal estético e político': volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico.md
+      - Antônio Lobo Antunes:
+        - 'A ousadia deste irreverente escritor português': volume-6/05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues.md
+      - Antônio José Saraiva:
+        - 'Entrevista com Antônio José Saraiva': volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva.md
+      - Manuel Ferreira:
+        - 'Manuel Ferreira - a bondade e a opressão': volume-6/07-manuel-ferreira/00-manuel-ferreira-a-bondade-e-a-opressao.md
+      - Antônio Alçada Baptista:
+        - 'Um feminismo sutil, sucesso em Portugal': volume-6/08-antonio-alcada-baptista/00-um-feminismo-sutil-sucesso-em-portugal.md
+      - Ferreira de Castro:
+        - 'As novas dimensões do realismo literário (A Selva de Ferreira de Castro)': volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro).md
+      - Teixeira de Pascoais:
+        - 'Um poeta místico na era atômica': volume-6/10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica.md
+      - Fernando Namora:
+        - 'Fernando Namora': volume-6/11-fernando-namora/00-fernando-namora.md
+      - Fernando Pessoa:
+        - 'Fernando Pessoa I': volume-6/12-fernando-pessoa/00-fernando-pessoa-i.md
+        - 'Fernando Pessoa II - Fotobiografias': volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias.md
+        - 'Fernando Pessoa III, o Poeta Singular e Plural de João Alves das Neves (Editora Expressão)': volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao).md
+        - 'Entrevista com João Gaspar Simões - o poeta e a humanidade': volume-6/12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade.md
+      - Vergílio Ferreira:
+        - 'Entrevista a Vergílio Ferreira': volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira.md
+        - 'Destruindo a palavra. Para reencontrá-la mais bela e pura': volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura.md
+      - Eugênio de Andrade:
+        - 'O amor erótico de Eugênio de Andrade. Delicado, audaz': volume-6/14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz.md
+      - José Cardoso Pires:
+        - 'Eis um grande escritor': volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor.md
+        - 'Uma entrevista com o maior escritor português do momento': volume-6/15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento.md
+        - 'Cardoso Pires, para quando o Brasil descobrir Portugal': volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal.md
+        - 'A tardia descoberta de um polêmico escritor português': volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues.md
+        - 'Cardoso Pires reinventa Portugal': volume-6/15-jose-cardoso-pires/04-cardoso-pires-reinventa-portugal.md
+        - 'Desafiando os rinocerontes do poder': volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder.md
+      - José Saramago:
+        - 'Saramago': volume-6/16-jose-saramago/00-saramago.md
+        - 'Um Deus sádico martiriza sua marionete, Jesus': volume-6/16-jose-saramago/01-um-deus-sadico-martiriza-sua-marionete-jesus.md
+      - Três breves notícias sobre escritores ou livros portugueses:
+        - 'Casais Monteiro': volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/00-casais-monteiro.md
+        - 'de Maria Isabel Barreno, Maria Teresa Horta e Maria Velho da Costa': volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa.md
+        - 'Os novos tempos de Portugal': volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal.md
