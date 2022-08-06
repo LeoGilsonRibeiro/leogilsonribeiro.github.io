@@ -2,13 +2,14 @@
 title: 'James Baldwin e o negro nos EUA'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "James Baldwin e o negro nos EUA". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã (Caminhos da cultura), 1965. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua
 orig_publisher: 'Correio da Manhã (Caminhos da cultura)'
 orig_date: 1965
-abnt_ref: 'RIBEIRO, Leo Gilson. "James Baldwin e o negro nos EUA". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã (Caminhos da cultura), 1965. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua
+
 ---
 
 Nessa esplêndida alegoria moderna que é *Les Nègres*, Genet faz o personagem Archibald exclamar, dirigindo-se a seus irmãos de cor: "Eu vos ordeno serem negros até a profundeza de vossas veias e de nelas arrastar sangue negro. Que a África nele circule. Que os negros se anegrem. Que eles se obstinem até à loucura naquilo que os condena a ser, em seu ébano, sem seu cheiro, em seus olhos amarelados, em seus gostos de canibais\... Que se (os brancos) mudarem a nosso respeito, não seja por indulgência, mas por terror\... Inventai, não o amor, mas o ódio\... O trágico estará na cor negra! Será ela que vós amareis, reunireis, merecereis. É ela que é preciso conquistar!"

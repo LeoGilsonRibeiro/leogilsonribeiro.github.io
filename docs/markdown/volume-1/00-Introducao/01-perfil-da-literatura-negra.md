@@ -2,13 +2,14 @@
 title: 'Perfil da Literatura Negra'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Perfil da Literatura Negra". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Mostra Internacional de São Paulo, 1985/05/20-26. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/00-introducao/01-perfil-da-literatura-negra</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/00-introducao/01-perfil-da-literatura-negra
 orig_publisher: 'Mostra Internacional de São Paulo'
 orig_date: 1985/05/20-26
-abnt_ref: 'RIBEIRO, Leo Gilson. "Perfil da Literatura Negra". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Mostra Internacional de São Paulo, 1985/05/20-26. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/00-introducao/01-perfil-da-literatura-negra</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/00-introducao/01-perfil-da-literatura-negra
+
 ---
 
 > "Eu sou invisível.

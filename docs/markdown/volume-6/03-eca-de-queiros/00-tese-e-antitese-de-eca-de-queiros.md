@@ -2,13 +2,14 @@
 title: 'Tese e Antítese de Eça de Queirós'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Tese e Antítese de Eça de Queirós". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Diário de Notícias 02-08-1964, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros
 orig_publisher: 'Diário de Notícias 02-08-1964'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Tese e Antítese de Eça de Queirós". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Diário de Notícias 02-08-1964, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros
+
 ---
 
 Dentre os raros críticos de nível internacional com que conta a vida intelectual brasileira, Antônio Cândido ocupa com justiça uma posição ímpar, como um dos mais profundos e inspirados intérpretes da nossa literatura e de autores estrangeiros. Seu último livro, que inaugura a Coleção Ensaio da Companhia Editora Nacional, denominado *Tese e Antítese*, abrange cinco estudos ainda não editados sobre dois romancistas estrangeiros (Alexandre Dumas e Joseph Conrad) e três de língua portuguesa (Eça de Queirós, Graciliano Ramos e Guimarães Rosa), além de um *addendum* dedicado às relações entre a música e a vida de Stendhal.

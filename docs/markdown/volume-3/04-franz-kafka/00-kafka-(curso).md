@@ -2,13 +2,14 @@
 title: 'Kafka (Curso)\'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume III: Testemunhos Literários do século XX'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Kafka (Curso)\". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (3 das 13 páginas datilografadas para o curso), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/00-kafka-(curso)</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/00-kafka-(curso)
 orig_publisher: '(3 das 13 páginas datilografadas para o curso)'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Kafka (Curso)\". In PUENTE, Fernando Rey (org.) <em>Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (3 das 13 páginas datilografadas para o curso), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/00-kafka-(curso)</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/00-kafka-(curso)
+
 ---
 
 Paralelamente aos acontecimentos de repercussão mundial da sua época, a vida de Kafka traça uma parábola simbólica: de 1883 coincidindo com a publicação de *Assim Falava Zaratustra* de Nietzsche até 1924 quando Hitler termina a redação de *Minha Luta*. No meio, dilacerando a Europa em duas frentes de batalha, a Prmeira Guerra de 1914. Em 1917 a revolução bolchevista na Rússia.

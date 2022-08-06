@@ -2,13 +2,14 @@
 title: 'Resenha sobre Poemas de Senghor'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Resenha sobre Poemas de Senghor". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1970/1/29. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/08-resenha-sobre-poemas-de-senghor</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/08-resenha-sobre-poemas-de-senghor
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1970/1/29
-abnt_ref: 'RIBEIRO, Leo Gilson. "Resenha sobre Poemas de Senghor". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1970/1/29. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/08-resenha-sobre-poemas-de-senghor</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/08-resenha-sobre-poemas-de-senghor
+
 ---
 
 Poucas vozes poéticas surgem com tanta pujança neste final de século. Senghor, presidente do Senegal, um dos formuladores da teoria da *Négritude*, alinha-se ao lado de um Saint-John Perse, de um T. S. Eliot, de um Gottfried Benn, de um Carlos Drummond de Andrade.

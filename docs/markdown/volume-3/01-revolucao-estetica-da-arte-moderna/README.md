@@ -2,13 +2,14 @@
 title: 'Revolução Estética da Arte Moderna'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume III: Testemunhos Literários do século XX'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Revolução Estética da Arte Moderna". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Desconhecido, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/01-revolucao-estetica-da-arte-moderna/readme</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/01-revolucao-estetica-da-arte-moderna/readme
 orig_publisher: 'Desconhecido'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Revolução Estética da Arte Moderna". In PUENTE, Fernando Rey (org.) <em>Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Desconhecido, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/01-revolucao-estetica-da-arte-moderna/readme</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/01-revolucao-estetica-da-arte-moderna/readme
+
 ---
 
 *Correio da Manhã*, 9 de Novembro de 1965

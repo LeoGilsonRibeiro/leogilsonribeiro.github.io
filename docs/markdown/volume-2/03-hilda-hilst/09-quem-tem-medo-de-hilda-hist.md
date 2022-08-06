@@ -2,13 +2,14 @@
 title: 'Quem tem medo de Hilda Hist?'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Quem tem medo de Hilda Hist?". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Polímica: revista semestral de crítica e criação, nº 2, 1980, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/09-quem-tem-medo-de-hilda-hist</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/09-quem-tem-medo-de-hilda-hist
 orig_publisher: 'Polímica: revista semestral de crítica e criação, nº 2, 1980'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Quem tem medo de Hilda Hist?". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Polímica: revista semestral de crítica e criação, nº 2, 1980, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/09-quem-tem-medo-de-hilda-hist</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/09-quem-tem-medo-de-hilda-hist
+
 ---
 
 Macunaíma tantas vezes, o brasileiro se cansa de todo autor que usa mais de 500 palavras usuais, tiradas do vocabulário comum, irmão gêmeo do primevo grunhido das cavernas pré-platonianas. Por isso, muitos leitores em potêncial preferem tirar uma soneca na rede balouçante e achar *a priori* a ficção instigante de Hilda Hilst, por exemplo, a obra de "uma chata, maçante, hermética, indecifrável". Cai o livro das mãos, predomina o império da sonolência aquiescida.

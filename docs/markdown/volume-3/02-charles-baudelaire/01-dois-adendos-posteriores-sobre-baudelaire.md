@@ -2,13 +2,14 @@
 title: 'Dois adendos posteriores sobre Baudelaire'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume III: Testemunhos Literários do século XX'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Dois adendos posteriores sobre Baudelaire". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Baudelaire. Quase dois séculos de uma poesia original e sublime, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/01-dois-adendos-posteriores-sobre-baudelaire</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/01-dois-adendos-posteriores-sobre-baudelaire
 orig_publisher: 'Baudelaire. Quase dois séculos de uma poesia original e sublime'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Dois adendos posteriores sobre Baudelaire". In PUENTE, Fernando Rey (org.) <em>Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Baudelaire. Quase dois séculos de uma poesia original e sublime, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/01-dois-adendos-posteriores-sobre-baudelaire</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/01-dois-adendos-posteriores-sobre-baudelaire
+
 ---
 
 *Jornal da Tarde* 9 de abril de 1981

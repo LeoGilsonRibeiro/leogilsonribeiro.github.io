@@ -2,13 +2,14 @@
 title: 'Guimarães Rosa: o sertão, o mundo e a travessia'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Guimarães Rosa: o sertão, o mundo e a travessia". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Entrevista exclusiva concedida a LGR especialmente para, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/00-guimaraes-rosa-o-sertao-o-mundo-e-a-travessia</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/00-guimaraes-rosa-o-sertao-o-mundo-e-a-travessia
 orig_publisher: 'Entrevista exclusiva concedida a LGR especialmente para'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Guimarães Rosa: o sertão, o mundo e a travessia". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Entrevista exclusiva concedida a LGR especialmente para, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/00-guimaraes-rosa-o-sertao-o-mundo-e-a-travessia</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/00-guimaraes-rosa-o-sertao-o-mundo-e-a-travessia
+
 ---
 
 *Cadernos Brasileiros* em julho de 1965 (12 páginas datilografadas/artigo não publicado)

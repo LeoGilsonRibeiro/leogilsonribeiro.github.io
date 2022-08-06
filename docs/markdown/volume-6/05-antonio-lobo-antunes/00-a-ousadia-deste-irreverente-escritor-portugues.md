@@ -2,13 +2,14 @@
 title: 'A ousadia deste irreverente escritor português'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A ousadia deste irreverente escritor português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues
 orig_publisher: 'Jornal da Tarde 1984'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "A ousadia deste irreverente escritor português". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues
+
 ---
 
 "De fato, e consoante as profecias da familia, tornara-me um homem: uma espécie de avidez triste e cínica, feita de desesperança cúpida, de egoísmo, e de pressa de me esconder de mim próprio..."

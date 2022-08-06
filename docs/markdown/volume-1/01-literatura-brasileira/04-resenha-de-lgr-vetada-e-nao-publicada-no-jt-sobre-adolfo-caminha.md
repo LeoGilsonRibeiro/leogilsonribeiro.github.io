@@ -2,14 +2,14 @@
 title: 'Resenha de LGR vetada e não publicada no JT sobre Adolfo Caminha'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Resenha de LGR vetada e não publicada no JT sobre Adolfo Caminha". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: In "O Bom Crioulo", 1983. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha
 orig_publisher: 'In "O Bom Crioulo"'
 orig_date: 1983
 annote: Por ocasião da reedição de sua obra
-abnt_ref: 'RIBEIRO, Leo Gilson. "Resenha de LGR vetada e não publicada no JT sobre Adolfo Caminha". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: In "O Bom Crioulo", 1983. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha
 ---
 
 > "Esse acervo de mentiras galantes e torpezas dissimuladas, esse cortiço de vespas que se denomina -- sociedade" Adolfo Caminha

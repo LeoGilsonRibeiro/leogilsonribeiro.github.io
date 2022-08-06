@@ -2,13 +2,14 @@
 title: 'Eis um grande escritor'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Eis um grande escritor". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 27-07-1971, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor
 orig_publisher: 'Jornal da Tarde 27-07-1971'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Eis um grande escritor". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 27-07-1971, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor
+
 ---
 
 Agora, José Cardoso Pires vai deixar jornal, universidade, Lisboa, para ir viver num pequeno subúrbio da capital. Só vai escrever e viver da literatura "embora modestamente". E hoje o escritor mais famoso de Portugal, principalmente devido a *O Delfim* descoberto recentemente pelos franceses.

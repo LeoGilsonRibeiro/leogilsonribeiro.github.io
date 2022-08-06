@@ -2,13 +2,14 @@
 title: 'Um velho castelo maciço, uma nova flor poética'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Um velho castelo maciço, uma nova flor poética". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 21-11-1967, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/02-um-velho-castelo-macico-uma-nova-flor-poetica</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/02-um-velho-castelo-macico-uma-nova-flor-poetica
 orig_publisher: 'LGR JT 21-11-1967'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Um velho castelo maciço, uma nova flor poética". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 21-11-1967, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/02-um-velho-castelo-macico-uma-nova-flor-poetica</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/02-um-velho-castelo-macico-uma-nova-flor-poetica
+
 ---
 
 Em Belém do Pará, onde eu dava um curso de literatura norte-americana para professores da Amazônia -- freiras belgas, monges holandeses que plantavam em plena selva uma escola, uma capela, um hospital tosco -- a primeira menção do nome: Guimarães Rosa, pelo amigo Benedito Nunes. A união do antigo sobrenome português, com a virilidade do castelo maciço, à evocação da flor poética por excelência, chamou-me a atenção. E logo o relato do Miguilim, aquela recriação mágica do mito da infância perdida, da inocência que resgata a experiência do mundo por meio da dor do conhecimento. Era uma época em que a minha reintegração no Brasil, depois de longa integração na Europa, se fazia mais difícil e eu hesitava em voltar à Alemanha, à Itália, à Espanha ou dar uma contribuição artesanal, sofrida, à cultura brasileira desprovida de incentivos, de diretrizes, de apoio. O encontro com a criação literária de Guimarães Rosa foi decisivo para a voluntária radicação numa terra que ele agora, como os navegadores do século XVI, descobria e revelava ao mundo da sensibilidade e da inteligência: o Brasil. Machado de Assis e Euclides da Cunha tinham sido as expedições de reconhecimento à costa da terra incógnita, mas quem dela tomou posse e nela plantou firme a bandeira conquistadora da sua linguagem foi Guimarães Rosa.

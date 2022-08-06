@@ -2,13 +2,14 @@
 title: 'Desafiando os rinocerontes do poder'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Desafiando os rinocerontes do poder". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 24-09-1988, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder
 orig_publisher: 'Jornal da Tarde 24-09-1988'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Desafiando os rinocerontes do poder". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 24-09-1988, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder
+
 ---
 
 O extenso romance tem um início que merece uma tela panorâmica e a direção plural de Fellini atrás da câmera:

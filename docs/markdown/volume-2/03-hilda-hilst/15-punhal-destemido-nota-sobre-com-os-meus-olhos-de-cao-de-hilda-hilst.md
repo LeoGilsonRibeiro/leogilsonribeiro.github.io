@@ -2,13 +2,14 @@
 title: 'Punhal destemido. Nota sobre Com os Meus Olhos de Cão de Hilda Hilst'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Punhal destemido. Nota sobre Com os Meus Olhos de Cão de Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR Leia janeiro de 1987, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/15-punhal-destemido-nota-sobre-com-os-meus-olhos-de-cao-de-hilda-hilst</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/15-punhal-destemido-nota-sobre-com-os-meus-olhos-de-cao-de-hilda-hilst
 orig_publisher: 'LGR Leia janeiro de 1987'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Punhal destemido. Nota sobre Com os Meus Olhos de Cão de Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR Leia janeiro de 1987, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/15-punhal-destemido-nota-sobre-com-os-meus-olhos-de-cao-de-hilda-hilst</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/15-punhal-destemido-nota-sobre-com-os-meus-olhos-de-cao-de-hilda-hilst
+
 ---
 
 Quem tem medo de Hilda Hilst? Cochicha-se com enfado: "Ela é uma autora difícil". Alguns desfecham o golpe mortal par a preguiça do leitor comum: "É hermética, enigmática, quase indecifrável". Ela é todos os opostos: intratável, amabilíssima, egocêntrica, generosa. Refinada intelectual, guarda em sua fazenda (a 111 km de São Paulo) a pérola aristocrática de sua ficção a salvo dos bíblicos porcos ignorantes de seu mágico fascínio interior. Todos tinham medo de Hilda Hilst.

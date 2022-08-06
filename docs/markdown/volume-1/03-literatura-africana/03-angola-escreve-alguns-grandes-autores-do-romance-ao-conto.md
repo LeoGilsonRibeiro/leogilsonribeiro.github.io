@@ -2,13 +2,14 @@
 title: 'Angola Escreve. Alguns grandes autores do romance ao conto'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Angola Escreve. Alguns grandes autores do romance ao conto". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/08/04. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/03-angola-escreve-alguns-grandes-autores-do-romance-ao-conto</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/03-angola-escreve-alguns-grandes-autores-do-romance-ao-conto
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1981/08/04
-abnt_ref: 'RIBEIRO, Leo Gilson. "Angola Escreve. Alguns grandes autores do romance ao conto". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/08/04. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/03-angola-escreve-alguns-grandes-autores-do-romance-ao-conto</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/03-angola-escreve-alguns-grandes-autores-do-romance-ao-conto
+
 ---
 
 Se já no plano puramente temático o romance constitui um gênero no qual sobressai, alta, a figura de José Luandino Vieira, o conto angolano também nos reserva surpresas compensadoras. O próprio José Luandino Vieira atribui essa designação de "estórias" a várias coletâneas suas: *Luuanda*, *No Antigamente, na Vida*, *A Cidade e a Infância* e *Macanduba*. Nesses contos longos, porém, a temática político-social cede à evocação de uma vida com episódios bucólicos, nostálgica e poeticamente evocados pelo autor. Há cenas dignas de comédia, com os mais velhos assumindo uma postura de incredulidade e depois de indignação diante dos acontecimentos que os livros transmitem nas escolas aos filhos:

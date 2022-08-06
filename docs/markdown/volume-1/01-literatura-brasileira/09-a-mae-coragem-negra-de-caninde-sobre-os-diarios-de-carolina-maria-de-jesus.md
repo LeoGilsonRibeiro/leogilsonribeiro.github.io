@@ -2,14 +2,14 @@
 title: 'A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Christ und Welt, n.28, ano XV, 1962/07/13. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus
 orig_publisher: 'Christ und Welt, n.28, ano XV'
 orig_date: 1962/07/13
 annote: Publicado originalmente em alemão. Traduzido por Fernando Rey Puente
-abnt_ref: 'RIBEIRO, Leo Gilson. "A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Christ und Welt, n.28, ano XV, 1962/07/13. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus
 ---
 
 Através do mapa de São Paulo corre uma linha sombria que representa simbolicamente a estrutura social e a rígida hierarquia da metrópole industrial da América Latina de quatro milhões de habitantes. Dos terrenos ondulados dos quarteirões aristocráticos -- Jardim Europa, Morumbi -- com suas mansões milionárias essa linha desce para o centro comercial e para os quarteirões proletários, Brás e Vila Maria, até que ela desemboca na escuridão putrefata da favela Canindé, localizada entre as águas negras do rio Tietê e a reluzente autoestrada que leva ao Rio de Janeiro.

@@ -2,13 +2,14 @@
 title: 'Poemas. Beleza e magia em versos cintilantes'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Poemas. Beleza e magia em versos cintilantes". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde (1984), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes
 orig_publisher: 'Jornal da Tarde (1984)'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Poemas. Beleza e magia em versos cintilantes". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde (1984), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes
+
 ---
 
 Alphonsus de Guimaraens Filho tem uma série de peculiaridades que o isolam dentro da poesia contemporânea brasileira. Filho do poeta mineiro Alphonsus de Guimaraens, não é uma cópia genética do talento paterno. Tem acumulado um número enorme de prêmios de reconhecimento pelo valor da sua poesia: Prêmio de Literatura da Fundação Graça Aranha, por seu livro *Lume de Estrelas*, e o Prêmio Olavo Bilac, da Academia Brasileira de Letras, em 1940; dez anos depois, o Prêmio Manuel Bandeira, concedido pelo Jornal de Letras, do RIo de Janeiro; em 54: Prêmio de Poesia da Cidade de Belo Horizonte; em 1973, Prêmio Luísa Cláudio de Sousa, do Pen Clube do Brasil, por seu volume de poemas *Absurda Fábula*; e o Prêmio Literário Nacional, em 1978, por *Água Tempo*, que lhe foi entregue pelo Instituto Nacional do Livro.

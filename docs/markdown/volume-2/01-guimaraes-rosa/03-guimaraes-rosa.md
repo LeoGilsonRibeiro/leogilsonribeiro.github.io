@@ -2,13 +2,14 @@
 title: 'Guimarães Rosa'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Guimarães Rosa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR Revista Goodyear (s-data), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/03-guimaraes-rosa</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/03-guimaraes-rosa
 orig_publisher: 'LGR Revista Goodyear (s-data)'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Guimarães Rosa". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR Revista Goodyear (s-data), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/03-guimaraes-rosa</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/03-guimaraes-rosa
+
 ---
 
 Recentemente, a corajosa ousadia de um diretor, Walter Avancini, levou à tela da televisão de milhões de brasileiros uma história diferente de tudo o que o aparelhinho mágico já apresentara em trinta anos de adaptação ao Brasil. *Grande Sertão: Veredas* de um tal de Guimarães Rosa deixava o espectador ao mesmo tempo fascinado e sem entender bem. Havia palavras arrevesadas -- "ele tinha conspeito tão forte", "verde que afina e esveste, belimbeleza", "não se importava, mesmo dava sua placença". Depois, que história era aquela de um caipira lutador, um jagunço ignorante, falar de Deus e do Diabo a toda hora? Cobras, jacarés, rios, vales sombrios, chapadas longas e o Rio São Francisco, cataratas e bosques de buriti -- a natureza luxuriante invadia as salas de estar das cidades brasileiras como se fosse um mundo exótico e indecifrável, selvagem, mas com suas leis crueis, próprias de feras. Feras eram os jagunços também em luta de vários anos, pelejas contra o governo ou contra os coroneis do sertão: cuspes, escarros, melodias cantadas ao som de violas, traições punidas com castrações -- se havia uma Lei no Sertão ela era primitiva, tosca, rude como aqueles homens presos a ordens do Chefe, em busca do inimigo como se fosse caça perigosa. O personagem que parecia ser o principal, o jagunço Riobaldo, hesitava o tempo todo entre Deus e o Demônio. O Diabo existe? ele perguntava, atormentado, como se sua perdição ou salvação dependesse disso, a milhões de telespectadores, crianças, adolescentes, homens e mulheres de meia-idade, velhos em asilos e grupos de pessoas reunidos em bares e botequins por esse Brasil adentro.

@@ -2,13 +2,14 @@
 title: 'A África e a liberdade. Entrevista com Luandino Vieira'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A África e a liberdade. Entrevista com Luandino Vieira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1987/01/03. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/04-a-africa-e-a-liberdade-entrevista-com-luandino-vieira</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/04-a-africa-e-a-liberdade-entrevista-com-luandino-vieira
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1987/01/03
-abnt_ref: 'RIBEIRO, Leo Gilson. "A África e a liberdade. Entrevista com Luandino Vieira". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1987/01/03. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/04-a-africa-e-a-liberdade-entrevista-com-luandino-vieira</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/04-a-africa-e-a-liberdade-entrevista-com-luandino-vieira
+
 ---
 
 À primeira vista, bronzeado, com seu ar franco, ele parece um fazendeiro do Centro-Oeste brasileiro. Depois, o sotaque angolano, uma harmoniosa mistura de português lisboeta com a doçura da pronúncia vagarosa das sílabas, à moda africana ou brasileira, revela a sua verdadeira nacionalidade.

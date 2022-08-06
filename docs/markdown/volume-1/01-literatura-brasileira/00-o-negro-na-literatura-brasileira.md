@@ -2,14 +2,14 @@
 title: 'O negro na literatura brasileira'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "O negro na literatura brasileira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Anais do Seminários de Literatura brasileira: ensaios, 1990. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira
 orig_publisher: 'Anais do Seminários de Literatura brasileira: ensaios'
 orig_date: 1990
 annote: Exposição feita na mesa intitulada "o negro na literatura brasileira" no âmbito da 3ª Bienal Nestlé de Literatura promovido pela Fundação Cultural Nestlê
-abnt_ref: 'RIBEIRO, Leo Gilson. "O negro na literatura brasileira". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Anais do Seminários de Literatura brasileira: ensaios, 1990. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira
 ---
 
 Talvez a primeira observação que seria pertinente fazer com referência ao tema do negro na Literatura Brasileira seria naturalmente a manifestação mais óbvia, qual seja a de que a Literatura Negra está completamente à margem da marginalidade. Enquanto alguns grupos de reinvindicações feministas conseguem publicar algumas coisas que falam de seus problemas específicos e principalmente dos seus direitos civis pisoteados por uma classe dominante, machista e que não reconhece nenhum direito a uma minoria dentro do que eles chamam de "uma democracia", isto é, a predominância absoluta de uma minoria, já o negro, por exemplo, tem os seus cadernos -- *Cadernos negros, Cadernos do canto negro* - que são mais ou menos clandestinos e só circulam através de um certo gueto brasileiro. Durante as pesquisas que fiz para este seminário não consegui detectar, em nenhum autor brasileiro específico, a não ser nos autores negros, evidentemente, uma consciência do que fosse esse problema sociológico tão sério num país como o Brasil.

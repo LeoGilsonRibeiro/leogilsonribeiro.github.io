@@ -2,13 +2,14 @@
 title: 'Racismo, ideologia, propostas. E o artista?'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Racismo, ideologia, propostas. E o artista?". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1990/03/16. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1990/03/16
-abnt_ref: 'RIBEIRO, Leo Gilson. "Racismo, ideologia, propostas. E o artista?". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1990/03/16. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista
+
 ---
 
 A complexidade francamente indescritível das relações inter-raciais nos Estados Unidos, na África do Sul do nazista *apartheid*, no Brasil e agora na Europa Ocidental, sem esquecer que os povos eslavos também são sobejamente conhecidos tanto por seu antissemitismo quanto por seu ódio aos negros e orientais -, essa complexidade não foi liquidada pelas conjecturas de um Sartre, nem de um Malcolm X, nem de Nabokov -- que achava indecente haver o próprio conceito de racismo.

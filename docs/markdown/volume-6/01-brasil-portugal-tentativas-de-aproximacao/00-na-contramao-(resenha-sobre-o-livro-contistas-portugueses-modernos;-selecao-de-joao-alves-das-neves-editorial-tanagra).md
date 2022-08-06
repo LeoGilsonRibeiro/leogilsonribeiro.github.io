@@ -2,13 +2,14 @@
 title: 'Na contramão (resenha sobre o livro Contistas Portuguêses Modernos; seleção de João Alves das Neves - Editorial Tanagra)'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Na contramão (resenha sobre o livro Contistas Portuguêses Modernos; seleção de João Alves das Neves - Editorial Tanagra)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 26-06-1971, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)
 orig_publisher: 'Veja 26-06-1971'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Na contramão (resenha sobre o livro Contistas Portuguêses Modernos; seleção de João Alves das Neves - Editorial Tanagra)". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 26-06-1971, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)
+
 ---
 
 O intercâmbio literário entre Brasil e Portugal é uma rua de mão única, até agora proibido para os mais importantes escritores portugueses contemporâneos. Enquanto em Lisboa são fartamente editados e discutidos Guimarães Rosa, Clarice Lispector, Carlos Drummond de Andrade, as editoras brasileiras preferem abarrotar o mercado nacional com medíocres *best-sellers* americanos. Agora, a Editorial Tanagra, de São Paulo, amplia sua primeira edição de *Contistas Portuguêses Modernos*, substitui trabalhos de vários autores e faz uma útil apresentação crítica de 28 contistas atuais de Portugal, selecionada pelo escritor e jornalista português radicado em São Paulo, João Alves das Neves.

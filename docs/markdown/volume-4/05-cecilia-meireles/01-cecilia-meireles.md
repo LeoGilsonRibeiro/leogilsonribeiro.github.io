@@ -2,13 +2,14 @@
 title: 'Cecília Meireles'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Cecília Meireles". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Inédito (7 páginas datilografadas, sem data, provavelmente meados dos anos 60)**. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/01-cecilia-meireles</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/01-cecilia-meireles
 orig_publisher: 'Inédito (7 páginas datilografadas, sem data'
 orig_date: provavelmente meados dos anos 60)**
-abnt_ref: 'RIBEIRO, Leo Gilson. "Cecília Meireles". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Inédito (7 páginas datilografadas, sem data, provavelmente meados dos anos 60)**. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/01-cecilia-meireles</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/01-cecilia-meireles
+
 ---
 
 Cecília Meireles aparece como um galho divergente do Movimento Modernista da Semana de 22 em São Paulo. Ela estava mais integrada à chamada corrente esiritualista de Tarso Silveira e Andrade Murici. As revistas *Árvore Nova, Festa* e *Terra e Sol* diferiam por exemplo das revistas dos modernistas como *Klaxon* e a *Revista de Antropofagia*. Enquanto os paulistas queriam uma arte nacionalizante, abolindo a métrica, a rima e impondo uma anarquia individualista de criação embora com propósitos coletivos, o Movimento Espiritualista de inspiração nitidamente católica defendia ao contrário aqueles que ele considerava os valores imutáveis da psique brasileira: a elaboração estilística do poema mesmo se necessário utilizando a métrica e a rima ou usando o verso livre dos modernistas. Em seguida: uma perscrutação filosófica não imediatista do poeta diante da vida da natureza e dos seus semelhantes e por fim o reconhecimento de que o Brasil não estava e não podia estar divorciado do mundo daí esse movimento ter se chamado também totalista ou universalista em oposição à irreverência dos paulistas que pretendiam destruir todos os ídolos anteriores. Não: o Movimento Espiritualista queria uma continuidade e é significativo que se tenha inspirado inicialmente no Movimento Simbolista de quem Cruz e Souza tinha sido no Brasil ao lado de Alphonsus de Guimaraens a expressão suprema.

@@ -2,13 +2,14 @@
 title: 'A redescoberta de Henry James II'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume III: Testemunhos Literários do século XX'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A redescoberta de Henry James II". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal de Letras agosto de 1961 (republicado em Diário de Notícias 17-12-1961), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii
 orig_publisher: 'Jornal de Letras agosto de 1961 (republicado em Diário de Notícias 17-12-1961)'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "A redescoberta de Henry James II". In PUENTE, Fernando Rey (org.) <em>Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal de Letras agosto de 1961 (republicado em Diário de Notícias 17-12-1961), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii
+
 ---
 
 O fenômeno de unânime redescoberta de Henry James nos países de língua inglesa e por parte da elite intelectual de toda Europa que domina o inglês vem somente acentuar um fenômeno paralelo a este profundo ato de justiça literário internacional. Referimo-nos às características eminentemente intraduzíveis de seu estilo, até mesmo da sua forma expressiva. Daí a incompreensão com que críticos mal armados linguisticamente, no Brasil e no estrangeiro, se indurgem contra um autor que os maiores intérpretes da literatura ocidental não hesitam em colocar ao lado de Marcel Proust, saudando-o como o maior novelista de língua inglesa deste século, em plena igualdade de direitos com James Joyce. Mais ainda do que Shakespeare, portanto, cuja magia verbal transfigura os enredos por vezes tênues e nada invulgares de suas comédias e de algumas de suas tragédias, a fascinação inconfundível que Henry James desperta em seus admiradores parece jazer oculta detrás da chave secreta de seu estilo. Que dizer, então, da extrema complexidade, da atmosfera rarefeita de seus contos e novelas mais importantes? É compreensível que, de modo geral, a mentalidade mediterrâneia e asua subsidiária, a tropical, pouco se entusiame por um autor que analisa problemas extremamente complexos da ética no convívio humano, que focaliza quase exclusivamente as classes abastadas e requintadas da Europa e da América em seus livros e que se lança à indagação metafísica mais ampla em seu extenso mural de retratos incomparáveis de personagens-chaves da angústia e da miséria humanas.

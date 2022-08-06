@@ -2,13 +2,14 @@
 title: 'Fernando Namora'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Fernando Namora". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 20-06-1977, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/11-fernando-namora/00-fernando-namora</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/11-fernando-namora/00-fernando-namora
 orig_publisher: 'Jornal da Tarde 20-06-1977'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Fernando Namora". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 20-06-1977, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/11-fernando-namora/00-fernando-namora</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/11-fernando-namora/00-fernando-namora
+
 ---
 
 Médico, o escritor português Fernando Namora, 58 anos de idade, poderia diagnostcar com mais precisão sua conduta instável que o fez fugir e uma entrevista e finalmente aceder na sua concessão, durante sua meteórica passagem por São Paulo. Oscilando pendularmente entre a gentileza e a fadiga reiterada várias vezes, apresentou a falta de repouso como excusa clínica legítima para a pouca disposição em conversar sonbre a sua criação literária e sua estada rápida no Brasil, onde proferiu uma palestra na Casa de Portugal, no bairro da Liberdade, sobre Camões, no dia das Comunidades Portuguesas.

@@ -2,13 +2,14 @@
 title: 'Adendo'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume III: Testemunhos Literários do século XX'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Adendo". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Trágica melancolia (nota sobre a biografia de Ian Gibson), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/02-adendo</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/02-adendo
 orig_publisher: 'Trágica melancolia (nota sobre a biografia de Ian Gibson)'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Adendo". In PUENTE, Fernando Rey (org.) <em>Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Trágica melancolia (nota sobre a biografia de Ian Gibson), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/02-adendo</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/02-adendo
+
 ---
 
 *Isto é/Senhor* 8/11/1989

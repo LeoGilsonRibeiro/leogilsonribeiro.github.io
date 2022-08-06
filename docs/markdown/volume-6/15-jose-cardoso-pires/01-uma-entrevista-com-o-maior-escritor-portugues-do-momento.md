@@ -2,13 +2,14 @@
 title: 'Uma entrevista com o maior escritor português do momento'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Uma entrevista com o maior escritor português do momento". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 28-08-1986, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento
 orig_publisher: 'Jornal da Tarde 28-08-1986'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Uma entrevista com o maior escritor português do momento". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 28-08-1986, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento
+
 ---
 
 Ele levou limões galegos do Brasil, quando voltou a Portugal, há poucos dias, para as suas batidas de limão. José Cardoso Pires, 50 anos, o maior escritor português da atualidade, autor de dois romances fascinantes, *O Delfim* e *O Anjo Ancorado*, além de outros, tem preferência por comidas e bebidas brasileiras. "Em Portugal hoje em dia é chic oferecer-se a caninha nas recepções sofisticadas. Infelizmente, como não temos dinheiro para comprar o açúcar feito de cana, contentamo-nos com o de beterraba, que começamos a produzir, depois que as nossas ex-colônias se libertaram". Amigo pessoal dos dirigentes africanos de Angola e Moçambique, militante na oposição à ditadura salazarista, Cardoso Pires esteve uma semana em São Paulo, durante a realização da Bienal do Livro e concedeu a Leo Gilson Ribeiro a seguinte entrevista:

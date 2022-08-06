@@ -2,13 +2,14 @@
 title: 'Na singeleza dos versos, a revelação de uma poetisa inigualável'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Na singeleza dos versos, a revelação de uma poetisa inigualável". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 8-9-1979, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/02-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/02-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel
 orig_publisher: 'Jornal da Tarde 8-9-1979'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Na singeleza dos versos, a revelação de uma poetisa inigualável". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 8-9-1979, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/02-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/02-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel
+
 ---
 
 Henriqueta Lisboa completa agora 50 anos de criação poética.

@@ -2,13 +2,14 @@
 title: 'A luminosa despedida seguida de um longo depoimento de Hilda Hilst'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A luminosa despedida seguida de um longo depoimento de Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 4 de março de 1989, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/17-a-luminosa-despedida-seguida-de-um-longo-depoimento-de-hilda-hilst</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/17-a-luminosa-despedida-seguida-de-um-longo-depoimento-de-hilda-hilst
 orig_publisher: 'LGR JT 4 de março de 1989'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "A luminosa despedida seguida de um longo depoimento de Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 4 de março de 1989, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/17-a-luminosa-despedida-seguida-de-um-longo-depoimento-de-hilda-hilst</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/17-a-luminosa-despedida-seguida-de-um-longo-depoimento-de-hilda-hilst
+
 ---
 
 A profunda, luminosa poesia de Hilda Hilst tinge-se de tons de melancolia e consciente despedida em seu último livro, *Amavisse* (infinitivo perfeito do verbo em latim *amare* que significa "ter amado"). Último por estar agora nas estantes das livrarias e último também por ser intencionalmente o derradeiro que ela se propõe a publicar no Brasil.

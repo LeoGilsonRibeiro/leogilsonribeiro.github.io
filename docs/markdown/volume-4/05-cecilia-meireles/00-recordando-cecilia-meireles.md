@@ -2,13 +2,14 @@
 title: 'Recordando Cecília Meireles'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Recordando Cecília Meireles". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Diário de Notícias 6-12-1964, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles
 orig_publisher: 'Diário de Notícias 6-12-1964'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Recordando Cecília Meireles". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Diário de Notícias 6-12-1964, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles
+
 ---
 
 A casa no Cosme Velho que eu revia agora eu não percebera bem na noite em que lá estivera, com a poetisa Marly de Oliveira. Uma escada cercada de flores subia em suave labirinto até o andar principal, emoldurando pelas montanhas que culminavam na estátua do Cristo Redentor. Praticamente diante do portão da entrada, a estação do trenzinho que conduz ao topo abrigava turistas platinos na tarde radiosa.

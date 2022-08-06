@@ -2,13 +2,14 @@
 title: 'Destruindo a palavra. Para reencontrá-la mais bela e pura'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Destruindo a palavra. Para reencontrá-la mais bela e pura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-06-1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura
 orig_publisher: 'Jornal da Tarde 29-06-1985'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Destruindo a palavra. Para reencontrá-la mais bela e pura". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-06-1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura
+
 ---
 
 Talvez nunca se tenha escrito antes um livro em que o artista investe contra a palavra. Escarnece dos limites da palavra. Corrói a palavra até deixá-la mera crosta do nada. Esse livro existe agora. Lembra uma penosa angústia em que o pintor pinta incessantemente para demonstrar que o desenho, as cores e a forma jamais exprimem o que não se pode exprimir, e descrê, usando-as das suas próprias ferramentas.

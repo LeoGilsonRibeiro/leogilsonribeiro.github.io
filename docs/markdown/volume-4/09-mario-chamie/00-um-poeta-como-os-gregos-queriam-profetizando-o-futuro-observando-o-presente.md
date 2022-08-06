@@ -2,13 +2,14 @@
 title: 'Um poeta como os gregos queriam: profetizando o futuro, observando o presente'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Um poeta como os gregos queriam: profetizando o futuro, observando o presente". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 4-03-1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/09-mario-chamie/00-um-poeta-como-os-gregos-queriam-profetizando-o-futuro-observando-o-presente</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/09-mario-chamie/00-um-poeta-como-os-gregos-queriam-profetizando-o-futuro-observando-o-presente
 orig_publisher: 'Jornal da Tarde 4-03-1978'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Um poeta como os gregos queriam: profetizando o futuro, observando o presente". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 4-03-1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/09-mario-chamie/00-um-poeta-como-os-gregos-queriam-profetizando-o-futuro-observando-o-presente</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/09-mario-chamie/00-um-poeta-como-os-gregos-queriam-profetizando-o-futuro-observando-o-presente
+
 ---
 
 Um incêndio de ira e denúncia percorre os poemas vibráteis de Mário Chamie, criados com mestria crescente, nos últimos 22 anos de sua presença poética constante e enfeixados em *Objeto Selvagem*, *poesia completa* (Edições Quíron).

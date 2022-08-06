@@ -2,13 +2,14 @@
 title: 'A revolta de um precursor'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A revolta de um precursor". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, n.41, 1969/06. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/05-a-revolta-de-um-precursor</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/05-a-revolta-de-um-precursor
 orig_publisher: 'Veja, n.41'
 orig_date: 1969/06
-abnt_ref: 'RIBEIRO, Leo Gilson. "A revolta de um precursor". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, n.41, 1969/06. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/05-a-revolta-de-um-precursor</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/05-a-revolta-de-um-precursor
+
 ---
 
 No dia 13 de maio de 1888, o mulatinho Afonso Henriques de Lima Barreto comemora sete anos de idade na Rua do Riachuelo, no Rio de Janeiro, em meio a foguetes e danças dos negros libertos, que lhe dão a primeira noção confusa do preconceito racial e da escravidão que se abolia naquela data. Em 1922, o romancista social de *O Triste Fim de Policarpo Quaresma*, o jornalista cáustico de *Bagatelas*, morria -- no mesmo ano da Semana de Arte Moderna em São Paulo, cujas reformas mais importantes ele antecipara de decênios. Esta semana, a Editora Brasiliense comemora os sessenta anos do seu primeiro romance lançado pela primeira vez em Portugal, *Recordações do Escrivão Isaías Caminha* (numa época em que Machado de Assis e Euclides da Cunha não tinham editores brasileiros para suas obras).

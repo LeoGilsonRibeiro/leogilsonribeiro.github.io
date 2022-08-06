@@ -2,13 +2,14 @@
 title: 'A fascinante aventura do Marco Polo português'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A fascinante aventura do Marco Polo português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 06-08-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues
 orig_publisher: 'Jornal da Tarde 06-08-1983'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "A fascinante aventura do Marco Polo português". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 06-08-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues
+
 ---
 
 Fernão, mentes? Minto! Fernão Mendes Pinto, autor português do século XVI, não escaparia nunca mais a este gracejo, para sempre ligado, ironicamente, a seu nome. Nem neste ano em que se comemoram os 400 anos de sua morte (1509? - 1583), deixou a companhia de teatro de Cascais, em Portugal, em visita recente ao Brasil, de armar toda uma peça em torno a este mote, de que participam, seriamente, historiadores e pesquisadores eruditos ilustres, de várias nacionalidades. Embora publicada postumamente, sua obra longuíssima, a *Peregrinação*, é criticada como sendo fantasiosa, mentirosa, falsa, cheia de erros factuais ou passagens inventadas, tantas são as incorreções evidentes que nela pululam.

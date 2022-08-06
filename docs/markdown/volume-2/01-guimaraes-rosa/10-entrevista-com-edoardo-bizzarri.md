@@ -2,13 +2,14 @@
 title: 'Entrevista com Edoardo Bizzarri'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista com Edoardo Bizzarri". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Realizada em 2 de agosto de 1968 e não publicada, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri
 orig_publisher: 'Realizada em 2 de agosto de 1968 e não publicada'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista com Edoardo Bizzarri". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Realizada em 2 de agosto de 1968 e não publicada, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri
+
 ---
 
 Qual a sua opinião sobre Guimarães Rosa?

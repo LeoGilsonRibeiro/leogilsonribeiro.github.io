@@ -2,13 +2,14 @@
 title: 'Tarsila do Amaral: A última entrevista'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Tarsila do Amaral: A última entrevista". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Veja 23 de fevereiro de 1972 - Edição 181, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/03-tarsila-do-amaral/00-tarsila-do-amaral-a-ultima-entrevista</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/03-tarsila-do-amaral/00-tarsila-do-amaral-a-ultima-entrevista
 orig_publisher: 'Veja 23 de fevereiro de 1972 - Edição 181'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Tarsila do Amaral: A última entrevista". In PUENTE, Fernando Rey (org.) <em>Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Veja 23 de fevereiro de 1972 - Edição 181, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/03-tarsila-do-amaral/00-tarsila-do-amaral-a-ultima-entrevista</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/03-tarsila-do-amaral/00-tarsila-do-amaral-a-ultima-entrevista
+
 ---
 
 \"O que será aquela coisa?\"

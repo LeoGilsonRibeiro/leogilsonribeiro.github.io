@@ -2,13 +2,14 @@
 title: 'Cecília Meireles. Um canto fascinado e lúcido'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Cecília Meireles. Um canto fascinado e lúcido". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 10-11-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido
 orig_publisher: 'Jornal da Tarde 10-11-1984'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Cecília Meireles. Um canto fascinado e lúcido". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 10-11-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido
+
 ---
 
 "Além disso, o universo não poderia deter-se num limite extremo, já que a natureza não o permitiria: ela quer que a matéria seja limitada pelo vazio e o vazio pela matéria e por meio dessas alternâncias tudo seja infinito"

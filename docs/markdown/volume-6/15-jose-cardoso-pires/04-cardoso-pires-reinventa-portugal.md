@@ -2,13 +2,14 @@
 title: 'Cardoso Pires reinventa Portugal'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Cardoso Pires reinventa Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 16-01-1988, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/04-cardoso-pires-reinventa-portugal</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/04-cardoso-pires-reinventa-portugal
 orig_publisher: 'Jornal da Tarde 16-01-1988'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Cardoso Pires reinventa Portugal". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 16-01-1988, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/04-cardoso-pires-reinventa-portugal</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/04-cardoso-pires-reinventa-portugal
+
 ---
 
 José Cardoso Pires sobressai como possivelmente o maior escritor português em um país de revigorante efervescência literária atual. A escritura ática, elegíaca, da poesia de Eugênio de Andrade não lhe faz sombra. Nem tornam menor a sua criação prosadores com a vitalíssima reflexão de José Saramago e seu afresco do *Memorial do Convento*, ou a obra mais perfeita, maçã amarga amadurecida nas cãs de um Virgílio Ferreira, *Para Sempre*, nem os livros marcantes de muitos mais: Fernando Botelho, David Mourão-Ferreira, Agustina Bessa-Luís - a lista poderia ser estafantemente extensa.

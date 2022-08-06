@@ -2,13 +2,14 @@
 title: 'Depois dele, Portugal não foi mais o mesmo. Nem o Português'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Depois dele, Portugal não foi mais o mesmo. Nem o Português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 07-01-1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/02-depois-dele-portugal-nao-foi-mais-o-mesmo-nem-o-portugues</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/02-depois-dele-portugal-nao-foi-mais-o-mesmo-nem-o-portugues
 orig_publisher: 'Jornal da Tarde 07-01-1978'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Depois dele, Portugal não foi mais o mesmo. Nem o Português". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 07-01-1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/02-depois-dele-portugal-nao-foi-mais-o-mesmo-nem-o-portugues</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/02-depois-dele-portugal-nao-foi-mais-o-mesmo-nem-o-portugues
+
 ---
 
 Quando ele escrevia seus romances, era preciso fechar as janelas, senão os vizinhos pensariam que havia uma briga violenta na casa ao lado. Gesticulava, esmurrava o ar, fazia várias vozes dos personagens, para sentir-lhes a autenticidade, rasgava fragorosamente textos escritos e uma vez incendiou a cesta de papéis com a quantidade de cigarros acesos e não terminados que atirou nela.

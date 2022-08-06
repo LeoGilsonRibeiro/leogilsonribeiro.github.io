@@ -2,13 +2,14 @@
 title: 'Hilda, encantamento místico inigualável'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Hilda, encantamento místico inigualável". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 16-6-1984 (publicado depois como posfácio do livro, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/12-hilda-encantamento-mistico-inigualavel</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/12-hilda-encantamento-mistico-inigualavel
 orig_publisher: 'LGR JT 16-6-1984 (publicado depois como posfácio do livro'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Hilda, encantamento místico inigualável". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 16-6-1984 (publicado depois como posfácio do livro, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/12-hilda-encantamento-mistico-inigualavel</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/12-hilda-encantamento-mistico-inigualavel
+
 ---
 
 de Hilda Hilst *Poemas Malditos Gozosos e Devotos*)

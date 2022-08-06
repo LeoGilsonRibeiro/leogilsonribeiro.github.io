@@ -2,13 +2,14 @@
 title: 'Depoimento de Hilda Hilst: "Eu quero a junção do misticismo com a ciência"'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Depoimento de Hilda Hilst: "Eu quero a junção do misticismo com a ciência"". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 15-3-1980 e O Estado de São Paulo 16-3-1980, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/07-depoimento-de-hilda-hilst-eu-quero-a-juncao-do-misticismo-com-a-ciencia</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/07-depoimento-de-hilda-hilst-eu-quero-a-juncao-do-misticismo-com-a-ciencia
 orig_publisher: 'LGR JT 15-3-1980 e O Estado de São Paulo 16-3-1980'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Depoimento de Hilda Hilst: "Eu quero a junção do misticismo com a ciência"". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 15-3-1980 e O Estado de São Paulo 16-3-1980, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/07-depoimento-de-hilda-hilst-eu-quero-a-juncao-do-misticismo-com-a-ciencia</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/07-depoimento-de-hilda-hilst-eu-quero-a-juncao-do-misticismo-com-a-ciencia
+
 ---
 
 Em seu mais recente livro, *Tu não te moves de Ti* (Editora Cultura, SP), a ser lançado amanhã, a escritora paulista Hilda Hilst elabora uma narrativa tripla, três personagens, da Razão (Tadeu), Matamoros (da Fantasia) e Axelrod (da Proporção), que reproduzem aquela confluência einsteiniana de que, vistos à distância, o presente, o passado e o futuro coincidem como uma só ponta no infinito.

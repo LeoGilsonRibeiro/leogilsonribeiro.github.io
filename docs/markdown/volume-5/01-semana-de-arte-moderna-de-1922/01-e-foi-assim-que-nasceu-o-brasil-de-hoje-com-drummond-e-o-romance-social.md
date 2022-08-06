@@ -2,13 +2,14 @@
 title: 'E foi assim que nasceu o Brasil de hoje, com Drummond e o romance social'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "E foi assim que nasceu o Brasil de hoje, com Drummond e o romance social". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 13 de fevereiro de 1982, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/01-e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummond-e-o-romance-social</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/01-e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummond-e-o-romance-social
 orig_publisher: 'Jornal da Tarde 13 de fevereiro de 1982'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "E foi assim que nasceu o Brasil de hoje, com Drummond e o romance social". In PUENTE, Fernando Rey (org.) <em>Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 13 de fevereiro de 1982, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/01-e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummond-e-o-romance-social</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/01-e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummond-e-o-romance-social
+
 ---
 
 No armazém de secos e molhados das artes, São Paulo tinha um estoque modelar, naquele início de século XX: pintores que pintavam caipiras com a expressão apalermada de *demi-race*, pitando sua ignorância em telas a óleo rigorosamente seguindo os últimos figurinos acadêmicos de Paris. Era um retrato do exótico caboclo, uma *tranche de vie* (uma fatia de vida) vivíssima, que se comprava e se pendurava na parede da sala de visita, com solenidade. Na arquitetura, a revista *Cruzeiro* sugeria a seus leitores quatrocentões ou imigrantes italianos e árabes endinheirados *cotages* do tipo colonial norte-americano, patuscas casas de estilo "mexicano" onde só faltavam os bigodes de Panho Villa.

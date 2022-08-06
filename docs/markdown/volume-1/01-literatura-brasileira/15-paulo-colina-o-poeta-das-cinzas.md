@@ -2,13 +2,14 @@
 title: 'Paulo Colina - o poeta das cinzas'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Paulo Colina - o poeta das cinzas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Revista Goodyear, n.47, 1988. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/15-paulo-colina-o-poeta-das-cinzas</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/15-paulo-colina-o-poeta-das-cinzas
 orig_publisher: 'Revista Goodyear, n.47'
 orig_date: 1988
-abnt_ref: 'RIBEIRO, Leo Gilson. "Paulo Colina - o poeta das cinzas". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Revista Goodyear, n.47, 1988. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/15-paulo-colina-o-poeta-das-cinzas</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/15-paulo-colina-o-poeta-das-cinzas
+
 ---
 
 "Que Abolição temos que comemorar? A Princesa Isabel, talvez por ingenuidade, cedeu à pressão dos grandes latifundiários. Daí por diante, enquanto milhões de europeus chegavam para substituir o trabalho escravo no negro, o Brasil 'branqueava' sua população. O negro da senzala foi atirado à favela, à marginalidade, à fome, ao biscate, à ignorância."

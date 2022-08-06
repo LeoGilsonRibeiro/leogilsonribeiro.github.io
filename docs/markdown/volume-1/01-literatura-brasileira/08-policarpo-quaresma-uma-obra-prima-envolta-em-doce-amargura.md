@@ -2,13 +2,14 @@
 title: 'Policarpo Quaresma, uma obra-prima envolta em doce amargura'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Policarpo Quaresma, uma obra-prima envolta em doce amargura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1983/4/9. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1983/4/9
-abnt_ref: 'RIBEIRO, Leo Gilson. "Policarpo Quaresma, uma obra-prima envolta em doce amargura". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1983/4/9. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura
+
 ---
 
 A compreensão do espírito que animou o romancista carioca Lima Barreto a compor o personagem título de suas páginas espantosas, *Triste Fim de Policarpo Quaresma*, pode ficar em parte impedida pela tradução imperfeita da frase de Renan que lhe serve de epígrafe. No original francês de seu Mar Aurèle, está claramente exposta a noção de ruptura entre o idealista e a realidade que o circunda:

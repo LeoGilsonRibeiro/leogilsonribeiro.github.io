@@ -2,13 +2,14 @@
 title: 'Hilda Hilst, Ficções (São Paulo: Edições Quíron Limitada, 1977), pp. VII- XII'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Hilda Hilst, Ficções (São Paulo: Edições Quíron Limitada, 1977), pp. VII- XII". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Apresentação de Leo Gilson Ribeiro, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii
 orig_publisher: 'Apresentação de Leo Gilson Ribeiro'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Hilda Hilst, Ficções (São Paulo: Edições Quíron Limitada, 1977), pp. VII- XII". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Apresentação de Leo Gilson Ribeiro, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii
+
 ---
 
 Os textos em prosa de Hilda Hilst têm todos o ritmo vagaroso de sementes. Suas palavras, frases, conceitos germinam atemporalmente na retina e na percepção de quem os lê. Em todos há uma desapiedada visão do animalesco, do visceral agarrado como um molusco repelente a um altar incompreensível. Deus? Um sádico imperfeito que esboçou seres humanos para temê-Lo e adorá-Lo. A velhice que mineraliza aos poucos o corpo, dando à flacidez e às rugas o tom acobreado, metálico da lenta necrose orgânica.

@@ -2,13 +2,14 @@
 title: 'Manuel Bandeira, um poeta dez anos maior'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Manuel Bandeira, um poeta dez anos maior". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior
 orig_publisher: 'Jornal da Tarde, 1978'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Manuel Bandeira, um poeta dez anos maior". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior
+
 ---
 
 A poesia de Manuel Bandeira, vista dez anos após sua morte, desmistifica a noção de "poeta menor" em que ele próprio se tinha, com modéstia raríssima no Brasil. Derivada da crítica inglesa, essa classificação hierárquica de *major poet* e *minor poet* revela-se claramente insuficiente para rotular a criação poética: há, de fato, poetas que traçam um painel versátil, profundo e vastíssimo do ser humano, como Dante e a dimensão moral e religiosa do homem; Shakespeare e a musicalidade do verso aliada à pintura da ambição pelo poder, à violência dos sentimentos humanos corporificados na credulidade do passional Otelo, na arrogância senil do Rei Lear. E há poetas que nada têm de "menores": são poetas de produção menos vasta, mais miniaturesca mas nem por isso inferior em grandeza. A percepção geral da poesia de Manuel Bandeira que perdura, numa releitura, decorridos esses dez anos, é a de um poeta de grandes momentos de efusão despojada do sentimentalismo brasileiro: e por compor predominantemente para piano, por acaso Chopin e Schumann são "menores"?

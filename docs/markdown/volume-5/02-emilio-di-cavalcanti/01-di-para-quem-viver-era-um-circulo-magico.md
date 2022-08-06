@@ -2,13 +2,14 @@
 title: 'Di, para quem viver era um círculo mágico'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Di, para quem viver era um círculo mágico". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Corrio do Povo, Caderno de Sábado 30-10-1976, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico
 orig_publisher: 'Corrio do Povo, Caderno de Sábado 30-10-1976'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Di, para quem viver era um círculo mágico". In PUENTE, Fernando Rey (org.) <em>Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Corrio do Povo, Caderno de Sábado 30-10-1976, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico
+
 ---
 
 No momento em que Porto Alegre fazia uma seresta para seu maior poeta, Mário Quintana, com um coro de que participavam Lygia Fagundes Telles, Remy Gorga, João Antônio, Rubens Fonseca e outros participantes do encontro literário da Cultura, vinha a notícia fulminante que ensombreou todos os rostos: acabava e morrer, no Rio de Janeiro, Di Cavalcanti.

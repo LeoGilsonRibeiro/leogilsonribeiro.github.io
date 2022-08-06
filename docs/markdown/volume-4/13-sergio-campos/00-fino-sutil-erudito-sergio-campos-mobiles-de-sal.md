@@ -2,13 +2,14 @@
 title: 'Fino, sutil, erudito: Sérgio Campos, Móbiles de Sal'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Fino, sutil, erudito: Sérgio Campos, Móbiles de Sal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 1991, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/13-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/13-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal
 orig_publisher: 'Jornal da Tarde 1991'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Fino, sutil, erudito: Sérgio Campos, Móbiles de Sal". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 1991, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/13-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/13-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal
+
 ---
 
 O poeta carioca Sérgio Campos orgulha-se de sua profissão defender o réu, desempenho que alterna com um cultivo coerente da poesia de Jorge de Lima e da poesia experimental de poetas brasileiros contemporâneos como José Santiago Knaud, Leonardo Fróes e Floriano Martins, entre outros. Uma das supresas agradáveis que seu livro recém-lançado, *Móbiles de Sal*, revela é que Sérgio Campos é um intelectual culto, que cita a propósito os grandes poetas ingleses que venera como Blake, John Donne, Gerard Manley Hopkins.

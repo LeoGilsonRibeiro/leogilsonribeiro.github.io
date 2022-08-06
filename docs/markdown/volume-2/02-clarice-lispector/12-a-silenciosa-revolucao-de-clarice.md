@@ -2,13 +2,14 @@
 title: 'A silenciosa revolução de Clarice'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A silenciosa revolução de Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 12-12-1987, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice
 orig_publisher: 'Jornal da Tarde 12-12-1987'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "A silenciosa revolução de Clarice". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 12-12-1987, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice
+
 ---
 
 A criação literária de Clarice Lispector soava como alguém que insistisse em tocar um *Impromptu* de Schubert em meio a um comício: o plano abafado pelas palavras de ordem dos partidos políticos a se esgoelarem na praça. A princípio, alguns que se julgavam sábios meneavam a cabeça, céticos: "É uma impostora". Outros duvidavam de forma menos hostil, quase como uma desculpa: "Deve ser uma mulher fútil, que escreve pois não tem o que fazer". E por último, em coro, o arrazoado final: "É uma estrangeira linda, por onde passa os homens se inclinam diante dessa *femme fatale* exótica, russa, clara, de cabelos ruivos, olhos de gata no cio, distante, requintada, tropeçando nos "r" como uma gringa recém-chegada".

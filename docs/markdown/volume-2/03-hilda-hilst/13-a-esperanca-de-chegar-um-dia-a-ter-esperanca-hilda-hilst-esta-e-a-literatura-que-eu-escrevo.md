@@ -2,13 +2,14 @@
 title: 'A esperança de chegar um dia a ter esperança. Hilda Hilst esta é a literatura que eu escrevo'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A esperança de chegar um dia a ter esperança. Hilda Hilst esta é a literatura que eu escrevo". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR Interview, n. 82 (1985), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo
 orig_publisher: 'LGR Interview, n. 82 (1985)'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "A esperança de chegar um dia a ter esperança. Hilda Hilst esta é a literatura que eu escrevo". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR Interview, n. 82 (1985), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo
+
 ---
 
 Sem alardes, pouco a pouco, a escritora paulista Hilda Hilst conquista a França, a Oropa e a Bahia. O mais pretigioso e severo jornal de Paris, *Le monde*, dedicou-lhe um espaço e um destaque, em seu Suplemento Literário, normalmente só concedido a Borges, a Beckett, a Céline. O crítico Jorge Coli não mediu superlativos: a poesia de Hilda Hilst representa a perfeição da escritura qualitativa que torna a literatura brasileira uma das poucas de ressonância mundial.

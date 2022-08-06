@@ -2,13 +2,14 @@
 title: 'Os versos de Hilda Hilst, integrando a nossa realidade'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Os versos de Hilda Hilst, integrando a nossa realidade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 14 de fevereiro de 1981, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/10-os-versos-de-hilda-hilst-integrando-a-nossa-realidade</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/10-os-versos-de-hilda-hilst-integrando-a-nossa-realidade
 orig_publisher: 'LGR JT 14 de fevereiro de 1981'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Os versos de Hilda Hilst, integrando a nossa realidade". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 14 de fevereiro de 1981, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/10-os-versos-de-hilda-hilst-integrando-a-nossa-realidade</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/10-os-versos-de-hilda-hilst-integrando-a-nossa-realidade
+
 ---
 
 O Grande Prêmio atribuído na recente votação da Associação Paulista de Críticos de Arte a Hilda Hilst representa um indício de que, ao menos entre uma parte significativa da crítica pensante e sensível brasileira, a obra tríplice da paulista Hilda Hilst (como dramaturga, como poetisa e como prosadora) vem recebendo seu tardio, mas ainda válido reconhecimento.

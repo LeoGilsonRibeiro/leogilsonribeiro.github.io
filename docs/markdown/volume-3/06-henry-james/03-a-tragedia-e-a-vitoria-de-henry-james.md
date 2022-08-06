@@ -2,13 +2,14 @@
 title: 'A tragédia e a vitória de Henry James'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume III: Testemunhos Literários do século XX'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A tragédia e a vitória de Henry James". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Diário de Notícias 13 de dezembro de 1964, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james
 orig_publisher: 'Diário de Notícias 13 de dezembro de 1964'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "A tragédia e a vitória de Henry James". In PUENTE, Fernando Rey (org.) <em>Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Diário de Notícias 13 de dezembro de 1964, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james
+
 ---
 
 Se toda grande criação artística encerra uma extraordinária soma de esforços na sua lenta e penosa elaboração, todo grande artista exige para a decifração de seu segredo pessoal, do seu *tema* insistente, dotes também extraordinários, por parte do leitor, de percepção, intuição, de dedicação e reflexão. Nesse encontro de sensibilidades que é a leitura, a audição de um concerto, a contemplação de um quadro, não conta somente o fator da afinidade mas também o da profundidade da percepção do recipiente, os espectador do espetáculo artístico. Com a valuação atribuída comumente à obra literária de Henry James tem ocorrido o mesmo quase que com o valor dado pela esmagadora maioria das pessoas à música de Mozart, à obra de Joyce ou de Proust, a qualquer criação, enfim, que não se revela imediatamente e exige de quem nelas quiser penetrar uma humildade e uma falta de preconceitos fundamentais.

@@ -2,13 +2,14 @@
 title: 'Nota sobre o livro Fala, Amendoeira'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Nota sobre o livro Fala, Amendoeira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 11-9-1970, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira
 orig_publisher: 'Jornal da Tarde 11-9-1970'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Nota sobre o livro Fala, Amendoeira". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 11-9-1970, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira
+
 ---
 
 Transplantado para o Rio de Janeiro, o itabirita Carlos Drummond de Andrade levou na sua bagagem imaterial um segundo eu mineiro. Ao lado de sua grande poesia - meditação para orgão, que engloba todos os instrumentos - ele viu desabrochar sa crônica quase diária da cidade - um cravo modernizado, dotado de notas agudas para a ironia e graves para um humor auto-ironizante.

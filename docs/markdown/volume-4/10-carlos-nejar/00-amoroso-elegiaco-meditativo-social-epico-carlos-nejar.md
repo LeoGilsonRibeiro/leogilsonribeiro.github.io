@@ -2,13 +2,14 @@
 title: 'Amoroso, elegíaco, meditativo, social, épico: Carlos Nejar'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Amoroso, elegíaco, meditativo, social, épico: Carlos Nejar". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 8-07-1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/10-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/10-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar
 orig_publisher: 'Jornal da Tarde 8-07-1978'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Amoroso, elegíaco, meditativo, social, épico: Carlos Nejar". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 8-07-1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/10-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/10-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar
+
 ---
 
 "E, contudo, uma meditação suficiente e persistente chega à convicção: a metafísica jamais proporciona, por sua essência, ao habitar humano a possibilidade de se estabelece propriamente na paragem, isto é: na essência do esquecimento do ser. É por isso que o pensamento e a poesia devem retornar lá, onde, de certo modo, já tínham sempre estado... Chegamos tarde demais para os Deuses e cedo demais para o Ser. Cujo rosto iniciado é o ser humano."

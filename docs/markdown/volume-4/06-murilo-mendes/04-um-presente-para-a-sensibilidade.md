@@ -2,13 +2,14 @@
 title: 'Um presente para a sensibilidade'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Um presente para a sensibilidade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 16-09-1989, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/04-um-presente-para-a-sensibilidade</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/04-um-presente-para-a-sensibilidade
 orig_publisher: 'Jornal da Tarde 16-09-1989'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Um presente para a sensibilidade". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 16-09-1989, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/04-um-presente-para-a-sensibilidade</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/04-um-presente-para-a-sensibilidade
+
 ---
 
 Neste Brasil de hoje, o comércio, a indústria, as gentes não foram avisadas. O Natal chegou em Setembro. A reunião de 30 anos de coesa poesia de Marly de Oliveira comprova abundantemente: será difícil encontrar um presente de Natal mais belo e mais profundo para a sensibilidade brasileira do que ler e possuir estas 457 páginas de poemas.

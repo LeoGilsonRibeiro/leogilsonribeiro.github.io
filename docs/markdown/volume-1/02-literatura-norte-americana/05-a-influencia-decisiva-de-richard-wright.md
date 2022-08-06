@@ -2,13 +2,14 @@
 title: 'A influência decisiva de Richard Wright'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A influência decisiva de Richard Wright". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1992\*. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/05-a-influencia-decisiva-de-richard-wright</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/05-a-influencia-decisiva-de-richard-wright
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1992\*
-abnt_ref: 'RIBEIRO, Leo Gilson. "A influência decisiva de Richard Wright". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1992\*. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/05-a-influencia-decisiva-de-richard-wright</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/05-a-influencia-decisiva-de-richard-wright
+
 ---
 
 Richard Wright (1908-1960) consegue desagradar quase que de maneira unânime. Extraordinário escritor negro do Sul dos Estados Unidos, momentaneamente cativado pelo Partido Comunista e logo expulso dessa associação que lhe pareceu limitá-lo como uma camisa-de-força, seu talento passional e franco até as últimas consequências o levou a abandonar o país em que nasceu e cresceu para abrigar-se junto aos existencialistas franceses, Sartre e Simone de Beauvoir, em Paris.

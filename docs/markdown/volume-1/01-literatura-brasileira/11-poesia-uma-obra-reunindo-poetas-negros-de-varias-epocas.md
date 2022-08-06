@@ -2,13 +2,14 @@
 title: 'Poesia. Uma obra reunindo poetas negros de várias épocas'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Poesia. Uma obra reunindo poetas negros de várias épocas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1986\*. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1986\*
-abnt_ref: 'RIBEIRO, Leo Gilson. "Poesia. Uma obra reunindo poetas negros de várias épocas". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1986\*. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas
+
 ---
 
 *A Razão da Chama* (Edições GRD), apesar de cuidadosamente organizada pela competência do poeta Oswaldo de Camargo, deixa uma impressão estranha de já lida, já percorrida. São vários poetas negros brasileiros, de Caldas Domingos Barbosa a Luís Gonzaga Pinto da Gama, de Cruz e Souza e Lino Pinto Guedes a Solano Trindade, até chegar aos novos poetas contemporâneos: Cuti, Paulo Colina, Abelardo Rodrigues, Éle Semog e outros mais. A impressão que se tem é a de uma releitura, ampliada, da coletânea *Axé*: a temática é estreita e se reduz à constelação de que a epiderme escura é discriminada monstruosamente no Brasil. Dessa verificação inicial se passa à gama inteira de sentimentos que ela causa: revolta pela discriminação, ódio e vingança, orgulho e autenticidade étnica e reconciliação e perdão pela invenção e exercício do racismo pelos brancos e pelos que se consideram brancos no Brasil etc.

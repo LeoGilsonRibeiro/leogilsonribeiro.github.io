@@ -2,13 +2,14 @@
 title: 'Guimarães Rosa: novas luzes sobre um fascinante enigma'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Guimarães Rosa: novas luzes sobre um fascinante enigma". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 6-10-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma
 orig_publisher: 'LGR JT 6-10-1984'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Guimarães Rosa: novas luzes sobre um fascinante enigma". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 6-10-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma
+
 ---
 
 Sem exagero, pode-se afirmar que a literatura brasileira se rasga de alto a baixo, em *dois modos de ser*: antes de 1956 e depois desta data, a da publicação de *Grande Sertão: Veredas* de Guimarães Rosa. Comprovadamente, qualquer pessoa que folhear um razoável manual da nossa literatura deparará com nomes e obras em grande profusão. Uns e outras, forçosamente menores, noutros casos já se delineiam perfis assombrosos de uma genialidade pouco a pouco reconhecida -- nenhum, porém, com a altivez desafiadora e novíssima, irrepetível, dessa imensa cordilheira mineira até hoje indecifrada. Esfinge de enigmas nunca traduzidos para o linguajar prosaico e a compreensão reles do dia-a-dia, Guimarães Rosa, continua a formular interrogações. Mesmo os nossos melhores críticos lhe respondem apenas com fragmentos, por vezes argutos, de uma sua possível exegese, nunca, porém, com um estudo abrangente e marcante da sua ciclópica obra. Nada que se compare, por exemplo, à *Vida e Obra de Fernando Pessoa*, de João Gaspar Simões, em Portugal.

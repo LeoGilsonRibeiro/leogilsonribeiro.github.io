@@ -2,13 +2,14 @@
 title: 'O amor erótico de Eugênio de Andrade. Delicado, audaz'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "O amor erótico de Eugênio de Andrade. Delicado, audaz". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 15-10-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz
 orig_publisher: 'Jornal da Tarde 15-10-1983'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "O amor erótico de Eugênio de Andrade. Delicado, audaz". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 15-10-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz
+
 ---
 
 Eugênio de Andrade era uma senha para pouquíssimos iniciados no Brasil. Agora, a Editora Civilização Brasileira publica uma sua *Antologia Breve* que esboça um seu leve perfil. É verdade que, anteriormente, o poeta gaúcho Carlos Nejar, durante sua estada em Portugal, recolhera alguns dos poemas dos máximos poetas atuais daquele país e pela Editora Ohno-Kempf divulgara entre nós, na sua *Poesia Portuguesa Contemporânea*, alguns versos do poeta secreto, quase mesmo diríamos voluntariamente marginal, que é Eugênio de Andrade. Fora disso, só mesmo os dedicados à poesia portuguesa com mais profundidade o conheciam através, por exemplo, da exaustiva *Antologia da Poesia Portuguesa 1940-1977*, organizada, em Lisboa, por M. Alberta Menéres e E. de Melo e Castro, da Moraes Editores.

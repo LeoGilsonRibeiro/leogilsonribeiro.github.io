@@ -2,13 +2,14 @@
 title: 'Eça de Queirós: cem anos de sua morte'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Eça de Queirós: cem anos de sua morte". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Caros Amigos - outubro de 2000, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte
 orig_publisher: 'Caros Amigos - outubro de 2000'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Eça de Queirós: cem anos de sua morte". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Caros Amigos - outubro de 2000, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte
+
 ---
 
 Que me seja permitido começar com uma redundância: a suprema literatura foge sempre ao efêmero. Atravessa todas as épocas da humanidade e continua perene como a arte dos gregos antigos, as catedrais góticas, as pinturas de Rembrandt, Goya, Van Gogh e muitos mais. Depois desse pleonasmo podemos celebrar (este e todos os anos) o centenário da imortalidade do supremo romancista português, Eça de Queirós, que faleceu biologicamente e de forma tão prematura, em 1900, com apenas 55 anos de idade.

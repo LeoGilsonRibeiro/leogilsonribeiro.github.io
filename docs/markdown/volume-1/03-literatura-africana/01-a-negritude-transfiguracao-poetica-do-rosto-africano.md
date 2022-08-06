@@ -2,13 +2,14 @@
 title: 'A Negritude - Transfiguração Poética do Rosto Africano'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A Negritude - Transfiguração Poética do Rosto Africano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã, 1964/12/20. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/01-a-negritude-transfiguracao-poetica-do-rosto-africano</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/01-a-negritude-transfiguracao-poetica-do-rosto-africano
 orig_publisher: 'Correio da Manhã'
 orig_date: 1964/12/20
-abnt_ref: 'RIBEIRO, Leo Gilson. "A Negritude - Transfiguração Poética do Rosto Africano". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã, 1964/12/20. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/01-a-negritude-transfiguracao-poetica-do-rosto-africano</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/01-a-negritude-transfiguracao-poetica-do-rosto-africano
+
 ---
 
 Em sua obra-prima sobre os anos que viveu na África, a escritora dinamarquesa Karen Blixen (que usa o pseudônimo de Isak Dinesen) referiu-se à diversidade dos povos negros e à sua integração plena na paisagem indígena:

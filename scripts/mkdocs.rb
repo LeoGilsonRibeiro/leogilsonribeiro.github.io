@@ -49,6 +49,7 @@ BLOG_FOLDER = '/Users/bcdav/Dropbox/Blog/LGR'.freeze
 MKDOCS_REPO_URL = 'https://github.com/bcdavasconcelos/LGR'.freeze
 AUTHOR1 = 'Fernando Rey Puente'.freeze
 AUTHOR2 = 'Leo Gilson Ribeiro'.freeze
+WORK_TITLE = 'Textos Reunidos de Leo Gilson Ribeiro'.freeze
 
 # Caminhos para os arquivos
 src_files = "#{BLOG_FOLDER}/src"
@@ -75,7 +76,7 @@ if docx_skip
   logger.warn 'Skipping conversion of docx into markdown'
 else
   logger.info 'Converting docx to markdown...'
-  docx_to_markdown(docx_dir, markdown_volumes, markdown_archive, dry_run)
+  docx_to_markdown(docx_dir, markdown_volumes, dry_run)
   logger.info "Finished converting #{Dir["#{markdown_volumes}/**/*.md"].count} files from docx to markdown"
   logger.warn "#{Dir["#{docx_dir}/**/*.docx"].count - Dir["#{markdown_volumes}/**/*.md"].count} docx files skipped"
 end
@@ -90,24 +91,23 @@ Dir["#{markdown_volumes}/*.md"].each_with_index do |volume_file, v|
 
     # current_status = v == 1 ? 'Revisão preliminar' : 'Transcrição'
 
-    vol_title = text.split("\n")[0].gsub(/^# /, '')
+    vol_title = text.split("\n")[0].gsub(/(^# |\*)/, '')
 
     if v.zero? # Apresentação
-      MKDOCS_REF_TITLE = vol_title
       author = AUTHOR1
       editor = AUTHOR1
-
+      vol_title = text_to_title(vol_title)
+      text_title = text_to_title(text.split(/^# /)[1].split(/\n/)[0].gsub(/(^# |\*)/, ''))
       text = text.lines[1..-1].join.strip
       vol_dir = "#{docs_markdown}/#{string_to_path(vol_title)}"
       vol_file = "#{vol_dir}/README.md"
       `mkdir -p "#{vol_dir}"` unless dry_run
       unless dry_run
-        File.write(vol_file, add_metadata(author, editor, vol_title, text, vol_title, vol_file))
+        File.write(vol_file, add_metadata(author, editor, text_title, text, '', vol_file))
         logger.debug "Created volume file :: #{vol_file}"
       end
-
-      nav << "##{text_to_title(vol_title)}:"
-      nav << "###{text_to_title(vol_title)}: #{path_to_slug(vol_file)}"
+      nav << "##{text_title}:"
+      nav << "###{text_title}: #{path_to_slug(vol_file)}"
       next
 
     else # Demais volumes
@@ -126,7 +126,7 @@ Dir["#{markdown_volumes}/*.md"].each_with_index do |volume_file, v|
     parts_text = text.split(/^# /).select { |t| !t.empty? && t =~ /[A-Za-z]/ }
     parts_text.each_with_index do |part_text, i|
 
-      part_title = part_text.split("\n")[0].gsub(/^# /, '').strip
+      part_title = part_text.split("\n")[0].gsub(/(^# |\*)/, '').strip
       part_text = part_text.lines[1..-1].join
 
       if i.zero? && part_text !~ /^## /       # 1. Introdução H1 sem Capítulos (Padrão)

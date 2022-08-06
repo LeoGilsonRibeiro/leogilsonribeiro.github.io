@@ -2,13 +2,14 @@
 title: 'Jovem, cínica, desesperada, terna... A nova poesia brasileira é mais que uma promessa'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Jovem, cínica, desesperada, terna... A nova poesia brasileira é mais que uma promessa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 25-02-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/14-cora-coralina/01-jovem-cinica-desesperada-terna-a-nova-poesia-brasileira-e-mais-que-uma-promessa</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/14-cora-coralina/01-jovem-cinica-desesperada-terna-a-nova-poesia-brasileira-e-mais-que-uma-promessa
 orig_publisher: 'Jornal da Tarde 25-02-1984'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Jovem, cínica, desesperada, terna... A nova poesia brasileira é mais que uma promessa". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 25-02-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/14-cora-coralina/01-jovem-cinica-desesperada-terna-a-nova-poesia-brasileira-e-mais-que-uma-promessa</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/14-cora-coralina/01-jovem-cinica-desesperada-terna-a-nova-poesia-brasileira-e-mais-que-uma-promessa
+
 ---
 
 Sobre os pelotões de prédios da Paulicéia Desvairada centenas de folhetos chovem, tentando desfazer a mesmice do cinza e sustar por um instante a multidão caudalosa que flui, robôs cabisbaixos, pelo viaduto do Chá. Cartazes com letras garrafais - "Iniciativa Privada" - são espalhados pelos banheiros públicos das praças, estações e botequins da cidade quatrocentona, entediada e raquítica de vida cultural. Jovens barbudos, de cabelos eriçados amarrados atrás com uma fitinha debochada, "pontilhada de estrelas", esparramam-se pelas caladas e oferecem textos cruamente reproduzidos em mimeógrafos apressados. São as inumeráveis tentativas de fazer o poema chegar a todos, grito herdado da década em que Lindolfo Bell, o nosso Evtuchenko da praça Roosevelt, evangelizava massas amorfas de gente com seus poemas, seus cabelos louros esvoaçantes, os olhos fechados pensando nos estádios de futebol da Rússia, onde milhares de vãs dizem simultaneamente com o bardo, em coro religioso, os mesmos versos que ele. Picham-se nos muros não só de São Paulo, mas do Brasil inteiro, com frases traçadas a giz ou escavadas na camada de pintura dos muros: "Quem teve a mão decepada/ sslevante o dedo" (Nicolas Behr) ou a saída ainda traumatizada da longa noite de horror: "Medo/ Rua escura/ Alta madrugada/ Dois homens/ Quatro passos idênticos e silenciosos/ Duas bocas fechadas." (Carlos Martins) ou o ramantismo num *flash* fulminante:

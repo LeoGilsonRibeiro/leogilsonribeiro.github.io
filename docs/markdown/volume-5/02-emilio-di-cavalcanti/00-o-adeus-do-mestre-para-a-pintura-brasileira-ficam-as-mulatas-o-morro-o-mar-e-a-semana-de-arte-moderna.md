@@ -2,13 +2,14 @@
 title: 'O adeus do mestre: Para a pintura brasileira, ficam as mulatas, o morro, o mar e a Semana de Arte Moderna'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "O adeus do mestre: Para a pintura brasileira, ficam as mulatas, o morro, o mar e a Semana de Arte Moderna". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Veja 3-11-1971, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/02-emilio-di-cavalcanti/00-o-adeus-do-mestre-para-a-pintura-brasileira-ficam-as-mulatas-o-morro-o-mar-e-a-semana-de-arte-moderna</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/02-emilio-di-cavalcanti/00-o-adeus-do-mestre-para-a-pintura-brasileira-ficam-as-mulatas-o-morro-o-mar-e-a-semana-de-arte-moderna
 orig_publisher: 'Veja 3-11-1971'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "O adeus do mestre: Para a pintura brasileira, ficam as mulatas, o morro, o mar e a Semana de Arte Moderna". In PUENTE, Fernando Rey (org.) <em>Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Veja 3-11-1971, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/02-emilio-di-cavalcanti/00-o-adeus-do-mestre-para-a-pintura-brasileira-ficam-as-mulatas-o-morro-o-mar-e-a-semana-de-arte-moderna</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/02-emilio-di-cavalcanti/00-o-adeus-do-mestre-para-a-pintura-brasileira-ficam-as-mulatas-o-morro-o-mar-e-a-semana-de-arte-moderna
+
 ---
 
 Alegre, generoso, bom: Emiliano Di Cavalcanti, um dos mestres da pintura brasileira, é de uma afetividade imediata e constante. Trata com a mesma delicadeza um garçom de restaurante e uma duquesa européia. Engraçado, contador de casos e piadas espirituosas, prende seus ouvintes horas a fio numa conversa desordenada mas sempre cheia de calor humano e de uma malícia brejeira e inocente. Quer criar no Rio, com seu amigo, o ensaísta Francisco de Assis Barbosa, um Museu da Paisagem Carioca, para conservar pelo menos nos quadros a natureza que o homem massacra dia a dia justamente onde ela é mais privilegiada.

@@ -2,12 +2,10 @@
 title: 'Introdução'
 author: Fernando Rey Puente
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
-orig_publisher: 'lgr.com.br'
-orig_date: Sem data
-abnt_ref: 'PUENTE, Fernando Rey. "Introdução". In <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: lgr.com.br, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/readme</a>'
+abnt_ref: 'PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/readme</a>'
 view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/readme
 ---
 

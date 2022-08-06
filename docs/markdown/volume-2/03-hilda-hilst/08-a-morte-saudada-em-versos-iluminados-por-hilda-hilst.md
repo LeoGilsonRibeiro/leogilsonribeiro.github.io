@@ -2,13 +2,14 @@
 title: 'A morte, saudada em versos iluminados. Por Hilda Hilst'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A morte, saudada em versos iluminados. Por Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 18 de outubro de 1980, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst
 orig_publisher: 'LGR JT 18 de outubro de 1980'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "A morte, saudada em versos iluminados. Por Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 18 de outubro de 1980, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst
+
 ---
 
 "Todos os dias conduzem à morte, o último chega a ela" Sêneca

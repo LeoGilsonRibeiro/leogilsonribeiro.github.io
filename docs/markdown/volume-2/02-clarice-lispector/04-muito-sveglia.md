@@ -2,13 +2,14 @@
 title: 'Muito sveglia'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Muito sveglia". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja 24-04-1974, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/04-muito-sveglia</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/04-muito-sveglia
 orig_publisher: 'Veja 24-04-1974'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Muito sveglia". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja 24-04-1974, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/04-muito-sveglia</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/04-muito-sveglia
+
 ---
 
 O fantástico sempre foi um dos componentes mais importantes da magistral contista pernambucana Clarice Lispector. E, nesta última coletânea de seus contos (*Onde Estivestes de Noite*?), o surrealismo de situações alucinantes é a tônica dominante. Por exemplo: uma mulher quer ter um filho com seu despertador, outra se perde nos labirintos do Estádio do Maracanã, sem saber como sair nem como entrou lá. Ao mesmo tempo, reaparecem os temas e protagonistas-chave de seus livros anteriores (*Laços de Família* e *A Legião Estrangeira*): a equiparação constante entre o ser humano desamparado e um animal ("De pé no banheiro era tão anônima quanto uma galinha") ou a aguda percepção dos velhos como sucata humana imprestável na atual sociedade tecnológica de consumo ("Dona Maria Rita pensava: depois de velha começara a desaparecer para os outros, só a viam de relance").

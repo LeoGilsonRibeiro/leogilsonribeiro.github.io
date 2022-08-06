@@ -2,13 +2,14 @@
 title: 'Entrevista'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Veja, 6-9-1972, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/00-entrevista</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/00-entrevista
 orig_publisher: 'Veja, 6-9-1972'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Veja, 6-9-1972, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/00-entrevista</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/00-entrevista
+
 ---
 
 Murilo Mendes é um entrevistado cercado de parentes por todos os lados. Cordialíssimos, um fala sobre sua especialidade, ecologia. Outro, de sua permanência em Nova York; outro ainda, de seu trabalho numa importante enciclopédia em elaboração. Entre uma pausa e outra, Murilo Mendes fala, a princípio relutante. Durante o almoço, mais à vontade, conta histórias saborosas. Como a de seu irmão, o desembargador Onofre Mendes, que diante do espelho, fazendo a barba, telefonava de Pitangy, interior de Minas, ao chefe da estação, pedindo: \"Seu Joaquim, amarre o trem que ainda não terminei a barba!\" Ou, musicólogo fanático por Beethoven (um de seus filhos foi batizado Beethoven), pedia a seus clientes antes de instaurar um processo contra invasores de fazendas: \"Primeiro vamos ouvir este Adágio da Nona Sinfonia\". Depois da sesta, a entrevista prossegue. Murilo Mendes, aos setenta anos, teme os jornalistas: um deles deturpa suas palavras, misturando-as \"de cambulhada com as de Cristo, vejam só!\" Outro degradara o seu italiano, fazendo-o cometer \"em apenas quatro linhas oito erros de italiano\". Nele, como em seu livro \"Poliedro\", há várias facetas: um *Murilo Mendes* que faz uma careta de repugnância quando se menciona o nome de um romancista sem valor; um poeta consciente de sua importância como laureado com o Prêmio Etna-Taormina, o mais importante da Itália, que lhe foi concedido no ano passado. o professor, há quinze anos leciona literatura brasileira na Universidade de Roma, que, irônico, desafia uma aluna maoísta: \"A senhora cria um novo tipo de contestação: a do aluno que não quer estudar e considera a aula um resquício capitalista\"; o menino que soltava os pássaros da gaiola em casa de seus parentes em Minas e aos treze anos escreveu uma petição ao prefeito para soltar os presos em Juiz de Fora. Rindo das teorias literárias que dão a Europa como moribunda culturalmente (\"Com um poeta como Sanquineti ou um pesquisador como Lévy-Strauss, moribunda?!) ou da morte da arte preconizada por alguns críticos (\"A arte mudou: da parede passou para cima da mesa como objetos maravilhosos\"), ele é uma ligação entre o passado e o futuro, o Novo e o Velho Mundo.\

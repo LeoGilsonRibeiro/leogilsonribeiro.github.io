@@ -2,13 +2,14 @@
 title: 'Carta de agradecimento a Clarice, por um novo livro'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Carta de agradecimento a Clarice, por um novo livro". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 20-01-1972, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro
 orig_publisher: 'Jornal da Tarde, 20-01-1972'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Carta de agradecimento a Clarice, por um novo livro". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 20-01-1972, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro
+
 ---
 
 Clarice Lispector,

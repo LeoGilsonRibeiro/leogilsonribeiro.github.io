@@ -2,13 +2,14 @@
 title: 'Drummond'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Drummond". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: 17-8-1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/03-drummond</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/03-drummond
 orig_publisher: '17-8-1985'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Drummond". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: 17-8-1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/03-drummond</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/03-drummond
+
 ---
 
 Uma escola no Maranhão, entregue aos alunos, passou a não ter necessidade de sede fixa, nem mestres, nem alunos permanentes: sem currículo, sem diploma, só teme que o Incra divida o terreno em que se encontra em "fatias burocráticas e legais". A mesa de um médium, vendida para um vetusto representante do Lloyd Brasileiro, continua a levitar, causando pavor no jantar familiar e acaba doada a um asilo de velhos. Um fabricante de abotoaduras, verificando que elas estão em desuso, resolve suicidar-se. Mas uma camisa esporte, estampada, voa pelos ares com tal encanto que ele desiste do seu intento e passa a fabricar camisas sem mangas. No dia em que se mandar eternizar o verbo "prorrogar" tudo dura até além do limmite: os mandatos de deputados e senadores se prorrogam, rasgam-se os calendários e os relógios ficam abolidos. As aulas de História também foram eliminadas: "Para que História? Se tudo era a mesma coisa, sem perspectiva de mudança..." Até que um mecânico consertou a chuva que também se tornara permanente. E tudo voltou ao normal. Só o filósofo concluiu que "não se deve plagiar a eternidade".

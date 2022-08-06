@@ -2,13 +2,14 @@
 title: 'Inconfundível marca diáfana, abstrata'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Inconfundível marca diáfana, abstrata". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 18-12-1976, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/01-inconfundivel-marca-diafana-abstrata</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/01-inconfundivel-marca-diafana-abstrata
 orig_publisher: 'Jornal da Tarde 18-12-1976'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Inconfundível marca diáfana, abstrata". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 18-12-1976, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/01-inconfundivel-marca-diafana-abstrata</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/01-inconfundivel-marca-diafana-abstrata
+
 ---
 
 Como que em surdina a poesia de Henriqueta Lisboa ressoa como um cêmbalo em um concerto barroco, a sua rarefeita beleza só audível para quem estiver atento à sua sonoridade propositalmente menor.

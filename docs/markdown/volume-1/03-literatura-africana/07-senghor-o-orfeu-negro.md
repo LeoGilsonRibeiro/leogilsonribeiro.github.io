@@ -2,13 +2,14 @@
 title: 'Senghor, o Orfeu negro'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Senghor, o Orfeu negro". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, 1969/12/31. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/07-senghor-o-orfeu-negro</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/07-senghor-o-orfeu-negro
 orig_publisher: 'Veja'
 orig_date: 1969/12/31
-abnt_ref: 'RIBEIRO, Leo Gilson. "Senghor, o Orfeu negro". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, 1969/12/31. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/07-senghor-o-orfeu-negro</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/07-senghor-o-orfeu-negro
+
 ---
 
 Pelo menos no Senegal, a poesia está no poder. Amigos desde os bancos do ginásio Louis-le-Grand, em Paris, Georges Pompidou e Léopold Senghor desde cedo sentiram-se unidos pelas paixões comuns da poesia e da política. No caso do atual presidente da França, a poesia passou a um *hobby* cultivado nos intervalos da administração governamental. No de seu amigo africano, a política não eclipsou a criação poética desde sua eleição unânime, em 1960, para a presidência da antiga colônia francesa. Pouco depois de assumir a suprema magistratura senegalesa, Senghor conquistava fama mundial em outro campo: o da literatura, com seus *Poèmes*, publicados em 1964. Seus poemas formulavam de forma concreta a teoria da *négritude* que ele cimentara, expandindo o pensamento inicial de Aimé Césaire, estruturado filosoficamente por Jean-Paul Sartre. A *négritude* é porém só um dos aspectos da grandeza deste Orfeu negro. É o que compravam seus *Poemas* traduzidos agora no Brasil (Edições Grifo, 1969). A África Negra, como é natural, inspira a maior parte de seus versos, mas sua versatilidade estende-se à participação política, à exaltação poética de jardins da França e da neve caindo sobre Paris. Ou às elegias que catam a doce saudade portuguesa na voz de Amália Rodrigues.

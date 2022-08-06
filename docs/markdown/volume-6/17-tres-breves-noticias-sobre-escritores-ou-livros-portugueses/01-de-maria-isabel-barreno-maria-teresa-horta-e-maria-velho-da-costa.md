@@ -2,13 +2,14 @@
 title: 'de Maria Isabel Barreno, Maria Teresa Horta e Maria Velho da Costa'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "de Maria Isabel Barreno, Maria Teresa Horta e Maria Velho da Costa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 12-06-1974, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa
 orig_publisher: 'Veja 12-06-1974'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "de Maria Isabel Barreno, Maria Teresa Horta e Maria Velho da Costa". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 12-06-1974, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa
+
 ---
 
 Tombam em Portugal armas e varões assinalados. Nenhum McLuhan com seu telescópio assestado em Lisboa poderia prever que a invenção de Gutenberg abalaria impérios tão sediços e arcaicos. Ao Brasil, estes disparos chegam em ordem cronológica inversa. Lá, o ariete político de "Portugal e o Futuro" do general Antônio de Spinola somente foi detonado depois do assalto à Bastilha do machismo que estas três guerrilheiras empreendem neste livro com fúria e munição surpreendentes. Medéia, Antígona e Electra não têm mais cólera que as três Marias para minar o claustro em que os homens enclausuraram a mulher portuguesa.

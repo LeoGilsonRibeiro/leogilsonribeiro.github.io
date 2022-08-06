@@ -2,12 +2,10 @@
 title: 'Introdução'
 author: Fernando Rey Puente
 editor: Fernando Rey Puente
-vol_title: 'Volume III: Testemunhos Literários do século XX'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022-08
 print_bib: true
-orig_publisher: 'lgr.com.br'
-orig_date: Sem data
-abnt_ref: 'PUENTE, Fernando Rey. "Introdução". In <em>Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: lgr.com.br, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/readme</a>'
+abnt_ref: 'PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/readme</a>'
 view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/readme
 ---
 

@@ -2,13 +2,14 @@
 title: 'Tentativa de explicação'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Tentativa de explicação". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Correio da Manhã, 21-03-1965, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/00-tentativa-de-explicacao</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/00-tentativa-de-explicacao
 orig_publisher: 'Correio da Manhã, 21-03-1965'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Tentativa de explicação". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Correio da Manhã, 21-03-1965, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/00-tentativa-de-explicacao</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/00-tentativa-de-explicacao
+
 ---
 
 Já desde o início, a vida de Clarice Lispector fôra um constante deslocamento. Entre a pracinha da Faculdade de Direito em Recife onde ela brincava quando criança e a Praça General Osório, no Rio, onde nos encontramos agora, há uma longa trajetória, uma parábola que percorre meio mundo. Durante esses anos, ela viveu em países estrangeiros, teve dois filhos e a menina que aos sete anos enviava colaborações para a página infantil de um jornal pernambucano transformou-se na mais extraordinária escritora brasileira. O reconhecimento unânime da crítica já se espraia pelo estrangeiro: *Der Apfel im Dunkel*, o título em alemão do seu romance *A Maçã no Escuro*, é saudado como uma das obras mais importantes já traduzidas da América Latina. De lá para cá surgiram também seus contos que começara adolescente ainda: densos, estranhos, incomparáveis na sua maneira de expressar sensações, na sua falta de artifício, na sua diretriz inconscientemente nova e intensamente pessoal. Esse deslocamente frequente abrangeu o espaço, o tempo, as circunstâncias. Seus pais, russos da Ucrânia dos trigais imensos e do folclore de uma alegia estouvada, decidiram emigrar e foi numa cidadezinha ("que você não vai achar no mapa") que tiveram de interromper a viagem para a menina nascer. De Tchetchelnik a Recife, ela trouxe para a nossa literatura muito do mistério daqueles invernos luminosos e foscos, uma ilha de sugestão em meio à exuberância do nosso colorido tropical. Por um triz o destino deixou de presentear-nos com a sua sensibilidade: a família hesitou uns tempos antes de vir par o Brasil distante. Detiveram-se na Alemanha, pensaram estabelecer-se nos Estados Unidos. Felizmente para a literatura brasileira, fixaram-se definitivamente entre nós.

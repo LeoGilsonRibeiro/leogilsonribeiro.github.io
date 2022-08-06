@@ -2,13 +2,14 @@
 title: 'Os novos tempos de Portugal'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Os novos tempos de Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 12-12-1988, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal
 orig_publisher: 'Jornal da Tarde 12-12-1988'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Os novos tempos de Portugal". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 12-12-1988, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal
+
 ---
 
 João de Melo, 39 anos de idade, agita o cenário literário de Portugal com seus temas acentuadamente polêmicos sobre o holocausto nas colônias africanas de tantas consciências e talentos numa guerra absurda, ordenada pela recusa da realidade que povoava a mente da ditadura salazarista; sobre a arrogência de Lisboa, apressada em tachar de "regionalista", portanto menor, sem interesse geral, o que provém de Açores; sobre a influência fecundante do "realismo fantástico" latino-americano em suas obras principais de ficção: *Gente Feliz com Lágrimas* e *O Meu Mundo Não é deste Reino*.

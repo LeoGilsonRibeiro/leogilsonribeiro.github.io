@@ -2,13 +2,14 @@
 title: 'Fernando Pessoa III, o Poeta Singular e Plural de João Alves das Neves (Editora Expressão)'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Fernando Pessoa III, o Poeta Singular e Plural de João Alves das Neves (Editora Expressão)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)
 orig_publisher: 'Jornal da Tarde 1985'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Fernando Pessoa III, o Poeta Singular e Plural de João Alves das Neves (Editora Expressão)". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)
+
 ---
 
 *Fernando Pessoa, o Poeta Singular e Plural*, de João Alves das Neves (Editora Expressão), inaugura, segundo seu editor Ismael Guarneelli, uma nova fase: a de baratear livros de e sobre escritores decisivos em língua portuguesa ou traduzidos de outros idiomas. Com belas ilustrações e uma pequena antologia que abrange tanto a parte poética dos vários Fernandos Pessoa como seus escritos em prosa, pareceu-me que seu mérito é o de dar ao poeta e crítico português João Alves das Neves a oportunidade de desvendar lucidamente para o público brasileiro uma das "personalidades" ou heterônimos encobertos do supremo poeta lusitano deste século: Bernardo Soares. Conheciam-se incomparavelmente melhor Alberto Caieiro, Ricardo Reis e Álvaro de Campos, esses poetas co-existentes com Fernando Pessoa e que dele emanaram prontos como Pallas Athenea surgiu perfeitamente da cabeça de Zeus. Quando se pensa que no espólio pessoano existem 25.426 originais, guardados em 343 envelopes, com um sem-número de textos ainda inéditos ou semi-inéditos, Fernando Pessoa é não só o poeta múltiplo que se desdobra em quatro ou cinco poetas diferentes simultaneamente: equivale a uma perene descoberta.

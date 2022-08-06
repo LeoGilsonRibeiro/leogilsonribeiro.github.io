@@ -2,13 +2,14 @@
 title: 'Invenções e algemas de Castro Alves'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Invenções e algemas de Castro Alves". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, 1971/07/14. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves
 orig_publisher: 'Veja'
 orig_date: 1971/07/14
-abnt_ref: 'RIBEIRO, Leo Gilson. "Invenções e algemas de Castro Alves". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, 1971/07/14. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves
+
 ---
 
 Nem sempre o crítico e o leitor falam do mesmo Castro Alves. Existe a imagem "oficial" do poeta romântico que se inflama na descrição épica do "Navio Negreiro". E uma visão mais rigorosa, que peneira versos esplêndidos da ganda volumosa de seu Amazonas poético. Os 24 anos de sua vida intensa foram breves demais para disciplinar sua inspiração desenfreada. Não lhe foi concedida a dilatação de prazo que pedira na véspera de sua morte, há cem anos: "Ai, o Quilombo dos Palmares! Seria minha obra-prima\... Dai-me, meu Deus, mais dois anos de vida!"

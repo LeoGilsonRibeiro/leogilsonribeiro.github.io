@@ -2,13 +2,14 @@
 title: 'Mais uma obra de Hilda Hilst. Com todos os superlativos'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Mais uma obra de Hilda Hilst. Com todos os superlativos". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 20-11-1982, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos
 orig_publisher: 'LGR JT 20-11-1982'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Mais uma obra de Hilda Hilst. Com todos os superlativos". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 20-11-1982, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos
+
 ---
 
 O livro *A Obscena Senhora D* (Editora Massao Ohno), a ser publicado na semana que vem, em São Paulo, é um livro único da magnífica autora paulista contemporânea, sobretudo porque é possível lê-lo sem se ter a mínima notícia de seus livros e poemas anteriores. Perturbadoramente, é também um elo que se insere em seus escritos revolucionários. O *scholar* mais jovem da literatura brasileira nos Estado Unidos, Thomas Colchie, afirmou-me, com ponderada veemência, se assim se puder dizer, que a criação literária de Hilda Hilst é a mais alta e a mais importante do mundo ocidental deste final de século. O falecido e esplêndido crítico alemão emigrado para o Brasil, Anatol Rosenfeld, com todo o peso da sua profunda erudição, escreveu à autora que sua peça de teatro *As Aves da Noite* era a mais bela que lera de todos os textos de dramaturgia atual.

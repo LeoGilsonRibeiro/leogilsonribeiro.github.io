@@ -2,13 +2,14 @@
 title: 'Que mistérios tem Clarice Lispector?'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Que mistérios tem Clarice Lispector?". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 5-02-1969, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector
 orig_publisher: 'Jornal da Tarde 5-02-1969'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Que mistérios tem Clarice Lispector?". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 5-02-1969, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector
+
 ---
 
 Uma mulher que gosta de crianças, gatos, cães, galinhas e insetos. Uma mulher que nunca mente para as crianças. Uma mulher que se pudesse escrever "passando a mão na cabeça de uma criança ou dando um passeio, não usaria mais uma só palavra".

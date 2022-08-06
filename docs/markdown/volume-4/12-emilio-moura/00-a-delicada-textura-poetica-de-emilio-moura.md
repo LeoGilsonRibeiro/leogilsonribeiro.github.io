@@ -2,13 +2,14 @@
 title: 'A delicada textura poética de Emílio Moura'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A delicada textura poética de Emílio Moura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 1991, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/12-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/12-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura
 orig_publisher: 'Jornal da Tarde 1991'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "A delicada textura poética de Emílio Moura". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 1991, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/12-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/12-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura
+
 ---
 
 A sumária classificação usual na crítica inglesa entre *major poets,* poetas maiores como Shakespeare e Dante, e *minor poets*, poetas menores, como Robert Herrick e Casimiro de Abreu, não induz a considerar os "menores" como sendo de inspiração inferior: refere-se mais à abrangência da temática de um e de outro. No caso do poeta mineiro Emílio Moura, no livro em que o crítico Fábio Lucas reuniu amorosamente uma seleta de seus versos (*Poesias de Emílio Moura*), na coleção toda poesia (Art Editora, São Paulo, 1991), pode-se imaginá-lo como, em contraste com Drummond, sinfônico e universal, um cultor tímido, arisco, de árias para alaúde.

@@ -2,13 +2,14 @@
 title: 'Casais Monteiro'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Casais Monteiro". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Casais Monteiro (morto aos 64 anos no dia 24 de julho de 1972 em São Paulo quando se preparava para ministrar um curso de Teoria da Literatura na FFLCH da USP), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/00-casais-monteiro</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/00-casais-monteiro
 orig_publisher: 'Casais Monteiro (morto aos 64 anos no dia 24 de julho de 1972 em São Paulo quando se preparava para ministrar um curso de Teoria da Literatura na FFLCH da USP)'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Casais Monteiro". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Casais Monteiro (morto aos 64 anos no dia 24 de julho de 1972 em São Paulo quando se preparava para ministrar um curso de Teoria da Literatura na FFLCH da USP), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/00-casais-monteiro</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/00-casais-monteiro
+
 ---
 
 ***Veja* 02/08/1972**

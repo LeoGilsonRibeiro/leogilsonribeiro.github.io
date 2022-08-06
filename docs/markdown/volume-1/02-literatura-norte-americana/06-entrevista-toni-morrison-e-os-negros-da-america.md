@@ -2,13 +2,14 @@
 title: 'Entrevista - Toni Morrison e os negros da América'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista - Toni Morrison e os negros da América". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1990/11/08. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/06-entrevista-toni-morrison-e-os-negros-da-america</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/06-entrevista-toni-morrison-e-os-negros-da-america
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1990/11/08
-abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista - Toni Morrison e os negros da América". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1990/11/08. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/06-entrevista-toni-morrison-e-os-negros-da-america</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/06-entrevista-toni-morrison-e-os-negros-da-america
+
 ---
 
 Na realidade, o amor que eu sentia pela extraordinária escritora de cor, a norte-americana Toni Morrison, já vinha entre cada linha e cada fala de seus personagens em livros líricos, nada ortodoxos, vibrantes como *Tar Baby*, *Song of Solomon* e *Beloved*. A incendiária e controvertida entrevista que dera em duas páginas à revista *Time* em 1989 dividira os EUA entre os que a defendiam e os que a achavam exagerada. 300 anos de escravidão a incitavam a escrever sobre seu povo, menos do que com a pesquisa, mais com a imaginação poética e uma sutilíssima sensibilidade. Há trechos da revolucionária prosa de Toni Morrison que têm o mesmo impacto das canções plangentes de Billy Holliday, em sua voz toda tristeza e abandono.

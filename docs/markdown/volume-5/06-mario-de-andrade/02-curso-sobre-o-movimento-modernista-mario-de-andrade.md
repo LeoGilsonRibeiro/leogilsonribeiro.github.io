@@ -2,13 +2,14 @@
 title: 'Curso sobre o movimento modernista: Mário de Andrade'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Curso sobre o movimento modernista: Mário de Andrade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Sesc-SP 1993 (58 páginas datilografadas e revistas pelo autor em 1994), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/06-mario-de-andrade/02-curso-sobre-o-movimento-modernista-mario-de-andrade</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/06-mario-de-andrade/02-curso-sobre-o-movimento-modernista-mario-de-andrade
 orig_publisher: 'Sesc-SP 1993 (58 páginas datilografadas e revistas pelo autor em 1994)'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Curso sobre o movimento modernista: Mário de Andrade". In PUENTE, Fernando Rey (org.) <em>Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Sesc-SP 1993 (58 páginas datilografadas e revistas pelo autor em 1994), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/06-mario-de-andrade/02-curso-sobre-o-movimento-modernista-mario-de-andrade</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/06-mario-de-andrade/02-curso-sobre-o-movimento-modernista-mario-de-andrade
+
 ---
 
 "Mas a ninguém é permitido afirmar nada invocando o seu nome, pois que não lhe foi dado tempo para falar"

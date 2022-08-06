@@ -2,13 +2,14 @@
 title: 'Poetas portugueses. Versos e duas culturas reencontram seu ponto de união'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Poetas portugueses. Versos e duas culturas reencontram seu ponto de união". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-01-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/01-poetas-portugueses-versos-e-duas-culturas-reencontram-seu-ponto-de-uniao</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/01-poetas-portugueses-versos-e-duas-culturas-reencontram-seu-ponto-de-uniao
 orig_publisher: 'Jornal da Tarde 29-01-1983'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Poetas portugueses. Versos e duas culturas reencontram seu ponto de união". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-01-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/01-poetas-portugueses-versos-e-duas-culturas-reencontram-seu-ponto-de-uniao</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/01-poetas-portugueses-versos-e-duas-culturas-reencontram-seu-ponto-de-uniao
+
 ---
 
 Dentre os vários malefícios de que padece o Brasil moderno há um que se salienta enormemente dos demais. É facilmente verificável: a partir da independência *política* de Portugal, o Brasil afastou-se, com raras ferocidade, estupidez e eficácia, da *cultura* e da *inteligência* portuguesas. Exacerbado, um nacionalismo estreito como que *condenou* a literatura de Portugal a um exílio que do Romantismo em diante tornou as duas nações de língua idêntica quase que totalmente *desconhecidas* uma da outra.

@@ -2,13 +2,14 @@
 title: 'Nota sobre o livro A Arma da Casa de Nadine Gordimer'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Nota sobre o livro A Arma da Casa de Nadine Gordimer". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Caros Amigos, n.39, 2000/06. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/15-nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordimer</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/15-nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordimer
 orig_publisher: 'Caros Amigos, n.39'
 orig_date: 2000/06
-abnt_ref: 'RIBEIRO, Leo Gilson. "Nota sobre o livro A Arma da Casa de Nadine Gordimer". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Caros Amigos, n.39, 2000/06. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/15-nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordimer</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/15-nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordimer
+
 ---
 
 Há muitos anos não leio um livro tão perfeito: *A Arma da Casa*, da magistral autora sul-africana Nadine Gordimer (Coleção Prêmio Nobel, Companhia das Letras). Depois de terminar a leitura de *Memórias de uma Sobrevivente*, da também sul-africana Doris Lessing, pelos temas que aborda, julguei apressadamente que nada mais se poderia escrever de tão profundo sobre o esfacelamento de uma sociedade. Engano. Nadine Gordimer focaliza, destemidamente, a África do Sul de hoje, com uma igualdade de raças pelo menos no papel e um multiculturalismo efervescente, afastado o monstruoso *apartheid* que separava brancos e negros numa forma de campo de concentração ara todos os que não fossem brancos.

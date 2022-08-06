@@ -2,13 +2,14 @@
 title: 'Sobre o conto "A Hora e a Vez de Augusto Matraga"'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Sobre o conto "A Hora e a Vez de Augusto Matraga"". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR (quatro páginas datilografadas avulsas e sem data), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga
 orig_publisher: 'LGR (quatro páginas datilografadas avulsas e sem data)'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Sobre o conto "A Hora e a Vez de Augusto Matraga"". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR (quatro páginas datilografadas avulsas e sem data), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga
+
 ---
 
 Com "A Hora e Vez de Augusto Matraga" João Guimarães Rosa definitivamente encerra uma fase de sua criação literária. E encerra a série de contos, o livro *Sagarana*. "A Hora e a Vez" é então preliminarmente o ponto final de uma primeira fase: saga vem de línguas nórdicas, significando estórias do gênero épico ou heroico e rana do tupi que significa semelhança, portanto sagarana são coisas narradas parecidas com estórias, à feição de contos. É uma forma de modéstia do autor de achar que estas são apenas arremedos de histórias e é uma inovação de linguagem ligar eufonicamente uma raíz estrangeira, nórdica, com um sufixo tupi, brasileiro, unindo assim designações culturais extremas: o louro nórdico e o nativo brasileiro, ambos antropologicamente idênticos como formadores de culturas. Neste caso uma cultura híbrida: a brasileira.

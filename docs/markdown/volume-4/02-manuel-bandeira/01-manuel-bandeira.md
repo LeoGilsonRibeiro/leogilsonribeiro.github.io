@@ -2,13 +2,14 @@
 title: 'Manuel Bandeira'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Manuel Bandeira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 19-4-1986, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/02-manuel-bandeira/01-manuel-bandeira</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/02-manuel-bandeira/01-manuel-bandeira
 orig_publisher: 'Jornal da Tarde 19-4-1986'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Manuel Bandeira". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 19-4-1986, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/02-manuel-bandeira/01-manuel-bandeira</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/02-manuel-bandeira/01-manuel-bandeira
+
 ---
 
 Há cem anos (em 19/4/1886) nascia no Pernambuco o poeta que usou os versos para vencer a doenç e a morte iminente. Conseguiu muito mais que isso: com sua grandeza, modernizou nossa poesia.

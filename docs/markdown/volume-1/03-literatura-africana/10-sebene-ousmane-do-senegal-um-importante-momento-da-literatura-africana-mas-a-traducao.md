@@ -2,13 +2,14 @@
 title: 'Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1984. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/10-sebene-ousmane-do-senegal-um-importante-momento-da-literatura-africana-mas-a-traducao</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/10-sebene-ousmane-do-senegal-um-importante-momento-da-literatura-africana-mas-a-traducao
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1984
-abnt_ref: 'RIBEIRO, Leo Gilson. "Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1984. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/10-sebene-ousmane-do-senegal-um-importante-momento-da-literatura-africana-mas-a-traducao</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/10-sebene-ousmane-do-senegal-um-importante-momento-da-literatura-africana-mas-a-traducao
+
 ---
 
 Literatura negra africana: pró ou contra?

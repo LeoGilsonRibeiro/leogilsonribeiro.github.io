@@ -2,13 +2,14 @@
 title: 'Entrevista com Antônio José Saraiva'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista com Antônio José Saraiva". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-10-1977, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva
 orig_publisher: 'Jornal da Tarde 29-10-1977'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista com Antônio José Saraiva". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-10-1977, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva
+
 ---
 
 Exilado do seu país, Portugal, pelo regime salazarista que combateu sisemática e lucidamente, o professor Antônio José Saraiva, autor de vários livros sobre a literatura e a cultura portuguesas, continua ativo aos 60 anos de idade, voltando a lecionar agora, depois de longos anos no estrangeiro, na Universidade de Nova Lisboa e tendo se afastado voluntariamente do Partido Comunista, pois suas posições independentes não lhe permitem enquadrar-se em nenhum dos esquemas políticos existentes.

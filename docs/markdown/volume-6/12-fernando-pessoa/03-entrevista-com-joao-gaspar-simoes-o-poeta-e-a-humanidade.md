@@ -2,13 +2,14 @@
 title: 'Entrevista com João Gaspar Simões: o poeta e a humanidade'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista com João Gaspar Simões: o poeta e a humanidade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 30-11-1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade
 orig_publisher: 'Jornal da Tarde 30-11-1985'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista com João Gaspar Simões: o poeta e a humanidade". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 30-11-1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade
+
 ---
 
 Sem nenhuma farpa de ironia ou de exagero, o mais erudito e profundo crítico de literatura em Portugal, o professor João Gaspar Simões, é como que o Evangelista maior do supremo gênio poético aparecido em nossa língua, Fernando Pessoa. É impensável iniciar-se em Fernando Pessoa sem o apoio certeiro, seguro, profícuo da magnifica *Vida e Obra de Fernando Pessoa* que João Gaspar Simões lhe dedicou.

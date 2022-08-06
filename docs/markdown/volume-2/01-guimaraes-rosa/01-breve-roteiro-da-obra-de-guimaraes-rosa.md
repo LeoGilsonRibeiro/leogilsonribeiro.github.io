@@ -2,13 +2,14 @@
 title: 'Breve roteiro da obra de Guimarães Rosa'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Breve roteiro da obra de Guimarães Rosa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 15-10-1966, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/01-breve-roteiro-da-obra-de-guimaraes-rosa</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/01-breve-roteiro-da-obra-de-guimaraes-rosa
 orig_publisher: 'LGR JT 15-10-1966'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Breve roteiro da obra de Guimarães Rosa". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 15-10-1966, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/01-breve-roteiro-da-obra-de-guimaraes-rosa</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/01-breve-roteiro-da-obra-de-guimaraes-rosa
+
 ---
 
 Toda a radical revolução que Guimarães Rosa trouxe à literatura brasileira corresponde, na realidade, a inaugurar o romance brasileiro de validez universal. É claro que o Brasil já tivera em Machado de Assis o seu grande cronista urbano, mas o amargo e cético retratista do desencanto e da desilusão amorosa equivale, como tom e como temática, a um Henry James ou um Eça de Queiroz menor.

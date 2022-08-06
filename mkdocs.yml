@@ -114,8 +114,8 @@ extra_javascript:
   - assets/js/tablesort.js
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
 nav:
-  - 'Apresentação aos Textos Reunidos de Leo Gilson Ribeiro':
-    - 'Apresentação aos Textos Reunidos de Leo Gilson Ribeiro': apresentacao-aos-textos-reunidos-de-leo-gilson-ribeiro/README.md
+  - 'Apresentação aos textos reunidos de Leo Gilson Ribeiro':
+    - 'Apresentação aos textos reunidos de Leo Gilson Ribeiro': textos-reunidos-de-leo-gilson-ribeiro/README.md
     - 'Volume I: Racismo e literatura negra':
       - 'Volume I: Racismo e literatura negra': volume-1/README.md
       - Introdução:

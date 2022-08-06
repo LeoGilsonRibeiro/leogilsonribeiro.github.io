@@ -2,13 +2,14 @@
 title: 'Nossa poesia negra, tentando falar alemão'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Nossa poesia negra, tentando falar alemão". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1990/03/17. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/12-nossa-poesia-negra-tentando-falar-alemao</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/12-nossa-poesia-negra-tentando-falar-alemao
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1990/03/17
-abnt_ref: 'RIBEIRO, Leo Gilson. "Nossa poesia negra, tentando falar alemão". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1990/03/17. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/12-nossa-poesia-negra-tentando-falar-alemao</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/12-nossa-poesia-negra-tentando-falar-alemao
+
 ---
 
 Na Alemanha e na Suíça, um volume pequeno com o título bilíngue *Schwarze Poesie, Poesia Negra* divulga, nos países de língua alemã, a poesia brasileira feita por poetas negros. E, francamente, aí reside seu único mérito, pois a introdução (de Moema Parente Augel) está eivada de todos os chavões possíveis e, ai de nós, com as mais prosaicas, menos poéticas traduções para o alemão de Johannes Augel.

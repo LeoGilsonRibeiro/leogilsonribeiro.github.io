@@ -2,13 +2,14 @@
 title: 'O negro Baldwin luta pelos seus'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "O negro Baldwin luta pelos seus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1966/10/29. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/02-o-negro-baldwin-luta-pelos-seus</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/02-o-negro-baldwin-luta-pelos-seus
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1966/10/29
-abnt_ref: 'RIBEIRO, Leo Gilson. "O negro Baldwin luta pelos seus". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1966/10/29. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/02-o-negro-baldwin-luta-pelos-seus</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/02-o-negro-baldwin-luta-pelos-seus
+
 ---
 
 O aguilhão, cravado desde o nascimento na pele luzidia e negra, não pára de doer nunca quando você é negro em certas regiões do mundo. A princípio atônito, quando ainda criança, James Baldwin não compreende porque seu pai, pastor protestante, o proíbe de brincar com crianças brancas na calçada, de entrar no parque onde estão as palavras incompreensíveis "só para brancos" e porque ele abraçou a religião que fala do amor ao próximo, com seus hinos religiosos de força e poesia.

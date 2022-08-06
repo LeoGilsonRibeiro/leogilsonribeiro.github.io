@@ -2,13 +2,14 @@
 title: 'Um encontro de Portugal e Brasil. Sobre a liberdade'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Um encontro de Portugal e Brasil. Sobre a liberdade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 26-10-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade
 orig_publisher: 'Jornal da Tarde 26-10-1984'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Um encontro de Portugal e Brasil. Sobre a liberdade". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 26-10-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade
+
 ---
 
 Para um encontro entre escritores de Portugal e do Brasil, os longos discursos são o agrotóxico mais certo para matar a tenra planta que se quiser cultivar. Depois, é preciso que a platéia jovem tenha um mínimo de respeito democrático pelo direito de outros quererem ouvir o que os escritores dizem. Não é legal - em qualquer sentido do termo - que suas vozes sejam abafadas pelo burburinho de dezenas de estudantes falando mais alto, na platéia, que os convidados, de microfone em punho, e educadamente perplexos no palco.

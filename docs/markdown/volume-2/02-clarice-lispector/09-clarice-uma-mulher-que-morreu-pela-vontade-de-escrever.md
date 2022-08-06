@@ -2,13 +2,14 @@
 title: 'Clarice, uma mulher que morreu pela vontade de escrever'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Clarice, uma mulher que morreu pela vontade de escrever". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 9-12-1982, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever
 orig_publisher: 'Jornal da Tarde 9-12-1982'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Clarice, uma mulher que morreu pela vontade de escrever". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 9-12-1982, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever
+
 ---
 
 No plano utilitarista da vida, Clarice Lispector foi uma grande escritora de alcance internacional que morreu vítima de seu maravilhoso talento, no dia 9 de dezembro de 1977, há cinco anos. Morreu vilmente explorada por editoras que lhe roubavam direitos autorais, por jornais que subitamente "dispensavam" as suas inigualáveis crônicas escritas duas, três vezes por semana. Dizer que Clarice morreu pobre, internada de favor, com câncer, num hospital da Previdência Social, é pouco. Em seu depoimento comovente ao *Coojornal* de Porto Alegre, ela relatou a miséria (a fome também?) que passara ludibriada por editores, jornais, pela ausência de uma estrutura industrial brasileira que lhe desse o sustento para seu extraordinário talento. Ela literalmente morreu vítima da compulsão que a tornava quase uma mendiga altiva: a vontade indetível, inútil de escrever.

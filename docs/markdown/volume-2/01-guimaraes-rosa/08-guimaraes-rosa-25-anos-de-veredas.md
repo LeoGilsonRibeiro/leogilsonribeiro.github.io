@@ -2,13 +2,14 @@
 title: 'Guimarães Rosa 25 anos de veredas'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Guimarães Rosa 25 anos de veredas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 13-6-1981, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/08-guimaraes-rosa-25-anos-de-veredas</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/08-guimaraes-rosa-25-anos-de-veredas
 orig_publisher: 'LGR JT 13-6-1981'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Guimarães Rosa 25 anos de veredas". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 13-6-1981, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/08-guimaraes-rosa-25-anos-de-veredas</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/08-guimaraes-rosa-25-anos-de-veredas
+
 ---
 
 Nunca, no Brasil, ninguém ousara tanto. Pois não é que naquele calmo ano de 1946, apeado o ditador Getúlio Vargas de seu trono absolutista e vencidos os nazi-fascistas na Europa e no Pacífico, um desconhecido ousava começar um livro de título já complicado, *Sagarana*, com a descrição minuciosa de uma carga de bois no interior de Minas Gerais sendo embarcados nos trens rumo aos matadouros?

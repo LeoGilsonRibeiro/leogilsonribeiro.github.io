@@ -2,13 +2,14 @@
 title: 'Antero de Quental: o ideal estético e político'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Antero de Quental: o ideal estético e político". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 28-01-1991, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico
 orig_publisher: 'Jornal da Tarde 28-01-1991'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Antero de Quental: o ideal estético e político". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 28-01-1991, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico
+
 ---
 
 Não haveria, realmente, motivo para esperar. É verdade que as comemorações mais importantes do centenário da morte do admirável poeta e filósofo político português Antero de Quental terão o máximo de esplendor a partir de setembro vindouro. Afinal, o sutilíssimo sonetista faleceu em Açores, dia 21 de setembro de 1891. No entanto, Paris já se antecipa às celebrações de 13 e 14 de junho próximo, com um Congresso Internacional sobre Antero de Quental e a Europa. As cidades de Coimbra, Porto, a Universidade de Harvard, a dos Açores - todas acorrem a relembrar com exposições o poeta que, com Eça de Queirós, entre outros, sacudiu a sociedade bem-acomodada de Portugal da sua época, propugnando o Reino quádruplo da Poesia, do Socialimso, da Justiça e da Liberdade.

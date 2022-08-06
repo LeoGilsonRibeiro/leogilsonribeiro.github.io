@@ -2,13 +2,14 @@
 title: 'A poesia quase secreta do Recife: Mauro Mota, Itinerário'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A poesia quase secreta do Recife: Mauro Mota, Itinerário". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: O Estado de São Paulo 31-05-1975, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/11-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/11-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario
 orig_publisher: 'O Estado de São Paulo 31-05-1975'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "A poesia quase secreta do Recife: Mauro Mota, Itinerário". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: O Estado de São Paulo 31-05-1975, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/11-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/11-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario
+
 ---
 
 A folha corrida do Recife: desde a resistência à invasão holandesa, vem vencendo a batalha pelo abrasileiramento da nossa cultura, livre de estrangeirismos inúteis mas abertas à qualidade internacional.

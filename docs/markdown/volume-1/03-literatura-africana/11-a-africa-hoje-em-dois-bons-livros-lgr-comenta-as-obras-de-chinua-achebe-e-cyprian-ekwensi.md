@@ -2,13 +2,14 @@
 title: 'A África, hoje. Em dois bons livros - LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A África, hoje. Em dois bons livros - LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1983/05/28. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/11-a-africa-hoje-em-dois-bons-livros-lgr-comenta-as-obras-de-chinua-achebe-e-cyprian-ekwensi</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/11-a-africa-hoje-em-dois-bons-livros-lgr-comenta-as-obras-de-chinua-achebe-e-cyprian-ekwensi
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1983/05/28
-abnt_ref: 'RIBEIRO, Leo Gilson. "A África, hoje. Em dois bons livros - LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1983/05/28. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/11-a-africa-hoje-em-dois-bons-livros-lgr-comenta-as-obras-de-chinua-achebe-e-cyprian-ekwensi</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/11-a-africa-hoje-em-dois-bons-livros-lgr-comenta-as-obras-de-chinua-achebe-e-cyprian-ekwensi
+
 ---
 
 Com a preponderância avassaladora da economia e da política como únicos critérios da nossa época, ficam relegados a segundo plano os aspectos culturais de tal modo que a Nigéria, para o brasileiro medianamente bem informado, se reduz a um esqueleto: petróleo, população imensa e guerra do Biafra. Ignora-se que, desde a sua libertação do domínio inglês, há mais de duas décadas, e até mesmo antes de sua independência política, a Nigéria já se distinguia de todos os outros países da África Negra pela sua rica efervescência cultural. Com cinco universidades, entre elas a mais importante ao sul do Saara, a de Ibadan, com a revista *Black Orpheus* (Orfeu Negro), que já antes da libertação divulgava os temas e conquistas da poesia da *négritude* de um Léopold Senghor ou de um Aimé Césaire, a Nigéria celebra o passado faustoso das esculturas de bronze de Benin e se afirma no presente com a poesia de nível internacional, de John Pepper Clark, na sua pesquisa de música popular, desde o *high life* de Gana até o *dixieland* e o *jazz* dos Estados Unidos e os sons do Caribe.

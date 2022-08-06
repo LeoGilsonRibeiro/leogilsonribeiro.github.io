@@ -2,13 +2,14 @@
 title: 'Cora Coralina. A morte da poetisa. E de um grande ser humano'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Cora Coralina. A morte da poetisa. E de um grande ser humano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 12-04-1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/14-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/14-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano
 orig_publisher: 'Jornal da Tarde 12-04-1985'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Cora Coralina. A morte da poetisa. E de um grande ser humano". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 12-04-1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/14-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/14-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano
+
 ---
 
 "A vida é boa e você pode fazê-la sempre melhor. Seja otimista. O otimismo é uma força construtora."

@@ -2,13 +2,14 @@
 title: 'Um feminismo sutil, sucesso em Portugal'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Um feminismo sutil, sucesso em Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 22-05-1986, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/08-antonio-alcada-baptista/00-um-feminismo-sutil-sucesso-em-portugal</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/08-antonio-alcada-baptista/00-um-feminismo-sutil-sucesso-em-portugal
 orig_publisher: 'Jornal da Tarde 22-05-1986'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Um feminismo sutil, sucesso em Portugal". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 22-05-1986, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/08-antonio-alcada-baptista/00-um-feminismo-sutil-sucesso-em-portugal</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/08-antonio-alcada-baptista/00-um-feminismo-sutil-sucesso-em-portugal
+
 ---
 
 O escritor A. Alçada Baptista abana a cabeça, desacorçoado:

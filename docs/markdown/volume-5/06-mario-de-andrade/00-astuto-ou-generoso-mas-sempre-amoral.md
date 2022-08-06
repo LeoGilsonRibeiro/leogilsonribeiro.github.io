@@ -2,13 +2,14 @@
 title: 'Astuto ou generoso. Mas sempre amoral'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Astuto ou generoso. Mas sempre amoral". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 22-7-1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral
 orig_publisher: 'Jornal da Tarde 22-7-1978'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Astuto ou generoso. Mas sempre amoral". In PUENTE, Fernando Rey (org.) <em>Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 22-7-1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral
+
 ---
 
 Como ficção em prosa *Macunaíma* integra com os contos gauchescos de Simão Lopes e *Grande Sertão: Veredas* aquele triângulo de obras-primas abandonadas pelo grande público logo às primeiras linhas, com o bocejo abrangente de Macunaíma a exclamar:

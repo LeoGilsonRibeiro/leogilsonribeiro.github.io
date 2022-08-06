@@ -2,13 +2,14 @@
 title: 'Hilda Hilst. Em prosa ou poesia, a raridade de uma obra à frente de seu tempo'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Hilda Hilst. Em prosa ou poesia, a raridade de uma obra à frente de seu tempo". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 24 de janeiro de 1976, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo
 orig_publisher: 'LGR JT 24 de janeiro de 1976'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Hilda Hilst. Em prosa ou poesia, a raridade de uma obra à frente de seu tempo". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 24 de janeiro de 1976, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo
+
 ---
 
 Tempo de verão. Férias. O Brasil entra na modorra do cansaço, que ninguém é de ferro, depois de trabalhar e/ou estudar o ano inteiro. As próprias editoras entram numa sesta preguiçosa. Estremunham-se. Ficam silenciosas presas ao pretexto triplo: festas (Natal, Ano Novo), férias, carnaval. Só depois do "tríduo momesco" é que todos dirão adeus à carne e as gráficas retomarão a impressão das palavras, que cristalizam a cultura, a sensibilidade e a inteligência brasileiras, uma tríade que se opõe, paciente, teimosa, às tendências naturais de outro triângulo nacional ameaçador: futebol, carnaval e samba -- ai de nós, nenhum deles ainda inspirador de nada válido além das pernas e da pelvis. Com as raríssimas exceções de letras de música popular ou de um conto como "A Morte da Porta Estandarte" de Aníbal Machado.

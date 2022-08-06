@@ -2,13 +2,14 @@
 title: 'Inéditos de Clarice, para se conhecer melhor Clarice'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Inéditos de Clarice, para se conhecer melhor Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 30-05-1981, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice
 orig_publisher: 'Jornal da Tarde 30-05-1981'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Inéditos de Clarice, para se conhecer melhor Clarice". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 30-05-1981, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice
+
 ---
 
 A escritora e animadora das artes, Olga Borelli, amiga de Clarice Lispector, durante muitos anos, resolveu reunir páginas inéditas da grande escritora de *Laços de Família* e publicá-los agora após a morte daquela que é talvez a mais importante contista das Três Américas. Se Clarice Lispector, em vida, sempre fora explorada por editores inescrupulosos, demitida bruscamente de jornais em que colaborava, depois de morta, pelo menos o profundo respeito - que a sua esplêndida criação literária deveria incutir até nos mais incultos - lhe granjeou até agora melhor acolhida. A Editora Nova Fronteira, como quase todas as demais editoras brasileiras, não distribui (ou pelo menos distribui com grande atraso) os livros que publica, dificultando não só o trabalho do crítico que escreve regularmente na imprensa como, dessa forma, não fazendo propaganda gratuita, dirigida ao grande público, dos livros editados. (E que dizer de uma Editora Difel, que só envia capas dos livros, propondo ao crítico advinhar o que se esconde por trás daquela capa exígua e ridícula?)

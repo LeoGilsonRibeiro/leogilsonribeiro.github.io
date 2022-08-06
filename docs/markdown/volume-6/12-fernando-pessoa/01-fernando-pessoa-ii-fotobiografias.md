@@ -2,13 +2,14 @@
 title: 'Fernando Pessoa II: Fotobiografias'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Fernando Pessoa II: Fotobiografias". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 09-01-1982, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias
 orig_publisher: 'Jornal da Tarde 09-01-1982'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Fernando Pessoa II: Fotobiografias". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 09-01-1982, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias
+
 ---
 
 Além do pavor que tinha das trovoadas, Fernando Pessoa até em cartas consignara sua "embirração por tirar retratos". A uma de suas tias, ele tipicamente oferece "esta provisória representação visível de si próprio". Sentindo uma profunda relutância em entrar em lugares desconhecidos, o poeta que escandalizou a provinciana Lisboa de sua época (1888-1935) deixou, nos arquivos de jornais, em velhos baús de tias e na Biblioteca da Câmara Municipal de Lisboa uma vasta coleção de retratos que o acompanham quase que por toda a vida. Agora, Maria José de Lancastre, estudiosa de Pessoa e professora de literatura portuguesa na Itália, reúne numa original *Fotobiografia* instantâneos e textos do grande poeta de *Mensagem*, num lançamento da Imprensa Nacional, de Portugal, com apoio do Centro de Estudos Pessoanos do Porto.

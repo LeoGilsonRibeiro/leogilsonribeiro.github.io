@@ -2,13 +2,14 @@
 title: 'As cartas a Milena como documento literário e da angústia de Kafka'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume III: Testemunhos Literários do século XX'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "As cartas a Milena como documento literário e da angústia de Kafka". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (11 páginas datilografadas para o curso), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka
 orig_publisher: '(11 páginas datilografadas para o curso)'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "As cartas a Milena como documento literário e da angústia de Kafka". In PUENTE, Fernando Rey (org.) <em>Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (11 páginas datilografadas para o curso), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka
+
 ---
 
 Franz Kafka deixou além da sua fundamental obra literária três documentos que são ao mesmo tempo literatura e documentam a sua angústia inescapável: a *Carta ao Pai*, o *Diário* e as *Cartas a Milena*.

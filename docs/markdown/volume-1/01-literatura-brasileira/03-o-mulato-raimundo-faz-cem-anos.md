@@ -2,13 +2,14 @@
 title: 'O mulato Raimundo faz cem anos'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "O mulato Raimundo faz cem anos". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/5/23. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/03-o-mulato-raimundo-faz-cem-anos</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/03-o-mulato-raimundo-faz-cem-anos
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1981/5/23
-abnt_ref: 'RIBEIRO, Leo Gilson. "O mulato Raimundo faz cem anos". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/5/23. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/03-o-mulato-raimundo-faz-cem-anos</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/03-o-mulato-raimundo-faz-cem-anos
+
 ---
 
 Felizmente para a nossa literatura, em geral é péssima a aclimatação no Brasil dos "ismos" europeus para cá importados. O romantismo deu algum sinal de vitalidade no lirismo chopiniano de um Casimiro de Abreu, na veemência arrebatada e na sincera eloquência dos versos abolicionistas de Castro Alves. Mas depois desse primeiro tímido transplante, houve uma série de rejeições do corpo orgânico brasileiro desses enxertos vindos de lá com grande atraso. O simbolismo, que teve como um de seus máximos expoentes o catarinense Cruz e Souza, evaporou-se nos sonhos racistas e empolados do vate negro que sonhava com loiras celestes e usava termos alambicados para cantar sua Beatriz alvíssima a que não podia ter acesso, preso ao inferno do preconceito contra qualquer epiderme escura. O parnasianismo apresentou até elementos humorísticos inesperados quando cultuados por nossos imitadores da frieza escultórica, marmoreamente impassível de um gélido Lecomte Lisle ou de um estático Heredia: excelente cultor da língua, Olavo Bilac deu ao impávido parnasianismo uma vibração erótica tropical, não prevista no roteiro que nos foi enviado da França.

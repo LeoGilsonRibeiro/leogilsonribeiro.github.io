@@ -2,13 +2,14 @@
 title: 'O negro e a cultura de Moçambique não merecem romance tão ruim quanto este'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "O negro e a cultura de Moçambique não merecem romance tão ruim quanto este". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1982/02/27. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1982/02/27
-abnt_ref: 'RIBEIRO, Leo Gilson. "O negro e a cultura de Moçambique não merecem romance tão ruim quanto este". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1982/02/27. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este
+
 ---
 
 A África Negra -- e demograficamente nela se inclui também a racista África do Sul do ignominioso *apartheid* -- era, até há pouco, objeto apenas de retratos feitos por autores brancos: Alan Paton em seu comovente *Cry, the Beloved Country* denunciando a desumanidade nazista do regime da sua África do Sul natal; Doris Lessing rememorando no ambiente da antiga Rodésia, hoje Zimbabue, uma luta que lhe parecia urgente, cega porém para a luta em prol da libertação do negro: a conquista da emancipação feminina, no quadro de uma "normal" opressão imperialista dos brancos ingleses em Salisbury. Eram, com exceções, instantâneos da savana africana tirados pela esplêndida escritora dinamarquesa, baronesa e fazendeira na África, Isak Dinesen, ou incursões rápidas, superficiais como um cenário de *papier-mâché* feito em Hollywood: os romances de Ernest Hemingway no Quênia que, infantis, jamais tiveram a África e sua problemática plural e ingente como foco central.

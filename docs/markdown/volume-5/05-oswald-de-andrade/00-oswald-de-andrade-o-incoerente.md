@@ -2,13 +2,14 @@
 title: 'Oswald de Andrade, o incoerente'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Oswald de Andrade, o incoerente". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Leitura nº 30 novembro de 1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/05-oswald-de-andrade/00-oswald-de-andrade-o-incoerente</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/05-oswald-de-andrade/00-oswald-de-andrade-o-incoerente
 orig_publisher: 'Leitura nº 30 novembro de 1984'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Oswald de Andrade, o incoerente". In PUENTE, Fernando Rey (org.) <em>Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Leitura nº 30 novembro de 1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/05-oswald-de-andrade/00-oswald-de-andrade-o-incoerente</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/05-oswald-de-andrade/00-oswald-de-andrade-o-incoerente
+
 ---
 
 Na polarização maniqueísta - aqui o pleonasmo se torna necessário - do Brasil de hoje, agora é a vez de se cantar as glórias de um nome que já foi do Partido (obviamente com P maiúsculo, pois se é único). José Oswald de Sousa Andrade morreu há 30 anos? Comemora-se a data com espalhafato, ainda mais que ele às vezes foi bom escritor! Dóceis, as loas já saem prontas em quase toda a chamada grande imprensa, que obedece no Brasil a invisíveis fios de Pavlov habilmente manipulados pela Esquerda saudosa de Stálin, o Paizinho dos Povos. É como se todos lêssemos diferentes elogios publicados no *Pravda* e no *Izvestia* abrasileirados, socialmente morenos. Não morenos etnicamente, o que seria excelente, mas morenos na obscuridade mental e mendacidade. O patrulhamento ideológico stalinista nos censura com a voracidade e a vigilância tenaz do Departamento de Imprensa e Propaganda getulista ou da "dobradinha" Buzaid-Falcão.

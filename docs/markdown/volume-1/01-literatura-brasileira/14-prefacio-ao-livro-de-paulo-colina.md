@@ -2,13 +2,14 @@
 title: 'Prefácio ao livro de Paulo Colina'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Prefácio ao livro de Paulo Colina". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores, 1987. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina
 orig_publisher: 'In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores'
 orig_date: 1987
-abnt_ref: 'RIBEIRO, Leo Gilson. "Prefácio ao livro de Paulo Colina". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores, 1987. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina
+
 ---
 
 Dramaturgo, tradutor, animador de encontros culturais na União Brasileira de Escritores, em São Paulo, o poeta Paulo Colina tem uma personalidade artística nítida, forte, a destacá-lo do conjunto de importantes poetas negros contemporâneos no Brasil de hoje.

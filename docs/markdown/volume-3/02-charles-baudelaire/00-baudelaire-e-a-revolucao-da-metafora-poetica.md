@@ -2,13 +2,14 @@
 title: 'Baudelaire e a revolução da metáfora poética'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume III: Testemunhos Literários do século XX'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Baudelaire e a revolução da metáfora poética". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (Correio da Manhã 2 de Dezembro de 1965), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica
 orig_publisher: '(Correio da Manhã 2 de Dezembro de 1965)'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Baudelaire e a revolução da metáfora poética". In PUENTE, Fernando Rey (org.) <em>Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (Correio da Manhã 2 de Dezembro de 1965), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica
+
 ---
 
 É fundamental a transformação que Baudelaire imprime à poesia não só da França como de toda a Europa, a ponto de constituir um nítido divisor de águas entre a poesia acadêmica, parnasiana, que precede o seu aparecimento e a poesia propriamente moderna, esotérica em muitos de seus aspectos. É sua a primeira inclusão, total e obsessiva, da Grande Cidade (Paris) como tema central da sua arte poética. Ele constitui o primeiro poeta urbano, moderno, que deriva as suas imagens de elementos componentes da civilização pós-Revolução Industrial: grandes *boulevards*, parques, pontes, a elegância de uma noite gala na Ópera constrastando com a sordidez dos mendigos, das prostitutas, dos bêbados. Como verdadeiro arauto da geração de *poetas malditos* que o sucederão, como Rimbaud e Verlaine, uniu indissoluvelmente sua vida e o cultivo da sua arte requintada, aristocrática, mas profundamente participante da miséria da condição humana nos seus aspectos sociais ou metafísicos. Sacrificou à sua vocação qualquer conformismo ou adaptação aos critérios da sociedade bem-pensante do seu tempo. Isolado do grande público pela hostilidade da incompreensão que este demonstrava para com as suas revolucionárias inovações poéticas, perseguido pelos eternos invejosos mesquinhos, ele seria acossado pela doença, pela miséria financeira a mais humilhante e finalmente pelo proceso que a Justiça francesa moveu, impelida por motivos na realidade hipócritas, contra as suas *Fleurs du Mal*. Até neste particular foi pioneira a sua atuação, pois a este choque se seguirão, mais tarde, o da censura anglo-saxônica, de um puritanismo mórbido, contra o monumental *Ulysses* de Joyce e *O Amante de Lady Chatterley* de D. H. Lawrence.

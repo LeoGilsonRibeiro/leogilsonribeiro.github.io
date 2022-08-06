@@ -2,13 +2,14 @@
 title: 'Lírios, luar, rosas desfolhadas: é a poesia de Alphonsus'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Lírios, luar, rosas desfolhadas: é a poesia de Alphonsus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde (1971), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/00-lirios-luar-rosas-desfolhadas-e-a-poesia-de-alphonsus</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/00-lirios-luar-rosas-desfolhadas-e-a-poesia-de-alphonsus
 orig_publisher: 'Jornal da Tarde (1971)'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Lírios, luar, rosas desfolhadas: é a poesia de Alphonsus". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde (1971), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/00-lirios-luar-rosas-desfolhadas-e-a-poesia-de-alphonsus</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/00-lirios-luar-rosas-desfolhadas-e-a-poesia-de-alphonsus
+
 ---
 
 O Simbolismo, como todos os movimentos literários anteriores à Semana de Arte Moderna de 1922, veio transplantado da Europa para o Brasil. De todos os gêneros importados, foi o que menos se aclimatou aqui.

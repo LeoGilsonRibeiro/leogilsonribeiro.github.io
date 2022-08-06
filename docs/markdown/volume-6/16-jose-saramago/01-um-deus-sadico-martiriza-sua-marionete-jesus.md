@@ -2,13 +2,14 @@
 title: 'Um Deus sádico martiriza sua marionete, Jesus'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Um Deus sádico martiriza sua marionete, Jesus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde, 1991, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/16-jose-saramago/01-um-deus-sadico-martiriza-sua-marionete-jesus</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/16-jose-saramago/01-um-deus-sadico-martiriza-sua-marionete-jesus
 orig_publisher: 'Jornal da Tarde, 1991'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Um Deus sádico martiriza sua marionete, Jesus". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde, 1991, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/16-jose-saramago/01-um-deus-sadico-martiriza-sua-marionete-jesus</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/16-jose-saramago/01-um-deus-sadico-martiriza-sua-marionete-jesus
+
 ---
 
 O semanário lisboeta *Jornal de Letras* de 5 a 11 de novembro último dá grande destaque à entrevista que concedeu ao crítico José Carlos de Vasconcelos, o controvertido escritor português José Saramago. Autor de belos livros como *Memorial do Convento* e *O Cerco de Lisboa*, além de outros títulos, discorre, no diálogo publicado, sobre seu livro recém-lançado em Portugal e no Brasil: *O Evangelho Segundo Jesus Cristo*. Como admirador sincero do grande talento narrativo de Saramago, infelizmente devo confessar que senti, como muitos outros leitores também, uma confirmação da queda qualitativa de sua criatividade. Esse fenômeno começou com a *Jangada de Pedra* que, lamento dizer, mais me pareceu uma piada jornalística do que uma meditação profunda ou esclarecedora a respeito do secular desprezo e desinteresses votados à Península Ibérica pelos demais países europeus "do lado de cá" dos Pirineus.

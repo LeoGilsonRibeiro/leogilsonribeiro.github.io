@@ -2,13 +2,14 @@
 title: 'A tradução de As Flores do Mal de Baudelaire'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume III: Testemunhos Literários do século XX'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A tradução de As Flores do Mal de Baudelaire". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal da Tarde 7 de dezembro de 1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire
 orig_publisher: 'Jornal da Tarde 7 de dezembro de 1985'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "A tradução de As Flores do Mal de Baudelaire". In PUENTE, Fernando Rey (org.) <em>Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal da Tarde 7 de dezembro de 1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire
+
 ---
 
 À primeira vista pode parecer uma brincadeira, mas os fatos comprovam.

@@ -2,13 +2,14 @@
 title: 'Evocação de Clarice'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Evocação de Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Anexo de uma carta de LGR enviada (?) ao escritor Wilson Bueno datada de 12-13 de junho de 1994 - (provavelmente inédito, pois não foi localizada a eventual publicação do texto no jornal Nicolau para o qual havia sido escrito), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/13-evocacao-de-clarice</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/13-evocacao-de-clarice
 orig_publisher: 'Anexo de uma carta de LGR enviada (?) ao escritor Wilson Bueno datada de 12-13 de junho de 1994 - (provavelmente inédito, pois não foi localizada a eventual publicação do texto no jornal Nicolau para o qual havia sido escrito)'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Evocação de Clarice". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Anexo de uma carta de LGR enviada (?) ao escritor Wilson Bueno datada de 12-13 de junho de 1994 - (provavelmente inédito, pois não foi localizada a eventual publicação do texto no jornal Nicolau para o qual havia sido escrito), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/13-evocacao-de-clarice</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/13-evocacao-de-clarice
+
 ---
 
 (Especial para o aniversário do *Nicolau*)

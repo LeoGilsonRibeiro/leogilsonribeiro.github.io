@@ -2,13 +2,14 @@
 title: '"A poesia não deve morrer. Senão, que esperança restaria ao mundo?"'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. ""A poesia não deve morrer. Senão, que esperança restaria ao mundo?"". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1977/11/5. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/09-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/09-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1977/11/5
-abnt_ref: 'RIBEIRO, Leo Gilson. ""A poesia não deve morrer. Senão, que esperança restaria ao mundo?"". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1977/11/5. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/09-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/09-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo
+
 ---
 
 "Não sei em que tempo foi, confundo sempre a infância e o Éden"

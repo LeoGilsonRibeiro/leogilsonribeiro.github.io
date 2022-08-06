@@ -2,13 +2,14 @@
 title: 'Tutaméia: um átomo explode'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Tutaméia: um átomo explode". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 19-8-1967, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode
 orig_publisher: 'LGR JT 19-8-1967'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Tutaméia: um átomo explode". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 19-8-1967, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode
+
 ---
 
 De todas as obras magistrais já publicadas pelo maior escritor que o Brasil possui, no sentido universal do termo, esta *Tutaméia* é, sem dúvida, a mais moderna, diríamos mesmo a mais atual no plano da linguagem. T. S. Eliot já revelara, no plano da poesia, a característica fundamental da lírica moderna: ela exige a participação plena do leitor. Este não recebe mais, toda pronta, a obra elaborada pelo artista: ao contrário, o leitor é chamado a cooperar na decifração das imagens e ideias que o poeta esboça, tornando-se ele próprio co-autor do poema, pelo quinhão de compreensão e esforço de complementação que traz à página que tem diante dos olhos.

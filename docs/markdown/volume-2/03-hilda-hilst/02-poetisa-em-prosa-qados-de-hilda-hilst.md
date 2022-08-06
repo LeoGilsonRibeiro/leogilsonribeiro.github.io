@@ -2,13 +2,14 @@
 title: 'Poetisa em prosa. Qadós de Hilda Hilst'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Poetisa em prosa. Qadós de Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR Veja 11 de julho de 1973, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst
 orig_publisher: 'LGR Veja 11 de julho de 1973'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Poetisa em prosa. Qadós de Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR Veja 11 de julho de 1973, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst
+
 ---
 
 Não há meio-termo: ou o leitor se deixa envolver pela cadência verbal, pela magia das imagens que Hilda Hilst faz desfilar nas quatro histórias de *Qadós*, ou larga o livro, entediado, incapaz de seguir um itinerário tão hermético e tão pessoal.

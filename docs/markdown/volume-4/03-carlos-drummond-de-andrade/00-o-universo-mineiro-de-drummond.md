@@ -2,13 +2,14 @@
 title: 'O universo mineiro de Drummond'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "O universo mineiro de Drummond". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 18-06-1969, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/03-carlos-drummond-de-andrade/00-o-universo-mineiro-de-drummond</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/03-carlos-drummond-de-andrade/00-o-universo-mineiro-de-drummond
 orig_publisher: 'Jornal da Tarde 18-06-1969'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "O universo mineiro de Drummond". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 18-06-1969, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/03-carlos-drummond-de-andrade/00-o-universo-mineiro-de-drummond</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/03-carlos-drummond-de-andrade/00-o-universo-mineiro-de-drummond
+
 ---
 
 O grande público só conhece os poemas-sensação de Carlos Drummond de Andrade. Espantando a classe média pelo seu tom de enigma, ou de galhofa, seu primeiro livro *Alguma Poesia*, publicado na Belo Horizonte de 1930, parecia uma zombaria para o público acostumado só com o soneto parnasiano que falava de "formas ebúrneas" ou como delírio verboso-carnal J. G. de Araújo Jorge. Pois podia ser poesia um poema que em certo trecho dizia:

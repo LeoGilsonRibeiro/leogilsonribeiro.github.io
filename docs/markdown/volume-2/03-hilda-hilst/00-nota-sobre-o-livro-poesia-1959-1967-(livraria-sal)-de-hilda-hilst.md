@@ -2,13 +2,14 @@
 title: 'Nota sobre o livro Poesia 1959-1967 (Livraria Sal) de Hilda Hilst'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Nota sobre o livro Poesia 1959-1967 (Livraria Sal) de Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR O Estado de São Paulo 1967, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/00-nota-sobre-o-livro-poesia-1959-1967-(livraria-sal)-de-hilda-hilst</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/00-nota-sobre-o-livro-poesia-1959-1967-(livraria-sal)-de-hilda-hilst
 orig_publisher: 'LGR O Estado de São Paulo 1967'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Nota sobre o livro Poesia 1959-1967 (Livraria Sal) de Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR O Estado de São Paulo 1967, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/00-nota-sobre-o-livro-poesia-1959-1967-(livraria-sal)-de-hilda-hilst</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/00-nota-sobre-o-livro-poesia-1959-1967-(livraria-sal)-de-hilda-hilst
+
 ---
 
 Uma edição sóbria, de bom gosto, para uma importante poetisa. Hilda Hilst não está nas coluninhas sociais nem frequenta as odiosas igrejinhas pseudoliterárias. È uma artista séria, profunda, uma artesã severa da palavra, recolhida a um claustro da especulação poética. Como as tecelãs da Idade Média, ela pouco a pouco tece sua colorida tapeçaria lírica: "Roteiro do Silêncio" (1959), "Trovas de Muito Amor" (1960), "Testamento Lírico", "Sete Cantos do Poeta para o Anjo" (1962) até os mais recentes "Corpo da Terra" e "Corpo de Luz".

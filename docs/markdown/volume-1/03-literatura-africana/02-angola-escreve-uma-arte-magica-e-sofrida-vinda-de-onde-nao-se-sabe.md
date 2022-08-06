@@ -2,13 +2,14 @@
 title: 'Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/07/04. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1981/07/04
-abnt_ref: 'RIBEIRO, Leo Gilson. "Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/07/04. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe
+
 ---
 
 África Negra. A mera enunciação das duas palavras desperta interpretações e fantasias conflitantes. Para alguns, o adjetivo será considerado insultuoso, típico do racista que mantém o preconceito inflexível contra tudo o que for "coisa de negro", portanto, nesta acepção **a priori** os termos significam tudo que for desprezível, pejorativo, "inferior. Há depois as nuances de"piedade" dos "coitadinhos", matizes que vão do missionário em catequese sincera, querendo salvar aquelas almas pagãs para a única Fé, a de Jesus Cristo, como a devoção dos bem-intencionados que querem transmitir às populações negras o alfabeto, a roda, a escrita, a indústria, a medicina em vez dos feiticeiros da tribo, a favela em vez das choças tribais.

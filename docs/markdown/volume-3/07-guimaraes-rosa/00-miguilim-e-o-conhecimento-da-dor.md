@@ -2,13 +2,14 @@
 title: 'Miguilim e o conhecimento da dor'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume III: Testemunhos Literários do século XX'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Miguilim e o conhecimento da dor". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (9 páginas datilografadas para o curso), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/07-guimaraes-rosa/00-miguilim-e-o-conhecimento-da-dor</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/07-guimaraes-rosa/00-miguilim-e-o-conhecimento-da-dor
 orig_publisher: '(9 páginas datilografadas para o curso)'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Miguilim e o conhecimento da dor". In PUENTE, Fernando Rey (org.) <em>Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (9 páginas datilografadas para o curso), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/07-guimaraes-rosa/00-miguilim-e-o-conhecimento-da-dor</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/07-guimaraes-rosa/00-miguilim-e-o-conhecimento-da-dor
+
 ---
 
 No âmbito da literatura latino-americana que se afirma crescentemente na Europa e nos Estados Unidos Gimarães Rosa foi citado no ano passado como um dos dos candidatos ao maior prêmio europeu, só inferior ao prêmio Nobel: o prêmio Fomentor, de 11 editoras-chaves do Velho Mundo e só perdeu para o norte-americano Saul Bellow pela pouca divulgação da língua portuguesa, uma divulgação que se torna mínima se comparada com a repercussão mundial do inglês.

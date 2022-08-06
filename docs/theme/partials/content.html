@@ -66,7 +66,7 @@
 {{ page.content }}
 
 <!--Bibliographical references-->
-{% if page.meta.title and page.meta.author and page.meta.editor and page.meta.print_bib %}
+{% if page.meta.print_bib %}
 <div class="tabbed-set tabbed-alternate" data-tabs="1:2" style="--md-indicator-x: 0px; --md-indicator-width: 71px;">
   <input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio">
   <input id="__tabbed_1_2" name="__tabbed_1" type="radio">
@@ -83,16 +83,7 @@
       <pre class="latex" id="__code_1">
         <button class="md-clipboard md-icon" title="Copiar para área de Transferência" data-clipboard-target="#__code_1 > code"></button>
         <code>
-          @incollection{{ '{' }}LGR{{ page.meta.orig_date }},
-          author = {{ '{' }}{{ page.meta.author }}{{ '}' }},
-          editor = {{ '{' }}{{ page.meta.editor }}{{ '}' }},
-          title = {{ '{' }}{{ page.meta.title }}{{ '}' }},
-          booktitle = {{ '{' }}{{ page.meta.vol_title }}{{ '}' }},
-          date = {{ '{' }}{{ page.meta.date }}{{ '}' }},
-          origpublisher = {{ '{' }}{{ page.meta.orig_publisher }}{{ '}' }},
-          origdate = {{ '{' }}{{ page.meta.orig_date }}{{ '}' }},
-          url = {{ '{' }}{{ page.meta.permalink }}{{ '}' }}
-          {{ '}' }}
+      {{ page.meta.bibtex_ref }}
         </code>
       </pre>
     </div>

@@ -2,13 +2,14 @@
 title: 'A prosa dos poetas, oportuna e brilhante'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A prosa dos poetas, oportuna e brilhante". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 26-5-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante
 orig_publisher: 'Jornal da Tarde 26-5-1984'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "A prosa dos poetas, oportuna e brilhante". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 26-5-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante
+
 ---
 
 Último jardineiro a cultivar as flores caboclas deste jardim brasileiro - a crônica - Carlos Drummond de Andrade, involuntariamente, mostra que a arte da crônica - a não ser em suas escalavradas e mágicas mãos - morreu.

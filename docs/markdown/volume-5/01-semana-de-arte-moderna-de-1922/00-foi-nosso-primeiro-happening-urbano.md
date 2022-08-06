@@ -2,13 +2,14 @@
 title: 'Foi nosso primeiro happening urbano'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Foi nosso primeiro happening urbano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 24-2-1972, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano
 orig_publisher: 'Jornal da Tarde 24-2-1972'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Foi nosso primeiro happening urbano". In PUENTE, Fernando Rey (org.) <em>Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 24-2-1972, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano
+
 ---
 
 A semana de Arte Moderna, em 1922, no Teatro Municipal de São Paulo, foi o primeiro *happening* urbano do Brasil. "O rural foi a festa comemorativa dos índios que devoraram, nas costas da Bahia, o Bispo Sardinha". Conteve miados, cacarejos de galinhas, apupos, os chinelos de Villa-Lobos e a sementeira mais radical para o duplo processo que a Semana veio focalizar, acelerar e tornar urgente, no campo das artes brasileiras: a nacionalização e a atualização da literatura, das artes plásticas, da música.

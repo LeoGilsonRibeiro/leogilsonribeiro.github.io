@@ -2,13 +2,14 @@
 title: 'García Lorca e o Romancero Gitano'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume III: Testemunhos Literários do século XX'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "García Lorca e o Romancero Gitano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (9 páginas datilografadas para o curso), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano
 orig_publisher: '(9 páginas datilografadas para o curso)'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "García Lorca e o Romancero Gitano". In PUENTE, Fernando Rey (org.) <em>Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (9 páginas datilografadas para o curso), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano
+
 ---
 
 Nas primeiras aulas situamos Baudelaire como a linha de divisão entre a poesia anterior a ele a que se lhe segue é o *arauto* da sensibilidade moderna contemporânea. Não só por introduzir temas da grande cidade industrializada mineral mas também por conceitos novos de beleza, de audácia artística, de liberdade criadora do artista.

@@ -2,13 +2,14 @@
 title: 'Cardoso Pires, para quando o Brasil descobrir Portugal'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Cardoso Pires, para quando o Brasil descobrir Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 01-10-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal
 orig_publisher: 'Jornal da Tarde 01-10-1983'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Cardoso Pires, para quando o Brasil descobrir Portugal". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 01-10-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal
+
 ---
 
 José Cardoso Pires, o grande romancista português, possivelmente o maior deste momento de toda a Península Ibérica, é vítima da quarentena crescente que isola cada vez mais o Brasil da cultura do seu tempo. Seus livros combativos e esteticamente irrepreensíveis *O Anjo Ancorado*, *Cartilha do Marialva* (Editora Ulisséia, Lisboa, 1960) e sobretudo *O Delfim* (Moraes Editores, Lisboa, 1968) raramente chegam ao Brasil. Na sua nova fase a Editora Difel ou outras editoras brasileiras estariam interessadas na difusão da criação literária de Cardoso Pires, incluindo-se nela as obras mais recentes: *Dinossauro Excelentíssimo*, *E Agora, José?*, *O Burro em Pé* e *Balada da Praia dos Cães*. Todas levantaram celeuma em Portugal quando publicadas e mais tarde discutidas na televisão, principalmente a última, por lidar com um crime político verídico. Durante sua breve passagem por São Paulo, ele concedeu ao *Jornal da Tarde* esta entrevista exclusiva:

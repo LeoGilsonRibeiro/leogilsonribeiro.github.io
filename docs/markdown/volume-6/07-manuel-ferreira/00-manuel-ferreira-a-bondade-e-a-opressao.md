@@ -2,13 +2,14 @@
 title: 'Manuel Ferreira: a bondade e a opressão'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Manuel Ferreira: a bondade e a opressão". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 25-08-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/07-manuel-ferreira/00-manuel-ferreira-a-bondade-e-a-opressao</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/07-manuel-ferreira/00-manuel-ferreira-a-bondade-e-a-opressao
 orig_publisher: 'Jornal da Tarde 25-08-1983'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Manuel Ferreira: a bondade e a opressão". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 25-08-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/07-manuel-ferreira/00-manuel-ferreira-a-bondade-e-a-opressao</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/07-manuel-ferreira/00-manuel-ferreira-a-bondade-e-a-opressao
+
 ---
 
 O seu olhar no rosto sardento, encimado por cabelos brancos e revoltos, impressiona pela bondade. Não há nenhuma ruptura entre o incisivo escritor português estabelecido no arquipélago de Cabo Verde, a 500 km da costa atlântica da África, Manuel Ferreira, e seus livros humaníssimos, sucintos, que falam da fome, da dor, da emigrção forçada, da pobreza das ilhas onde se falam o português e um dialeto antigo do português, o crioulo. *Morna*, *A Casa das Motas*, *Hora de Bai* (possivelmente o seu melhor roance, lançado no Brasil pela Editora Ática) e *Voz de Prisão* documentam, dolorosamente, mas sem pieguismo, o exílio constrangido pela fome, a opressão fascista colonial, a ausência de qualquer direito humano à mínima dignidade.

@@ -2,13 +2,14 @@
 title: 'Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos.". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Desconhecido, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/15-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos/readme</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/15-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos/readme
 orig_publisher: 'Desconhecido'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos.". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Desconhecido, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/15-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos/readme</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/15-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos/readme
+
 ---
 
 ***Jornal da Tarde* 3/03/1984**

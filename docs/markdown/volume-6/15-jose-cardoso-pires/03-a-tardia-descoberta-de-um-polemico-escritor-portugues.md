@@ -2,13 +2,14 @@
 title: 'A tardia descoberta de um polêmico escritor português'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "A tardia descoberta de um polêmico escritor português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 12-11-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues
 orig_publisher: 'Jornal da Tarde 12-11-1983'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "A tardia descoberta de um polêmico escritor português". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 12-11-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues
+
 ---
 
 O Brasil e Portugal vivem de costas um para o outro, décadas a fio. É ocioso esmiuçar as razões deste surrealista alheamento: a ditadura fascista de Salazar? Mas tínhamos uma ditadura fascista de Vargas aqui. A intensiva colonização cultural norte-americana no Brasil? No entanto, os grandes escritores franceses e italianos do pós-guerra, sem falar nos ingleses e até alemães, coexistiram com a recente enxurrada de esplêndidos escritores hispano-americanos: Virgínia Woolf, Doris Lessing, Ítalo Calvino, Pavese, Pasolini, Proust, Musil que só conhecemos tardiamente em traduções brasileiras.

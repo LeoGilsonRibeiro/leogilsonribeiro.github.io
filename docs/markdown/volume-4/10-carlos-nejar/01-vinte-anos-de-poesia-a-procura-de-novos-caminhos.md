@@ -2,13 +2,14 @@
 title: 'Vinte anos de poesia, à procura de novos caminhos'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Vinte anos de poesia, à procura de novos caminhos". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 5-07-1980, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/10-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/10-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos
 orig_publisher: 'Jornal da Tarde 5-07-1980'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Vinte anos de poesia, à procura de novos caminhos". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 5-07-1980, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/10-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/10-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos
+
 ---
 
 \[continuação do artigo em que analisa a trajetória poética de Marly de Oliveira e de Carlos Nejar\]

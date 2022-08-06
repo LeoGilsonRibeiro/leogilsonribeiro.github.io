@@ -2,13 +2,14 @@
 title: 'Literatura negra nos Estados Unidos - James Baldwin'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Literatura negra nos Estados Unidos - James Baldwin". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã, 1965/3/27. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin
 orig_publisher: 'Correio da Manhã'
 orig_date: 1965/3/27
-abnt_ref: 'RIBEIRO, Leo Gilson. "Literatura negra nos Estados Unidos - James Baldwin". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã, 1965/3/27. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin
+
 ---
 
 O cartão entregue a cada um dos milhões de refugiados da Europa Central acampados em barracas à espera do visto de imigração é simbólico da nossa era atômica -- a era das *displaced persons*. A expressão inglesa é cruel na sua especificação de que uma pessoa está "fora do seu lugar", no desajuste, no desenraizamento que são a forma século XX da angústia mais desesperada que o *mal du siècle* dos românticos e o *Weltschmerz* dos melancólicos poetas alemães. Kafka foi o arauto dessa multidão em busca de uma Canaã mítica -- perdida, inacessível ou inexistente? -, dos judeus que *displaced* na Alemanha de Hitler, terminaram cremados nos infernos de Dachau e de Ausschwitz. Mas são também desambientados os jovens irados ingleses e os *beatnicks* que procuram no orgasmo e no Zen budismo, na maconha e no *jazz* uma expressão para o seu inconformismo e finalmente são *displaced* em seu sexo os travestis mimetizados com um ideal feminino.

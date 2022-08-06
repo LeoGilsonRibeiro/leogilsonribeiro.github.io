@@ -2,13 +2,14 @@
 title: 'Mário Chamie. Meditações sobre a falta de liberdade'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Mário Chamie. Meditações sobre a falta de liberdade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 12-04-1986, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/09-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/09-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade
 orig_publisher: 'Jornal da Tarde 12-04-1986'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Mário Chamie. Meditações sobre a falta de liberdade". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 12-04-1986, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/09-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/09-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade
+
 ---
 
 Afinal, nenhum dos poetas oficiais de qualquer esquerda irrompeu, neste Brasil pós-1964, com a veemência lúcida e o dizer patético e eloquente deste mais recente livro de Mário Chamie. *A Quinta Parede*, Editora Nova Fronteira, enfeixa em suas sóbrias 154 páginas uma das mais cristalinas e apavorantes meditações poéticas sobre a falta de liberdade. Neste país em que se esquece a tesoura da censura Buzaid-Falcão, como se deixa impune um ex-ministro da Justiça como Abi-Ackel, os poemas aqui contidos falam com uma linguagem incendiada de escárnio e ódio paradoxalmente sereno, de um longo período de falta de liberdade. Sem pretender fazer uma poesia "engajada", Mário Chamie no entanto se revela, íntegra e integralmente como um secreto guardião da palavra. Proibida, mutilada sussurrada, sufocada, a palavra varou a noite, luta ainda contra os obscurantismos soezes, e o poeta não a celebra como se fosse um réquiem: não, é com cólera que ele a resgata dos porões dos gritos, do sangue e da morte:

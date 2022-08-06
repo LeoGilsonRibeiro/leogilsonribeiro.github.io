@@ -2,13 +2,14 @@
 title: 'Entrevista - León Damas e a Negritude brasileira'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista - León Damas e a Negritude brasileira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã, 1965/04/03. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/01-entrevista-leon-damas-e-a-negritude-brasileira</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/01-entrevista-leon-damas-e-a-negritude-brasileira
 orig_publisher: 'Correio da Manhã'
 orig_date: 1965/04/03
-abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista - León Damas e a Negritude brasileira". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã, 1965/04/03. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/01-entrevista-leon-damas-e-a-negritude-brasileira</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/01-entrevista-leon-damas-e-a-negritude-brasileira
+
 ---
 
 O poeta León Damas, da Guiana Francesa, que constituíra com Césaire, da Martinica e Senghor, hoje presidente do Senegal, o triângulo sobre o qual se baseia o movimento da *Négritude*, encontra-se pela segunda vez no Brasil. Na sua sala de estudos de um apartamento em Copacabana ele nos recebe com grande afabilidade, cercado de livros brasileiros e, bem à mão, um dicionário francês-português. Veio pesquisar, com uma bolsa de estudos, a contribuição do homem de cor à literatura brasileira e faz questão de ressaltar, logo de início, a cooperação que vem tendo do diretor da Biblioteca Nacional e o valor da obra de Antônio Olinto sobre os *Brasileiros na África*. A busca de uma identidade autônoma por parte dos negros, que assume características de um movimento de reivindicações civis nos Estados Unidos adquiriu entre os intelectuais negros de formação francesa uma diretriz nitidamente cultural. Entre nós, o poeta Damas reconheceu imediatamente que a contribuição do negro não se limitava à literatura, extravasando-se na música, no *folklore*, na linguagem.

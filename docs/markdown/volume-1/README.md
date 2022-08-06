@@ -2,12 +2,10 @@
 title: 'Introdução'
 author: Fernando Rey Puente
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
-orig_publisher: 'lgr.com.br'
-orig_date: Sem data
-abnt_ref: 'PUENTE, Fernando Rey. "Introdução". In <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: lgr.com.br, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/readme</a>'
+abnt_ref: 'PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/readme</a>'
 view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/readme
 ---
 

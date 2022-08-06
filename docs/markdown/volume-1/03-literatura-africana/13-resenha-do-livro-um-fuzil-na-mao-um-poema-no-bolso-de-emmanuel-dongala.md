@@ -2,13 +2,14 @@
 title: 'Resenha do livro - Um fuzil na mão um poema no bolso de Emmanuel Dongala'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Resenha do livro - Um fuzil na mão um poema no bolso de Emmanuel Dongala". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, 1974/09/11. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala
 orig_publisher: 'Veja'
 orig_date: 1974/09/11
-abnt_ref: 'RIBEIRO, Leo Gilson. "Resenha do livro - Um fuzil na mão um poema no bolso de Emmanuel Dongala". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, 1974/09/11. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala
+
 ---
 
 **Africano errado...**

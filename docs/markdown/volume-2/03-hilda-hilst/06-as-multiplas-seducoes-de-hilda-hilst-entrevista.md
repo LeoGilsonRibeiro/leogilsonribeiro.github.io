@@ -2,13 +2,14 @@
 title: 'As múltiplas seduções de Hilda Hilst: entrevista'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "As múltiplas seduções de Hilda Hilst: entrevista". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 18 de abril de 1977, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/06-as-multiplas-seducoes-de-hilda-hilst-entrevista</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/06-as-multiplas-seducoes-de-hilda-hilst-entrevista
 orig_publisher: 'LGR JT 18 de abril de 1977'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "As múltiplas seduções de Hilda Hilst: entrevista". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 18 de abril de 1977, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/06-as-multiplas-seducoes-de-hilda-hilst-entrevista</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/06-as-multiplas-seducoes-de-hilda-hilst-entrevista
+
 ---
 
 \- Hilda Hilst: há uns sete anos houve uma transformaçã radical da sua vida. Você pendurou o seu diploma de advogada formada pela Faculdade de Direito do Largo São Francisco. Abandonou as festas elegantes e a roda-vida da metrópole que é São Paulo. Casou-se com o escultor Dante Casarini. A mulher bonita, de paixões correspondidas, isoulou-se voluntariamente como que nesse claustro em que você vive, perto de Campinas. E passou a escrever com uma intensidade e uma qualidade absoluta. O que houve?

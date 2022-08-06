@@ -2,13 +2,14 @@
 title: 'Kafka em Praga'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume III: Testemunhos Literários do século XX'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Kafka em Praga". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: O Estado de São Paulo - Suplemento Literário 12 de março de 1966, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/03-kafka-em-praga</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/03-kafka-em-praga
 orig_publisher: 'O Estado de São Paulo - Suplemento Literário 12 de março de 1966'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Kafka em Praga". In PUENTE, Fernando Rey (org.) <em>Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: O Estado de São Paulo - Suplemento Literário 12 de março de 1966, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/03-kafka-em-praga</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/03-kafka-em-praga
+
 ---
 
 Depois que Baudelaire celebrou o mistério fosforescente da grande cidade, grandes novelistas contemporâneos se vêm identificando indissoluvelmente com a metrópole moderna. Paris, espelhada na prosa de Proust, é parte determinante do matiz e da formulação estética de sua *Recherche*. Borges e Buenos Aires, Svevo e Trieste, Musil e Viena, são outros binômios ilustrativos dessa fusão crescente de toda uma gama de relações entre o artista e o seu clima ambiental. Desde o sarcasmo devastador que Thomas Mann arremessou contra a sua Lübeck provinciana ao apaixonado "*I don't hate it!*" reiterado por Quentin Compson em relação ao Sul ancestral e violento da saga faulkneriana, há uma intensificação dessa interdependência, até atingir a ruptura do ódio. Joyce ao defrontar-se com a sua odiada-amada Dublin tipifica a dualidade de reação a um ambiente alternadamente execrado e exaltado, que descreve uma parábola: das vitriólicas e sombrias histórias iniciais de *Dubliners* até às imagens oníricas, tachistas da reconciliação final de *Finnegans Wake*.

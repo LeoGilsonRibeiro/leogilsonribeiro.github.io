@@ -2,13 +2,14 @@
 title: 'Clarice. Doando um fragmento iluminado de si mesma nestas crônicas'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Clarice. Doando um fragmento iluminado de si mesma nestas crônicas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 16-11-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/11-clarice-doando-um-fragmento-iluminado-de-si-mesma-nestas-cronicas</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/11-clarice-doando-um-fragmento-iluminado-de-si-mesma-nestas-cronicas
 orig_publisher: 'Jornal da Tarde 16-11-1984'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Clarice. Doando um fragmento iluminado de si mesma nestas crônicas". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 16-11-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/11-clarice-doando-um-fragmento-iluminado-de-si-mesma-nestas-cronicas</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/11-clarice-doando-um-fragmento-iluminado-de-si-mesma-nestas-cronicas
+
 ---
 
 *A Descoberta do Mundo*, um grosso volume de quase 800 páginas, reúne, pela Editora Nova Fronteira, as crônicas publicadas de Clarice Lispector na imprensa carioca de 1967 a 1973. Não fossem as indispensáveis reimpressões de cronistas insignes como Rubem Braga, Carlos Drummond de Andrade, Cecília Meireles e outros, a grande maioria dos leitores não teria acesso a esse trabalho miniaturesco, mas nem por isso menos perfeito de alguns dos nossos maiores escritores.

@@ -2,13 +2,14 @@
 title: 'Suave milagre: no fim da vida, um Eça religioso'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Suave milagre: no fim da vida, um Eça religioso". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 28-5-1969, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso
 orig_publisher: 'Veja 28-5-1969'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Suave milagre: no fim da vida, um Eça religioso". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 28-5-1969, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso
+
 ---
 
 Na rua de um santo (São Bento), em São Paulo, o livreiro Olinto de Moura guarda a chave seu único exemplar de uma obra rara: o *Diccionario dos Milagres*, livro póstumo e inacabado de Eça de Queirós sobre os santos mais venerados pelo povo em Portugal - alguns dos quais estão entre os 44 "cassados" pelo Vaticano. Mas o maior interesse dessa aglomeração de textos menores e incompletos do grande escritor português é para a crítica literária. Como se explica que Eça de Queirós, talvez o autor mais radicalmente anticlerical que Portugal já possuiu, tenha reunido pacientemente algumas dezenas de milagres atribuídos aos santos mais populares? Como chegou a compilar esse esboço de *Diccionario dos Milagres*, que sua morte, em 1900, aos 55 anos de idade, não o deixou terminar?

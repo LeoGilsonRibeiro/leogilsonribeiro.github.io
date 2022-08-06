@@ -2,13 +2,14 @@
 title: 'Auto-inspecção'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Auto-inspecção". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja 19-09-1973, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/03-auto-inspeccao</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/03-auto-inspeccao
 orig_publisher: 'Veja 19-09-1973'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Auto-inspecção". In PUENTE, Fernando Rey (org.) <em>Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja 19-09-1973, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/03-auto-inspeccao</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/03-auto-inspeccao
+
 ---
 
 Não contente em ser a mais admirável contista da América Latina, Clarice Lispector conseguiu superar o seu maior desafio pessoal. *Água Viva* - a meio caminho entre o conto e o romance - conserva da história curta a concisão que condensa no mínimo de palavras o máximo de impacto, reticência e profundidade de percepção sensível. E do romance guarda a continuidade do clima narrativo, gênero em que Clarice Lispector criou uma expressão própria e pioneira na literatura em português, mas por vezes de um hermetismo subjetivo que cansava o leitor um pouco menos paciente.

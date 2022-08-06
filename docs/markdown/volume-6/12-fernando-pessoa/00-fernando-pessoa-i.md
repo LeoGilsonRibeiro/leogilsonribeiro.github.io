@@ -2,13 +2,14 @@
 title: 'Fernando Pessoa I'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Fernando Pessoa I". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 19-03-1977, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/00-fernando-pessoa-i</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/00-fernando-pessoa-i
 orig_publisher: 'Jornal da Tarde 19-03-1977'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Fernando Pessoa I". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 19-03-1977, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/00-fernando-pessoa-i</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/00-fernando-pessoa-i
+
 ---
 
 Não era - confessava em carta a dois psiquiatras franceses - totalmente um cadáver consciente.

@@ -2,13 +2,14 @@
 title: 'Manuel não está falando à toa'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Manuel não está falando à toa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 10/5/1966. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa
 orig_publisher: 'Jornal da Tarde'
 orig_date: 10/5/1966
-abnt_ref: 'RIBEIRO, Leo Gilson. "Manuel não está falando à toa". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 10/5/1966. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa
+
 ---
 
 A crônica é um gênero literário peculiar ao Brasil. Cultivada com grande maestria por Rachel de Queiroz e Rubem Braga, nobilitada pela adesão de grandes poetas como Cecília Meirelles e Carlos Drummond de Andrade, constitui o registro sensível da fisionomia de uma grande cidade ou de momentos cruciais da vida de um povo. As colaborações de Manuel Bandeira a este filão menor, embora contínuas, estavam dispersas em vários jornais e revistas, Carlos Drummond de Andrade coligiu-as no propósito de salvar "um acervo de ideias, reflexões e anotações características de um poeta que nunca deixou de ser prosador seguro e gracioso, e jamais se eximiu de participar da vida de seu tempo e de seu país, pelo exercício simultâneo do lirismo e da razão empenhada em criar, aferir e difundir valores. Poeta prosador que fez de sua própria vida espelho de desinteresse pessoal e da dedicação ao melhor do homem".

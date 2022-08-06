@@ -2,13 +2,14 @@
 title: 'O negro nos livros, poemas e teses'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "O negro nos livros, poemas e teses". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1982/12/25. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/10-o-negro-nos-livros-poemas-e-teses</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/10-o-negro-nos-livros-poemas-e-teses
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1982/12/25
-abnt_ref: 'RIBEIRO, Leo Gilson. "O negro nos livros, poemas e teses". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1982/12/25. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/10-o-negro-nos-livros-poemas-e-teses</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/10-o-negro-nos-livros-poemas-e-teses
+
 ---
 
 > "África! Áfirca da reconquista das liberdades/ África do Negro,/ Não há ninguém na África" (Bernard Dadie, poeta da Costa do Marfim)

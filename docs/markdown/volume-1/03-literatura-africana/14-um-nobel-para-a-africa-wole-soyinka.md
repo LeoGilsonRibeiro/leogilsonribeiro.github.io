@@ -2,13 +2,14 @@
 title: 'Um Nobel para a África - Wole Soyinka'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume I: Racismo e literatura negra'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Um Nobel para a África - Wole Soyinka". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1986/10/17. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/14-um-nobel-para-a-africa-wole-soyinka</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/14-um-nobel-para-a-africa-wole-soyinka
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1986/10/17
-abnt_ref: 'RIBEIRO, Leo Gilson. "Um Nobel para a África - Wole Soyinka". In PUENTE, Fernando Rey (org.) <em>Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1986/10/17. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/14-um-nobel-para-a-africa-wole-soyinka</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/14-um-nobel-para-a-africa-wole-soyinka
+
 ---
 
 A roleta caprichosa do Prêmio Nobel de Literatura deste ano parou diante de um nome que talvez nem 0,0001% dos brasileiros conheça. Wole Soyinka, porém, não é apenas um emaranhado de sons, como vários agraciados pela esclerose tranquila dos acadêmicos de Estocolmo o foram. Wole Soyinka pertence em primeiro lugar a um dos países africanos mais ricos do ponto de vista literário, a Nigeria. John Pepper Clark, Okigbo Cristopher, Gabriel Okara, Amor Tutuola, Chinua Achebe, Onuora Nzeku para citar apenas os mais conhecidos, representam facetas criativas diferentes do escritor da África Negra moderna. Talvez o que distingue a obra -- principalmente teatral -- de Wole Soyinka é a sua profunda amargura, sua visão trágica e absolutamente infensa a maniqueísmos. Esta atitude custou-lhe inúmeras polêmicas e ódios. Afirmam seus inimigos: como pode um dramaturgo e pensador africano -- além disso fino poeta -- investir contra imagens sacralizadas da África anterior ao colonialismo europeu? Como ele ousa duvidar da existência de uma África primordial virgem de defeitos, estuprada pela ganância de missionários e comerciantes, rumo à qual é preciso que autores africanos indiquem o caminho de volta como aconselha de forma dogmática Ngugi wa Thiongo em seus ensaios de 1972: *Homecoming: Essays in Africa and Caribbean Literature, Culture and Politics*.

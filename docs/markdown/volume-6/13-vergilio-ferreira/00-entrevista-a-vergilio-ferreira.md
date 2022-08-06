@@ -2,13 +2,14 @@
 title: 'Entrevista a Vergílio Ferreira'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista a Vergílio Ferreira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 18-06-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira
 orig_publisher: 'Jornal da Tarde 18-06-1983'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista a Vergílio Ferreira". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 18-06-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira
+
 ---
 
 Vergílio Ferreira, nascido em 1916, perto da secular Universidade de Coimbra, comoveu a platéia que o assistiu, na semana passada, quando fez a palestra que inaugurou a promoção "Encontros com a Cultura Portuguesa", no Sesc. Referindo-se a quem considera o gênio máximo de uma civilização orgulhosa dos seus oito séculos de existência, enfatizou que brasileiros e portugueses comemoravam, ali, São Camões, o poeta da ausência, da expatriação, que atingiu a recordação da terra distante com emoção e saudade. Sóbrio, ponderado, atento, polidamente, às divergências de opinião dos seus interlocutores, soube transmitir ideias e ensinamentos sem nenhum tom profissional ou superior. Esta foi a impressão que as pessoas que o assistiram tiveram e agora comentam. Ficou clara a certeza de que Vergílio Ferreira submete os sentimentos à lucidez das ideias. Para muitos leitores, trata-se do maior escritor português contemporâneo. Vergílio Ferreira destaca-se entre os romancistas neorealistas dos últimos 50 anos, por nunca ter admitido que a doutrina política se tornasse a censura da arte. Seus livros *O Caminho Fica Longe* e *Onde Tudo foi Morrendo* alcançam, com *Vagão J.* a culminância da reflexão sócio-econômica a respeito do ser humano. Já com *Mudança e Aparição*, nitidamente se destaca a sua independência, ao afirmar que "nem só de pão vive o homem" e ao interrogar com invulgar coragem e coerência as eternas questões metafísicas que nenhum panfletarismo político soluciona: a angústia, a solidão, o amor, a morte, o mais além, que circunda nossa vivência corporal. Nesta página, as suas ideias, conceitos e reflexões sobre a literatura brasileira e portuguesa.

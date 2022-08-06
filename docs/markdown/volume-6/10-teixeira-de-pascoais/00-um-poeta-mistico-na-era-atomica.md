@@ -2,13 +2,14 @@
 title: 'Um poeta místico na era atômica'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "Um poeta místico na era atômica". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Diário de Notícias 11-10-1959, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica
 orig_publisher: 'Diário de Notícias 11-10-1959'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "Um poeta místico na era atômica". In PUENTE, Fernando Rey (org.) <em>Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Diário de Notícias 11-10-1959, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica
+
 ---
 
 Para inaugurar "Pelos Caminhos da Cultura" pensamos que faríamos bem se começássemos com a divulgação de uma expressão literária em nosso próprio idioma. Ao mesmo tempo, é nosso propósito retirar esse extraordinário Poeta da penumbra de esquecimento a que ele está relegado - injustamente - entre nós. Daí dedicarmos a nossa primeira atenção ao meio poeta místico da nossa época, como ele é considerado por vários críticos suiços e alemães, a mais alta inspiração mística de Portugal, desde Frei Agostinho da Cruz, o eremita da Arrábida. Mais tarde voltaremos a analisar outros aspectos dessa rica e fascinante personalidade, atendo-nos hoje a considerações forçadamente lineares.

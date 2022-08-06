@@ -2,13 +2,14 @@
 title: 'João Cabral rega com poesia a aridez de nossa literatura'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
-vol_title: 'Volume IV: Poetas brasileiros contemporâneos'
+vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022-08
 print_bib: true
+abnt_ref: 'RIBEIRO, Leo Gilson. "João Cabral rega com poesia a aridez de nossa literatura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 6-12-1975, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/08-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura</a>'
+view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/08-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura
 orig_publisher: 'Jornal da Tarde 6-12-1975'
 orig_date: Sem data
-abnt_ref: 'RIBEIRO, Leo Gilson. "João Cabral rega com poesia a aridez de nossa literatura". In PUENTE, Fernando Rey (org.) <em>Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 6-12-1975, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/08-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/08-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura
+
 ---
 
 Parabéns, Leitor. 1975 guardou para o final o melhor: o magnífico poeta pernambucano João Cabral da Melo Neto ressurge, em seu último livro - *Museu de Tudo* (Editora José Olympio, 96 páginas de ouro finíssimo, Cr\$ 25,00 mas na realidade sem preço) com o renovado vigor dos cinquenta anos, com a amplificação de seus temas, com uma deslumbrante dilatação de seu restrito território lírico, voluntariamente contido, concentrado, conciso e perene.
