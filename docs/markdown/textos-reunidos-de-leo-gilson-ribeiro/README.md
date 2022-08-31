@@ -5,8 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro'
 date: 2022
 view_url: www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/
-
-2022
+orig_date: 2022
 ---
 
 Há muitos anos eu estava guardando um material que eu obtive de Leo Gilson Ribeiro. Tratava-se de inúmeros recortes de jornal e de revistas, bem como um bom número de textos datilografados que ele preservava, mas de modo bastante desordenado, amontoados em prateleiras em um pequeno quarto nos fundos de sua casa. Nestes últimos anos de colapso cultural que estamos vivendo com recorrentes ataques do governo às universidades e aos centros de pesquisa, nada mais importante para um professor universitário do que procurar resgatar parte de nosso passado cultural do esquecimento e torná-lo público.

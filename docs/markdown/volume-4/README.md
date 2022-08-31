@@ -5,8 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
 view_url: www.leogilsonribeiro.com.br/volume-4/
-
-2022
+orig_date: 2022
 ---
 
 Duas ausências são notórias nesta recolha: Mário de Andrade e Hilda Hilst. A justificativa para isso é que ambos esses poetas serão abordados em publicações à parte. Textos sobre a quase totalidade da produção de Hilda Hilst (inclusive das suas poesias) serão publicados juntamente com os estudos sobre Guimarães Rosa e Clarice Lispector em um livro específico e um longo ensaio sobre Mário de Andrade, escrito por ocasião de um curso sobre o movimento modernista de 1922 que nosso crítico ministrou em diversas unidades do Sesc no Estado de São Paulo (capital e interior) no ano de 1992 será publicado em um volume especial dedicado à algumas figuras representativas da Semana de Arte Moderna de 1922 de São Paulo.

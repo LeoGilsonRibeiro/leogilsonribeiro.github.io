@@ -5,8 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
 view_url: www.leogilsonribeiro.com.br/volume-6/
-
-2022
+orig_date: 2022
 ---
 
 Apesar disso, acreditamos que o conjunto de autores portugueses entrevistados e cujos livros foram resenhados por LGR oferece aos seus leitores não só um aliciador estímulo para as/os jovens leitores conhecerem grandes obras da multisecular tradição literária de Portugal, com a imensa vantagem de poderem lê-las sem a mediação de uma tradução, mas também um bom apanhado da intensa preocupação do nosso crítico com o resgate que nós temos de fazer da nossa relação literária e cultural com Portugal. Como LGR sumariza no mesmo texto que eu mencionei pouco acima, nós, brasileiras e brasileiros "linguisticamente estamos delimitados pelas fronteiras autênticas: as que têm ao Norte, Portugal, em torno, as literaturas hispano-americanas e, atravessando o oceano Atlântico, a Literatura africana de expressão portuguesa". Em relação a todas essas fronteiras linguísticas nosso crítico dedicou especial atenção como o demonstra em relação à literatura hispano-americana o seu livro publicado em 1988, *O Continente Submerso*: perfis e depoimentos de grandes escritores de *nuestra* América, e este tríptico parece então se completar com este presente livro sobre a literatura portuguesa e outro, por nós também organizado, sobre o racismo e a literatura negra, ainda que neste caso, o livro que organizamos retrata muito mais do que o interesse de nosso crítico apenas pela literatura africana escrita em português a que mais acima ele próprio faz alusão.

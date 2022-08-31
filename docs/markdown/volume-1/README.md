@@ -5,8 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
 view_url: www.leogilsonribeiro.com.br/volume-1/
-
-2022
+orig_date: 2022
 ---
 
 Leo Gilson Ribeiro foi certamente um dos intelectuais e críticos de literatura mais engajados em denunciar o racismo, bem como especialmente em divulgar a literatura negra - do Brasil, da América Latina, dos EUA e da África - em nosso país, mas cuja memória, infelizmente, foi acometida da mesma invisibilidade denunciada pelo personagem central de Ralph Ellison em sua importante novela *The Invisible Man*, relato este utilizado sagazmente pelo próprio Leo Gilson Ribeiro no início de uma conferência sobre a literatura negra em 1985 proferida no Centro Cultural São Paulo.

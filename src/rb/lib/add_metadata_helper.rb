@@ -62,7 +62,7 @@ def add_metadata(author, editor, title, text, vol_title, path) # rubocop:disable
     orig_pub_bibtex = ''
     orig_pub_ris = ''
     orig_pub_abnt = ''
-    orig_date = '2022'
+    orig_date = 'orig_date: 2022'
     orig_date_bibtex = ''
     orig_date_ris = ''
     annote = ''
@@ -104,7 +104,7 @@ def add_metadata(author, editor, title, text, vol_title, path) # rubocop:disable
 )
 
   # yml_header = (partial_yml_header + orig_pub_bibtex + [bibtex.chomp] + [yml_delimiter]).join("\n")
-  yml_header = (partial_yml_header + [orig_pub, orig_date] + [yml_delimiter]).join("\n")
+  yml_header = (partial_yml_header + [orig_pub, orig_date] + [yml_delimiter]).reject(&:empty?).join("\n")
   "#{yml_header}\n\n#{text.lines[1..-1].join.strip}\n\n#{bib_ref}"
 end
 

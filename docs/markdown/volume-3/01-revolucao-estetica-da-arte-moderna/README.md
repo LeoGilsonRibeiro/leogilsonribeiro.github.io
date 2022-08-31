@@ -5,8 +5,6 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
 view_url: www.leogilsonribeiro.com.br/volume-3/01-revolucao-estetica-da-arte-moderna/
-
-
 ---
 
 *Correio da Manhã*; 1965/11/09
