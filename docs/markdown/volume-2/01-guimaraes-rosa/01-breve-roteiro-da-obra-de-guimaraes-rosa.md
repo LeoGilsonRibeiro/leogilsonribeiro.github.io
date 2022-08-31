@@ -3,13 +3,10 @@ title: 'Breve roteiro da obra de Guimarães Rosa'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Breve roteiro da obra de Guimarães Rosa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 15-10-1966, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/01-breve-roteiro-da-obra-de-guimaraes-rosa</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/01-breve-roteiro-da-obra-de-guimaraes-rosa
-orig_publisher: 'LGR JT 15-10-1966'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/01-breve-roteiro-da-obra-de-guimaraes-rosa
+orig_publisher: 'Jornal da Tarde'
+orig_date: 15/10/1966
 ---
 
 Toda a radical revolução que Guimarães Rosa trouxe à literatura brasileira corresponde, na realidade, a inaugurar o romance brasileiro de validez universal. É claro que o Brasil já tivera em Machado de Assis o seu grande cronista urbano, mas o amargo e cético retratista do desencanto e da desilusão amorosa equivale, como tom e como temática, a um Henry James ou um Eça de Queiroz menor.
@@ -39,3 +36,36 @@ A terceira premissa de que brota toda a sua incomparável construção verbal --
 A trajetória que meramente esboçamos da sua criação literária percorre, portanto, uma ampla gama que derivando sua força inicial da *linguagem*, alça voo com a *imaginação poética* para conduzir finalmente *à contemplação mística*, uma contemplação paradoxalmente ativa, pois a alma do homem está sempre numa eterna transformação, num eterno *divenire*. A própria linguagem, consequentemente, passa a ser em suas mãos privilegiadas *um instrumento de Conhecimento*. Pois utilizando a linguagem como forma de romper a mera física do termo na acepção limitada, cristalizada nos dicionários e esclerosada pelo uso, ele a torna uma *forma de reintegração do homem no Absoluto* em que o contacto com a vida real é um diálogo sutil, um roce fugidio com a Irrealidade imanente:
 
 > "Tudo aliás é a ponta de um mistério".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Breve roteiro da obra de Guimarães Rosa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 15/10/1966. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/01-breve-roteiro-da-obra-de-guimaraes-rosa</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Breve roteiro da obra de Guimarães Rosa'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/01-breve-roteiro-da-obra-de-guimaraes-rosa},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 15/10/1966}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Breve roteiro da obra de Guimarães Rosa'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 15/10/1966
+    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/01-breve-roteiro-da-obra-de-guimaraes-rosa
+    ER  - 
+    ```

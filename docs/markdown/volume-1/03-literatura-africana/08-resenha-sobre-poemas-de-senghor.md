@@ -3,13 +3,10 @@ title: 'Resenha sobre Poemas de Senghor'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Resenha sobre Poemas de Senghor". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1970/1/29. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/08-resenha-sobre-poemas-de-senghor</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/08-resenha-sobre-poemas-de-senghor
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/08-resenha-sobre-poemas-de-senghor
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1970/1/29
-
 ---
 
 Poucas vozes poéticas surgem com tanta pujança neste final de século. Senghor, presidente do Senegal, um dos formuladores da teoria da *Négritude*, alinha-se ao lado de um Saint-John Perse, de um T. S. Eliot, de um Gottfried Benn, de um Carlos Drummond de Andrade.
@@ -23,3 +20,36 @@ O tom majestoso e solene de suas elegias não exclui uma referência aos fados d
 Poeta lírico do amor, poeta religioso que mescla o latim ritual da missa com os dialetos e instrumentos musicais africanos, poeta social que transforma o ódio dos negros contra os racistas numa profunda meditação filosófica sobre a condição humana ou no espírito de paz e boa vontade do Natal, Senghor não perde sua vitalidade nem mesmo nesta tradução um pouco prosaica e sem voo poético feita agora no Brasil. Afinal, seria preciso ser poeta para traduzir bem um grande poeta. O leitor porém apreciaria ter explicações ao pé da página de termos africanos abundantes e que são citados sem qualquer esclarecimento: *Kor-Sanou*! *Paragnessês*. *Bayetê Babá*! *Bayetê ó Zoulou*! *KhalamI. Balafong* -- o que significam exatamente? São lugares? Invocações? Instrumentos?
 
 Estes senões são menores. O importante é o encontro do leitor brasileiro com um dos grandes poetas do século. Senghor, como em sua própria "Oração às Máscaras", sem saber, definiu exemplarmente a majestosa contribuição que sua poesia trouxe à renovação poética mundial: "Que respondemos 'presente' ao renascer do Mundo/ Qual fermento necessário à farinha branca./ Pois quem ensinaria o ritmo ao falecido mundo das máquinas e dos canhões? Quem daria o grito de alegria para despertar mortos e órfãos à aurora?/ Dizei, quem poderia restituir a memória da vida ao homem desesperançado?\... Somos os homens da dança, cujos pés se revigoram ferindo o rude chão".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Resenha sobre Poemas de Senghor". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1970/1/29. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/08-resenha-sobre-poemas-de-senghor</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Resenha sobre Poemas de Senghor'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/08-resenha-sobre-poemas-de-senghor},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1970/1/29}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Resenha sobre Poemas de Senghor'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1970/1/29
+    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/08-resenha-sobre-poemas-de-senghor
+    ER  - 
+    ```

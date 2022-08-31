@@ -3,13 +3,10 @@ title: 'A África em lendas e contos. Lembrando nossa História'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A África em lendas e contos. Lembrando nossa História". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1982/1/30. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/00-a-africa-em-lendas-e-contos-lembrando-nossa-historia</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/00-a-africa-em-lendas-e-contos-lembrando-nossa-historia
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/00-a-africa-em-lendas-e-contos-lembrando-nossa-historia
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1982/1/30
-
 ---
 
 Determinante na formação da cultura popular brasileira, os negros para aqui trazidos da chamada África Negra -- a região situada ao sul do deserto do Saara e que exclui toda a parte Norte, arabizado, do Continente, bem como a parte sul, hoje feudo do odioso regime racista do *apartheid* sul-africano -- raramente chegam até nós manifestações culturais do Congo, da Nigéria, do Quênia, da Tanzânia. Embora a sua parte antropológica seja tênue, apresentando a cultura negra com certo paternalismo e desejando orientá-la segundo critérios europeus de valor, como por exemplo ao tentar ressaltar a "antiguidade" no tempo das civilizações do Benin e outras, no entanto, *Contos de Lendas da África* (Editora Melhoramentos) de autoria de Margret Carey nos traz um apanhado genérico interessante sobre um dos aspectos -- o da tradição de relatos orais de contos, que remonta a períodos autóctones, quando a África Negra ainda não estava codificada nem pela colonização dos missionários cristãos nem pela conversão de vultosos segmentos de suas populações à religião muçulmana, imposta pelo Islã conquistador.
@@ -75,3 +72,36 @@ Quanto à religião, todas as tribos acreditam num ser supremo, sendo também im
 O livro, farto em ilustrações, relata mais algumas lendas tradicionais, belas e interessantes, justificando sua leitura até o capítulo final, dedicado aos povos Suailis: neste trecho cessa realmente o interesse por que a cultura africana se desfigura, mera copiadora dos preceitos árabes, impostos pela conversão religiosa forçada aos Islamismos e meramente repetem, sem nenhuma originalidade, preceitos e preconceitos do Corão, sufocando a autenticidade autóctone e tornando supérflua essa parte do livro, como seria inútil um relato bíblico "africanizado" por mentes colonizadas por premissas e metas inteiramente estranhas à mentalidade aborígene da África Negra.
 
 Mas no Brasil de hoje em que, nunca é demais repisar no assunto, como que uma muralha de silêncio se ergue entre a informação existente no mundo e que não chega, por meio de traduções, até nós, em qualquer campo, da ecologia à ideologia e à memória histórica, esse livrinho abre uma fresta minúscula sobre a herança africana e nos deixa entrever quanto de fecundante, para o Brasil que os trouxe, além-oceano, e deve grande parte de sua especificidade como nação, reconhecidamente, ao elemento africano que aqui se aclimatou e com outros segmentos étnicos criou uma cultura que, dia a dia, delineia-se como inconfundivelmente brasileira, fruto de miscigenação como talvez o exemplo único em todo o mundo contemporâneo.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A África em lendas e contos. Lembrando nossa História". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1982/1/30. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/00-a-africa-em-lendas-e-contos-lembrando-nossa-historia</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A África em lendas e contos. Lembrando nossa História'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/00-a-africa-em-lendas-e-contos-lembrando-nossa-historia},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1982/1/30}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A África em lendas e contos. Lembrando nossa História'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1982/1/30
+    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/00-a-africa-em-lendas-e-contos-lembrando-nossa-historia
+    ER  - 
+    ```

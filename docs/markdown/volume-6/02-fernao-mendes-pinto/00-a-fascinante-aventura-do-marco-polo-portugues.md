@@ -3,13 +3,10 @@ title: 'A fascinante aventura do Marco Polo português'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A fascinante aventura do Marco Polo português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 06-08-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues
 orig_publisher: 'Jornal da Tarde 06-08-1983'
 orig_date: Sem data
-
 ---
 
 Fernão, mentes? Minto! Fernão Mendes Pinto, autor português do século XVI, não escaparia nunca mais a este gracejo, para sempre ligado, ironicamente, a seu nome. Nem neste ano em que se comemoram os 400 anos de sua morte (1509? - 1583), deixou a companhia de teatro de Cascais, em Portugal, em visita recente ao Brasil, de armar toda uma peça em torno a este mote, de que participam, seriamente, historiadores e pesquisadores eruditos ilustres, de várias nacionalidades. Embora publicada postumamente, sua obra longuíssima, a *Peregrinação*, é criticada como sendo fantasiosa, mentirosa, falsa, cheia de erros factuais ou passagens inventadas, tantas são as incorreções evidentes que nela pululam.
@@ -47,3 +44,36 @@ Afinal, espelho fiel das suas atribulações físicas e espirituais, este livro 
 A par do confronto entre civilizações divergentes, as do Oriente e a do Ocidente, ele prenuncia a inexistência de uma "inferioridade" de povos inteiros julgados por um critério estreita e abusivamente eurocêntrico. Muito mais tarde Ruth Benedict, Margaret Mead, Claude Levy-Strauss demonstrariam, na área da antropologia, quanto são relativos os conceitos de "cultura" e quantas vezes os chamados "primitivos" são mais complexos, mais sutis, mais sábios do que a tecnologia utilitarista e materialista ocidental dominadora.
 
 O autor português talvez queira ter dado ao título de sua jornada por tantos mares nunca dantes navegados o valor simbólico de uma progressão espiritual. Desfazendo-se dos bens terrenos, fundando uma família e deixando às filhas como única herança este maço de páginas interessantíssimas, ele não terá dado o sentido de avanço, de evolução espiritual a esta *Peregrinação*, que termina com o reconhecimento da validade e do pó que representam as inúteis lides humanas em prol da riqueza, da fama, do renome? Suas palavras finais nos autorizariam a uma interpretação deste gênero ao falar de "velas ao vento de largas esperanças, que de ordinário se desfazem naquilo de que se sustentam".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A fascinante aventura do Marco Polo português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 06-08-1983, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A fascinante aventura do Marco Polo português'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues},
+    orig_publisher = {'Jornal da Tarde 06-08-1983'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A fascinante aventura do Marco Polo português'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 06-08-1983'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues
+    ER  - 
+    ```

@@ -68,7 +68,7 @@ Como um Jimenez brasileiro, cheio de ternura mansa, de pureza, de retidão e aus
 
 ## Nota sobre o livro *Fala, Amendoeira*
 
-***Jornal da Tarde* 11/9/1970**
+Jornal da Tarde; 11/9/1970
 
 Transplantado para o Rio de Janeiro, o itabirita Carlos Drummond de Andrade levou na sua bagagem imaterial um segundo eu mineiro. Ao lado de sua grande poesia - meditação para orgão, que engloba todos os instrumentos - ele viu desabrochar sa crônica quase diária da cidade - um cravo modernizado, dotado de notas agudas para a ironia e graves para um humor auto-ironizante.
 
@@ -94,7 +94,7 @@ Imprevisível, brilhante, extraindo do cotidiano aparentemente banal e prosaico 
 
 ## A prosa dos poetas, oportuna e brilhante
 
-***Jornal da Tarde* 26/5/1984**
+Jornal da Tarde; 26/5/1984
 
 Último jardineiro a cultivar as flores caboclas deste jardim brasileiro - a crônica - Carlos Drummond de Andrade, involuntariamente, mostra que a arte da crônica - a não ser em suas escalavradas e mágicas mãos - morreu.
 
@@ -170,7 +170,7 @@ A diferença é que diante da mortalha que amortalha os que se acham vivos é s�
 
 ## Drummond
 
-**17/8/1985**
+17/8/1985
 
 Uma escola no Maranhão, entregue aos alunos, passou a não ter necessidade de sede fixa, nem mestres, nem alunos permanentes: sem currículo, sem diploma, só teme que o Incra divida o terreno em que se encontra em "fatias burocráticas e legais". A mesa de um médium, vendida para um vetusto representante do Lloyd Brasileiro, continua a levitar, causando pavor no jantar familiar e acaba doada a um asilo de velhos. Um fabricante de abotoaduras, verificando que elas estão em desuso, resolve suicidar-se. Mas uma camisa esporte, estampada, voa pelos ares com tal encanto que ele desiste do seu intento e passa a fabricar camisas sem mangas. No dia em que se mandar eternizar o verbo "prorrogar" tudo dura até além do limmite: os mandatos de deputados e senadores se prorrogam, rasgam-se os calendários e os relógios ficam abolidos. As aulas de História também foram eliminadas: "Para que História? Se tudo era a mesma coisa, sem perspectiva de mudança..." Até que um mecânico consertou a chuva que também se tornara permanente. E tudo voltou ao normal. Só o filósofo concluiu que "não se deve plagiar a eternidade".
 
@@ -204,7 +204,7 @@ Pode-se esperar mais de um livro tão próximo da perfeição, na sua concissão
 
 ## Manuel Bandeira, um poeta dez anos maior
 
-***Jornal da Tarde*, 1978**
+Jornal da Tarde; 1978
 
 A poesia de Manuel Bandeira, vista dez anos após sua morte, desmistifica a noção de "poeta menor" em que ele próprio se tinha, com modéstia raríssima no Brasil. Derivada da crítica inglesa, essa classificação hierárquica de *major poet* e *minor poet* revela-se claramente insuficiente para rotular a criação poética: há, de fato, poetas que traçam um painel versátil, profundo e vastíssimo do ser humano, como Dante e a dimensão moral e religiosa do homem; Shakespeare e a musicalidade do verso aliada à pintura da ambição pelo poder, à violência dos sentimentos humanos corporificados na credulidade do passional Otelo, na arrogância senil do Rei Lear. E há poetas que nada têm de "menores": são poetas de produção menos vasta, mais miniaturesca mas nem por isso inferior em grandeza. A percepção geral da poesia de Manuel Bandeira que perdura, numa releitura, decorridos esses dez anos, é a de um poeta de grandes momentos de efusão despojada do sentimentalismo brasileiro: e por compor predominantemente para piano, por acaso Chopin e Schumann são "menores"?
 
@@ -510,9 +510,9 @@ Para o poeta dos *pianissimi* da percepção intelectual, para o poeta que busca
 
 ## Manuel Bandeira
 
-***Jornal da Tarde 19/4/1986***
+Jornal da Tarde; 19/04/1986
 
-Há cem anos (em 19/4/1886) nascia no Pernambuco o poeta que usou os versos para vencer a doenç e a morte iminente. Conseguiu muito mais que isso: com sua grandeza, modernizou nossa poesia.
+Há cem anos (em 19/4/1886) nascia no Pernambuco o poeta que usou os versos para vencer a doença e a morte iminente. Conseguiu muito mais que isso: com sua grandeza, modernizou nossa poesia.
 
 Escudo simples: a este Grande,
 
@@ -868,7 +868,7 @@ O poeta se aventura a fazer poemas à moda dos poemas de amigo dos cancioneiros 
 
 ## O universo mineiro de Drummond
 
-***Jornal da Tarde* 18/06/1969**
+Jornal da Tarde; 18/06/1969
 
 O grande público só conhece os poemas-sensação de Carlos Drummond de Andrade. Espantando a classe média pelo seu tom de enigma, ou de galhofa, seu primeiro livro *Alguma Poesia*, publicado na Belo Horizonte de 1930, parecia uma zombaria para o público acostumado só com o soneto parnasiano que falava de "formas ebúrneas" ou como delírio verboso-carnal J. G. de Araújo Jorge. Pois podia ser poesia um poema que em certo trecho dizia:
 
@@ -966,7 +966,7 @@ Os ofícios do jornalista e do escrtitor, muitas vezes confluem: "Em suma, o jor
 
 ## Drummond: comovido, feroz. Exato.
 
-***Jornal da Tarde 4/11/1978***
+Jornal da Tarde; 4/11/1978
 
 Em seu último livro de poemas, *Discurso de Primavera e Algumas Sombras*, Carlos Drummond de Andrade continua imune à erosão do Tempo. Supremo poeta vivo do Ocidente - posição que os maiores intelectuais norte-americanos lhe reconhecem de forma crescente e justa -, um dos três poetas mais perfeitos do idioma, mesmo em um livro de circunstância como este, ele consegue ser o Orfeu brasileiro a resgatar a sua Eurídice, a mediocridade, da ausência de talento, descobrindo todo um universo poético insuspeitado mesmo nos acontecimentos mais cotidianos. Sua lira profunda paralisa as feras da estupidez e do marasmo, da leviandade que se engalana com plumas pseudo-literárias e sua poesia encanta pelo enlevo da sua melodia. Na lírica do Brasil, ele é o primeiro clarividente, aquele Baudelaire precoce, *voyant* como o definia lucidamente Rimbaud.
 
@@ -2416,7 +2416,7 @@ A morte ronda muito de seus escritos. Sem morbidez. Até com a originalidade de 
 
 ## Lírios, luar, rosas desfolhadas: é a poesia de Alphonsus
 
-***Jornal da Tarde* (1971)**
+Jornal da Tarde; 1971
 
 O Simbolismo, como todos os movimentos literários anteriores à Semana de Arte Moderna de 1922, veio transplantado da Europa para o Brasil. De todos os gêneros importados, foi o que menos se aclimatou aqui.
 
@@ -2630,7 +2630,7 @@ De alguém que morre...
 
 ## Poemas. Beleza e magia em versos cintilantes.
 
-***Jornal da Tarde* (1984)**
+Jornal da Tarde; 1984
 
 Alphonsus de Guimaraens Filho tem uma série de peculiaridades que o isolam dentro da poesia contemporânea brasileira. Filho do poeta mineiro Alphonsus de Guimaraens, não é uma cópia genética do talento paterno. Tem acumulado um número enorme de prêmios de reconhecimento pelo valor da sua poesia: Prêmio de Literatura da Fundação Graça Aranha, por seu livro *Lume de Estrelas*, e o Prêmio Olavo Bilac, da Academia Brasileira de Letras, em 1940; dez anos depois, o Prêmio Manuel Bandeira, concedido pelo Jornal de Letras, do RIo de Janeiro; em 54: Prêmio de Poesia da Cidade de Belo Horizonte; em 1973, Prêmio Luísa Cláudio de Sousa, do Pen Clube do Brasil, por seu volume de poemas *Absurda Fábula*; e o Prêmio Literário Nacional, em 1978, por *Água Tempo*, que lhe foi entregue pelo Instituto Nacional do Livro.
 
@@ -2698,7 +2698,7 @@ Essa temática tão próxima do *Cantico delle Criature*, de São Francisco de A
 
 ## Recordando Cecília Meireles
 
-***Diário de Notícias* 6/12/1964**
+Diário de Notícias; 06/12/1964
 
 A casa no Cosme Velho que eu revia agora eu não percebera bem na noite em que lá estivera, com a poetisa Marly de Oliveira. Uma escada cercada de flores subia em suave labirinto até o andar principal, emoldurando pelas montanhas que culminavam na estátua do Cristo Redentor. Praticamente diante do portão da entrada, a estação do trenzinho que conduz ao topo abrigava turistas platinos na tarde radiosa.
 
@@ -2714,7 +2714,7 @@ Contei-lhe do entusiasmo que contagiara uma audiência de quase mil estudantes d
 
 ## Cecília Meireles
 
-**Inédito (7 páginas datilografadas, sem data; provavelmente meados dos anos 60)**
+Inédito; Sem data (provavelmente meados dos anos 60); 7 páginas datilografadas
 
 Cecília Meireles aparece como um galho divergente do Movimento Modernista da Semana de 22 em São Paulo. Ela estava mais integrada à chamada corrente esiritualista de Tarso Silveira e Andrade Murici. As revistas *Árvore Nova, Festa* e *Terra e Sol* diferiam por exemplo das revistas dos modernistas como *Klaxon* e a *Revista de Antropofagia*. Enquanto os paulistas queriam uma arte nacionalizante, abolindo a métrica, a rima e impondo uma anarquia individualista de criação embora com propósitos coletivos, o Movimento Espiritualista de inspiração nitidamente católica defendia ao contrário aqueles que ele considerava os valores imutáveis da psique brasileira: a elaboração estilística do poema mesmo se necessário utilizando a métrica e a rima ou usando o verso livre dos modernistas. Em seguida: uma perscrutação filosófica não imediatista do poeta diante da vida da natureza e dos seus semelhantes e por fim o reconhecimento de que o Brasil não estava e não podia estar divorciado do mundo daí esse movimento ter se chamado também totalista ou universalista em oposição à irreverência dos paulistas que pretendiam destruir todos os ídolos anteriores. Não: o Movimento Espiritualista queria uma continuidade e é significativo que se tenha inspirado inicialmente no Movimento Simbolista de quem Cruz e Souza tinha sido no Brasil ao lado de Alphonsus de Guimaraens a expressão suprema.
 
@@ -2766,7 +2766,7 @@ Sob esse clima de opressão e luxo, com poetas e músicos, escultores como Aleij
 
 ## Cecília em momentos de pouco brilho. Ainda assim, admirável.
 
-***Jornal da Tarde* 14/3/1981**
+Jornal da Tarde; 14/3/1981
 
 A incursão do político, administrador, escritor e editor Carlos Lacerda, falecido há pouco, deixou além de marcas profundas nos rumos da vida política, social e cultural brasileira, um vácuo até hoje não preenchido pela sua personalidade polêmica, combativa, lúcida. A Editora Nova Fronteira, empreendimento extraordinário do qual foi fundador e animador decisivo, frutifica até hoje e tem (teve?) como paralelo uma ramificação rarificada para consumo de poucos, denominada "Confraria dos Amigos do Livro". Baseada em modelos franceses e de outros países de tradição editorial multi-seccular, a *Confraria* apresenta grandes nomes ilustrados por artistas plásticos insignes, um pouco à feição das editoras que, nos EUA ou na Europa, se dedicam a restritos clubes de consumidores de livros ou bibliófilos.
 
@@ -2854,7 +2854,7 @@ Cecília Meireles, olimpicamente, paira acima da miuçalha do tempo das indignid
 
 ## Cecília Meireles. Um canto fascinado e lúcido
 
-***Jornal da Tarde* 10/11/1984**
+Jornal da Tarde; 10/11/1984
 
 "Além disso, o universo não poderia deter-se num limite extremo, já que a natureza não o permitiria: ela quer que a matéria seja limitada pelo vazio e o vazio pela matéria e por meio dessas alternâncias tudo seja infinito"
 
@@ -3158,38 +3158,38 @@ olhai, vinde vê-lo, o seu nome
 
 ##  Entrevista
 
-***Veja*, 6/9/1972**
+Veja, 6/9/1972
 
-Murilo Mendes é um entrevistado cercado de parentes por todos os lados. Cordialíssimos, um fala sobre sua especialidade, ecologia. Outro, de sua permanência em Nova York; outro ainda, de seu trabalho numa importante enciclopédia em elaboração. Entre uma pausa e outra, Murilo Mendes fala, a princípio relutante. Durante o almoço, mais à vontade, conta histórias saborosas. Como a de seu irmão, o desembargador Onofre Mendes, que diante do espelho, fazendo a barba, telefonava de Pitangy, interior de Minas, ao chefe da estação, pedindo: \"Seu Joaquim, amarre o trem que ainda não terminei a barba!\" Ou, musicólogo fanático por Beethoven (um de seus filhos foi batizado Beethoven), pedia a seus clientes antes de instaurar um processo contra invasores de fazendas: \"Primeiro vamos ouvir este Adágio da Nona Sinfonia\". Depois da sesta, a entrevista prossegue. Murilo Mendes, aos setenta anos, teme os jornalistas: um deles deturpa suas palavras, misturando-as \"de cambulhada com as de Cristo, vejam só!\" Outro degradara o seu italiano, fazendo-o cometer \"em apenas quatro linhas oito erros de italiano\". Nele, como em seu livro \"Poliedro\", há várias facetas: um *Murilo Mendes* que faz uma careta de repugnância quando se menciona o nome de um romancista sem valor; um poeta consciente de sua importância como laureado com o Prêmio Etna-Taormina, o mais importante da Itália, que lhe foi concedido no ano passado. o professor, há quinze anos leciona literatura brasileira na Universidade de Roma, que, irônico, desafia uma aluna maoísta: \"A senhora cria um novo tipo de contestação: a do aluno que não quer estudar e considera a aula um resquício capitalista\"; o menino que soltava os pássaros da gaiola em casa de seus parentes em Minas e aos treze anos escreveu uma petição ao prefeito para soltar os presos em Juiz de Fora. Rindo das teorias literárias que dão a Europa como moribunda culturalmente (\"Com um poeta como Sanquineti ou um pesquisador como Lévy-Strauss, moribunda?!) ou da morte da arte preconizada por alguns críticos (\"A arte mudou: da parede passou para cima da mesa como objetos maravilhosos\"), ele é uma ligação entre o passado e o futuro, o Novo e o Velho Mundo.\
-\
+Murilo Mendes é um entrevistado cercado de parentes por todos os lados. Cordialíssimos, um fala sobre sua especialidade, ecologia. Outro, de sua permanência em Nova York; outro ainda, de seu trabalho numa importante enciclopédia em elaboração. Entre uma pausa e outra, Murilo Mendes fala, a princípio relutante. Durante o almoço, mais à vontade, conta histórias saborosas. Como a de seu irmão, o desembargador Onofre Mendes, que diante do espelho, fazendo a barba, telefonava de Pitangy, interior de Minas, ao chefe da estação, pedindo: \"Seu Joaquim, amarre o trem que ainda não terminei a barba!\" Ou, musicólogo fanático por Beethoven (um de seus filhos foi batizado Beethoven), pedia a seus clientes antes de instaurar um processo contra invasores de fazendas: \"Primeiro vamos ouvir este Adágio da Nona Sinfonia\". Depois da sesta, a entrevista prossegue. Murilo Mendes, aos setenta anos, teme os jornalistas: um deles deturpa suas palavras, misturando-as \"de cambulhada com as de Cristo, vejam só!\" Outro degradara o seu italiano, fazendo-o cometer \"em apenas quatro linhas oito erros de italiano\". Nele, como em seu livro \"Poliedro\", há várias facetas: um *Murilo Mendes* que faz uma careta de repugnância quando se menciona o nome de um romancista sem valor; um poeta consciente de sua importância como laureado com o Prêmio Etna-Taormina, o mais importante da Itália, que lhe foi concedido no ano passado. o professor, há quinze anos leciona literatura brasileira na Universidade de Roma, que, irônico, desafia uma aluna maoísta: \"A senhora cria um novo tipo de contestação: a do aluno que não quer estudar e considera a aula um resquício capitalista\"; o menino que soltava os pássaros da gaiola em casa de seus parentes em Minas e aos treze anos escreveu uma petição ao prefeito para soltar os presos em Juiz de Fora. Rindo das teorias literárias que dão a Europa como moribunda culturalmente (\"Com um poeta como Sanquineti ou um pesquisador como Lévy-Strauss, moribunda?!) ou da morte da arte preconizada por alguns críticos (\"A arte mudou: da parede passou para cima da mesa como objetos maravilhosos\"), ele é uma ligação entre o passado e o futuro, o Novo e o Velho Mundo.
+
 LGR - Murilo Mendes, desde o início toda a sua atividade literária tem estado ligada à palavra liberdade. Ela para você é sinônimo de autenticidade cristão. No plano social\...
 
-*Murilo Mendes* - Eu sou um homem que espia a maré. Espio os movimentos culturais, evidentemente de vanguarda, porque os movimentos retrógrados não me interessam. Portanto, procuro extrair deles uma síntese, eu sou um homem de essência, é preciso não esquecer que tenho uma formação francesa, estudei Descartes\...\
-\
+*Murilo Mendes* - Eu sou um homem que espia a maré. Espio os movimentos culturais, evidentemente de vanguarda, porque os movimentos retrógrados não me interessam. Portanto, procuro extrair deles uma síntese, eu sou um homem de essência, é preciso não esquecer que tenho uma formação francesa, estudei Descartes\...
+
 LGR - Mas é um grande admirador também dos anticartesianos como Baudelaire, Rimbaud, Mallarmé\...
 
-*Murilo Mendes* - Bem, sou obrigado a sair da modéstia e dizer que o que já se tem dito de mim: eu sou complexo, tenho muito de racionalista e de irracionalista\...\
-**\
-**LGR - Não distingue fronteiras entre a realidade e a irrealidade\...
+*Murilo Mendes* - Bem, sou obrigado a sair da modéstia e dizer que o que já se tem dito de mim: eu sou complexo, tenho muito de racionalista e de irracionalista\...
+
+LGR - Não distingue fronteiras entre a realidade e a irrealidade\...
 
 *Murilo Mendes* - Não sei, me recuso, acho-as fluidas. Devo muitíssimo a Baudelaire. Ultimamente deram a Mallarmé o título de Dante da era industrial, mas acho que Baudelaire é o primeiro poeta moderno. Nossos maiores problemas atuais estão contidos ao menos em gérmin na sua obra, não só em \"Les Fleurs du Mal\", como nos poemas em prosa, nos seus admiráveis artigos sobre artes plásticas e nas suas traduções. Portanto, a liberdade limita-se com a censura. Se não admito nem um hífen entre poesia e liberdade, como no meu livro intitulado, sem transição nenhuma, \"Poemas liberdade\", por outro lado aceito sinceramente a censura criteriosa. O que antigamente era proibido a menores de 18 ou 21 anos, hoje, na era da televisão, baixou para, digamos, dez anos. Mas sou contra esta inflação de revistas pornográficas. Trata-se de uma destruição do charme feminino, uma destruição que é um dos maiores inimigos da poesia, porque o ser humano é sacro, não por pertencer a determinada religião, pelo fato de ir à missa, nada disso, mas pela simples razão de a Bíblia ter dito que o homem foi criado à imagem e semelhança de Deus.
 
 LGR - Então foi uma sacralidade implícita que foi violada?
 
-*Murilo Mendes* - Violada, sim, mas vou dizer uma coisa que talvez possa parecer absurda: é possível que nós estejamos entrando numa época profundamente religiosa, que não se conhece. Repito: não é uma aderência a uma determinada religião, é uma ânsia de superar os limites humanos. Essa busca pode exprimir-se até pela ciência, pelas conquistas espaciais, tudo isso eu acho que participa do sagrado. Quando ao fato de Gargárin, na primeira vez que foi ao espaço, ter declarado que não viu Deus, uma menina de dez anos em Madri, há algum tempo, ao saber disso, respondeu: \"Não acho isso nada de extraordinário porque, no Catecismo, eu tinha cinco anos quando me ensinaram que Deus é um Ser onisciente, todo-poderoso e invisível\".\
-\
+*Murilo Mendes* - Violada, sim, mas vou dizer uma coisa que talvez possa parecer absurda: é possível que nós estejamos entrando numa época profundamente religiosa, que não se conhece. Repito: não é uma aderência a uma determinada religião, é uma ânsia de superar os limites humanos. Essa busca pode exprimir-se até pela ciência, pelas conquistas espaciais, tudo isso eu acho que participa do sagrado. Quando ao fato de Gargárin, na primeira vez que foi ao espaço, ter declarado que não viu Deus, uma menina de dez anos em Madri, há algum tempo, ao saber disso, respondeu: \"Não acho isso nada de extraordinário porque, no Catecismo, eu tinha cinco anos quando me ensinaram que Deus é um Ser onisciente, todo-poderoso e invisível\".
+
 LGR - Há quinze anos você vive fora do Brasil: como o vê lá, mesmo com distorções intencionais de certos políticos?
 
-*Murilo Mendes* - O meu amigo e poeta português Jorge de Sena disse que o Brasil é um país surrealista, e eu, chegado a esta idade, posso subscrever esse aforismo. O Brasil de fato é surrealista. Hoje o Brasil está num período de grande progresso material, mas para mim o progresso que conta é cultural e espiritual.\
-\
+*Murilo Mendes* - O meu amigo e poeta português Jorge de Sena disse que o Brasil é um país surrealista, e eu, chegado a esta idade, posso subscrever esse aforismo. O Brasil de fato é surrealista. Hoje o Brasil está num período de grande progresso material, mas para mim o progresso que conta é cultural e espiritual.
+
 LGR - E seus alunos na Universidade de Roma, como reagem à literatura brasileira?
 
-*Murilo Mendes* - Os meus alunos, nestes quinze anos, aceitam a literatura brasileira, creio que amam, por ser a literatura de um país moderno, com ideias modernas, escritores e poetas modernos. Por exemplo, traço um gráfico muito longo, ligando o nosso Modernismo de 1922 com o grande Modernismo europeu incluindo a literatura - que não pode ser considerada uma atividade isolada do cinema, das artes plásticas, da arquitetura, etc. E procuro aborrecer o menos possível os alunos com excessos de datas, dando-lhes uma noção do conteúdo dos principais autores. Posso dizer sem modéstia que meu trabalho tem sido apreciado, tanto assim que no fim do ano acadêmico, no ano passado, grande grupo de estudantes e estudantas avançou para mim e gritou: \"Lei è il professore dell\'avvenire!\" (O senhor é o professor do futuro!)\
-\
+*Murilo Mendes* - Os meus alunos, nestes quinze anos, aceitam a literatura brasileira, creio que amam, por ser a literatura de um país moderno, com ideias modernas, escritores e poetas modernos. Por exemplo, traço um gráfico muito longo, ligando o nosso Modernismo de 1922 com o grande Modernismo europeu incluindo a literatura - que não pode ser considerada uma atividade isolada do cinema, das artes plásticas, da arquitetura, etc. E procuro aborrecer o menos possível os alunos com excessos de datas, dando-lhes uma noção do conteúdo dos principais autores. Posso dizer sem modéstia que meu trabalho tem sido apreciado, tanto assim que no fim do ano acadêmico, no ano passado, grande grupo de estudantes e estudantas avançou para mim e gritou: \"Lei è il professore dell\'avvenire!\" (O senhor é o professor do futuro!)
+
 LGR - E que autores interessam particularmente ao aluno italiano?
 
-*Murilo Mendes* - O autor mais admirado pelos meus estudantes é Machado de Assis. É um verdadeiro sucesso. Gostam imensamente dele e muitos me dizem: meus pais, meus tios, minha irmã estão lendo com grande encanto \"Brás Cubas\", \"Quincas Borba\" e \"Dom Casmurro\", naturalmente em italiano. Interessam-se por Machado de Assis por dois motivos: primeiro, o Machado não acredita nas instituições, é cético e, segundo, tem humor, que é um elemento sempre moderno, e tem uma grande preocupação com o tema do tempo, que, como se sabe, é um dos temas dominantes da literatura da nossa época, principalmente através de Kafka, Proust, Joyce, Pirandello. Além de Machado, prezam José de Alencar, Drummond e Cabral.\
-\
+*Murilo Mendes* - O autor mais admirado pelos meus estudantes é Machado de Assis. É um verdadeiro sucesso. Gostam imensamente dele e muitos me dizem: meus pais, meus tios, minha irmã estão lendo com grande encanto \"Brás Cubas\", \"Quincas Borba\" e \"Dom Casmurro\", naturalmente em italiano. Interessam-se por Machado de Assis por dois motivos: primeiro, o Machado não acredita nas instituições, é cético e, segundo, tem humor, que é um elemento sempre moderno, e tem uma grande preocupação com o tema do tempo, que, como se sabe, é um dos temas dominantes da literatura da nossa época, principalmente através de Kafka, Proust, Joyce, Pirandello. Além de Machado, prezam José de Alencar, Drummond e Cabral.
+
 LGR - E para você, pessoalmente, o que a Itália lhe deu de melhor?
 
 *Murilo Mendes *- Estou perfeitamente identificado com o ambiente italiano, mesmo porque o temperamento italiano tem muitos traços de parecença com o nosso. Tenho acompanhado nestes quinze anos o movimento cultural italiano e exercido atividade de crítico de arte, apresentando exposições de artistas italianos ou brasileiros. Publiquei um livro sobre Alberto Magnelli, que é um dos pintores mais importantes da nossa época, precursor do Abstracionismo. Poderia citar muitos nome além de Ungaretti, tão ligado ao Brasil: Montale, que trouxe uma palavra nova, Gadda, com seus jogos linguísticos. Mas, para ser sincero, a minha grande conquista cultural na Itália foi a leitura detalhada e meditada da \"Divina Comédia\", como sofro muito de insônia, à noite acendo a luz e leio Dante. Sabe, como disse a Fellini - que foi me buscar num carro enorme e me disse que os estrangeiros muitas vezes vêem melhor um país do que os seus filhos -, Dante era a televisão da época medieval. Como disse a Fellini, Dante explica até o \"Mammismo\" italiano, esse culto entranhamente italiano da \"Mamma\", a Mãe, a Madonna, esse quarto integrante que os italianos acrescentaram à Santíssima Trindade. No \"Paradiso\", falando dos Eleitos, Dante refere-se aos que tinham ido para o Céu para satisfazer a mãe, o pai, a família. Além disso me impressiona muito o fato de os italianos lavarem a roupa suja em público, com auto-confissões e auto-acusações francas, como os primeiros cristãos.
@@ -3242,7 +3242,7 @@ LGR - No entanto, você desde 1956, achava que a Revolução chinesa era, com a 
 
 ## Inconfundível marca diáfana, abstrata.
 
-***Jornal da Tarde* 18/12/1976**
+Jornal da Tardel; 18/12/1976
 
 Como que em surdina a poesia de Henriqueta Lisboa ressoa como um cêmbalo em um concerto barroco, a sua rarefeita beleza só audível para quem estiver atento à sua sonoridade propositalmente menor.
 
@@ -5814,7 +5814,7 @@ para casa quase nua.
 
 ## A delicada textura poética de Emílio Moura
 
-***Jornal da Tarde* 1991**
+Jornal da Tarde; 1991
 
 A sumária classificação usual na crítica inglesa entre *major poets,* poetas maiores como Shakespeare e Dante, e *minor poets*, poetas menores, como Robert Herrick e Casimiro de Abreu, não induz a considerar os "menores" como sendo de inspiração inferior: refere-se mais à abrangência da temática de um e de outro. No caso do poeta mineiro Emílio Moura, no livro em que o crítico Fábio Lucas reuniu amorosamente uma seleta de seus versos (*Poesias de Emílio Moura*), na coleção toda poesia (Art Editora, São Paulo, 1991), pode-se imaginá-lo como, em contraste com Drummond, sinfônico e universal, um cultor tímido, arisco, de árias para alaúde.
 

@@ -3,13 +3,10 @@ title: 'Menotti del Picchia: "nada me orgulha mais do que ter sido poeta"'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Menotti del Picchia: "nada me orgulha mais do que ter sido poeta"". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 28-1-1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta
 orig_publisher: 'Jornal da Tarde 28-1-1978'
 orig_date: Sem data
-
 ---
 
 Múltiplo nas atividades que desenvolveu ao longo de seus lúcidos 86 anos de idade, Paulo Menotti del Picchia resiste à especulação imobiliária que tenta em vão, transformar sua bela casa da avenida Brasil, perto da Rebouças, em São Paulo, em mais um espigão. Latinamente comovido com a inauguração do busto que fez de sua segunda esposa, a pianista Antonieta Rudge, e inaugurado há dias na Praça Portugal por autoridades paulistanas, ele mantém a par da clareza das reflexões uma ironia galhofeira, que tenciona menos ferir do que revelar o grotesco de posições que outros assumem. Democrata convicto atravessou uma fase decisiva da literatura e de toda a cultura brasileira que vai dos versos escultóricos de Olavo Bilac à ruidosa e controvertida Semana de Arte Moderna de 1922, no Teatro Municipal, da qual ele foi um dos pinoneiros menos reconhecidos. O *Jornal da Tarde* quis recolher suas memórias orais, vivíssimas, que desmistificam sem piedade, recolacando muitos nomes nos lugares prévios hoje desmentidos, mas por ele certeiramente encaixados em seus devidos contornos. Em sua casa gostosamente antiquada, o poeta-pintor-escultor-tabelião, jornalista, deputado, incentivador do cinema, concedeu esta longa entrevista a Leo Gilson Ribeiro.
@@ -145,3 +142,36 @@ Menotti del Picchia - O que mais me orgulha, o que me deixa mais satisfeito é t
 É. Tive uma vida movimentada, mas com grande alegria e deixo 60 descendentes, entre netos, bisnetos e contraparentes. Na festa que me fizeram, no Clube Pinheiros, eu disse, agradecendo a homenagem da minha família: "Eu me orgulho de todos vocês, meus netos e filhos, não porque vocês sejam inteligentes, mas porque vocês sempre agiram com dignididade".
 
  
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Menotti del Picchia: "nada me orgulha mais do que ter sido poeta"". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 28-1-1978, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Menotti del Picchia: "nada me orgulha mais do que ter sido poeta"'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta},
+    orig_publisher = {'Jornal da Tarde 28-1-1978'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Menotti del Picchia: "nada me orgulha mais do que ter sido poeta"'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios
+    PY  - 2022
+    PB  - 'Jornal da Tarde 28-1-1978'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta
+    ER  - 
+    ```

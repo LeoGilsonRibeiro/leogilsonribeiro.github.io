@@ -3,10 +3,10 @@ title: 'Introdução'
 author: Fernando Rey Puente
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/readme</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/readme
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/
+
+2022
 ---
 
 Leo Gilson Ribeiro foi certamente um dos intelectuais e críticos de literatura mais engajados em denunciar o racismo, bem como especialmente em divulgar a literatura negra - do Brasil, da América Latina, dos EUA e da África - em nosso país, mas cuja memória, infelizmente, foi acometida da mesma invisibilidade denunciada pelo personagem central de Ralph Ellison em sua importante novela *The Invisible Man*, relato este utilizado sagazmente pelo próprio Leo Gilson Ribeiro no início de uma conferência sobre a literatura negra em 1985 proferida no Centro Cultural São Paulo.
@@ -32,3 +32,32 @@ Percebe-se da leitura atenta desses textos, evidentemente circunstanciais como s
 Outro aspecto que chama a atenção e que evidencia a formação acadêmica do autor é seu pendor comparativista. Em diversos artigos, escritores e escritoras de outras literaturas são mencionados para podermos pensar melhor determinados aspectos da obra de um autor ou autora que está sob análise. Deste modo, mas sem perder a singularidade de cada artista ou sem deixar de acentuar a imensa dificuldade hermenêutica de mergulhar em outros universos literários distantes do ocidental, Leo Gilson Ribeiro procura sempre inserir uma escritora ou um escritor em um universo literário mais amplo e com isso, obviamente, somos nós, leitores de seus textos - notas, resenhas, perfis ou entrevistas - que ganhamos novas intuições e pistas que poderão - caso alguém se dê ao trabalho de segui-las e de se aprofundar nelas -- de nos levar a descobrir novos horizontes literários, bem como novas áreas de pesquisa em literatura comparada.
 
 Um sinal interessante e ao mesmo tempo triste de nossa memória cultural é que muitos dos livros comentados por Leo Gilson Ribeiro de autores africanos, e que mais recentemente foram reeditados ou traduzidos pela primeira vez, infelizmente, não fazem nenhuma menção ao nosso crítico em suas respectivas introduções. Por outro lado, muitos autores por ele citados, ainda continuam inéditos esperando alguma editora que os disponibilize em boas traduções para o público ledor brasileiro.
+
+
+=== "ABNT"
+    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Puente2022,
+    author = {PUENTE, Fernando Rey},
+    editor = {PUENTE, Fernando Rey},
+    title = {Introdução},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Puente2022
+    AU  - PUENTE, Fernando Rey
+    ED  - PUENTE, Fernando Rey
+    TI  - Introdução
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    UR  - www.leogilsonribeiro.com.br/volume-1/
+    ER  - 
+    ```

@@ -3,13 +3,10 @@ title: 'Os novos tempos de Portugal'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Os novos tempos de Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 12-12-1988, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal
 orig_publisher: 'Jornal da Tarde 12-12-1988'
 orig_date: Sem data
-
 ---
 
 João de Melo, 39 anos de idade, agita o cenário literário de Portugal com seus temas acentuadamente polêmicos sobre o holocausto nas colônias africanas de tantas consciências e talentos numa guerra absurda, ordenada pela recusa da realidade que povoava a mente da ditadura salazarista; sobre a arrogência de Lisboa, apressada em tachar de "regionalista", portanto menor, sem interesse geral, o que provém de Açores; sobre a influência fecundante do "realismo fantástico" latino-americano em suas obras principais de ficção: *Gente Feliz com Lágrimas* e *O Meu Mundo Não é deste Reino*.
@@ -23,3 +20,36 @@ João de Melo, apesar de jovem, já é autor de onze livros e crê na literatura
 Com vários de seus irmãos emigrados rumo ao Canadá, João Melo reconhece que "a gênese do (meu) livro está, mesmo, numa das minhas viagens ao Canadá, em visita aos meus irmãos. Apercebi-me da enorme necessidade que eles tinham de contar a vida deles, fruto, por um lado, do enorme isolamento que lá conhecem, e por outro, de verem em mim um confessor da família. E então dei por mim a ouvi-los falarem de sua infância, dos seus casamentos, do seu cotidiano. Um deles fe-me a proposta de gravar os depoimentos, e tenho-os todos comigo. Começou então em mim um desejo de transpor isso, com as devidas distâncias, e sem incorrer na biografia para um livro no qual eu também me incluísse, e de forma aque a história dessa famíia fosse simultaneamente a história de um tempo português. *Gente Feliz com Lágrimas* creio que é isso: a história de uma família que faz ela própria o percurso e a leitura de um tempo português... Nunca me custou tanto escrever um livro como este. Dei por mim, por vezes, a fazer vinte versões do mesmo capítulo e sempre descontente com o produto final. O problema era a fuga do universo pessoal para o universo geral, para a captação do universo interior de um tempo português, que é um tempo disperso. Há coisas nele que ainda não aconteceram e por isso ele poderá ter também uma dimensão futura".
 
 Em seu último livro, ele acentua principalmente o valor de uma "viagem interior", onde a cronologia não existe para completar seu depoimento sobre a criação: "... As personagens são mais intemporais, desdobrando-se por uma amplitude temporal de quinhentos anos, há assim a ideia de um transporte, de um acumular de experiência que é transportada pelas mesmas pessoas, o que muda não são elas, mas o acumular de experiência dentro delas. Esta é a proposta fantástica do livro".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Os novos tempos de Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 12-12-1988, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Os novos tempos de Portugal'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal},
+    orig_publisher = {'Jornal da Tarde 12-12-1988'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Os novos tempos de Portugal'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 12-12-1988'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal
+    ER  - 
+    ```

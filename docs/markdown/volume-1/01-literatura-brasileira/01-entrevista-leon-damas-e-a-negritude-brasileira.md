@@ -3,13 +3,10 @@ title: 'Entrevista - León Damas e a Negritude brasileira'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista - León Damas e a Negritude brasileira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã, 1965/04/03. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/01-entrevista-leon-damas-e-a-negritude-brasileira</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/01-entrevista-leon-damas-e-a-negritude-brasileira
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/01-entrevista-leon-damas-e-a-negritude-brasileira
 orig_publisher: 'Correio da Manhã'
 orig_date: 1965/04/03
-
 ---
 
 O poeta León Damas, da Guiana Francesa, que constituíra com Césaire, da Martinica e Senghor, hoje presidente do Senegal, o triângulo sobre o qual se baseia o movimento da *Négritude*, encontra-se pela segunda vez no Brasil. Na sua sala de estudos de um apartamento em Copacabana ele nos recebe com grande afabilidade, cercado de livros brasileiros e, bem à mão, um dicionário francês-português. Veio pesquisar, com uma bolsa de estudos, a contribuição do homem de cor à literatura brasileira e faz questão de ressaltar, logo de início, a cooperação que vem tendo do diretor da Biblioteca Nacional e o valor da obra de Antônio Olinto sobre os *Brasileiros na África*. A busca de uma identidade autônoma por parte dos negros, que assume características de um movimento de reivindicações civis nos Estados Unidos adquiriu entre os intelectuais negros de formação francesa uma diretriz nitidamente cultural. Entre nós, o poeta Damas reconheceu imediatamente que a contribuição do negro não se limitava à literatura, extravasando-se na música, no *folklore*, na linguagem.
@@ -29,3 +26,36 @@ Para o poeta, que já foi deputado, há uma estreita vinculação entre moviment
 > "Quando digo que os negros são a raça que menos se poder acusar de ódio não vejo uma contradição a essa afirmação na existência dos "muçulmanos negros" (*black Muslims*) dos Estados Unidos, que pregam a destruição violenta da raça branca. Nos EUA a situação do negro é *sui generis*. Se os Estados Unidos tivessem tido colônias africanas como a França, a Inglaterra, Portugal, teriam resolvido de forma diferente o seu problema. Mas lá o que acontece é que o negro cria, dentro da própria metrópole, não na África distante, uma concorrência econômica e sexual ao homem branco. Esta concorrência, creio, é acentuada no Sul dos Estados Unidos (que defende uma situação que foi alterada com uma Guerra de Secessão) e também entre os imigrantes europeus. Segundo eu vejo a situação americana, são os imigrantes de recente integração americana que fazem mais oposição ao negro, ao passo que aqui no Brasil a lei que limitou severamente a imigração, no período de Getúlio Vargas, veio acelerar a formação de uma nacionalidade homogênea e compacta, eliminando o preconceito racial e permitindo a formação de uma sociedade multi-racial harmônica."
 
 Despedimo-nos do poeta artífice do movimento da *Négritude* enquanto ele se volta para os microfilmes tirados, na Biblioteca Nacional, dos escritores brasileiros e de seus antepassados. Sua atenção se detinha justamente na mãe de Castro Alves, na qual ele crê reconhecer traços de uma mestiça, justificando assim a eloquência veemente do "Navio Negreiro", partida de uma revolta emocional e intensamente pessoal. León Damas elabora uma obra sobre a contribuição do negro à cultura brasileira, focalizando um aspecto ainda não explorado da cultura que é do nosso País e dos seus ancestrais.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Entrevista - León Damas e a Negritude brasileira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã, 1965/04/03. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/01-entrevista-leon-damas-e-a-negritude-brasileira</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Entrevista - León Damas e a Negritude brasileira'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/01-entrevista-leon-damas-e-a-negritude-brasileira},
+    orig_publisher = {'Correio da Manhã'},
+    orig_date = {orig_date: 1965/04/03}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Entrevista - León Damas e a Negritude brasileira'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Correio da Manhã'
+    Y1  - orig_date: 1965/04/03
+    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/01-entrevista-leon-damas-e-a-negritude-brasileira
+    ER  - 
+    ```

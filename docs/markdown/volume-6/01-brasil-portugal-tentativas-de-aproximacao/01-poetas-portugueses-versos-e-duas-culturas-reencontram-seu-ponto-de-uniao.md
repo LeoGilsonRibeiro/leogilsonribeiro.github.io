@@ -3,13 +3,10 @@ title: 'Poetas portugueses. Versos e duas culturas reencontram seu ponto de uni�
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Poetas portugueses. Versos e duas culturas reencontram seu ponto de união". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-01-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/01-poetas-portugueses-versos-e-duas-culturas-reencontram-seu-ponto-de-uniao</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/01-poetas-portugueses-versos-e-duas-culturas-reencontram-seu-ponto-de-uniao
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/01-poetas-portugueses-versos-e-duas-culturas-reencontram-seu-ponto-de-uniao
 orig_publisher: 'Jornal da Tarde 29-01-1983'
 orig_date: Sem data
-
 ---
 
 Dentre os vários malefícios de que padece o Brasil moderno há um que se salienta enormemente dos demais. É facilmente verificável: a partir da independência *política* de Portugal, o Brasil afastou-se, com raras ferocidade, estupidez e eficácia, da *cultura* e da *inteligência* portuguesas. Exacerbado, um nacionalismo estreito como que *condenou* a literatura de Portugal a um exílio que do Romantismo em diante tornou as duas nações de língua idêntica quase que totalmente *desconhecidas* uma da outra.
@@ -851,3 +848,36 @@ Dói-me no que desejo, e vem bater
 Como uma onda de enconrtro à minha dor...
 
 Algumas obras, ainda, como exprimem coisas fundamentais da mentalidade de seu país, ou da civilização a que ele pertence, duram tanto quanto dura aquela civilização: essas alcançam a idade adulta da glória univeral. Mas outras duram além da civilização, cujos sentimentos expressam. Essas atingem aquela maturidade de vida que é tão mortal como os deuses, que começam mas não acabam, como acontece com o tempo; e estão sujeitas apenas ao mistério final que o Destino encobre para todo o sempre..."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Poetas portugueses. Versos e duas culturas reencontram seu ponto de união". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-01-1983, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/01-poetas-portugueses-versos-e-duas-culturas-reencontram-seu-ponto-de-uniao</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Poetas portugueses. Versos e duas culturas reencontram seu ponto de união'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/01-poetas-portugueses-versos-e-duas-culturas-reencontram-seu-ponto-de-uniao},
+    orig_publisher = {'Jornal da Tarde 29-01-1983'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Poetas portugueses. Versos e duas culturas reencontram seu ponto de união'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 29-01-1983'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/01-poetas-portugueses-versos-e-duas-culturas-reencontram-seu-ponto-de-uniao
+    ER  - 
+    ```

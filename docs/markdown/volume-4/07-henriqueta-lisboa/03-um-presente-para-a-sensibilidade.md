@@ -3,13 +3,10 @@ title: 'Um presente para a sensibilidade'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Um presente para a sensibilidade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 16-09-1989, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade
 orig_publisher: 'Jornal da Tarde 16-09-1989'
 orig_date: Sem data
-
 ---
 
 Neste Brasil de hoje, o comércio, a indústria, as gentes não foram avisadas. O Natal chegou em Setembro. A reunião de 30 anos de coesa poesia de Marly de Oliveira comprova abundantemente: será difícil encontrar um presente de Natal mais belo e mais profundo para a sensibilidade brasileira do que ler e possuir estas 457 páginas de poemas.
@@ -191,3 +188,36 @@ E:
 mais vasto quando nada se busca"
 
 Haveria reparos a fazer, sobre a desigualdade das coletâneas aqui enfeixadas ("Viagem a Portugal", por exemplo, poderia e deveria ser extirpada do todo, melhorando-o, sobre frases a serem possivelmente refeitas a respeito de viagens a paisagens clássicas e cotejos entre os escultores Praxíteles e Miguel Ângelo e que são comparações que têm seu lugar numa carta a amigos distantes ou num diário. A verdade porém é insofismável: Marly de Oliveira, nesta *Obra Poética Reunida*, consolida sua decisiva importância, fina, sutil, melodiosa, profunda culta, dentro da melhor e mais admirável poesia que se faz he em nossa língua.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Um presente para a sensibilidade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 16-09-1989, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Um presente para a sensibilidade'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade},
+    orig_publisher = {'Jornal da Tarde 16-09-1989'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Um presente para a sensibilidade'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde 16-09-1989'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade
+    ER  - 
+    ```

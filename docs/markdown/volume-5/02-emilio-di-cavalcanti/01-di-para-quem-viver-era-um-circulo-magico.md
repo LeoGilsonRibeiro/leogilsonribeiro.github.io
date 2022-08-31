@@ -3,13 +3,10 @@ title: 'Di, para quem viver era um círculo mágico'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Di, para quem viver era um círculo mágico". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Corrio do Povo, Caderno de Sábado 30-10-1976, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico
 orig_publisher: 'Corrio do Povo, Caderno de Sábado 30-10-1976'
 orig_date: Sem data
-
 ---
 
 No momento em que Porto Alegre fazia uma seresta para seu maior poeta, Mário Quintana, com um coro de que participavam Lygia Fagundes Telles, Remy Gorga, João Antônio, Rubens Fonseca e outros participantes do encontro literário da Cultura, vinha a notícia fulminante que ensombreou todos os rostos: acabava e morrer, no Rio de Janeiro, Di Cavalcanti.
@@ -29,3 +26,36 @@ Sem pose, sem veleidades idiotas, sem vaidades, Di era a sua maior obra: o menin
 O passado, para este homem que execrava a barbárie, era uma paisagem arquitetônica também, era o ponto de referência da memória e portanto a segurança de uma continuidade vital. Queria conservar um Brasil quase bucólico, imtimista, que o "progresso avassalador" destruia dia a dia. Di morreu junto com tudo o que le simbolizava e que agora ficou disperso, flama que nenhum atleta da moral recolheu ainda: a tocha do bom caráter, a insissolubilidade entre artista e ser humano reto que Érico Veríssimo sombolizara sempre aqui no Sul e Di simbolizou no Rio. Ele morreu junto com o pudor, com o horror à autopromoção, ao cabotismo oco, estilhaçou-se com ele a fé no ser humano e na sua bondade natural. Di morreu vítima menos da obesidade do corpo do que de uma magreza de Dom Qixote interior, Di, aquela encarnação do Fidalgo magérrimo e da Triste Figura metamorfoseado num corpo teluricamente alegre de Sancho Pança, glutão e lúbrico, brincalhão e vastamente humano. Morreu mais um sinal de que o Brasil está se tornando um deserto: quem virá ocupar o seu lugar de dignidade e integridade agora que uma geração indecisa, tímida, ainda nao se forjou e a geração de transição faz só isso: transita?
 
 Mas como para o poeta que ele amava, "tardará muito em nascer um andaluz" tão querubínico na sa auréola de inocência mulata, parisiense, cosmopolita, brasileira. Felizmente que, como a Irene de Manuel Bandeira, ele nem precisa pedir licença para entrar no Céu. A esta hora deve estar discutindo com Fra Angélico se o Inferno existe e se, na realidade, as tintas modernas são superiores às antigas. Calemo-nos: conversam os dois, poetas e pintores, um santo e outro em processo de beatificação, os dois no Paraíso que pregou a útima peça a Di Cavalcanti, provando que tanto existe que o Di está para sempre nele.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Di, para quem viver era um círculo mágico". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Corrio do Povo, Caderno de Sábado 30-10-1976, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Di, para quem viver era um círculo mágico'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico},
+    orig_publisher = {'Corrio do Povo, Caderno de Sábado 30-10-1976'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Di, para quem viver era um círculo mágico'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios
+    PY  - 2022
+    PB  - 'Corrio do Povo, Caderno de Sábado 30-10-1976'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico
+    ER  - 
+    ```

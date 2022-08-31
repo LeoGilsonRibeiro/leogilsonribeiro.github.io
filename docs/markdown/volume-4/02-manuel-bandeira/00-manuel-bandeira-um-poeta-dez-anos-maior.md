@@ -3,13 +3,10 @@ title: 'Manuel Bandeira, um poeta dez anos maior'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Manuel Bandeira, um poeta dez anos maior". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior
-orig_publisher: 'Jornal da Tarde, 1978'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior
+orig_publisher: 'Jornal da Tarde'
+orig_date: 1978
 ---
 
 A poesia de Manuel Bandeira, vista dez anos após sua morte, desmistifica a noção de "poeta menor" em que ele próprio se tinha, com modéstia raríssima no Brasil. Derivada da crítica inglesa, essa classificação hierárquica de *major poet* e *minor poet* revela-se claramente insuficiente para rotular a criação poética: há, de fato, poetas que traçam um painel versátil, profundo e vastíssimo do ser humano, como Dante e a dimensão moral e religiosa do homem; Shakespeare e a musicalidade do verso aliada à pintura da ambição pelo poder, à violência dos sentimentos humanos corporificados na credulidade do passional Otelo, na arrogância senil do Rei Lear. E há poetas que nada têm de "menores": são poetas de produção menos vasta, mais miniaturesca mas nem por isso inferior em grandeza. A percepção geral da poesia de Manuel Bandeira que perdura, numa releitura, decorridos esses dez anos, é a de um poeta de grandes momentos de efusão despojada do sentimentalismo brasileiro: e por compor predominantemente para piano, por acaso Chopin e Schumann são "menores"?
@@ -313,3 +310,36 @@ Foi o único vaticínio errado do poeta. Seu nome e seu sulco vincaram indelevel
 "Eu positivamente não gosto de mim. Mas eles acabarão gostando: sei, por experiência, que no Brasil todo sujeito inteligente acaba gostando de mim".
 
 Para o poeta dos *pianissimi* da percepção intelectual, para o poeta que buscava apaixonadamente "a estrela da manhã", não se cumpriu o desejo - entre tantos outros negados - de um desaparecimento completo de seu nome e da sua memória. Sua tese de desfaz na antítese de que a inteligência e a sensibilidade brasileiras o iriam descobrindo a amando à medida que o conhecessem e, acrescentemos, o Brasil se civilizasse: ele próprio já era a síntese de um Brasil superior e imperecível.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Manuel Bandeira, um poeta dez anos maior". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 1978. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Manuel Bandeira, um poeta dez anos maior'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1978}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Manuel Bandeira, um poeta dez anos maior'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1978
+    UR  - www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior
+    ER  - 
+    ```

@@ -3,18 +3,15 @@ title: 'Revolução Estética da Arte Moderna'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Revolução Estética da Arte Moderna". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Desconhecido, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/01-revolucao-estetica-da-arte-moderna/readme</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/01-revolucao-estetica-da-arte-moderna/readme
-orig_publisher: 'Desconhecido'
-orig_date: Sem data
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-3/01-revolucao-estetica-da-arte-moderna/
+
 
 ---
 
-*Correio da Manhã*, 9 de Novembro de 1965
+*Correio da Manhã*; 1965/11/09
 
-### A dicotomia do mundo contemporâneo 
+### A dicotomia do mundo contemporâneo
 
 O mundo do século XX sobre de uma ambivalência dissonante e fundamental. Por um lado, as comunicações cada vez mais rápidas entre os países e breve entre os planetas tornam a Terra realmente uma e homogênica, confrimando a teoria de Toynbee, o grande historiador inglês contemporâneo, da formação de um governo mundial futuro, num mundo sem fronteiras nacionais. Nações e continentes inteiros unem-se através de mercados comuns, de pactos militares e depois da magnífica obra de aproximação ecumênica do Papa João XXIII, as religiões principiam um diálogo inédito, fortalecido com a viagem do Papa Paulo VI à Palestina e à Índia. Por outro lado, porém, o mundo está cindido entre duas ideologias e dois imperialismos agressivos, cindido entre o período anterior e o posterior ao advento da bomba atômica.
 
@@ -45,3 +42,32 @@ O que houve então que determinasse essa ruptura, esse divórcio crescente e que
 Logo confirmada por Brecht, ao defender veemente e ironicamente sua peça *Lukullus*, contra os censores da *Kultura* stalinista intransigente, essa autonomia do artista criador seria proclamada de forma radical por Baudelaire, que aprofundando deliberadamente o abismo entre o leitor (compreende-se: o leitor sem imaginação nem sensibilidade poética) e o poeta, costumava declarar desafiadoramente:
 
 "*Il y a une certaine gloire à n'être pas compris*" ("Há uma certa glória em não ser compreendido.")
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Revolução Estética da Arte Moderna". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/01-revolucao-estetica-da-arte-moderna/</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {Revolução Estética da Arte Moderna},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-3/01-revolucao-estetica-da-arte-moderna/}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - Revolução Estética da Arte Moderna
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
+    PY  - 2022
+    UR  - www.leogilsonribeiro.com.br/volume-3/01-revolucao-estetica-da-arte-moderna/
+    ER  - 
+    ```

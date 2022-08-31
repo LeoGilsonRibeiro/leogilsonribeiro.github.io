@@ -3,13 +3,10 @@ title: 'Entrevista - Toni Morrison e os negros da América'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista - Toni Morrison e os negros da América". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1990/11/08. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/06-entrevista-toni-morrison-e-os-negros-da-america</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/06-entrevista-toni-morrison-e-os-negros-da-america
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/06-entrevista-toni-morrison-e-os-negros-da-america
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1990/11/08
-
 ---
 
 Na realidade, o amor que eu sentia pela extraordinária escritora de cor, a norte-americana Toni Morrison, já vinha entre cada linha e cada fala de seus personagens em livros líricos, nada ortodoxos, vibrantes como *Tar Baby*, *Song of Solomon* e *Beloved*. A incendiária e controvertida entrevista que dera em duas páginas à revista *Time* em 1989 dividira os EUA entre os que a defendiam e os que a achavam exagerada. 300 anos de escravidão a incitavam a escrever sobre seu povo, menos do que com a pesquisa, mais com a imaginação poética e uma sutilíssima sensibilidade. Há trechos da revolucionária prosa de Toni Morrison que têm o mesmo impacto das canções plangentes de Billy Holliday, em sua voz toda tristeza e abandono.
@@ -39,3 +36,36 @@ Pergunto sobre a naturalidade com que as comunidades negras, em seus livros, fal
 Outra característica extraordinária de Toni Morrison, como escritora, que ela compartilha com Ishmael Reed, é seu propósito de capturar todo um mundo oral, um mundo de sons emitidos por negros, um folklore negro. Mas ela gostaria de um dia escrever um livro em que não tivesse que identificar protagonistas por sua cor de epiderme. Duas vezes já, acredita, conseguiu isso em *Beloved* (*Amada*), quando há cenas, não importa se curtas, em que o leitor não pode distinguir se se trata de brancos ou pretos. Quando ela confirma minhas suspeitas de que os brancos são vistos, genericamente, como estúpidos e claramente insensíveis em seus romances, ela se apressa em corrigir: os brancos que se "protegem" do mundo usando o fato de serem brancos como escudo e como justificativa para qualquer coisa que façam, esses são os brancos que lhe parecem inferiores. "Porque, realmente, ver tudo sob um prisma racista significa aceitar um mundo mais estreito, mais pobre, menos variado. Os seres *humanos*, pessoas que são *gente* e não apenas a cor de sua pele, não são racistas. De todos os livros que já li -- e são muitos, muitos mesmo -- *nunca* deparei com uma cena em que uma personagem branca toca numa personagem negra a não ser por meio do estupro ou da violência, *nunca*, acredita? É um sentimento geral dos europeus, discriminar outras raças, você tem razão: mesmo na Rússia e em outros países eslavos, o horror ao negro é patente: mesmo que os negros estejam lá só para estudar em faculdades, não estão disputando empregos com os brancos, no entanto, o preconceito europeu parece estar sempre presente e onipresente.
 
 Ah, sim, os árabes parecem que partilham esse sentimento: não decididamente, o preconceito racial não foi inventado em nossos países! "Há um livro extraordinário de Orlando Patterson chamado *Slavery and Social Death*, em que ele vai às fontes da escravidão em todas as regiões e épocas e chega à conclusão de que não há ninguém que não descenda de escravos". É verdade, lembro, a antropologia contemporânea fala de uma mãe universal, negra, africana, mãe dos mais louros escandinavos e até de Hitler\... E mesmo a majestosa Constituição dos Estados Unidos ignorou o *status* dos negros, dos índios: eles teriam alma? Seriam seres inteiramente humanos? "É, o Iluminismo e o racismo surgiram juntos, eis outra contradição da condição humana, Toni Morrison observa, prosseguindo: temos, *é indispensável* que mudemos isso antes da possível guerra no Iraque, sei lá, nos levar de roldão a todos pelos ares". E concorda comigo quando aos livros escolares e às leis anti-racistas acrescento o amor: "Realmente, o amor humano, embora não possamos legislar o coração. São os três elementos necessários além de eliminarmos o trauma de *todos* os preconceitos, não só o racismo. A literatura, a arte, têm poder, por isso estiveram sempre vigiadas por regimes totalitários, por puritanismos, pela censura. Mas mesmo que dure gerações e gerações, é imperativo mudarmos o mundo".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Entrevista - Toni Morrison e os negros da América". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1990/11/08. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/06-entrevista-toni-morrison-e-os-negros-da-america</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Entrevista - Toni Morrison e os negros da América'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/06-entrevista-toni-morrison-e-os-negros-da-america},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1990/11/08}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Entrevista - Toni Morrison e os negros da América'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1990/11/08
+    UR  - www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/06-entrevista-toni-morrison-e-os-negros-da-america
+    ER  - 
+    ```

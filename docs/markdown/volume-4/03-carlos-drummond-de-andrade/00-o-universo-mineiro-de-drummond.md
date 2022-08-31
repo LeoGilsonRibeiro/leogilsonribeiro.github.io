@@ -3,13 +3,10 @@ title: 'O universo mineiro de Drummond'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "O universo mineiro de Drummond". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 18-06-1969, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/03-carlos-drummond-de-andrade/00-o-universo-mineiro-de-drummond</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/03-carlos-drummond-de-andrade/00-o-universo-mineiro-de-drummond
-orig_publisher: 'Jornal da Tarde 18-06-1969'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/00-o-universo-mineiro-de-drummond
+orig_publisher: 'Jornal da Tarde'
+orig_date: 18/06/1969
 ---
 
 O grande público só conhece os poemas-sensação de Carlos Drummond de Andrade. Espantando a classe média pelo seu tom de enigma, ou de galhofa, seu primeiro livro *Alguma Poesia*, publicado na Belo Horizonte de 1930, parecia uma zombaria para o público acostumado só com o soneto parnasiano que falava de "formas ebúrneas" ou como delírio verboso-carnal J. G. de Araújo Jorge. Pois podia ser poesia um poema que em certo trecho dizia:
@@ -105,3 +102,36 @@ Sombra autobiográfica da fisionomia interior do poeta, seus trabalhos em prosa 
 A audácia é um traço compartilhado elo prosador e pelo poeta: se um inova com recursos gráficos do concretismo e um vocabulário múltiplo, tirado de ciências exatas ou de línguas indígenas ou africanas, o outro ousa renovar a crônica de forma surpreendente. Aproveitando um Dia de Finados, em vez de optar por um comentário de lamúrias. Carlos Drummond de Andrade dedica um texto elegíaco, de grave e solene beleza, aos cadáveres anônimos que botam no rio Guandu, antes de serem devorados pelos urubus: os restos macabros de suicidas, de indigentes ou de vítimas do Esquadrão da Morte, "garrafinhas chamam-se eles, os trucidados com chumbo aos pés... mortos sem sepultura e sem lembrança. Trágicos e apagados, deslizantes na correnteza. Passageiros do Guandu, apenas e afinal."
 
 Os ofícios do jornalista e do escrtitor, muitas vezes confluem: "Em suma, o jornalismo é uma escola de clareza de linguagem, que exige antes a clareza do pensamento... Não admite a preguiça, que é o mal do literato entregue a si mesmo. Há páginas de jornal que são dos mais belos textos literários. E nenhum escritor os faria se não tivesse obrigação jornalística". Há dessemelhanças nítidas, porém, entre a lenta elaboração lírica e a pontualidade mecânica imposta pela imprensa diária. Ainda que de forma oblíqua, arisca, é nos poemas que ele se confessa mais fundamente: o calendário de Mariana que punha em fila ordeira e inteligível os dias dos santos, as colheitas e até a hora da morte, o hotel avenida em demolição são o passado fisicamente desfeito, mas na lembrança significam o regresso, a perenidade da memória: o poeta permanecerá sempre o hóspede secreto de si mesmo. Prosa e poesia se encontram, no entanto, na fidelidade de Carlos Drummond de Andrade a si mesmo em seus 75 anos de idade. O seu percurso intelectual abrangeu város matizes de expressão mas a sua perspectiva ética e filosófica permaneceu intacta, impoluta diante do brilhareco da *vanitas* mundana, lantejoulas de uma gloríola que se desfaz. Ambos, poeta e cronista, pedem humildemente desculpas por sobreviver, compartilham com o leitor de um tempo e um espaço efêmeros, à espera da morte. Essa antevéspera do Nada deve ser aceita com uma alegria e com uma soledariedade que são os únicos elementos capazes de dar um sentido ao *nonsense* da vida. A vida em si é o ritual, a esperana, o altar, o motivo de celebração exultante: "Já é de seu conhecimento, há muitas centenas de meses, que lhe cabe assistir a um espetáculo de que você, ao mesmo tempo, é comparsa mínimo. Espectador dos outros e de si mesmo: curiosa situação, né? a de tanta gente. Nem exceção você é. Não se envaideça. Não se melancolize... Experimente (sempre) viver".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "O universo mineiro de Drummond". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 18/06/1969. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/00-o-universo-mineiro-de-drummond</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'O universo mineiro de Drummond'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/00-o-universo-mineiro-de-drummond},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 18/06/1969}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'O universo mineiro de Drummond'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 18/06/1969
+    UR  - www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/00-o-universo-mineiro-de-drummond
+    ER  - 
+    ```

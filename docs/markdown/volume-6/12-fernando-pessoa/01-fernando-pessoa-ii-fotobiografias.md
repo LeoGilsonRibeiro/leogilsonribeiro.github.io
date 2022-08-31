@@ -3,13 +3,10 @@ title: 'Fernando Pessoa II: Fotobiografias'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Fernando Pessoa II: Fotobiografias". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 09-01-1982, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias
 orig_publisher: 'Jornal da Tarde 09-01-1982'
 orig_date: Sem data
-
 ---
 
 Além do pavor que tinha das trovoadas, Fernando Pessoa até em cartas consignara sua "embirração por tirar retratos". A uma de suas tias, ele tipicamente oferece "esta provisória representação visível de si próprio". Sentindo uma profunda relutância em entrar em lugares desconhecidos, o poeta que escandalizou a provinciana Lisboa de sua época (1888-1935) deixou, nos arquivos de jornais, em velhos baús de tias e na Biblioteca da Câmara Municipal de Lisboa uma vasta coleção de retratos que o acompanham quase que por toda a vida. Agora, Maria José de Lancastre, estudiosa de Pessoa e professora de literatura portuguesa na Itália, reúne numa original *Fotobiografia* instantâneos e textos do grande poeta de *Mensagem*, num lançamento da Imprensa Nacional, de Portugal, com apoio do Centro de Estudos Pessoanos do Porto.
@@ -329,3 +326,36 @@ Despem-te e deixam-te nu.
 Não tens vestes, não tens nada:
 
 Tens só teu corpo, que és tu."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Fernando Pessoa II: Fotobiografias". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 09-01-1982, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Fernando Pessoa II: Fotobiografias'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias},
+    orig_publisher = {'Jornal da Tarde 09-01-1982'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Fernando Pessoa II: Fotobiografias'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 09-01-1982'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias
+    ER  - 
+    ```

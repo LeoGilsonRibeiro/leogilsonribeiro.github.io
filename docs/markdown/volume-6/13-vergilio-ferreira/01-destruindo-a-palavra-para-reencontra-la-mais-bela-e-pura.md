@@ -3,13 +3,10 @@ title: 'Destruindo a palavra. Para reencontrá-la mais bela e pura'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Destruindo a palavra. Para reencontrá-la mais bela e pura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-06-1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura
 orig_publisher: 'Jornal da Tarde 29-06-1985'
 orig_date: Sem data
-
 ---
 
 Talvez nunca se tenha escrito antes um livro em que o artista investe contra a palavra. Escarnece dos limites da palavra. Corrói a palavra até deixá-la mera crosta do nada. Esse livro existe agora. Lembra uma penosa angústia em que o pintor pinta incessantemente para demonstrar que o desenho, as cores e a forma jamais exprimem o que não se pode exprimir, e descrê, usando-as das suas próprias ferramentas.
@@ -39,3 +36,36 @@ Seria impossível citar sequer metade das desmistificações da palavra que o ro
 "Estou só - estás só. Não penses. Não fales. És em ti apenas o máximo de ti. Qualquer coisa mais alta do que tu te assumiu e rejeitou como a árvore que se poda para crescer. Que dá pensares-te o ramo que se suprimiu? A árvore existe e continua para fora da tua acidentalidade suprimida. O que te distingue e oprime é o pensamento que a pedra não tem para se executar como pedra. E as estrelas, e os animais. Funda aí a tua grandeza se quiseres, mas que reconheças e aceites a grandeza que te excede. Há uma palavra qualquer que deve poder dizer isso, não a sabes? - e por que queres sabê-la? É a palavra que conhece o mistério e que o mistério conhece - não é tua. De ti é apenas o silêncio sem mais e o eco de uma música em que ele se reabsorva. Pensa-o ardentemene, profundamente, absolutamente. Não és grande, terás apenas a mania das grandezas? Como querer igualar-te ao imenso e imperscrutável? O dia acaba devagar. Assume-o e aceita-o. É a palavra final, a da aceitação. Só os loucos e os iludidos a não sabem. Não sou louco. Não são horas da ilusão. Vou fechar a varanda. Tenho de ir avisar a Deolinda. É uma tarde quente de Agosto, ainda não arrefeceu. Pensa com a grandeza que pode haver na humildade. Pensa. Profundamente, serenamente. Aqui estou. Na casa grande e deserta. Para sempre".
 
 Vergílio Ferreira, neste que nos parece o seu livro mais perfeito, mais abissal, mais sitiado pelo horror de ser e pela coragem de assumir essa dualidade em meio a iluminações efêmeras de êxtase. Em meio à imobilidade silente de tudo, Vergílio Ferreira interpreta, encarna, melhor dito, a funda, a talvez insanável melancolia portuguesa que impregna toda essa literatura esplêndida, não reconhecida em sua grandeza que nada tem de feérica mas guarda toda a perenidade de uma epifania interior. Se ele comunga conosco na nossa dispensabilidade como seres inúteis e fantasiosamente inchados de soberba, este livro paradoxalmente nos incute coragem - a estoica coragem ibérica nascida com Sêneca e continuada nas viagens marítimas que ansiavam por novos mundos. Na impotência da palavra se consigna, paradoxalmente, o vigor da palavra nas mãos de um escritor que atinge o ápice de sua criação, em sua suprema e portanto inenarrável obra-prima. Para sempre.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Destruindo a palavra. Para reencontrá-la mais bela e pura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-06-1985, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Destruindo a palavra. Para reencontrá-la mais bela e pura'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura},
+    orig_publisher = {'Jornal da Tarde 29-06-1985'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Destruindo a palavra. Para reencontrá-la mais bela e pura'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 29-06-1985'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura
+    ER  - 
+    ```

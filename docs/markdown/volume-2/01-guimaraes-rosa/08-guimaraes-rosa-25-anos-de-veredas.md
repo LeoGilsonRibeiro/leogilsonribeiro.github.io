@@ -3,13 +3,10 @@ title: 'Guimarães Rosa 25 anos de veredas'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Guimarães Rosa 25 anos de veredas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 13-6-1981, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/08-guimaraes-rosa-25-anos-de-veredas</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/08-guimaraes-rosa-25-anos-de-veredas
-orig_publisher: 'LGR JT 13-6-1981'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/08-guimaraes-rosa-25-anos-de-veredas
+orig_publisher: 'Jornal da Tarde'
+orig_date: 13/6/1981
 ---
 
 Nunca, no Brasil, ninguém ousara tanto. Pois não é que naquele calmo ano de 1946, apeado o ditador Getúlio Vargas de seu trono absolutista e vencidos os nazi-fascistas na Europa e no Pacífico, um desconhecido ousava começar um livro de título já complicado, *Sagarana*, com a descrição minuciosa de uma carga de bois no interior de Minas Gerais sendo embarcados nos trens rumo aos matadouros?
@@ -101,3 +98,36 @@ Vinte e cinco anos depois da sua publicação, *Grande Sertão: Veredas* ultrapa
 Fora os raríssimos momentos em que o bom gosto cede ao mal gosto, na feitura de algumas palavras, Guimarães Rosa continua sendo o Grande Bruxo da literatura brasileira, não o mero artesão de novas palavras, mas um Mestre insuspeitado de uma cabalística que se espraia concomitantemente nos terrenos da interpretação filológica, linguística, simbólica, estética, filosófica, metafísica, poética, ocultista. Barroca como um trecho virgem da floresta amazônica, culta em seu domínio de várias culturas estrangeiras e autóctones, um repto difícil, mas compensador, esta orquestração deslumbrante de palavras, termos, encantamentos, permanece como a mais ousada e também a mais vitoriosa incursão da língua portuguesa, transplantada para o Brasil e enriquecida de noções africanas e indígenas, ao traçar um retrato verídico do próprio Brasil e seus contrastes étnicos, sócio-econômmicos, políticos e culturais.
 
 *Grande Sertão: Veredas* é um caleidoscópio que muda de geração para geração quanto à sua interpretação do Brasil: mas, sempre prismática, é uma obra-prima que desafia o leitor e o enriquece, aprofundando sua concepção do Brasil, da vida, da morte, do sofrimento, a cada leitura. Nas suas guerras, calmarias, horrores, abismos, está cifrada toda uma rapsódia do Brasil: múltiplo em suas faces, transcendente em sua representação microscósmica de um infinito maior que palpita em cada uma de suas páginas mágicas.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Guimarães Rosa 25 anos de veredas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 13/6/1981. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/08-guimaraes-rosa-25-anos-de-veredas</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Guimarães Rosa 25 anos de veredas'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/08-guimaraes-rosa-25-anos-de-veredas},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 13/6/1981}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Guimarães Rosa 25 anos de veredas'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 13/6/1981
+    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/08-guimaraes-rosa-25-anos-de-veredas
+    ER  - 
+    ```

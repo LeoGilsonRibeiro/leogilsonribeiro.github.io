@@ -3,13 +3,10 @@ title: 'Entrevista com João Gaspar Simões: o poeta e a humanidade'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista com João Gaspar Simões: o poeta e a humanidade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 30-11-1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade
 orig_publisher: 'Jornal da Tarde 30-11-1985'
 orig_date: Sem data
-
 ---
 
 Sem nenhuma farpa de ironia ou de exagero, o mais erudito e profundo crítico de literatura em Portugal, o professor João Gaspar Simões, é como que o Evangelista maior do supremo gênio poético aparecido em nossa língua, Fernando Pessoa. É impensável iniciar-se em Fernando Pessoa sem o apoio certeiro, seguro, profícuo da magnifica *Vida e Obra de Fernando Pessoa* que João Gaspar Simões lhe dedicou.
@@ -159,3 +156,36 @@ E faz as pazes com Portugal, por assim dizer?
 Ao passo que Fernando Pessoa, mesmo verificando a mediocridade circundante acreditava também num mito, numa mitificação de Portugal, não?
 
 "Ah, sim, para ele, Portugal, era alguma coisa que se realizaria na intemporalidade. E dou graças a Deus por ele ter decidido a tempo escrever em português, porque estou convencido de que se tivesse decidido a ser em inglês nao seria o grande poeta que foi. Se tivesse optado por ser romancista, talvez conseguisse sê-lo e bem, em inglês. Mas a poesia é intraduzível, veja os poetas bilíngues e em espanhol, Gil Vicente, Sá de Miranda e outros mais: os próprios espanhóis quando queriam, até o século XIV, escrever poesia o faziam em galaico-português. Quando Fernando Pessoa identificou na língua portuguesa a pátria, assumiu também o fardo do destino português, de um lirismo e de uma tristeza que nos aprisionam para sempre, talvez."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Entrevista com João Gaspar Simões: o poeta e a humanidade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 30-11-1985, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Entrevista com João Gaspar Simões: o poeta e a humanidade'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade},
+    orig_publisher = {'Jornal da Tarde 30-11-1985'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Entrevista com João Gaspar Simões: o poeta e a humanidade'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 30-11-1985'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade
+    ER  - 
+    ```

@@ -3,13 +3,10 @@ title: 'A silenciosa revolução de Clarice'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A silenciosa revolução de Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 12-12-1987, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice
-orig_publisher: 'Jornal da Tarde 12-12-1987'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice
+orig_publisher: 'Jornal da Tarde'
+orig_date: 12/12/1987
 ---
 
 A criação literária de Clarice Lispector soava como alguém que insistisse em tocar um *Impromptu* de Schubert em meio a um comício: o plano abafado pelas palavras de ordem dos partidos políticos a se esgoelarem na praça. A princípio, alguns que se julgavam sábios meneavam a cabeça, céticos: "É uma impostora". Outros duvidavam de forma menos hostil, quase como uma desculpa: "Deve ser uma mulher fútil, que escreve pois não tem o que fazer". E por último, em coro, o arrazoado final: "É uma estrangeira linda, por onde passa os homens se inclinam diante dessa *femme fatale* exótica, russa, clara, de cabelos ruivos, olhos de gata no cio, distante, requintada, tropeçando nos "r" como uma gringa recém-chegada".
@@ -83,3 +80,36 @@ Também é bom que o estado de graça demore um pouco. Se durasse muito, bem sei
 Sai-se do estado de graça com o rosto liso, os olhos abertos e pensativos, e, embora não e tenha morrido, e como se o corpo todo viesse de um sorriso suave. E sai-se melhor criatura do que se entrou. Experimentou-se alguma coisa que parece redimir a condição humana, embora ao mesmo tempo fiquem acentuados os estreitos limites dessa condição. E exatamente porque depois da graça a condição humana se revela na sua pobreza implorante, aprende-se a amar mais, a perdoar mais, a esperar mais. Passa-se a ter uma espécie de confiança no sofrimento e em seus caminhos tantas vezes intoleráveis.
 
 Há dias que são tão áridos e desérticos que eu daria anos de minha vida em troca de uns minutos de graça".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A silenciosa revolução de Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 12/12/1987. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A silenciosa revolução de Clarice'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 12/12/1987}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A silenciosa revolução de Clarice'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 12/12/1987
+    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice
+    ER  - 
+    ```

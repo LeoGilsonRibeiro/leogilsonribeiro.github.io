@@ -3,13 +3,10 @@ title: 'A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Christ und Welt, n.28, ano XV, 1962/07/13. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus
 orig_publisher: 'Christ und Welt, n.28, ano XV'
 orig_date: 1962/07/13
-annote: Publicado originalmente em alemão. Traduzido por Fernando Rey Puente
 ---
 
 Através do mapa de São Paulo corre uma linha sombria que representa simbolicamente a estrutura social e a rígida hierarquia da metrópole industrial da América Latina de quatro milhões de habitantes. Dos terrenos ondulados dos quarteirões aristocráticos -- Jardim Europa, Morumbi -- com suas mansões milionárias essa linha desce para o centro comercial e para os quarteirões proletários, Brás e Vila Maria, até que ela desemboca na escuridão putrefata da favela Canindé, localizada entre as águas negras do rio Tietê e a reluzente autoestrada que leva ao Rio de Janeiro.
@@ -51,3 +48,38 @@ Carolina Maria de Jesus é uma autêntica representante do povo brasileiro: o am
 Talvez nós encontremos o sentido profundo de seu documento à miséria humana, modesto e quase analfabeto, em uma surpreendente analogia com a obra de Kafka - naturalmente em outro nível do dizer literário. Não apenas na célebre citação de Kafka: "Eu escrevi assim, porque eu vi a vida assim!" se fundamenta essa inesperada afinidade. Também na semelhança da temática por eles tratada se baseia a aproximação entre ambos habitantes solitários de guetos sociais e culturais: é a descrição do medo e da angústia. Sem dúvida, a cronista da favela se ocupa de um medo físico por sua sobrevivência biológica, enquanto o criador do inalcançável "castelo" sentia angústia metafísica. Nas suas confissões Carolina escreve: "Há pessoas que desesperam da vida e somente pensam na morte como solução. Eu me defendo sempre contra isso na medida em que eu escrevo o meu diário." Como um eco distante soam as palavras de Kafka: "No ato de escrever há uma consolação especial, enigmática, talvez perigosa, talvez salvadora\... Talvez a literatura leve à oração\..."
 
 O livro da brasileira testemunha similarmente uma crença absoluta na transcendência da palavra, na sua força de mudar o mundo circundante, como ela muito concretamente deveria vivenciar. Como um *negro spiritual* esse livro amargo contém ao lado de tanta tristeza uma faísca de consolação quando Carolina afirma que: "O ser humano não nasce despido - veste-o a esperança."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Christ und Welt, n.28, ano XV, 1962/07/13. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    annote = {Publicado originalmente em alemão. Traduzido por Fernando Rey Puente},,
+    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus},
+    orig_publisher = {'Christ und Welt, n.28, ano XV'},
+    orig_date = {orig_date: 1962/07/13}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Christ und Welt, n.28, ano XV'
+    Y1  - orig_date: 1962/07/13
+    N1  - Publicado originalmente em alemão. Traduzido por Fernando Rey Puente
+    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus
+    ER  - 
+    ```

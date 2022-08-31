@@ -3,13 +3,10 @@ title: 'A poesia deste livro inaugura nosso ano literário'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A poesia deste livro inaugura nosso ano literário". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 9-08-1975, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/07-henriqueta-lisboa/02-a-poesia-deste-livro-inaugura-nosso-ano-literario</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/07-henriqueta-lisboa/02-a-poesia-deste-livro-inaugura-nosso-ano-literario
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/02-a-poesia-deste-livro-inaugura-nosso-ano-literario
 orig_publisher: 'Jornal da Tarde 9-08-1975'
 orig_date: Sem data
-
 ---
 
 Finalmente, no oitavo mês, inicia-se o ano literário brasileiro com uma obra nova.
@@ -249,3 +246,36 @@ Não seria honesto deter-nos apenas naqueles que nos parecem, salvo melhor juíz
 Marly de Oliveira já demonstrou em vários livros anteriores que *pode* fazer poesia e nao será por um livro menor, um mero exercício em seu brilhante trajeto lírico, que se poderá menosprezar o muito que seu nome e sua criação artística sensibilíssima já deram à literatura brasileira contemporânea.
 
 A única coisa que me ocorre é a de, conhecendo o saudável senso de humor que Marly de Oliveira tem, mandar-lhe por via postal uma vigorosa tesoura de posa do excesso de ramagens e espinhos de seu usualmente delicado e conturbador jardim poético interior.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A poesia deste livro inaugura nosso ano literário". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 9-08-1975, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/02-a-poesia-deste-livro-inaugura-nosso-ano-literario</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A poesia deste livro inaugura nosso ano literário'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/02-a-poesia-deste-livro-inaugura-nosso-ano-literario},
+    orig_publisher = {'Jornal da Tarde 9-08-1975'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A poesia deste livro inaugura nosso ano literário'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde 9-08-1975'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/02-a-poesia-deste-livro-inaugura-nosso-ano-literario
+    ER  - 
+    ```

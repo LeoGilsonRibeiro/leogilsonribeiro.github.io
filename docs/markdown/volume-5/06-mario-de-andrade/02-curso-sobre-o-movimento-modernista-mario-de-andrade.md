@@ -3,13 +3,10 @@ title: 'Curso sobre o movimento modernista: Mário de Andrade'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Curso sobre o movimento modernista: Mário de Andrade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Sesc-SP 1993 (58 páginas datilografadas e revistas pelo autor em 1994), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/06-mario-de-andrade/02-curso-sobre-o-movimento-modernista-mario-de-andrade</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/06-mario-de-andrade/02-curso-sobre-o-movimento-modernista-mario-de-andrade
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/02-curso-sobre-o-movimento-modernista-mario-de-andrade
 orig_publisher: 'Sesc-SP 1993 (58 páginas datilografadas e revistas pelo autor em 1994)'
 orig_date: Sem data
-
 ---
 
 "Mas a ninguém é permitido afirmar nada invocando o seu nome, pois que não lhe foi dado tempo para falar"
@@ -964,3 +961,36 @@ Tenhamos paciência, andorinhas curtas,
 Só o esquecimento é que condensa,
 
 E então minha alma servirá de abrigo.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Curso sobre o movimento modernista: Mário de Andrade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Sesc-SP 1993 (58 páginas datilografadas e revistas pelo autor em 1994), Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/02-curso-sobre-o-movimento-modernista-mario-de-andrade</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Curso sobre o movimento modernista: Mário de Andrade'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/02-curso-sobre-o-movimento-modernista-mario-de-andrade},
+    orig_publisher = {'Sesc-SP 1993 (58 páginas datilografadas e revistas pelo autor em 1994)'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Curso sobre o movimento modernista: Mário de Andrade'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios
+    PY  - 2022
+    PB  - 'Sesc-SP 1993 (58 páginas datilografadas e revistas pelo autor em 1994)'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/02-curso-sobre-o-movimento-modernista-mario-de-andrade
+    ER  - 
+    ```

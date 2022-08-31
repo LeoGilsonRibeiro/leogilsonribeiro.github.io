@@ -3,13 +3,10 @@ title: 'Entrevista a Vergílio Ferreira'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista a Vergílio Ferreira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 18-06-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira
 orig_publisher: 'Jornal da Tarde 18-06-1983'
 orig_date: Sem data
-
 ---
 
 Vergílio Ferreira, nascido em 1916, perto da secular Universidade de Coimbra, comoveu a platéia que o assistiu, na semana passada, quando fez a palestra que inaugurou a promoção "Encontros com a Cultura Portuguesa", no Sesc. Referindo-se a quem considera o gênio máximo de uma civilização orgulhosa dos seus oito séculos de existência, enfatizou que brasileiros e portugueses comemoravam, ali, São Camões, o poeta da ausência, da expatriação, que atingiu a recordação da terra distante com emoção e saudade. Sóbrio, ponderado, atento, polidamente, às divergências de opinião dos seus interlocutores, soube transmitir ideias e ensinamentos sem nenhum tom profissional ou superior. Esta foi a impressão que as pessoas que o assistiram tiveram e agora comentam. Ficou clara a certeza de que Vergílio Ferreira submete os sentimentos à lucidez das ideias. Para muitos leitores, trata-se do maior escritor português contemporâneo. Vergílio Ferreira destaca-se entre os romancistas neorealistas dos últimos 50 anos, por nunca ter admitido que a doutrina política se tornasse a censura da arte. Seus livros *O Caminho Fica Longe* e *Onde Tudo foi Morrendo* alcançam, com *Vagão J.* a culminância da reflexão sócio-econômica a respeito do ser humano. Já com *Mudança e Aparição*, nitidamente se destaca a sua independência, ao afirmar que "nem só de pão vive o homem" e ao interrogar com invulgar coragem e coerência as eternas questões metafísicas que nenhum panfletarismo político soluciona: a angústia, a solidão, o amor, a morte, o mais além, que circunda nossa vivência corporal. Nesta página, as suas ideias, conceitos e reflexões sobre a literatura brasileira e portuguesa.
@@ -109,3 +106,36 @@ Nesse mundo de hoje de perda de valores, de mutação para não se sabe o quê, 
 De cristalização?
 
 "Sim, pusemos em causa a própria palavra, já nem falemos no "eu". Pensamos a palavra porque não temos nada a dizer. Conta uma história do Zen-Budismo que um sapo indagou a uma centopéia: "Ouve lá, como te mexes assim com tantas patas que tens?". A centopéia parou para pensar e começou a emaranhar as patas sem poder andar. É o que acontece conosco: temos o romance do romance, a poesia da poesia, o cinema do cinema, uma auto-reflexão inibidora da espontaneidade original. Veja a televisão: forma o jovem na superfície das coisas; a palavra profunda, a palavra interior está muda. A tecnologia pode ser positiva, neutra ou francamente negativa, basta pensarmos na hipótese de um louco apertar o botão nuclear e fazer saltar o mundo pelos ares. Vivendo de exterioridades, nós tornamos a palavra muda, vazia. Estou terminando um livro cujo tema é justamente este: a significação da palavra no mundo d'hoje. É o narrador que chega ao fim da vida e diz:"Eu não tenho uma palavra que me diga tudo, seja no que for". A epígrafe deste volume que vai sair este ano são dois versos de um grande poeta, irmão do José Régio, o Saul Dias, que dizem mais ou menos isto: "Uma vida inteira para dizer uma palavra/ Feliz daqueles que disseram uma palavra duranta a sua vida". Mas diante desta palavra de momento, vazia e inútil, diante desta perspectiva negra, não podemos esquecer que o homem acabará por vencer todas estas limitações. Simplesmente, esta vitória, essa reconquista de um mundo novo é que não se pode prescrever: há de realizar-se por si. De que maneira, não faço ideia, mas estou convencido de que evidentemente o homem, se nao desiste de ser homem, não desiste de ser livre, há de superar tudo isto. E a arte, a cultura, hoje em crise, haverá, amanhã, de recuperar a sua vida e continuar a aventura do homem.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Entrevista a Vergílio Ferreira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 18-06-1983, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Entrevista a Vergílio Ferreira'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira},
+    orig_publisher = {'Jornal da Tarde 18-06-1983'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Entrevista a Vergílio Ferreira'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 18-06-1983'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira
+    ER  - 
+    ```

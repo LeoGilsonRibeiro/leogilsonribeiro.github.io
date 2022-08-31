@@ -3,13 +3,10 @@ title: 'O negro nos livros, poemas e teses'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "O negro nos livros, poemas e teses". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1982/12/25. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/10-o-negro-nos-livros-poemas-e-teses</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/10-o-negro-nos-livros-poemas-e-teses
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/10-o-negro-nos-livros-poemas-e-teses
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1982/12/25
-
 ---
 
 > "África! Áfirca da reconquista das liberdades/ África do Negro,/ Não há ninguém na África" (Bernard Dadie, poeta da Costa do Marfim)
@@ -235,3 +232,36 @@ Com tanta imbecilidade disposta como o diagrama da própria estultice, o rapaz/h
 Esta antologia não teria desculpas que pedir por incluir alguns nomes que ombreiam com os maiores criadores de *kitsch*, pois no Brasil, afinal, o *kitsch* serve até para eleger à Câmara dos Deputados, em Brasília, o "poeta" J. G. de Araújo Jorge, fora outras manifestações Certezabsurdônika que galgaram, através do voto, o Planalto ou até mesmo a Assembleia diante do Parque Ibirapuera, nas últimas eleições.
 
 Como a literatura é por essência democrática, não caberia ao crítico mostrar-se didático, complacente nem intolerante para com esses poetas desiguais no talento e na obtenção de suas metas poéticas. No entanto, o que se constata, visivelmente, é que uma parte decisiva da população brasileira, a que tem uma origem étnica africana, dia a dia desfaz os chavões que, como esparadrapos amorfos, são colocados no negro como futebolista, carnavalista, garanhão erótico, temperamento infantil, quando não malandro, assaltante e quimbandista. Essa antologia comprova que, se há, certamente, uma temática negra no vasto repertório da poesia brasileira -- e em alguns casos, parece-me, da melhor qualidade - , ela, inexoravelmente, se funde com a população de outras etnias, na luta por um avanço efetivo da Massa de todo o povo brasileiro, na qual está fundida, inevitavelmente, seu segmento negro. Não esmorecer diante do muro dos preconceitos, da prepotência, da injustiça e da ignorância, insuflar à fisionomia do Brasil o traço que mais caracteriza a raça negra: a dignidade. Atualizar os livros que omitem sua participação decisiva na construção deste país, atingir níveis altos de educação e manter os valores ancestrais de sua cultura. Haverá ideal que mais se coadune com os brasileiros de origem africana?
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "O negro nos livros, poemas e teses". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1982/12/25. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/10-o-negro-nos-livros-poemas-e-teses</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'O negro nos livros, poemas e teses'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/10-o-negro-nos-livros-poemas-e-teses},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1982/12/25}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'O negro nos livros, poemas e teses'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1982/12/25
+    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/10-o-negro-nos-livros-poemas-e-teses
+    ER  - 
+    ```

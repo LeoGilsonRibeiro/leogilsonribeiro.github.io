@@ -3,13 +3,10 @@ title: 'Desafiando os rinocerontes do poder'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Desafiando os rinocerontes do poder". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 24-09-1988, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder
 orig_publisher: 'Jornal da Tarde 24-09-1988'
 orig_date: Sem data
-
 ---
 
 O extenso romance tem um início que merece uma tela panorâmica e a direção plural de Fellini atrás da câmera:
@@ -65,3 +62,36 @@ Se entre os brasileiros menos informados havia alguma dúvida, este livro e seus
 Sim, não há dúvida, se dúvida havia: José Cardoso Pires e Agustina Bessa-Luís são prosadores que perfazem com o poeta Eugênio de Andrade a tríade, não hesito em usar o adjetivo: a tríade perfeita da Literatura com L maiúsculo escrita em português. Voltamos às fontes portuguesas agora, neste Brasil abusivamente americanizado, transformado num insosso hambúrguer da Mc Donald's no plano cultural: colonizado em sua música, aplastada pelo *rock*, na sua linguagem, cravejada de termos ingleses *snobs* e tantas vezes inúteis, ou em posição de adoração diante do lixo literário que a França de hoje, por exemplo, coroa de prêmios altissonantes, meras embalagens ardilosas do nada dentro. Talvez não seja demasiado martelar que linguisticamente estamos delimitados pelas fronteiras autênticas: as que têm ao Norte, Portugal, em torno, as literaturas hispano-americanas e, atravessando o oceano Atlântico, a Literatura africana de expressão portuguesa. O resto, como diria um Hamlet atualizado, é *marketing, right*?
 
 Capítulo dezesseis
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Desafiando os rinocerontes do poder". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 24-09-1988, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Desafiando os rinocerontes do poder'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder},
+    orig_publisher = {'Jornal da Tarde 24-09-1988'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Desafiando os rinocerontes do poder'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 24-09-1988'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder
+    ER  - 
+    ```

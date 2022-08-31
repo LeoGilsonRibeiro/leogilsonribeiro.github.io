@@ -3,13 +3,10 @@ title: 'James Baldwin (necrológio)'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "James Baldwin (necrológio)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1987/12/2. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/03-james-baldwin-(necrologio)</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/03-james-baldwin-(necrologio)
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/03-james-baldwin-(necrologio)
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1987/12/2
-
 ---
 
 James Arthur Baldwin, o escritor e ensaísta norte-americano que morreu de câncer no estômago ontem na cidadezinha de Saint-Paul de Vence, no Sul da França, aos 63 anos de idade, foi cronologicamente o último artista negro destruído pelo racismo. O peso do preconceito duplo -- contra a cor da sua pele e contra seu homossexualismo -- desvirtuou seu grande talento literário, transformando-o predominantemente em um porta-voz involuntário e candente da igualdade racial. A vida pendular que escolhera morando na França desde 1945, e nos Estados Unidos, onde nascera no gueto do Harlem, contrasta com sua deliberada intenção de fixar-se nos Estados Unidos, como membro e como membro de uma minoria, portanto, duplamente escorraçado pela sociedade majoritária numericamente branca e heterossexual, no início de sua carreira. Numa das passagens autobiográficas mais comoventes de seus livros ele se interroga sobre a majestade da civilização europeia, em seus momentos supremos: que podia significar para ele a imponência das catedrais góticas, a genialidade de Shakespeare ou de Dante, um quadro de Rembrandt ou de Vermeer? Nada daquilo tinha alguma coisa a ver com a sua formação, com o seu sofrimento cotidiano, com o racismo da Klu Klux Klan e seus homens encapuzados no Sul dos Estados Unidos, a castrar e enforcar negros pelo simples fato de serem negros. Ele assume, pelo menos temporariamente, a sua condição, uma vez aprendida a lição da Europa:
@@ -47,3 +44,36 @@ A sua solidão foi a de um eterno marginal que, ao contrário de Jean Genet, a q
 A celebridade, ele parece dizer, é a miséria presente que será festejada pela geração vindoura, como os quadros de Van Gogh disputados hoje a milhões de dólares, depois que seu atormentado e magnífico autor morreu, anônimo, paupérrimo, um suicida a mais em um remoto asilo de loucos.
 
 Ou, exprimindo seu pensamento de outra maneira: as leis não *mudam* o coração dos homens. Será que a biogenética conseguirá dotar o homem moderno de um coração sem ódio?
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "James Baldwin (necrológio)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1987/12/2. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/03-james-baldwin-(necrologio)</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'James Baldwin (necrológio)'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/03-james-baldwin-(necrologio)},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1987/12/2}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'James Baldwin (necrológio)'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1987/12/2
+    UR  - www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/03-james-baldwin-(necrologio)
+    ER  - 
+    ```

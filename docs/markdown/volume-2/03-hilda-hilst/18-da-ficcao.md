@@ -3,13 +3,10 @@ title: 'Da Ficção'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Da Ficção". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: > Cadernos de Literatura Brasileira: Hilda Hilst, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/18-da-ficcao</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/18-da-ficcao
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/18-da-ficcao
 orig_publisher: '> Cadernos de Literatura Brasileira: Hilda Hilst'
 orig_date: Sem data
-
 ---
 
 >
@@ -368,3 +365,36 @@ Talvez assim te encantes de tão farta nudez.
 Talvez assim me ames: desnudo até o osso
 
 Igual a um morto."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Da Ficção". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: > Cadernos de Literatura Brasileira: Hilda Hilst, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/18-da-ficcao</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Da Ficção'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/18-da-ficcao},
+    orig_publisher = {'> Cadernos de Literatura Brasileira: Hilda Hilst'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Da Ficção'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - '> Cadernos de Literatura Brasileira: Hilda Hilst'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/18-da-ficcao
+    ER  - 
+    ```

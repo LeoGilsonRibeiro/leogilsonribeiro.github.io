@@ -3,13 +3,10 @@ title: 'Casais Monteiro'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Casais Monteiro". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Casais Monteiro (morto aos 64 anos no dia 24 de julho de 1972 em São Paulo quando se preparava para ministrar um curso de Teoria da Literatura na FFLCH da USP), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/00-casais-monteiro</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/00-casais-monteiro
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/00-casais-monteiro
 orig_publisher: 'Casais Monteiro (morto aos 64 anos no dia 24 de julho de 1972 em São Paulo quando se preparava para ministrar um curso de Teoria da Literatura na FFLCH da USP)'
 orig_date: Sem data
-
 ---
 
 ***Veja* 02/08/1972**
@@ -33,3 +30,36 @@ Sua breve tentativa de criar ficção ficou restrita a *Adolescentes* (1946), ro
 Foi como poeta (*Confusão*; *Poemas do Tempo Incerto*; *Canto de Nossa Agonia*, etc.) que deixou versos de grande contenção emotiva e fluente espontaneidade ("Aos ventos espalhei a cinza dos meus gestos/ Num desprezo de mim, fiz-me poeta") embora de importância claramente inferior à sua contribuição crítica. Esta, como justamente definia, era uma forma também válida de criação artística.
 
 ***Novas Cartas Portuguesas***
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Casais Monteiro". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Casais Monteiro (morto aos 64 anos no dia 24 de julho de 1972 em São Paulo quando se preparava para ministrar um curso de Teoria da Literatura na FFLCH da USP), Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/00-casais-monteiro</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Casais Monteiro'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/00-casais-monteiro},
+    orig_publisher = {'Casais Monteiro (morto aos 64 anos no dia 24 de julho de 1972 em São Paulo quando se preparava para ministrar um curso de Teoria da Literatura na FFLCH da USP)'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Casais Monteiro'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Casais Monteiro (morto aos 64 anos no dia 24 de julho de 1972 em São Paulo quando se preparava para ministrar um curso de Teoria da Literatura na FFLCH da USP)'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/00-casais-monteiro
+    ER  - 
+    ```

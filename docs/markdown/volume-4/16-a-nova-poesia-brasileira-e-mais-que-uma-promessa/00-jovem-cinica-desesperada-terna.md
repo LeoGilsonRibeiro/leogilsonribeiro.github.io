@@ -3,13 +3,10 @@ title: 'Jovem, cínica, desesperada, terna'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Jovem, cínica, desesperada, terna". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 25-02-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna
 orig_publisher: 'Jornal da Tarde 25-02-1984'
 orig_date: Sem data
-
 ---
 
 Sobre os pelotões de prédios da Paulicéia Desvairada centenas de folhetos chovem, tentando desfazer a mesmice do cinza e sustar por um instante a multidão caudalosa que flui, robôs cabisbaixos, pelo viaduto do Chá. Cartazes com letras garrafais - "Iniciativa Privada" - são espalhados pelos banheiros públicos das praças, estações e botequins da cidade quatrocentona, entediada e raquítica de vida cultural. Jovens barbudos, de cabelos eriçados amarrados atrás com uma fitinha debochada, "pontilhada de estrelas", esparramam-se pelas caladas e oferecem textos cruamente reproduzidos em mimeógrafos apressados. São as inumeráveis tentativas de fazer o poema chegar a todos, grito herdado da década em que Lindolfo Bell, o nosso Evtuchenko da praça Roosevelt, evangelizava massas amorfas de gente com seus poemas, seus cabelos louros esvoaçantes, os olhos fechados pensando nos estádios de futebol da Rússia, onde milhares de vãs dizem simultaneamente com o bardo, em coro religioso, os mesmos versos que ele. Picham-se nos muros não só de São Paulo, mas do Brasil inteiro, com frases traçadas a giz ou escavadas na camada de pintura dos muros: "Quem teve a mão decepada/ sslevante o dedo" (Nicolas Behr) ou a saída ainda traumatizada da longa noite de horror: "Medo/ Rua escura/ Alta madrugada/ Dois homens/ Quatro passos idênticos e silenciosos/ Duas bocas fechadas." (Carlos Martins) ou o ramantismo num *flash* fulminante:
@@ -295,3 +292,36 @@ a fome
 Que, sem pressa, come".
 
 Sílvio Pires veio, surpreendentemente, fincar uma força poética e uma originalidade de metáforas que, se por um lado, têm ancestrais na poesia de Lorca, de Pessoa, dos *hai-kais* e do Zen-Budismo, por outro, nascem do nada, maravilhosamente desprovida de rumos, de "engaajmentos" pré-fixados, mantendo apenas, como um XIngu secreto a "reserva indígena", intocada, do coração que sangra. São 340 páginas, perpassadas de afinidade doída, cromática, humana, com Van Gogh: "A memória, vernissage de feridas/ expostas/ Paisagem que amarelece", um holofote inesperado lançado sobre a situação do ser humano hoje, tudo perpassado de uma filosofia paradoxalmente descrente e esperançosa do resultado do próximo lance de dados que abolirá ou não o Acaso. 340 poemas é um número alto: sem dúvida em futuras edições essa espessura excessiva será desbastada, limada, escoimada de quedas, de inseguranaças, de adiposidades verbais. Mas Sílvio Pires já é um dos poetas marcantes, exponenciais do Brasil, tanto quanto os poetas negros da antologia contemporânea que os enfeixou em edição recente, tanto quanto a maturidade de vozes femininas e de vozes homossexuais que trazem a tonalidades novas, dissidentes mas por vezes extremamente originais à irrequieta efervescência poética de nossas gavetas e veias abertas.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Jovem, cínica, desesperada, terna". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 25-02-1984, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Jovem, cínica, desesperada, terna'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna},
+    orig_publisher = {'Jornal da Tarde 25-02-1984'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Jovem, cínica, desesperada, terna'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde 25-02-1984'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna
+    ER  - 
+    ```

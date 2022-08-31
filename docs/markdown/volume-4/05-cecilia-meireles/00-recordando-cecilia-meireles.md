@@ -3,13 +3,10 @@ title: 'Recordando Cecília Meireles'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Recordando Cecília Meireles". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Diário de Notícias 6-12-1964, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles
-orig_publisher: 'Diário de Notícias 6-12-1964'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles
+orig_publisher: 'Diário de Notícias'
+orig_date: 06/12/1964
 ---
 
 A casa no Cosme Velho que eu revia agora eu não percebera bem na noite em que lá estivera, com a poetisa Marly de Oliveira. Uma escada cercada de flores subia em suave labirinto até o andar principal, emoldurando pelas montanhas que culminavam na estátua do Cristo Redentor. Praticamente diante do portão da entrada, a estação do trenzinho que conduz ao topo abrigava turistas platinos na tarde radiosa.
@@ -23,3 +20,36 @@ Por ocasião da visita de Alberto Moravia e Elsa Morante ao Brasil, acompanhando
 Foi porém da última vez que a vi que guardei uma impressão mais marcada da grande poetisa, da sua certeza de que o Brasil tinha um grande destino cultural, espiritual e humano num futuro não distante. Falamos logamente sobre o que ela vira de extraordinário na Índia, em que toda a existência diária é profunda e decisivamente impregnada de religiosidade, em que os gestos se tornam parte de um ritual. Cecília Meireles confessava sua intensa admiração pela espiritualidade do povo indiano, pela liderança de Gandhi, que vencera uma batalha crucial contra o poderio imperial britânico com sua doutrina de *ahimsa* (não-violência) e pelo poeta Rabindranath Tagore, que ela traduzia para o português, identificando-se e comovendo-se com ele no seu amor pela Índia, pelos pássaros, pelas fontes, pela natureza, pelo ser humano. Anotada, sobre sua mesa de trabalho, estava uma edição inglesa dos Upanishades, do livro dos Vedas lado a lado com sua gramática de hebraico e sua tradução iniciada de um drama de García Lorca. Mencionou Goa, que vira de relance mas onde confluiam Portugal, país de sua origem racial e cultural, e a Índia, onde encontrara profundas raízes de afinidade. Ela própria se considerava partícipe de uma época religiosa, talvez a Idade Média, em que os fatores imateriais se soprepunham aos materiais e à tecnologia avassaladora de hoje. No seu estro poético puro e ático, ela cantava uma época indeterminada, fora das limitações arbitrárias dos calendários. Sua família provinha das ilhas portuguesas que se espalham pelo imenso oceano Atlântico e que povoaram miraculosamente tantas cidades brasileiras. Comovia-se com tudo que fosse português, que lhe recordasse o campo de Portugal com a sua infinita poesia e doçura e do qual faziam parte pela sua atmosfera rural as ilhas de nomes sonoros: Madeira, Açores, Cabo Verde. Apesar da moléstia insidiosa que já a minava pouco a pouco, trabalhava ininterruptamente, fazendo do trabalho disciplinado, sistemático, uma constante diária na sua vida. Traduzia obras fundamentais de várias literaturas, viajava aos Estados Unidos e ao Oriente em viagens culturais e acima de tudo criava poesia, cercada de silêncio, da atmosfera antiga do Cosme Velho e das montanhas do Rio de Janeiro.
 
 Contei-lhe do entusiasmo que contagiara uma audiência de quase mil estudantes da Universidade de Heidelberg, quado eu lecionava Literatura Brasileira na Alemanha e recitei traduções que fizera de suas poesias. Mostrei-lhe a melodia nova e estranha que adquiriam seus versos em alemão, ao lado do original em português. Li para que ela ouvisse a carta de um jovem de Estrasburgo que me escrevia perguntando se eu podia enviar-lhe cópia dos poemas, porque, embora tivesse gravado minha conferência, chegara com atraso e perdera algumas das poesias inciais. Mas, desprovida de vaidade e incapaz de "promoção" que entre nós tantas vezes supre a falta de talento oudo ter que dizer, Cecília Meireles não difundia sua obra, não alardeava suas conquistas importantes no território lírico. Com sabedoria, furtava-se às estéreis reuniões mundanas, à insulsa "vidinha literária" maledicente e improdutiva; como Mestre Guimarães Rosa, acdreditava que o melhor de um autor, a sua quitessência, fica fixada na sua criação, imóvel repositório de sua mensagem, de sua presença e perspectiva diante da vida. Uma indefinível melancolia transparecia de seus gestos brandos, do seu olhar penetrante e claro, do seu perfil de nobres linhas puras, de suas mãos que como borboletas cansadas posusavam sobre seu colo depois de traçar poemas, de manejar instrumentos de jardinagem, de virar as páginas dos livros sagrados budistas. Naquela última tarde em que a via, porém - sem saber que breve perderia uma amiga tão ricamente sábia, tão requintadamente generosa e acolhedora - eu me sentia confuso diante daquelas mãos e as contemplava com um misto de reconhecimento, de ternura e quase mesmo do sentimento de culpa involuntária. Tínhamos nos sentado diante da mesa redonda de estar para tomar o chá para o qual Cecília Meireles getilmente me convidara dias antes, prossseguindo nosso diálogo de visitas anteriores. Sabendo de antemão da preferência quase infantil que tenho pelo chocolate, sem dúvida reminiscência proustiana da minha infância, ela preparara, com aquelas mãos finas e longas, um bolo de chocolate para mim e queria agora que eu o partisse, estendendo-me, com um sorriso, a faca para cortar a primeira fatia. Senti como que um misto de gratidão e de vergonha quase, por ter causado sem querer, trabalho a aquelas mãos aristocráticas, feitas para misteres tão mais elevados que o de levar um bolo ao forno! Seinti um ímpeto de beijá-las, de externar de alguma forma meu recochecimento sincero. Assim que voltei para casa, corri ao florista e mandei à poetisa um imenso chapéu de palha, no interior do qual a fantasia so jardineiro português plantara flores do campo semelhantes às que ela amava, na faixa litorânea que vai de Cascais a Lisboa. Pelo telefone, ela comunicou-me que plantara no jardim algumas daquelas flores que com suas cores campestres diziam confusamente o meu "muito obrigado" a aquelas mãos artífices do bolos, de poemas, de carinhos eternos nos cabelos do neto que percorria a casa estouvadamente os disa da semana reservados para suas visitas buliçosas. Depois, as notícias que eu recebia dela me chegavam indiretas, entrecortadas como mensagens telegráficas recebidas mal, imprecisamente. E hoje ela perdura multiplamente para mim: nos seus livros, nos seus retratos, no coro de vozes que lhe tributa uma homenagem póstuma e comovida. Mas se para a visão oficial, pública, coletiva, ela permanece como a excelsa poetisa do mar, do amor, da melancolia, da natureza, da Inconfidência vista sob um prisma trasnfigurado de poesia, para mim existe outra imagem, mais interiorizada, de Cecília Meireles, como diante daqueles espelhos que refletem várias imagens em vez de uma só. E por detrás de seus versos, que contêm a parte etérea e eterna de sua personalidade artistica, lembro-me de Emily Dickinson ao ver sua letra clara traçada na receita do bolo de chocolate que eu lhe pedira como lembrança daquela tarde. Ela testemunhava sua dimensão interior, humana, feminina, bondosa, de uma generosidade nobre e espontânea como deparar de repente com a fotografia de um amigo que partiu há muito mas que não esquecemos, envoltos na sua aura de encanto e de saudade.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Recordando Cecília Meireles". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Diário de Notícias, 06/12/1964. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Recordando Cecília Meireles'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles},
+    orig_publisher = {'Diário de Notícias'},
+    orig_date = {orig_date: 06/12/1964}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Recordando Cecília Meireles'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Diário de Notícias'
+    Y1  - orig_date: 06/12/1964
+    UR  - www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles
+    ER  - 
+    ```

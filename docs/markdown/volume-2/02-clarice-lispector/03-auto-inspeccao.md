@@ -3,13 +3,10 @@ title: 'Auto-inspecção'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Auto-inspecção". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja 19-09-1973, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/03-auto-inspeccao</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/03-auto-inspeccao
-orig_publisher: 'Veja 19-09-1973'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/03-auto-inspeccao
+orig_publisher: 'Veja'
+orig_date: 19/09/1973
 ---
 
 Não contente em ser a mais admirável contista da América Latina, Clarice Lispector conseguiu superar o seu maior desafio pessoal. *Água Viva* - a meio caminho entre o conto e o romance - conserva da história curta a concisão que condensa no mínimo de palavras o máximo de impacto, reticência e profundidade de percepção sensível. E do romance guarda a continuidade do clima narrativo, gênero em que Clarice Lispector criou uma expressão própria e pioneira na literatura em português, mas por vezes de um hermetismo subjetivo que cansava o leitor um pouco menos paciente.
@@ -29,3 +26,36 @@ A autora percebe, porém, novas paisagens: o desconhecido cuja ponta de mistéri
 Dessa conjunção eclode o recurso de utilizar termos de outra língua, o neutro e indefinível *it* do inglês, para exprimir sua angústia e sua certeza mais abissais: "Mas há também o mistério do impessoal que é o *it*: eu tenho o impessoal dentro de mim... A transcendência dentro de mim é o *it* vivo e mole e tem o pensamento que uma ostra tem. Será que a ostra quando arrancada de sua raiz sente ansiedade? Fica inquieta na sua vida sem olhos? Eu constumava pingar limão em cima da ostra viva e via com horror e fascínio ela contorcer-se toda. E eu estava comendo o *it* vivo. O *it* vivo é o Deus".
 
 Com esta ficção, Clarice Lispector desperta a literatura que atualmente não se faz no Brasil de uma letargia deprimente e degradante para elevá-la a um nivel de perenidade e perfeição universais.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Auto-inspecção". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja, 19/09/1973. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/03-auto-inspeccao</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Auto-inspecção'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/03-auto-inspeccao},
+    orig_publisher = {'Veja'},
+    orig_date = {orig_date: 19/09/1973}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Auto-inspecção'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Veja'
+    Y1  - orig_date: 19/09/1973
+    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/03-auto-inspeccao
+    ER  - 
+    ```

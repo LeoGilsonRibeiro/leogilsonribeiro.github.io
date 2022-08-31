@@ -3,13 +3,10 @@ title: 'James Baldwin e o negro nos EUA'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "James Baldwin e o negro nos EUA". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã (Caminhos da cultura), 1965. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua
 orig_publisher: 'Correio da Manhã (Caminhos da cultura)'
 orig_date: 1965
-
 ---
 
 Nessa esplêndida alegoria moderna que é *Les Nègres*, Genet faz o personagem Archibald exclamar, dirigindo-se a seus irmãos de cor: "Eu vos ordeno serem negros até a profundeza de vossas veias e de nelas arrastar sangue negro. Que a África nele circule. Que os negros se anegrem. Que eles se obstinem até à loucura naquilo que os condena a ser, em seu ébano, sem seu cheiro, em seus olhos amarelados, em seus gostos de canibais\... Que se (os brancos) mudarem a nosso respeito, não seja por indulgência, mas por terror\... Inventai, não o amor, mas o ódio\... O trágico estará na cor negra! Será ela que vós amareis, reunireis, merecereis. É ela que é preciso conquistar!"
@@ -31,3 +28,36 @@ A veemência de James Baldwin não é menor absolutamente com relação ao resse
 > "Como pode alguém respeitar, muito menos adotar, os valores de um povo que não vive, em nenhuma forma imaginável, de maneira que diz ou da maneira que afirma deveria viver? Não posso aceitar a declaração de que o labor intenso do negro americano durante quatrocentos anos deve resultar meramente na sua integração no nível atual da civilização americana. Estou longe de deixar-me persuadir de que valeu a pena terem-me liberado do curandeiro africano se agora -- a fim de apoiar minhas contradições morais e a aridez espiritual da minha vida -- eu tenho que me tornar dependente do psiquiatra americano. É uma troca que recuso absolutamente".
 
 Seu impressionante documento pessoal e humano termina com um apelo aos negros e aos brancos "relativamente conscientes". É tarefa desses elementos lúcidos da sociedade americana despertar a consciência dos demais e cumprirem juntos o dever inadiável de por a termo ao "pesadelo racial", coo o denomina Baldwin, e mudar o curso dos acontecimentos nos Estados Unidos e no mundo. Se não ousarmos tudo para atingir esse objetivo de inspiração bíblica contida na canção do escravo que cantava: "Deus deu a Noé o sinal do arco-íris: Chega de água, da próxima vez: fogo!"
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "James Baldwin e o negro nos EUA". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã (Caminhos da cultura), 1965. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'James Baldwin e o negro nos EUA'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua},
+    orig_publisher = {'Correio da Manhã (Caminhos da cultura)'},
+    orig_date = {orig_date: 1965}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'James Baldwin e o negro nos EUA'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Correio da Manhã (Caminhos da cultura)'
+    Y1  - orig_date: 1965
+    UR  - www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua
+    ER  - 
+    ```

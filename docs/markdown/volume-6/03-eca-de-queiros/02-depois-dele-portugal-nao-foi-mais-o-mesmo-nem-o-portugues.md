@@ -3,13 +3,10 @@ title: 'Depois dele, Portugal não foi mais o mesmo. Nem o Português'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Depois dele, Portugal não foi mais o mesmo. Nem o Português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 07-01-1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/02-depois-dele-portugal-nao-foi-mais-o-mesmo-nem-o-portugues</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/02-depois-dele-portugal-nao-foi-mais-o-mesmo-nem-o-portugues
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/02-depois-dele-portugal-nao-foi-mais-o-mesmo-nem-o-portugues
 orig_publisher: 'Jornal da Tarde 07-01-1978'
 orig_date: Sem data
-
 ---
 
 Quando ele escrevia seus romances, era preciso fechar as janelas, senão os vizinhos pensariam que havia uma briga violenta na casa ao lado. Gesticulava, esmurrava o ar, fazia várias vozes dos personagens, para sentir-lhes a autenticidade, rasgava fragorosamente textos escritos e uma vez incendiou a cesta de papéis com a quantidade de cigarros acesos e não terminados que atirou nela.
@@ -47,3 +44,36 @@ Com um toque melancólico, já célebre antes dos quarenta anos de idade com o p
 Para sustentá-lo em seu ceticismo derrotista havia todas as provas concretas: a Europa abandonara seus voos liberais para não deixar uma nesga de terra na África independente do seu jogo, a industrialização servira só para criar massas embrutecidas sugadas por uma pultocracia cruel e egoísta, a ciência pusera rótulos de mitos gregos aos complexos de Édipo e às neuroses e esquizofrenias catadas na cabeça do cidadão moderno por Freud. O sonho de igualdade da Revolução Francesa se esboroara tanto nos Estados Unidos quanto na Rússia de 1917, uma regida pelo poder do lucro roubado, outra pela aquiescência do Partido único diante dos crimes mais iníquos.
 
 A vida não mereceia ser vivida? Seu desalento não chegava a tanto. Com a extorsão de territórios colonizados por Portugal na África e a criação fictícia da Rodésia, sob o *ultimatum* das canhoneiras da Inglaterra postadas diante de Lisboa, crê que ainda vale o esforço de reconstruir Portugal. Ele que se distinguira por destruir, por tocar as chagas com seus romances insolentes, galvanizadores, queria agora servir a seu país, insuflar-lhe nova vida, novo alento. Como um Thoreau do outro lado do Altântico, quer fundar uma Ordem dos Mateiros, "cuja missão seria a de promover um retorno à natureza e à simplicidade, libertando os seus adeptos da civilização suntuária dos novos tempos e das suas falsas necessidades". Tachando a si mesmo de analfabeto, ele pretende estudar os mestres da língua, desvendar-lhes os segredos, escrever para crianças ou desentulhar de todo o pó teológico a divina Consciência do Cristo. Ele que apavora beatas e crentes com sua irreverente mistura de orgasmo e devoção mística em *A Relíquia* dedicava-se agora a escrever vidas de santos, a revolver a verdade que a religião, desprezada antes, pudesse conter, imutável. Era tarde. Com ele morria o século XIX e seu gênio não deixaria herdeiros. A sua generosidade, a sua graça sempre elegante, seus princípios morais inabaláveis, se o singularizam como escritor, aureolam de uma fidelidade a si mesma impoluta, reta, sua personalidade humana. Nunca mais Portugal seria o mesmo e a própria língua portuguesa se imantara do seu magnetismo irresistível. De fato, haveria agora duas eras: a anterior a Eça e a posterior a ele. Em ambos os lados do Atlântico ele se tornava a antítese do empolado, do postiço, do retoricamente retumbante. Como Balzac na França, Galdós na Espanha, Dickens na Inglaterra, Eça de Queirós elevara toda uma vasta galeria de seres banais ou heroicos, baços ou exigentes à atemporalidade de uma Arte que por ser social não deixa de ser profundamente estética: lição da indissolubilidade de talento e criação que ele deixou a ser aprendida pelos que hoje forjam novas maneirass de dizer.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Depois dele, Portugal não foi mais o mesmo. Nem o Português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 07-01-1978, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/02-depois-dele-portugal-nao-foi-mais-o-mesmo-nem-o-portugues</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Depois dele, Portugal não foi mais o mesmo. Nem o Português'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/02-depois-dele-portugal-nao-foi-mais-o-mesmo-nem-o-portugues},
+    orig_publisher = {'Jornal da Tarde 07-01-1978'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Depois dele, Portugal não foi mais o mesmo. Nem o Português'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 07-01-1978'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/02-depois-dele-portugal-nao-foi-mais-o-mesmo-nem-o-portugues
+    ER  - 
+    ```

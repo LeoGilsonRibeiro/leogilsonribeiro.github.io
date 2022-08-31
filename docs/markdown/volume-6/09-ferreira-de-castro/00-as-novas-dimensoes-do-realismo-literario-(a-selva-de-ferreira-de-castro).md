@@ -3,13 +3,10 @@ title: 'As novas dimensões do realismo literário (A Selva de Ferreira de Castr
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "As novas dimensões do realismo literário (A Selva de Ferreira de Castro)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Diário de Notícias 22-01-1961, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro)</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro)
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro)
 orig_publisher: 'Diário de Notícias 22-01-1961'
 orig_date: Sem data
-
 ---
 
 A par da obra de Fernando Pessoa, que pouco a pouco começa a ser difundida na Europa, principalmente na França, os livros de Ferreira de Castro têm recebido uma verdadeira consagração entre os leitores do Continente, mormente na Alemanha, onde *A Lã e a Neve* e *Terra Fria* obtiveram tiragens imensas logo depois de publicadas. Embora utilizada tendenciosamente por elementos extremistas - na parte comunista da Alemanha os romances de Eça de Queirós, em luxuosas edições populares (não há contradição de termos) são traduzidos e interpretados unicamente como "depoimentos contra a apodrecida estrutura burguesa e capitalista" - seus testemunhos artísticos e humanos são escritos sem partidarismos políticos *a priori*, destacando-se, nessa imensa galeria do sofrimento do homem vítima do homem, *A Selva*, fruto autobiográfico de sua permanência na Amazônia brasileira. Precedido de frases de Tavares Bastos, de Pinedo e Euclides da Cunha com referência a essa região mais solitária e inóspita do globo, esse romance, sem possuir as virtudes estilísticas de outras obras de Ferreira de Castro, retrata, porém, de maneira angustiante, a precariedade da condição humana numa área colossal de nosso território geográfico. Gostaríamos de falar de *A Selva* no pretérito passado, no entanto, a angústia maior que nos assalta, ao ler o relato da escravidão dos seringueiros nordestinos sem alforria no Inferno Verde, é a que derivamos da certeza de que essa situação atentatória aos mais comezinhos direitos do homem persiste, incólume, à semelhança do olvido em que caiu grande parte do Sul da Itália que Carlo Levi focalizou em suas obras magistrais, principalmente em *Cristo si è fermato a Eboli*, de que falamos anteriormente nesta Seção. Nas palavras evocativas e nostálgicas do autor: "Eu devia este livro a essa Amazônia longínqua e enigmática, pelo muito que fez sofrer os primeiros anos da minha adolescência e pela coragem que me deu para o resto da vida. E devia-o, sobretudo, aos anônimos desbravadores, gente humilde, que me antecedeu ou me acompanhou na brenha, gente sem crônica definitiva, que à extração da borracha entregou a sua fome, a sua liberdade e a sua existência". Em seguida, no prefácio, esse amigo do Brasil, porque aponta-lhe as falhas de maneira construtiva e dedica grande parte de seu talento literário a reconstruir uma situação que deveria chamar a atenção de todos os núcleos civilizados de nosso país, Ferreira de Castro lamenta, com nobreza e sobriedade, a incompreensão de alguns brasileiros que viram no seu livro uma crítica aos senões de um país no qual pululavam os ufanistas que do seu "patriotismo" fizeram profissão ou simplesmente o identificavam com uma visão rosa e suicida de uma realidade na qual imperam, em amplos setores, a incúria, a injustiça, a ignorância e a desumanidade mais rudes. Deve-se ao descortinio de Humberto de Campos, naquela época, a compreensão exata do escritor ao divulgar esse aspecto de um Brasil desconhecido e esquecido pelas merópoles do Sul: "Tinha-se compreendido finalmente que, ao farfalhar do patriotismo, venha do Norte ou do Sul, da Europa ou da América, se soprepõe sempre, no meu espírito, uma causa mais forte, uma razão maior: a da Humanidade. A razão deste livro. Deste livro que é um curto capítulo da obra que há-de registrar o sofrimento dos humildes através dos séculos, em busca de pão e de justiça. A luta de cearenses e maranhenses na floresta amazônica é uma epopéia assombrosa de que não ajuiza quem, no resto do mundo, se deixa conduzir, veloz e comodamente, num automóvel com rodas de borracha - da borracha que esses homens tiram à selva misteriosa e implacável..."
@@ -25,3 +22,36 @@ Os selvícolas caçadores de cabeças do Alto Purus, que o general Rondon tentar
 Esse diagnóstico inquietante de uma parte do território gigantesco de um País que ora adquire consciência de seus problemas sociais e caminha, penosamente, para seus destinos maiores merece a gratidão dos brasileiros que desejam corrigir o mais rápido possível essa condição absurda. *A Selva* é um tributo ao que há de mais puro e de mais cristão na parte da humanidade que luta pela implantação de normas sociais condignas para o ser humano em suas relações com os seus semelhantes. E se o esquizofrênico *Minha Luta* de Hitler projetou sobre quase meio século a sombra aterradora da sua advertência, encerrando de forma embriônica as ameaças dos campos de concentração e dos bombardeios de Coventry, livros como este constituem, mais do que um libelo, um sintoma grávido de perigos iminentes, na época em que a fragilidade e panamericanismos tão obtusos quanto fictícios se esboroa perante realidades prementes e em que líderes insofismáveis lançam mão da violência como única medida contra outra violência multisecular e abusiva. Não esqueçamos, ao ler as páginas dilacerantes dessa obra, a íntima relação que existe entre a Literatura e a Realidade, neste nosso século em que os artistas tombam em holocausto às suas ideias e são massacrados, nos países totalitários, por revelarem uma Verdade incômoda em sua hedionda integridade. Como sublinha Merleau-Ponty, analisando a obra de Camus, "um livro significa na área espiritual, uma ação tão concreta quanto um gesto no plano físico". É analisado sob essa perspectiva que *A Selva* adquire seu vigor total, como uma obra que cria um novo realismo literário, fundindo o fato e a ficção num todo coeso, que parte da consciência humana e a ela se dirige, numa unilateralidade necessária, irresistível e sobretudo ineludível.
 
 Capítulo dez
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "As novas dimensões do realismo literário (A Selva de Ferreira de Castro)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Diário de Notícias 22-01-1961, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro)</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'As novas dimensões do realismo literário (A Selva de Ferreira de Castro)'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro)},
+    orig_publisher = {'Diário de Notícias 22-01-1961'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'As novas dimensões do realismo literário (A Selva de Ferreira de Castro)'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Diário de Notícias 22-01-1961'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro)
+    ER  - 
+    ```

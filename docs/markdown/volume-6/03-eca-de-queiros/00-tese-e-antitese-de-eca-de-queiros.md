@@ -3,13 +3,10 @@ title: 'Tese e Antítese de Eça de Queirós'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Tese e Antítese de Eça de Queirós". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Diário de Notícias 02-08-1964, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros
 orig_publisher: 'Diário de Notícias 02-08-1964'
 orig_date: Sem data
-
 ---
 
 Dentre os raros críticos de nível internacional com que conta a vida intelectual brasileira, Antônio Cândido ocupa com justiça uma posição ímpar, como um dos mais profundos e inspirados intérpretes da nossa literatura e de autores estrangeiros. Seu último livro, que inaugura a Coleção Ensaio da Companhia Editora Nacional, denominado *Tese e Antítese*, abrange cinco estudos ainda não editados sobre dois romancistas estrangeiros (Alexandre Dumas e Joseph Conrad) e três de língua portuguesa (Eça de Queirós, Graciliano Ramos e Guimarães Rosa), além de um *addendum* dedicado às relações entre a música e a vida de Stendhal.
@@ -27,3 +24,36 @@ Mas como assinala o crítico com propriedade, *Os Maias* documentam o primeiro "
 Nas considerações finais, lapidares no melhor sentido que este termo possa ter, o crítico distingue as tarefas e as limitações da sociologia e da política, matérias somente *subsidiárias* à compreensão plena de uma obra literária. Esta, porém, só pode ser aquilatada definitivamente por críticos *literários*: "Em crítica, os julgamentos de natureza política são dos mais arriscados, porque relegam o fenômeno literário para uma esfera inferior, confundindo os planos e nos expondo aos piores equívocos. É importante também a distinção arguta que estabelece ao constatar que "(...) o ruralismo desse grande escritor tão sensível à dimensão social (...) constitui uma opção de ordem *estética*, não política" (nosso o grifo). Eça de Queirós, recorda Antônio Cândido, ao mesmo tempo que se votava a romances de apologia do sadio meio rural português, escrevia artigos politicamente dos mais avançados sobre o socialismo, a burguesia capitalista e o imperialismo econômico. As observações finais aplicam-se integralmente às "críticas obscurantistas de fanáticos tanto da esquerda quanto da direita que desejam instaurar no setor da lieratura e das artes um espírito inquisitorial doentio e deformante, além de profundamente esterilizador".
 
 Saibamos apreciar esteticamente uma acomodação que pode ferir o nosso gosto político, mas graças à qual pôde realizar *A Ilustre Casa de Ramires* e ainda: "As conjecturas de ordem política trazem algum auxílio ao estudo do problema, mas não devem erigir-se em critério de julgamento. Na literatura - o que nos interessa aqui - é avançado o que é perfeito, traduzindo uma compenetração adequado do espírito criador com a sua matéria plástica (...) Coincidindo com algumas das tendências pessoais e sugestões sociais mais arraigadas em Eça de Queirós, a visão *compreensiva* lhe permitiu, tanto quanto a oposicionista, a realização desse ideal de arte. O resto não é literatura".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Tese e Antítese de Eça de Queirós". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Diário de Notícias 02-08-1964, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Tese e Antítese de Eça de Queirós'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros},
+    orig_publisher = {'Diário de Notícias 02-08-1964'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Tese e Antítese de Eça de Queirós'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Diário de Notícias 02-08-1964'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros
+    ER  - 
+    ```

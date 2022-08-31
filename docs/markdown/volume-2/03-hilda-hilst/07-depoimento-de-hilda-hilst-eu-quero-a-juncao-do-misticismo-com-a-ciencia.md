@@ -3,13 +3,10 @@ title: 'Depoimento de Hilda Hilst: "Eu quero a junção do misticismo com a ciê
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Depoimento de Hilda Hilst: "Eu quero a junção do misticismo com a ciência"". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 15-3-1980 e O Estado de São Paulo 16-3-1980, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/07-depoimento-de-hilda-hilst-eu-quero-a-juncao-do-misticismo-com-a-ciencia</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/07-depoimento-de-hilda-hilst-eu-quero-a-juncao-do-misticismo-com-a-ciencia
-orig_publisher: 'LGR JT 15-3-1980 e O Estado de São Paulo 16-3-1980'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/07-depoimento-de-hilda-hilst-eu-quero-a-juncao-do-misticismo-com-a-ciencia
+orig_publisher: 'Jornal da Tarde'
+orig_date: 15/3/1980 e *O Estado de São Paulo* 16/3/1980
 ---
 
 Em seu mais recente livro, *Tu não te moves de Ti* (Editora Cultura, SP), a ser lançado amanhã, a escritora paulista Hilda Hilst elabora uma narrativa tripla, três personagens, da Razão (Tadeu), Matamoros (da Fantasia) e Axelrod (da Proporção), que reproduzem aquela confluência einsteiniana de que, vistos à distância, o presente, o passado e o futuro coincidem como uma só ponta no infinito.
@@ -141,3 +138,36 @@ Talvez o melhor do meu trabalho, quero dizer o mais satisfatório, seja o nível
 \- E você acha que não há esperança nessa tua nova fase de pensamento e de escrever?
 
 "Não sei, talvez, quem sabe?"
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Depoimento de Hilda Hilst: "Eu quero a junção do misticismo com a ciência"". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 15/3/1980 e *O Estado de São Paulo* 16/3/1980. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/07-depoimento-de-hilda-hilst-eu-quero-a-juncao-do-misticismo-com-a-ciencia</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Depoimento de Hilda Hilst: "Eu quero a junção do misticismo com a ciência"'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/07-depoimento-de-hilda-hilst-eu-quero-a-juncao-do-misticismo-com-a-ciencia},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 15/3/1980 e *O Estado de São Paulo* 16/3/1980}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Depoimento de Hilda Hilst: "Eu quero a junção do misticismo com a ciência"'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 15/3/1980 e *O Estado de São Paulo* 16/3/1980
+    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/07-depoimento-de-hilda-hilst-eu-quero-a-juncao-do-misticismo-com-a-ciencia
+    ER  - 
+    ```

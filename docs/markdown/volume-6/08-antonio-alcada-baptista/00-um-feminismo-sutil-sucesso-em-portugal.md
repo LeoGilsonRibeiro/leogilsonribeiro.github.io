@@ -3,13 +3,10 @@ title: 'Um feminismo sutil, sucesso em Portugal'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Um feminismo sutil, sucesso em Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 22-05-1986, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/08-antonio-alcada-baptista/00-um-feminismo-sutil-sucesso-em-portugal</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/08-antonio-alcada-baptista/00-um-feminismo-sutil-sucesso-em-portugal
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/08-antonio-alcada-baptista/00-um-feminismo-sutil-sucesso-em-portugal
 orig_publisher: 'Jornal da Tarde 22-05-1986'
 orig_date: Sem data
-
 ---
 
 O escritor A. Alçada Baptista abana a cabeça, desacorçoado:
@@ -59,3 +56,36 @@ Um trecho marcante de seu livro, quando a personagem Teresa medita: "A gente às
 Alçada Baptista retoma essa insistência num transformação do mundo, das condições em que vivemos, dos sistemas políticos e econômicos que erigimos Leste e a Oeste no Norte e no Sul. A reação contra as centrais nucleares, a juventude e sua vontade de experimentar o nunca experimentado lhe dão esperança de uma modificação para melhor: "É disso que eu vivo".
 
 Capítulo nove
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Um feminismo sutil, sucesso em Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 22-05-1986, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/08-antonio-alcada-baptista/00-um-feminismo-sutil-sucesso-em-portugal</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Um feminismo sutil, sucesso em Portugal'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/08-antonio-alcada-baptista/00-um-feminismo-sutil-sucesso-em-portugal},
+    orig_publisher = {'Jornal da Tarde 22-05-1986'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Um feminismo sutil, sucesso em Portugal'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 22-05-1986'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/08-antonio-alcada-baptista/00-um-feminismo-sutil-sucesso-em-portugal
+    ER  - 
+    ```

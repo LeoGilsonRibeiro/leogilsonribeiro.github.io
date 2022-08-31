@@ -3,45 +3,42 @@ title: 'Entrevista'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Veja, 6-9-1972, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/00-entrevista</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/06-murilo-mendes/00-entrevista
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/06-murilo-mendes/00-entrevista
 orig_publisher: 'Veja, 6-9-1972'
 orig_date: Sem data
-
 ---
 
-Murilo Mendes é um entrevistado cercado de parentes por todos os lados. Cordialíssimos, um fala sobre sua especialidade, ecologia. Outro, de sua permanência em Nova York; outro ainda, de seu trabalho numa importante enciclopédia em elaboração. Entre uma pausa e outra, Murilo Mendes fala, a princípio relutante. Durante o almoço, mais à vontade, conta histórias saborosas. Como a de seu irmão, o desembargador Onofre Mendes, que diante do espelho, fazendo a barba, telefonava de Pitangy, interior de Minas, ao chefe da estação, pedindo: \"Seu Joaquim, amarre o trem que ainda não terminei a barba!\" Ou, musicólogo fanático por Beethoven (um de seus filhos foi batizado Beethoven), pedia a seus clientes antes de instaurar um processo contra invasores de fazendas: \"Primeiro vamos ouvir este Adágio da Nona Sinfonia\". Depois da sesta, a entrevista prossegue. Murilo Mendes, aos setenta anos, teme os jornalistas: um deles deturpa suas palavras, misturando-as \"de cambulhada com as de Cristo, vejam só!\" Outro degradara o seu italiano, fazendo-o cometer \"em apenas quatro linhas oito erros de italiano\". Nele, como em seu livro \"Poliedro\", há várias facetas: um *Murilo Mendes* que faz uma careta de repugnância quando se menciona o nome de um romancista sem valor; um poeta consciente de sua importância como laureado com o Prêmio Etna-Taormina, o mais importante da Itália, que lhe foi concedido no ano passado. o professor, há quinze anos leciona literatura brasileira na Universidade de Roma, que, irônico, desafia uma aluna maoísta: \"A senhora cria um novo tipo de contestação: a do aluno que não quer estudar e considera a aula um resquício capitalista\"; o menino que soltava os pássaros da gaiola em casa de seus parentes em Minas e aos treze anos escreveu uma petição ao prefeito para soltar os presos em Juiz de Fora. Rindo das teorias literárias que dão a Europa como moribunda culturalmente (\"Com um poeta como Sanquineti ou um pesquisador como Lévy-Strauss, moribunda?!) ou da morte da arte preconizada por alguns críticos (\"A arte mudou: da parede passou para cima da mesa como objetos maravilhosos\"), ele é uma ligação entre o passado e o futuro, o Novo e o Velho Mundo.\
-\
+Murilo Mendes é um entrevistado cercado de parentes por todos os lados. Cordialíssimos, um fala sobre sua especialidade, ecologia. Outro, de sua permanência em Nova York; outro ainda, de seu trabalho numa importante enciclopédia em elaboração. Entre uma pausa e outra, Murilo Mendes fala, a princípio relutante. Durante o almoço, mais à vontade, conta histórias saborosas. Como a de seu irmão, o desembargador Onofre Mendes, que diante do espelho, fazendo a barba, telefonava de Pitangy, interior de Minas, ao chefe da estação, pedindo: \"Seu Joaquim, amarre o trem que ainda não terminei a barba!\" Ou, musicólogo fanático por Beethoven (um de seus filhos foi batizado Beethoven), pedia a seus clientes antes de instaurar um processo contra invasores de fazendas: \"Primeiro vamos ouvir este Adágio da Nona Sinfonia\". Depois da sesta, a entrevista prossegue. Murilo Mendes, aos setenta anos, teme os jornalistas: um deles deturpa suas palavras, misturando-as \"de cambulhada com as de Cristo, vejam só!\" Outro degradara o seu italiano, fazendo-o cometer \"em apenas quatro linhas oito erros de italiano\". Nele, como em seu livro \"Poliedro\", há várias facetas: um *Murilo Mendes* que faz uma careta de repugnância quando se menciona o nome de um romancista sem valor; um poeta consciente de sua importância como laureado com o Prêmio Etna-Taormina, o mais importante da Itália, que lhe foi concedido no ano passado. o professor, há quinze anos leciona literatura brasileira na Universidade de Roma, que, irônico, desafia uma aluna maoísta: \"A senhora cria um novo tipo de contestação: a do aluno que não quer estudar e considera a aula um resquício capitalista\"; o menino que soltava os pássaros da gaiola em casa de seus parentes em Minas e aos treze anos escreveu uma petição ao prefeito para soltar os presos em Juiz de Fora. Rindo das teorias literárias que dão a Europa como moribunda culturalmente (\"Com um poeta como Sanquineti ou um pesquisador como Lévy-Strauss, moribunda?!) ou da morte da arte preconizada por alguns críticos (\"A arte mudou: da parede passou para cima da mesa como objetos maravilhosos\"), ele é uma ligação entre o passado e o futuro, o Novo e o Velho Mundo.
+
 LGR - Murilo Mendes, desde o início toda a sua atividade literária tem estado ligada à palavra liberdade. Ela para você é sinônimo de autenticidade cristão. No plano social\...
 
-*Murilo Mendes* - Eu sou um homem que espia a maré. Espio os movimentos culturais, evidentemente de vanguarda, porque os movimentos retrógrados não me interessam. Portanto, procuro extrair deles uma síntese, eu sou um homem de essência, é preciso não esquecer que tenho uma formação francesa, estudei Descartes\...\
-\
+*Murilo Mendes* - Eu sou um homem que espia a maré. Espio os movimentos culturais, evidentemente de vanguarda, porque os movimentos retrógrados não me interessam. Portanto, procuro extrair deles uma síntese, eu sou um homem de essência, é preciso não esquecer que tenho uma formação francesa, estudei Descartes\...
+
 LGR - Mas é um grande admirador também dos anticartesianos como Baudelaire, Rimbaud, Mallarmé\...
 
-*Murilo Mendes* - Bem, sou obrigado a sair da modéstia e dizer que o que já se tem dito de mim: eu sou complexo, tenho muito de racionalista e de irracionalista\...\
-**\
-**LGR - Não distingue fronteiras entre a realidade e a irrealidade\...
+*Murilo Mendes* - Bem, sou obrigado a sair da modéstia e dizer que o que já se tem dito de mim: eu sou complexo, tenho muito de racionalista e de irracionalista\...
+
+LGR - Não distingue fronteiras entre a realidade e a irrealidade\...
 
 *Murilo Mendes* - Não sei, me recuso, acho-as fluidas. Devo muitíssimo a Baudelaire. Ultimamente deram a Mallarmé o título de Dante da era industrial, mas acho que Baudelaire é o primeiro poeta moderno. Nossos maiores problemas atuais estão contidos ao menos em gérmin na sua obra, não só em \"Les Fleurs du Mal\", como nos poemas em prosa, nos seus admiráveis artigos sobre artes plásticas e nas suas traduções. Portanto, a liberdade limita-se com a censura. Se não admito nem um hífen entre poesia e liberdade, como no meu livro intitulado, sem transição nenhuma, \"Poemas liberdade\", por outro lado aceito sinceramente a censura criteriosa. O que antigamente era proibido a menores de 18 ou 21 anos, hoje, na era da televisão, baixou para, digamos, dez anos. Mas sou contra esta inflação de revistas pornográficas. Trata-se de uma destruição do charme feminino, uma destruição que é um dos maiores inimigos da poesia, porque o ser humano é sacro, não por pertencer a determinada religião, pelo fato de ir à missa, nada disso, mas pela simples razão de a Bíblia ter dito que o homem foi criado à imagem e semelhança de Deus.
 
 LGR - Então foi uma sacralidade implícita que foi violada?
 
-*Murilo Mendes* - Violada, sim, mas vou dizer uma coisa que talvez possa parecer absurda: é possível que nós estejamos entrando numa época profundamente religiosa, que não se conhece. Repito: não é uma aderência a uma determinada religião, é uma ânsia de superar os limites humanos. Essa busca pode exprimir-se até pela ciência, pelas conquistas espaciais, tudo isso eu acho que participa do sagrado. Quando ao fato de Gargárin, na primeira vez que foi ao espaço, ter declarado que não viu Deus, uma menina de dez anos em Madri, há algum tempo, ao saber disso, respondeu: \"Não acho isso nada de extraordinário porque, no Catecismo, eu tinha cinco anos quando me ensinaram que Deus é um Ser onisciente, todo-poderoso e invisível\".\
-\
+*Murilo Mendes* - Violada, sim, mas vou dizer uma coisa que talvez possa parecer absurda: é possível que nós estejamos entrando numa época profundamente religiosa, que não se conhece. Repito: não é uma aderência a uma determinada religião, é uma ânsia de superar os limites humanos. Essa busca pode exprimir-se até pela ciência, pelas conquistas espaciais, tudo isso eu acho que participa do sagrado. Quando ao fato de Gargárin, na primeira vez que foi ao espaço, ter declarado que não viu Deus, uma menina de dez anos em Madri, há algum tempo, ao saber disso, respondeu: \"Não acho isso nada de extraordinário porque, no Catecismo, eu tinha cinco anos quando me ensinaram que Deus é um Ser onisciente, todo-poderoso e invisível\".
+
 LGR - Há quinze anos você vive fora do Brasil: como o vê lá, mesmo com distorções intencionais de certos políticos?
 
-*Murilo Mendes* - O meu amigo e poeta português Jorge de Sena disse que o Brasil é um país surrealista, e eu, chegado a esta idade, posso subscrever esse aforismo. O Brasil de fato é surrealista. Hoje o Brasil está num período de grande progresso material, mas para mim o progresso que conta é cultural e espiritual.\
-\
+*Murilo Mendes* - O meu amigo e poeta português Jorge de Sena disse que o Brasil é um país surrealista, e eu, chegado a esta idade, posso subscrever esse aforismo. O Brasil de fato é surrealista. Hoje o Brasil está num período de grande progresso material, mas para mim o progresso que conta é cultural e espiritual.
+
 LGR - E seus alunos na Universidade de Roma, como reagem à literatura brasileira?
 
-*Murilo Mendes* - Os meus alunos, nestes quinze anos, aceitam a literatura brasileira, creio que amam, por ser a literatura de um país moderno, com ideias modernas, escritores e poetas modernos. Por exemplo, traço um gráfico muito longo, ligando o nosso Modernismo de 1922 com o grande Modernismo europeu incluindo a literatura - que não pode ser considerada uma atividade isolada do cinema, das artes plásticas, da arquitetura, etc. E procuro aborrecer o menos possível os alunos com excessos de datas, dando-lhes uma noção do conteúdo dos principais autores. Posso dizer sem modéstia que meu trabalho tem sido apreciado, tanto assim que no fim do ano acadêmico, no ano passado, grande grupo de estudantes e estudantas avançou para mim e gritou: \"Lei è il professore dell\'avvenire!\" (O senhor é o professor do futuro!)\
-\
+*Murilo Mendes* - Os meus alunos, nestes quinze anos, aceitam a literatura brasileira, creio que amam, por ser a literatura de um país moderno, com ideias modernas, escritores e poetas modernos. Por exemplo, traço um gráfico muito longo, ligando o nosso Modernismo de 1922 com o grande Modernismo europeu incluindo a literatura - que não pode ser considerada uma atividade isolada do cinema, das artes plásticas, da arquitetura, etc. E procuro aborrecer o menos possível os alunos com excessos de datas, dando-lhes uma noção do conteúdo dos principais autores. Posso dizer sem modéstia que meu trabalho tem sido apreciado, tanto assim que no fim do ano acadêmico, no ano passado, grande grupo de estudantes e estudantas avançou para mim e gritou: \"Lei è il professore dell\'avvenire!\" (O senhor é o professor do futuro!)
+
 LGR - E que autores interessam particularmente ao aluno italiano?
 
-*Murilo Mendes* - O autor mais admirado pelos meus estudantes é Machado de Assis. É um verdadeiro sucesso. Gostam imensamente dele e muitos me dizem: meus pais, meus tios, minha irmã estão lendo com grande encanto \"Brás Cubas\", \"Quincas Borba\" e \"Dom Casmurro\", naturalmente em italiano. Interessam-se por Machado de Assis por dois motivos: primeiro, o Machado não acredita nas instituições, é cético e, segundo, tem humor, que é um elemento sempre moderno, e tem uma grande preocupação com o tema do tempo, que, como se sabe, é um dos temas dominantes da literatura da nossa época, principalmente através de Kafka, Proust, Joyce, Pirandello. Além de Machado, prezam José de Alencar, Drummond e Cabral.\
-\
+*Murilo Mendes* - O autor mais admirado pelos meus estudantes é Machado de Assis. É um verdadeiro sucesso. Gostam imensamente dele e muitos me dizem: meus pais, meus tios, minha irmã estão lendo com grande encanto \"Brás Cubas\", \"Quincas Borba\" e \"Dom Casmurro\", naturalmente em italiano. Interessam-se por Machado de Assis por dois motivos: primeiro, o Machado não acredita nas instituições, é cético e, segundo, tem humor, que é um elemento sempre moderno, e tem uma grande preocupação com o tema do tempo, que, como se sabe, é um dos temas dominantes da literatura da nossa época, principalmente através de Kafka, Proust, Joyce, Pirandello. Além de Machado, prezam José de Alencar, Drummond e Cabral.
+
 LGR - E para você, pessoalmente, o que a Itália lhe deu de melhor?
 
 *Murilo Mendes *- Estou perfeitamente identificado com o ambiente italiano, mesmo porque o temperamento italiano tem muitos traços de parecença com o nosso. Tenho acompanhado nestes quinze anos o movimento cultural italiano e exercido atividade de crítico de arte, apresentando exposições de artistas italianos ou brasileiros. Publiquei um livro sobre Alberto Magnelli, que é um dos pintores mais importantes da nossa época, precursor do Abstracionismo. Poderia citar muitos nome além de Ungaretti, tão ligado ao Brasil: Montale, que trouxe uma palavra nova, Gadda, com seus jogos linguísticos. Mas, para ser sincero, a minha grande conquista cultural na Itália foi a leitura detalhada e meditada da \"Divina Comédia\", como sofro muito de insônia, à noite acendo a luz e leio Dante. Sabe, como disse a Fellini - que foi me buscar num carro enorme e me disse que os estrangeiros muitas vezes vêem melhor um país do que os seus filhos -, Dante era a televisão da época medieval. Como disse a Fellini, Dante explica até o \"Mammismo\" italiano, esse culto entranhamente italiano da \"Mamma\", a Mãe, a Madonna, esse quarto integrante que os italianos acrescentaram à Santíssima Trindade. No \"Paradiso\", falando dos Eleitos, Dante refere-se aos que tinham ido para o Céu para satisfazer a mãe, o pai, a família. Além disso me impressiona muito o fato de os italianos lavarem a roupa suja em público, com auto-confissões e auto-acusações francas, como os primeiros cristãos.
@@ -89,3 +86,36 @@ LGR - Então os hippies não significam uma fuga, uma omissão, mas uma nova op�
 LGR - No entanto, você desde 1956, achava que a Revolução chinesa era, com a desintegração do átomo, um dos dois fenômenos mais importantes do século?
 
 *Murilo Mendes* - Antes de 1956, até! Acho que a Revolução Cultural já passou, a China hoje, por mais marxista e maoísta que seja, não pode deixar de ser chinesa e renegar os milhares de anos da cultura esplêndida que tem. Há uma grande crise, uma grande perplexidade - a arte morreu? a Europa está cansada culturalmente? -, mas na arte, na religião, em tudo estamos com a tendência de começar do marco zero. É uma coisa grandiosa! É o que a maioria das pessoas não vê, ou por não ter temperamento, ou por não ter cultura ou capacidade para abarcar a vastidão dessa mudança. Como sou - como vislumbrou lucidamente Otto Maria Carpeaux escrevendo sobre mim há anos - um espírito dialético, e busco a lógica oculta entre sensualidade e cristianismo, racionalismo e irracionalismo. Só que, quando me convidaram para assistir, às 3 da manhã, à descida do homem na Lua, me recusei: a essa hora só estou acordado, por insônia, para ler Dante ou ouvir Mozart, ou para assistir à segunda vinda do Cristo sobre a terra.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Entrevista". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Veja, 6-9-1972, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/06-murilo-mendes/00-entrevista</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Entrevista'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/06-murilo-mendes/00-entrevista},
+    orig_publisher = {'Veja, 6-9-1972'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Entrevista'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Veja, 6-9-1972'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-4/06-murilo-mendes/00-entrevista
+    ER  - 
+    ```

@@ -3,13 +3,10 @@ title: 'Fernando Pessoa III, o Poeta Singular e Plural de João Alves das Neves 
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Fernando Pessoa III, o Poeta Singular e Plural de João Alves das Neves (Editora Expressão)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)
 orig_publisher: 'Jornal da Tarde 1985'
 orig_date: Sem data
-
 ---
 
 *Fernando Pessoa, o Poeta Singular e Plural*, de João Alves das Neves (Editora Expressão), inaugura, segundo seu editor Ismael Guarneelli, uma nova fase: a de baratear livros de e sobre escritores decisivos em língua portuguesa ou traduzidos de outros idiomas. Com belas ilustrações e uma pequena antologia que abrange tanto a parte poética dos vários Fernandos Pessoa como seus escritos em prosa, pareceu-me que seu mérito é o de dar ao poeta e crítico português João Alves das Neves a oportunidade de desvendar lucidamente para o público brasileiro uma das "personalidades" ou heterônimos encobertos do supremo poeta lusitano deste século: Bernardo Soares. Conheciam-se incomparavelmente melhor Alberto Caieiro, Ricardo Reis e Álvaro de Campos, esses poetas co-existentes com Fernando Pessoa e que dele emanaram prontos como Pallas Athenea surgiu perfeitamente da cabeça de Zeus. Quando se pensa que no espólio pessoano existem 25.426 originais, guardados em 343 envelopes, com um sem-número de textos ainda inéditos ou semi-inéditos, Fernando Pessoa é não só o poeta múltiplo que se desdobra em quatro ou cinco poetas diferentes simultaneamente: equivale a uma perene descoberta.
@@ -39,3 +36,36 @@ Sinais característicos: "Cristão gnóstico, e portanto inteiramente oposto a t
 Não desprovido de senso de humor, Fernando Pessoa acrescentava sempre a um seu possível auto-retrato cambiante: "Fernando Pessoa nem toma qualquer crítica que se lhe faça, como um ato de lesa-divindade" nem se julga mestre nem chefe nem mesmo de cozinha... Tendo preparado ciosamente os mapas astrológicos dos três poetas que o visitaram, desde criança criava personagens que com ele brincavam e falavam, aduzindo enigmaticamente: "Não sei, bem entendido, se realmente não existiram ou se sou eu que não existo. Nestas coisas, como em todas, não devemos ser dogmáticos". Aos seis anos de idade, já redigia cartas a si mesmo, enviadas por um misterioso Chevalier de Pas e na longuíssima dissertação sobre seus heterônimos que enviou a seu amigo, o excelente crítico e ensaísta português Asolfo Casais Monteiro, exilado no Brasil devido ao regime salazarista, ele lhe pede que não revele a parte ocultista, esotérica de sua "iniciação" metafísica, quando começou a traduzir *Vozes do Silêncio,* de Mme. Blavatsky, a mística russa fundadora da Teosofia e autora de *A Doutrina Secreta* que campeou no Tibet. Desinteressado da sensualidade: "talvez porque a sensualidade real não tem para mim interesse de nenhuma espécie - nem sequer mental ou de sonho -, transmudou-se-me o desejo para aquilo que em mim cria ritmos verbais, ou os escuta de outros. Estremeço se dizem bem". E ainda: "Tal página, até, de Vieira, na sua fria perfeição de engenharia, sintática, me faz tremer como um ramo ao vento, num delírio passivo de coisa movida". Até aproximar-se do deslumbramento cromático das vogais, como Rimbaud, daquele "assombro vocálico em que os sons são cores ideais". Em 1935 (nascera em 1888) morre fisicamente de uma cólica hepática no Hospital São Luís dos Franceses, escrevendo a lápis sua útima frase e em inglês: "*I know not what tomorrow will bring*" ("Ignoro o que trará o amanhã"). Está enterrado - poderia ser em outro lugar? - no Cemitério dos Prazeres, de Lisboa.
 
 A fascinante mutiplicidade de aspectos, às vezes conflitantes, de Fernando Pessoa, é completada, mais do que por seus conjecturais dados autobiográficos, pela sua poesia, da qual excertos significativos estão incluídos neste volume, formando uma sintética Antologia básica. João Alves da Neves contraiu com os seus leitores brasileiros a obrigação, por assim dizer, de publicar os seus demais artigos e conferências sore Fernando Pessoa e autores eminentes portugueses como Aquilino Ribeiro e o sublime poeta Mário de Sá-Carneiro. Sua obra crítica esparsa em revistas, jornais e mesmo em outros livros, nao pode permanecer dispersa. Se ao selecionar poetas modernos portugueses prestou um serviço altamente importante para o conhecimento, por parte do Brasil, do melhor que se produz em Portugal (Editora Civilização Brasileira, 1967) é indispensável que saibamos, cada vez mais, sobre a sensibilidade e a inteligência portuguesas, uma das arquitraves fundamentais da nossa própria brasilidade. No amálgama étnico e de culturas do Brasil, o permanente laço de união tem que ser, como o foi para Fernando Pessoa, a pátria interior - a língua portuguesa.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Fernando Pessoa III, o Poeta Singular e Plural de João Alves das Neves (Editora Expressão)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 1985, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Fernando Pessoa III, o Poeta Singular e Plural de João Alves das Neves (Editora Expressão)'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)},
+    orig_publisher = {'Jornal da Tarde 1985'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Fernando Pessoa III, o Poeta Singular e Plural de João Alves das Neves (Editora Expressão)'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 1985'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)
+    ER  - 
+    ```

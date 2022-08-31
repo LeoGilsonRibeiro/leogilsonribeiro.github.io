@@ -3,13 +3,10 @@ title: 'Orelha para a primeira edição do livro Estas Estórias (1969)'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Orelha para a primeira edição do livro Estas Estórias (1969)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Estas Estórias são um caleidoscópio do Grande Sertão que o escritor mineiro desvendou para a literatura brasileira e para o mundo: um caleidoscópio que mostra várias de suas fascinantes veredas. No "Vaqueiro Mariano" a captação épica, viril, da natureza selvagem do Pantanal mato-grossense, aliada à compreensão profunda dos seus herois anônimos, os vaqueiros que encontram em Mariano o seu arquétipo definitivo. Em "Os Chapéus Transeuntes" a criação matizada, risonha e filosófica de figuras que lembram uma commedia dellarte mineira, com Vovô Barão e o Ratapulgo. Em "Meu Tio o Iauaretê" a pesquisa estilística realizada no monólogo do índio semi-agregado à civilização tecnológica que encerra, de forma inquietante, este esplêndido mural, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/06-orelha-para-a-primeira-edicao-do-livro-estas-estorias-(1969)</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/06-orelha-para-a-primeira-edicao-do-livro-estas-estorias-(1969)
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/06-orelha-para-a-primeira-edicao-do-livro-estas-estorias-(1969)
 orig_publisher: 'Estas Estórias são um caleidoscópio do Grande Sertão que o escritor mineiro desvendou para a literatura brasileira e para o mundo: um caleidoscópio que mostra várias de suas fascinantes veredas. No "Vaqueiro Mariano" a captação épica, viril, da natureza selvagem do Pantanal mato-grossense, aliada à compreensão profunda dos seus herois anônimos, os vaqueiros que encontram em Mariano o seu arquétipo definitivo. Em "Os Chapéus Transeuntes" a criação matizada, risonha e filosófica de figuras que lembram uma commedia dellarte mineira, com Vovô Barão e o Ratapulgo. Em "Meu Tio o Iauaretê" a pesquisa estilística realizada no monólogo do índio semi-agregado à civilização tecnológica que encerra, de forma inquietante, este esplêndido mural'
 orig_date: Sem data
-
 ---
 
 Mas para decifrar todo o facínio do seu texto, Guimarães Rosa pede unicamente a colaboração ativa do leitor. Como todo artista moderno, a partir de Baudelaire, ele faz com T. S. Eliot, com Joyce, Pound, Gadda, Cortázar e Benn proclamando: a arte -- no século XX -- tem uma linguagem própria, como a astronáutica, a música dodecafônica, a arte cinética. Se o leitor aceita o desafio inicial do esforço para penetrar nesse maravilhoso Reino da Linguagem que Guimarães Rosa criou -- inclusive recorrendo ao dicionário para elucidar termos de uso não diário -- ele vislumbrará um reino vasto, majestoso, que o acompanhará sempre.
@@ -29,3 +26,36 @@ O leitor vai num sobressalto, de uma estória a outra, num crescendo admirável 
 Como o autor diz a respeito do vaqueiro Mariano, o leitor verá que no seu estilo "umas palavras intensas, diferentes, abrem de espaços a vastidão onde o real furta à fábula".
 
 Por isso este livro é póstumo só quanto à "casca", a localização histórica. Mas o "miolo", o essencial, permanece como predissera o Mestre em sua última frase pública: "As pessoas não morrem: ficam encantadas." O encantamento de Guimarães Rosa não morreu com ele: absorve, enfeitiça, enriquece e marca indelevelmente o seu leitor, como quem trilha nas pegadas de um gênio.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Orelha para a primeira edição do livro Estas Estórias (1969)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Estas Estórias são um caleidoscópio do Grande Sertão que o escritor mineiro desvendou para a literatura brasileira e para o mundo: um caleidoscópio que mostra várias de suas fascinantes veredas. No "Vaqueiro Mariano" a captação épica, viril, da natureza selvagem do Pantanal mato-grossense, aliada à compreensão profunda dos seus herois anônimos, os vaqueiros que encontram em Mariano o seu arquétipo definitivo. Em "Os Chapéus Transeuntes" a criação matizada, risonha e filosófica de figuras que lembram uma commedia dellarte mineira, com Vovô Barão e o Ratapulgo. Em "Meu Tio o Iauaretê" a pesquisa estilística realizada no monólogo do índio semi-agregado à civilização tecnológica que encerra, de forma inquietante, este esplêndido mural, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/06-orelha-para-a-primeira-edicao-do-livro-estas-estorias-(1969)</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Orelha para a primeira edição do livro Estas Estórias (1969)'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/06-orelha-para-a-primeira-edicao-do-livro-estas-estorias-(1969)},
+    orig_publisher = {'Estas Estórias são um caleidoscópio do Grande Sertão que o escritor mineiro desvendou para a literatura brasileira e para o mundo: um caleidoscópio que mostra várias de suas fascinantes veredas. No "Vaqueiro Mariano" a captação épica, viril, da natureza selvagem do Pantanal mato-grossense, aliada à compreensão profunda dos seus herois anônimos, os vaqueiros que encontram em Mariano o seu arquétipo definitivo. Em "Os Chapéus Transeuntes" a criação matizada, risonha e filosófica de figuras que lembram uma commedia dellarte mineira, com Vovô Barão e o Ratapulgo. Em "Meu Tio o Iauaretê" a pesquisa estilística realizada no monólogo do índio semi-agregado à civilização tecnológica que encerra, de forma inquietante, este esplêndido mural'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Orelha para a primeira edição do livro Estas Estórias (1969)'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Estas Estórias são um caleidoscópio do Grande Sertão que o escritor mineiro desvendou para a literatura brasileira e para o mundo: um caleidoscópio que mostra várias de suas fascinantes veredas. No "Vaqueiro Mariano" a captação épica, viril, da natureza selvagem do Pantanal mato-grossense, aliada à compreensão profunda dos seus herois anônimos, os vaqueiros que encontram em Mariano o seu arquétipo definitivo. Em "Os Chapéus Transeuntes" a criação matizada, risonha e filosófica de figuras que lembram uma commedia dellarte mineira, com Vovô Barão e o Ratapulgo. Em "Meu Tio o Iauaretê" a pesquisa estilística realizada no monólogo do índio semi-agregado à civilização tecnológica que encerra, de forma inquietante, este esplêndido mural'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/06-orelha-para-a-primeira-edicao-do-livro-estas-estorias-(1969)
+    ER  - 
+    ```

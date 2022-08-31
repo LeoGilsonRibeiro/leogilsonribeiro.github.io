@@ -3,13 +3,10 @@ title: 'Um reencontro fascinante com o universo de Clarice'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Um reencontro fascinante com o universo de Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 27-08-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice
-orig_publisher: 'Jornal da Tarde 27-08-1983'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice
+orig_publisher: 'Jornal da Tarde'
+orig_date: 27/08/1983
 ---
 
 A oportuna 12a edição dos contos de Clarice Lispector reunidos em *Laços de Família* (Editora Nova Fronteira) renova a quase que uma geração inteira a importância e o fascínio perenes da revolução literária que ela trouxe à vida cultural brasileira. Deslocando-se do Nordeste intensamente voltado para os problemas sociais da seca, da decadência dos engenhos de açúcar e a perda de sua hegemonia para as economias do Sul do País, antes de Clarice Lispector a sensibilidade e a inventividade brasileiras estavam suspensas. O ato de escrever esgotara-se na denúncia das injustiças sociais e na evocação de uma camada aristocrática já passada? José Américo e José Lins do Rego, Rachel de Queiroz e o exemplo maior - Graciliano Ramos - tinham delimitado num painel gigantesco as fronteiras da prosa? A alternativa seria o romance baiano cheio de tempero local de um Jorge Amado, com sua antecipação de um "socialismo moreno" e sensual?
@@ -67,3 +64,36 @@ A mesma dissecação corajosa da família com suas dissimulações, rivalidades,
 Se "O Búfalo" atinge a perfeição formal, nele estão implícitas também as únicas "tarefas" consentidas à mulher: o perdão e o amor, ou seja, a anulação de si mesma diante da gélida impavidez alheia e uma generosidade levada a um extremo suicida.
 
 Clarice Lispector, neste renovado encontro, concede ao leitor a rara oportunidade de desenrolar-se do cipoal de conceitos estrangeiros que lhe são impostos diariamente pelas estações de rádio, pela televisão, pelo cinema e refletir sobre uma relidade humana, universal, sem dúvida, mas captada aqui em seu aspecto admiravelmente brasileiro, sem regionalismos intraduzíveis. Clarice Lispector é daqueles rarefeitos momentos em que a inteligência, a sensibilidade, a intuição brasileiras correm *pari passu* com os seus mais admiráveis equivalentes estrangeiros, sem apelos ridículos a patriotadas nacionalisteiras. O mundo que Clarice Lispector deliberadamente, magnificamente, coloca de cabeça para baixo diante de nós, afinal, é de uma atualidade tangível. E, felizmente para a língua portuguesa, de uma perfeição inalterável pela passagem do tempo.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Um reencontro fascinante com o universo de Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 27/08/1983. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Um reencontro fascinante com o universo de Clarice'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 27/08/1983}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Um reencontro fascinante com o universo de Clarice'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 27/08/1983
+    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice
+    ER  - 
+    ```

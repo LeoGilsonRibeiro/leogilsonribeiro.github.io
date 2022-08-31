@@ -3,13 +3,10 @@ title: 'Cora Coralina. A morte da poetisa. E de um grande ser humano'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Cora Coralina. A morte da poetisa. E de um grande ser humano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 12-04-1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano
 orig_publisher: 'Jornal da Tarde 12-04-1985'
 orig_date: Sem data
-
 ---
 
 "A vida é boa e você pode fazê-la sempre melhor. Seja otimista. O otimismo é uma força construtora."
@@ -39,3 +36,36 @@ Pioneira, como Chiquinha Gonzaga, de um feminismo inteligente, que não pretende
 Mas os lugares-comuns de Cora Coralina também dariam para encher todo um almanaque farmacêutico, ao lado de seus versos igualmente de almanaque e dos menos inspirados, desgraçadamente. Basta folhear seus livros sem paixões oportunisto-ideológicas ou legítimas lágrimas de solidariedade humana, não estremecimento cerebral.
 
 Sem dúvida, merecedora do troféu que o Conselho Municipal de Lazer lhe entregou, Cora Coralina foi o resultado nítido dessa confusão entre *literatura e lazer* que até alguns anos atrás ainda atrelava a cultura à Secretaria de Esporte e Turismo. O que é pena, porque se Cora Coralina foi uma nobre, generosa, admirável mulher, das que raramente surgem no Brasil entre o bocejo da mulher antiga indecisa entre que maquiagem escolher para a enésima festa e a mulher moderna, da proletária a todas as profissionais que enfrentam a discriminação do machismo *made in Brazil* - tão raramente também sua inspiração ascendeu a um nível que se pudesse do ponto de vista literário, com toda a bondade do mundo, considerar mais do que protopoético. O que é, mesmo, lastimável, como tudo que, na efêmera existência humana, é insanável.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Cora Coralina. A morte da poetisa. E de um grande ser humano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 12-04-1985, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Cora Coralina. A morte da poetisa. E de um grande ser humano'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano},
+    orig_publisher = {'Jornal da Tarde 12-04-1985'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Cora Coralina. A morte da poetisa. E de um grande ser humano'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde 12-04-1985'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano
+    ER  - 
+    ```

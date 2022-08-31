@@ -3,13 +3,10 @@ title: 'Só os mais atentos conseguem encontrar esta maçã no escuro'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Só os mais atentos conseguem encontrar esta maçã no escuro". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 7-05-1975, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro
-orig_publisher: 'Jornal da Tarde 7-05-1975'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro
+orig_publisher: 'Jornal da Tarde'
+orig_date: 7/05/1975
 ---
 
 *A Maçã no Escuro*, Clarice Lispector (Editora Paz e Terra, 4a edição)
@@ -25,3 +22,36 @@ Tecendo círculos concêntricos em torno de sua personagem central, Martim, a ro
 "É um clima densamente kafkiano, próximo de *O Processo* em que Joseph K. Em fuga para o Brasil escapasse de um crime misterioso pelo qual tinha que ser punido até a cena da expiação final, de admirável indagação religiosa do homem que aceita a esperança como um fardo paradoxalmente libertador. É também curiosamente kafkiano, mas em tom brasileiro, o diálogo dilacerante com o pai rigoroso e implacável, em que o filho busca o conhecimento, e o pai lhe nega o acesso à Fé ou a um reino interior agustiadamente desejado.
 
 Os romances de Clarice Lispector não têm a perfeição redonda de seus contos. Há momentos de passageira perda de sentido no emaranhado luxuriante das palavras, selva do Nome que explicará a vida do ser humano e justificará sua condição precária. No entanto, *A Maçã no Escuro* é de indispensável leitura para quem quiser compreender como um livro, escrito em 1956, instaurou no romance brasileiro o advento de um novo e decisivo estilo narrativo. Para os que não se adentrarem por suas páginas, evidentemente, o resultado será o de enxergar uma maçã no escuro: suas cores e sua luminosidade estarão apagadas. E é sempre mais fácil comprar um *best-seller*, muito mais comestível e deglutível que esa difícil maçã anoitecida, eco de um paraíso perdido e evocado pela palavra.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Só os mais atentos conseguem encontrar esta maçã no escuro". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 7/05/1975. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Só os mais atentos conseguem encontrar esta maçã no escuro'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 7/05/1975}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Só os mais atentos conseguem encontrar esta maçã no escuro'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 7/05/1975
+    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro
+    ER  - 
+    ```

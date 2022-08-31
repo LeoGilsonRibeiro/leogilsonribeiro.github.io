@@ -3,13 +3,10 @@ title: 'Guimarães Rosa: novas luzes sobre um fascinante enigma'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Guimarães Rosa: novas luzes sobre um fascinante enigma". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 6-10-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma
-orig_publisher: 'LGR JT 6-10-1984'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma
+orig_publisher: 'Jornal da Tarde'
+orig_date: 6/10/1984
 ---
 
 Sem exagero, pode-se afirmar que a literatura brasileira se rasga de alto a baixo, em *dois modos de ser*: antes de 1956 e depois desta data, a da publicação de *Grande Sertão: Veredas* de Guimarães Rosa. Comprovadamente, qualquer pessoa que folhear um razoável manual da nossa literatura deparará com nomes e obras em grande profusão. Uns e outras, forçosamente menores, noutros casos já se delineiam perfis assombrosos de uma genialidade pouco a pouco reconhecida -- nenhum, porém, com a altivez desafiadora e novíssima, irrepetível, dessa imensa cordilheira mineira até hoje indecifrada. Esfinge de enigmas nunca traduzidos para o linguajar prosaico e a compreensão reles do dia-a-dia, Guimarães Rosa, continua a formular interrogações. Mesmo os nossos melhores críticos lhe respondem apenas com fragmentos, por vezes argutos, de uma sua possível exegese, nunca, porém, com um estudo abrangente e marcante da sua ciclópica obra. Nada que se compare, por exemplo, à *Vida e Obra de Fernando Pessoa*, de João Gaspar Simões, em Portugal.
@@ -43,3 +40,36 @@ Pelas excelentes luzes, fartamente documentadas, que vem lançar sobre um dos as
 "Todos os meus livros são simples tentativas de rodear e devassar um pouquino o mistério cósmico, esta coisa movente, impossível, perturbante e rebelde a qualquer lógica, que é a chamada *realidade*, que é a gente mesmo, o mundo, a vida. Antes o absurdo que o óbvio, que o frouxo. Toda lógica contém inevitável dose de mistificação. Toda mistificação contém boa dose de inevitável verdade".
 
 Coincidindo com a 16ª edição de *Grande Sertão: Veredas*, agora pela Editora Nova Fronteira -- infelizmente sem as magníficas ilustrações de capa de Poty! -, este estudo coerente, lúcido, de Leonardo Arroyo vem preencher mais um dos tantos vazios existentes na interpretação de Guimarães Rosa, nenhum dos quais, por mais brilhante que seja, capaz de abranger a complexa grandeza maravilhosa de sua totalidade. Junta-se aos melhores escritos de Antônio Cândido, de Augusto de Campos, de Benedito Nunes, Cavalcanti Proença, Maria Luiza Ramos e Walnice Nogueira Galvão. De hieróglifo em hieróglifo chegaremos um dia a nos aproximar do código em que ele quis encerrar o seu mistério ou bastará que as "estórias" e o "romance" de Guimarães Rosa continuem fascinando pelo seu valor mágico e encantatório insuperáveis?
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Guimarães Rosa: novas luzes sobre um fascinante enigma". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 6/10/1984. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Guimarães Rosa: novas luzes sobre um fascinante enigma'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 6/10/1984}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Guimarães Rosa: novas luzes sobre um fascinante enigma'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 6/10/1984
+    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma
+    ER  - 
+    ```

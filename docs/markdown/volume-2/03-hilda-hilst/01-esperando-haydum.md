@@ -3,16 +3,13 @@ title: 'Esperando Haydum'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Esperando Haydum". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Fluxofloema, Hilda Hilst (Editora Perspectiva), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/01-esperando-haydum</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/01-esperando-haydum
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/01-esperando-haydum
 orig_publisher: 'Fluxofloema, Hilda Hilst (Editora Perspectiva)'
 orig_date: Sem data
-
 ---
 
-*Veja* 9/12/1970 (?)
+Veja; 9/12/1970 (?)
 
 "E foi assim que o poeta/ Assombrado com as ausências/ Resolveu fazer parte da paisagem/ E repensar convivências" Hilda Hilst (*Poesia* 1959/1967)
 
@@ -23,3 +20,36 @@ Escritas em estilos diferentes e sem inter-relação, entre uma narrativa e a ou
 Mas é com o conto final, "Floema", que Hilda Hilst atinge um dos pontos mais altos da criação literária do Brasil atual. Evocando o misterioso personagem de "A Terceira Margem do Rio", de Guimarães Rosa, um homem, Koyo, simbólico de toda a raça humana, se debate com um Deus que o chamou. É esse ser indefinível -- monstruoso ou bom? Surdo ou cruel? -- que primeiro se dirige ao homem: "Koyo, descansei, mas no descanso também sofro dessa angústia de ser, e no escuro uma noite ME PENSEI\... Estou todo dentro, de perfil também sou de frente, sou sempre inteiro, uso a linguagem fundamental, sem essa que disseste". Isolado de todos, tentando decifrar Haydum com faculdades humanas, Koyo é tido como louco pela comunidade em que vive: "Falam assim os filhos-outros: tínhamos um pai um dia, agora um rasto, nem come o que a mãe põe à mesa, fala em fome, nem nos olha, caminha como a hiena, lento, em ponta\..., Mas a mãe colhe abóboras porque diz que ele grita durante a hora cinza. Que hora? Essa do sonho, sem lua, nem sol. Que ele grita: Abóboras. Haydum da cor do fogo\... Sobe todos os dias a colina, leva o carvão no bolso, risca um círculo". Nem as palavras servem para communicar os seres humanos: Abóbora, para Koyo, é parte de uma interrogação a Haydum: "Somos, para o teu olho, como as abóboras, Haydum?" e anda tem a ver com seu apetite. É outra forma de interrogar o Que Não Pode Ser Conhecido: "Me diz, Haydum, o que é a essência da substância. Me diz como tocaste a essência, que sopro ou gesto faz nascer o movimento". Um membro da comunidade o ameaça pelo seu desligamento do mundo: "Velho Koyo, a corda não foi feita só pra laçar o lobo, nem para estrangular os porcos, a corda pode ser usada pra te laçar, ou pensas que vais ficar a vida inteira com essa lama no corpo, atirando vergonha sobre a casa?" Outro tenta persuadi-lo a aderir ao mundo prático: "Koyo, falo em nome de todos, aprende como nós a aceitar a vida\... Já pensaste, Koyo, se usasses a febre que tens em alqueires de tomate?"
 
 Como um mistério de filme de Bergman, com imagens visuais da força de uma obra-prima do cinema japonês, este conto deslumbrante leva a condição humana às suas últimas consequências. Da fé à descrença em Deus, desde a solidão do místico numa comunidade materialista e hostil até o desafio de uma divindade que até o final permanece impassível e indecifrável: Deus. Demônio ou Indiferença?
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Esperando Haydum". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Fluxofloema, Hilda Hilst (Editora Perspectiva), Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/01-esperando-haydum</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Esperando Haydum'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/01-esperando-haydum},
+    orig_publisher = {'Fluxofloema, Hilda Hilst (Editora Perspectiva)'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Esperando Haydum'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Fluxofloema, Hilda Hilst (Editora Perspectiva)'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/01-esperando-haydum
+    ER  - 
+    ```

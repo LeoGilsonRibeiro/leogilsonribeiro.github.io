@@ -3,13 +3,10 @@ title: 'Sebène Ousmane do Senegal. Um importante momento da literatura africana
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1984. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/10-sebene-ousmane-do-senegal-um-importante-momento-da-literatura-africana-mas-a-traducao</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/10-sebene-ousmane-do-senegal-um-importante-momento-da-literatura-africana-mas-a-traducao
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/10-sebene-ousmane-do-senegal-um-importante-momento-da-literatura-africana-mas-a-traducao
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1984
-
 ---
 
 Literatura negra africana: pró ou contra?
@@ -49,3 +46,36 @@ Da literatura africana de hoje é que se pode esperar aquele renascimento que a 
 Da literatura africana é que nos virão temas novos, a libertação do jugo do materialismo politizado, dela virá o despertar de um humanismo contagiante, desvinculado tanto do relógio de ponto da linha de montagem quanto de utopias de ditaduras de classes ou de partidos únicos.
 
 Sembène Ousmane é o outro lado da África: sem fanatismos, sem despotismos, sem terrorismos, sem obsessão pela epiderme. Ele lança um olhar penetrante, convincente sobre os seus semelhantes e não duvida da criação consciente de um mundo melhor. Um mundo sem usurpadores, mesmo quando estes empunham as bandeiras mais falsamente "democráticas" e "igualitárias" que podem desfraldar. A literatura africana claramente comprova, se for necessário comprovar o óbvio, que a literatura é o território mais livre, mais democrático, menos maleável pela propaganda -- comercial ou política -- de todas as atividades criativas do ser humano. Desta liberdade ela deriva a sua perenidade e a sua solidariedade com todos os seres humanos da Terra: ela é que acena com o verdadeiro e abrangente humanismo redescoberto.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1984. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/10-sebene-ousmane-do-senegal-um-importante-momento-da-literatura-africana-mas-a-traducao</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/10-sebene-ousmane-do-senegal-um-importante-momento-da-literatura-africana-mas-a-traducao},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1984}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Sebène Ousmane do Senegal. Um importante momento da literatura africana. Mas a tradução'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1984
+    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/10-sebene-ousmane-do-senegal-um-importante-momento-da-literatura-africana-mas-a-traducao
+    ER  - 
+    ```

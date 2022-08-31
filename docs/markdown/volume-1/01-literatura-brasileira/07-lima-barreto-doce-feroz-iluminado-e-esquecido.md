@@ -3,13 +3,10 @@ title: 'Lima Barreto - doce, feroz, iluminado. E esquecido'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Lima Barreto - doce, feroz, iluminado. E esquecido". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1984/04/14. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1984/04/14
-
 ---
 
 > "Além de mulato, talentoso!"
@@ -53,3 +50,36 @@ Haveria inúmeros outros exemplos da imbecilidade que sufoca a esmagadora maiori
 Romance inicial de um dos poucos gênios da Literatura Brasileira que o descaso brasileiro pela cultura e pela informação relegou quase ao anonimato, Lima Barreto surpreende pela doçura que se esconde por trás de tanta e tão justificada amargura. Para quem, de forma devastadora, concluíra que o preconceito levava os brancos racistas (a imensa maioria) a enxergá-lo *menos* do que se enxerga uma árvore, as meditações estoicas no seu desespero diante do ódio *a priori* que lhe dedicavam continuam dolorosamente atuais no Brasil, que, desde a sua morte (ou assassinato por omissão dos demais), não mudou:
 
 > "\... Mas, não é a ambição literária que me move a procurar esse dom misterioso para animar e fazer viver estas pálidas *Recordações*. Com elas, queria modificar a opinião de meus concidadãos, obrigá-los a pensar de outro modo, a não se encherem de hostilidade e má vontade quando encontrarem na vida um rapaz como eu e com desejos que tinha há dez anos passados. Tento mostrar que são legítimos e, senão merecedores de apoio, pelo menos dignos de indiferença".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Lima Barreto - doce, feroz, iluminado. E esquecido". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1984/04/14. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Lima Barreto - doce, feroz, iluminado. E esquecido'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1984/04/14}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Lima Barreto - doce, feroz, iluminado. E esquecido'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1984/04/14
+    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido
+    ER  - 
+    ```

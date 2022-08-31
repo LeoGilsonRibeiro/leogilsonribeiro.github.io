@@ -3,13 +3,10 @@ title: 'Poemas. Beleza e magia em versos cintilantes'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Poemas. Beleza e magia em versos cintilantes". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde (1984), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes
-orig_publisher: 'Jornal da Tarde (1984)'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes
+orig_publisher: 'Jornal da Tarde'
+orig_date: 1984
 ---
 
 Alphonsus de Guimaraens Filho tem uma série de peculiaridades que o isolam dentro da poesia contemporânea brasileira. Filho do poeta mineiro Alphonsus de Guimaraens, não é uma cópia genética do talento paterno. Tem acumulado um número enorme de prêmios de reconhecimento pelo valor da sua poesia: Prêmio de Literatura da Fundação Graça Aranha, por seu livro *Lume de Estrelas*, e o Prêmio Olavo Bilac, da Academia Brasileira de Letras, em 1940; dez anos depois, o Prêmio Manuel Bandeira, concedido pelo Jornal de Letras, do RIo de Janeiro; em 54: Prêmio de Poesia da Cidade de Belo Horizonte; em 1973, Prêmio Luísa Cláudio de Sousa, do Pen Clube do Brasil, por seu volume de poemas *Absurda Fábula*; e o Prêmio Literário Nacional, em 1978, por *Água Tempo*, que lhe foi entregue pelo Instituto Nacional do Livro.
@@ -73,3 +70,36 @@ Senhor, me sinto o mundo! E é intenso e além do homem
 Sentir na própria carne a criação do mundo"
 
 Essa temática tão próxima do *Cantico delle Criature*, de São Francisco de Assis, arranca de seu instrumento poético algumas de suas notas mais vibrantes e perenes, embora não as únicas. Alphonsus de Guimaraens Filho em seus frequentes momentos melhores, desfaz a artificial barreira entre poesia clássica e poesia moderna, revelando a poesia em sua cintilância inocente, seu mistério palpitante e indevassável, como o próprio destino humano sob a capa enganosa da forma ele desvenda a realidade sempre milagrosa da essência poética.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Poemas. Beleza e magia em versos cintilantes". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 1984. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Poemas. Beleza e magia em versos cintilantes'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1984}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Poemas. Beleza e magia em versos cintilantes'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1984
+    UR  - www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes
+    ER  - 
+    ```

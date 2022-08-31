@@ -3,13 +3,10 @@ title: 'Miguilim e o conhecimento da dor'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Miguilim e o conhecimento da dor". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (9 páginas datilografadas para o curso), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/07-guimaraes-rosa/00-miguilim-e-o-conhecimento-da-dor</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/07-guimaraes-rosa/00-miguilim-e-o-conhecimento-da-dor
-orig_publisher: '(9 páginas datilografadas para o curso)'
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-3/07-guimaraes-rosa/00-miguilim-e-o-conhecimento-da-dor
+orig_publisher: 'Inédito'
 orig_date: Sem data
-
 ---
 
 No âmbito da literatura latino-americana que se afirma crescentemente na Europa e nos Estados Unidos Gimarães Rosa foi citado no ano passado como um dos dos candidatos ao maior prêmio europeu, só inferior ao prêmio Nobel: o prêmio Fomentor, de 11 editoras-chaves do Velho Mundo e só perdeu para o norte-americano Saul Bellow pela pouca divulgação da língua portuguesa, uma divulgação que se torna mínima se comparada com a repercussão mundial do inglês.
@@ -81,3 +78,38 @@ Mais identificado com os judeus que proibem a adoração de imagens ou a reprodu
 Guimarães Rosa utiliza a linguagem então não só para criar neologismos, preservar modismos do linguajar do povo, arcaísmos e nem mesmo para explodir o limite lógico das palavras comuns. Guimarães Rosa utiliza a linguagem como uma forma de romper a mera física do termo da sua acepção limitada do dicionário, secularizada pelo uso. Ele chega à metafísica do termo que transcende a sua acepção racional e contumaz e passa a ser uma forma de integração do absoluto na vida real de contato com o absoluto imanente: "tudo aliás é uma ponta de mistério"
 
 [^1]: Leia-se apropósito o discurso estarrecedor de Kruchev em *Cadernos Brasileiros* nº 4, em que os filisteus da URSS, como os filisteus do Ocidente, repudiam todas as consquistas da arte moderna em qualquer de suas manifestações, chegando ao extremo, porém, de invectivar contra Chopin, Liszt e Tchaikovsky, "compositores aristocráticos e reacionários", subjugando os artistas à tirania da linha ideológica absolutista.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Miguilim e o conhecimento da dor". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/07-guimaraes-rosa/00-miguilim-e-o-conhecimento-da-dor</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Miguilim e o conhecimento da dor'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
+    date = {2022},
+    annote = {9 páginas datilografadas para o curso},,
+    url = {www.leogilsonribeiro.com.br/volume-3/07-guimaraes-rosa/00-miguilim-e-o-conhecimento-da-dor},
+    orig_publisher = {'Inédito'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Miguilim e o conhecimento da dor'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
+    PY  - 2022
+    PB  - 'Inédito'
+    Y1  - orig_date: Sem data
+    N1  - 9 páginas datilografadas para o curso
+    UR  - www.leogilsonribeiro.com.br/volume-3/07-guimaraes-rosa/00-miguilim-e-o-conhecimento-da-dor
+    ER  - 
+    ```

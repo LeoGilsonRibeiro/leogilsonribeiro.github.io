@@ -20,9 +20,9 @@ Apesar de tantas décadas terem se passado desde quando esse curso foi pela prim
 
 # Revolução Estética da Arte Moderna
 
-*Correio da Manhã*, 9 de Novembro de 1965
+*Correio da Manhã*; 1965/11/09
 
-### A dicotomia do mundo contemporâneo 
+### A dicotomia do mundo contemporâneo
 
 O mundo do século XX sobre de uma ambivalência dissonante e fundamental. Por um lado, as comunicações cada vez mais rápidas entre os países e breve entre os planetas tornam a Terra realmente uma e homogênica, confrimando a teoria de Toynbee, o grande historiador inglês contemporâneo, da formação de um governo mundial futuro, num mundo sem fronteiras nacionais. Nações e continentes inteiros unem-se através de mercados comuns, de pactos militares e depois da magnífica obra de aproximação ecumênica do Papa João XXIII, as religiões principiam um diálogo inédito, fortalecido com a viagem do Papa Paulo VI à Palestina e à Índia. Por outro lado, porém, o mundo está cindido entre duas ideologias e dois imperialismos agressivos, cindido entre o período anterior e o posterior ao advento da bomba atômica.
 
@@ -58,7 +58,7 @@ Logo confirmada por Brecht, ao defender veemente e ironicamente sua peça *Lukul
 
 ## Baudelaire e a revolução da metáfora poética
 
-(*Correio da Manhã* 2 de Dezembro de 1965)
+Correio da Manhã; 1965/12/02
 
 É fundamental a transformação que Baudelaire imprime à poesia não só da França como de toda a Europa, a ponto de constituir um nítido divisor de águas entre a poesia acadêmica, parnasiana, que precede o seu aparecimento e a poesia propriamente moderna, esotérica em muitos de seus aspectos. É sua a primeira inclusão, total e obsessiva, da Grande Cidade (Paris) como tema central da sua arte poética. Ele constitui o primeiro poeta urbano, moderno, que deriva as suas imagens de elementos componentes da civilização pós-Revolução Industrial: grandes *boulevards*, parques, pontes, a elegância de uma noite gala na Ópera constrastando com a sordidez dos mendigos, das prostitutas, dos bêbados. Como verdadeiro arauto da geração de *poetas malditos* que o sucederão, como Rimbaud e Verlaine, uniu indissoluvelmente sua vida e o cultivo da sua arte requintada, aristocrática, mas profundamente participante da miséria da condição humana nos seus aspectos sociais ou metafísicos. Sacrificou à sua vocação qualquer conformismo ou adaptação aos critérios da sociedade bem-pensante do seu tempo. Isolado do grande público pela hostilidade da incompreensão que este demonstrava para com as suas revolucionárias inovações poéticas, perseguido pelos eternos invejosos mesquinhos, ele seria acossado pela doença, pela miséria financeira a mais humilhante e finalmente pelo proceso que a Justiça francesa moveu, impelida por motivos na realidade hipócritas, contra as suas *Fleurs du Mal*. Até neste particular foi pioneira a sua atuação, pois a este choque se seguirão, mais tarde, o da censura anglo-saxônica, de um puritanismo mórbido, contra o monumental *Ulysses* de Joyce e *O Amante de Lady Chatterley* de D. H. Lawrence.
 
@@ -112,11 +112,9 @@ Baudelaire, porém, vai mais longe do que a inovação verbal, formalística: pe
 
 Sua vida descreve uma parábola semelhante à dos seus poemas, que desembocam todos no tema obsessivo e abissal da Morte. Fracassaram as suas conferêncais na Bélgica, que o recebera com hostilidade e indiferença. Sua faculdade criadora enfraquece qundo ele passa a sofrer de afasia e se torna hemiplégico. Na miséria, na solidão, incompreendido, invejado, demasiado tarde lhe chega a glória, demasiado tarde o reconhecimento da grandeza de sua obra, assim como para o personagem de *O Castelo* chegaria demasiado tardiamente a admissão ao longinquo Castelo perdido na imprecisão das brumas. É a geração jovem, não esclerosada, que se entusiasma até o delírio diante do panorama novo que ele desvendou e em parte inventou: um certo Stéphane Mallarmé, de 23 anos, lhe escreve, depois um certo Paul Verlaine, de 21 anos e um seu amigo de 17, um desconhecido de nome Arthur Rimbaud. Todos o proclamam o supremo poeta da França "o país que tinha horror à poesia". O tempo que ele sempre temera na sua maratona em busca da perfeição, o tempo passara a ser seu aliado agora. E cada dia que se passa e um jovem se debruça sobre *Les Fleurs du Mal*, a fama de Baudelaire cresce, adensa-se, aprofunda-se, como uma das mais ricas e radicais vozes poéticas de todo o Ocidente.
 
-## Dois adendos posteriores sobre Baudelaire
+## Baudelaire. Quase dois séculos de uma poesia original e sublime
 
-Baudelaire. Quase dois séculos de uma poesia original e sublime
-
-*Jornal da Tarde* 9 de abril de 1981
+Jornal da Tarde; 1981/04/09
 
 A cultura francesa, ao contrário dos demais países da Europa, não teve, até a metade do século passado, um gênio universal que representasse o ápice de sua criação literária nacional, como Dante na Itália, Cervantes na Espanha, Camões em Portugal, Shakespeare na Inglaterra. Literatura de uma continuidade plurissecular de grandes talentos, nenhum deles emblemático da profundidade do pensamento e da forma estilística perfeita de uma civilização, as letras francesas se ressentiram sempre de um nome maior, universalmente aceito como um valor fora do tempo e das fronteiras.
 
@@ -146,7 +144,7 @@ De uma musicalidade que nenhum poeta francês conseguiu igualar até hoje, Baude
 
 ## A tradução de *As Flores do Mal* de Baudelaire
 
-*Jornal da Tarde* 7 de dezembro de 1985
+Jornal da Tarde; 1985/12/07
 
 À primeira vista pode parecer uma brincadeira, mas os fatos comprovam.
 
@@ -204,7 +202,7 @@ Baudelaire inaugurou o sentimento poético moderno e a esquizofrenia do "horror 
 
 ##  De sangue, de amor e morte falou Lorca
 
-*Jornal da Tarde* 26 de agosto de 1966
+Jornal da Tarde; 196/08/26
 
 Federico García Lorca encarna o ressurgimento explosivo da vitalidade criadora espanhola. Profundamente fiel à psique nacional e seu mais puro intérprete, ele uniria a tradição culta, aristocrática, e o denso, variado sentimento popular, sensualidade e intelecto, como um Goya que se exprimisse por meio de versos. Mas para empobrecimento da humanidade, Federico García Lorca assume também, com sua morte prematura, o papel sacrificial do poeta moderno, imolado pelas forças políticas do Estado moderno, no macabro embate entre liberdade e totalitarismo, democracia e ditadura. Ele é assim um fantasmagórico predecessor da geração de poetas expressionistas fuzilados pelos nazistas e pelos escritores russos que se esfacelram nos campos de concentração de Stalin. Sua vida cessa aos 38 anos de idade, quando o poeta atingia, seguro, a maturidade do seu canto. Versátil e pioneiro como Baudelaire, ele porém nada tinha do seu isolamento, da sua patética incapacidade de fazer-se amar e compreender pelos contemporâneos. Ao contrário: Lorca buscou sempre integrar-se, irmanar-se com poetas ommo Jorge Guillén e Rafael Alberti e humildes *limpiabotas*, *toreros*, *gitanos*, *bailaores y cantaores de flamenco*. À sua passagem fulminante, meteórica, significa sobretudo um traço de união, nunca um isolamento voluntário e altivo. Identificando-se com todas as regiões da Península Ibérica, elabora poemas em todos os seus dialetos, inclusive um galaico-português; espraindo-se mais ainda sua cálida ânsia de ternura, abrange na sua pessoal geografia sentimental e artística os países latino-americanos, seus povos, suas paisagens e seus poetas, que celebra com alvoraçado entusiasmo e fina compreensão. Não lhe basta a síntese das várias artes que cultiva ativamente -- a música folclórica das regiões espanholas que recolhe em viagens pela Andalusia, por Astúrias e León, o teatro com seu grupo famoso de *La Barraca*, o desenho e o ensaio poético. Com a ambivalência do artista moderno -- Henry James, Baudelaire, Proust -- é também um altíssimo crítico literário. Restabelece o culto de Gôngora e sua poesia hermética, intelectualizada e que traçaria todo o roteiro da lírica do nosso século. A sua simpatia humana, exuberante, espanhola, contagiava "todo o seu séquito", como assinala Guillén: "Ele era para todos simplesmente *Federico*. E nós todos o seguíamos, porque ele era a festa, a alegria que surgia ali de repante diante de nós e não tínhamos outro remédio senão segui-lo".
 
@@ -228,7 +226,7 @@ E breve, antes de completar 40 anos, Federico García Lorca, poeta, encarnaria o
 
 ## García Lorca e o *Romancero Gitano*
 
-(9 páginas datilografadas para o curso)
+Inédito; Sem data; 9 páginas datilografadas para o curso
 
 Nas primeiras aulas situamos Baudelaire como a linha de divisão entre a poesia anterior a ele a que se lhe segue é o *arauto* da sensibilidade moderna contemporânea. Não só por introduzir temas da grande cidade industrializada mineral mas também por conceitos novos de beleza, de audácia artística, de liberdade criadora do artista.
 
@@ -306,11 +304,9 @@ De forma lapidar ele próprio saudou profeticamente o aspecto que teriam os cant
 
 "*El duende\...* onde está *el duende?* Pelo arco vazio entra um ar mental que sopra com insistência sobre as cabeças dos mortos, em busca de novas paisagens e timbres ignorados; um ar com cheiro de saliva de crianças de herva mastigada e véu de medusa que anuncia o constante bastismo das coisas recém criadas".
 
-## Adendo
+## Trágica melancolia (nota sobre a biografia de Ian Gibson)
 
-Trágica melancolia (nota sobre a biografia de Ian Gibson)
-
-*Isto é/Senhor* 8/11/1989
+Isto é/Senhor; 1989/11/08
 
 E como diria o Conselheiro Acácio: "Há biografias de todo tipo, ora pois!". Nos *States* a epidemia de "biografite" tem como mira o cifrão refulgente do *best seller*, esse rio de outro que desemboca no coração financeiro da Wall Street. Biógrafos e biógrafas xeretas invadem alcovas, ouvem relatos de contato com o Além; na maioria são, não biografias que se imprimem, mas colagens de fofocas, mexericos maldosos, explosões de inveja vingativa e iconoclasta. Numa delas Randolph Scott e Cary Grant aparecem juntinhos de avental, enxugando louça como qualquer casal feliz em Berverly Hills. Não ter lido "a última" é estar *out*: Como?! Você ainda não devorou a vida *arrasadora* de Picasso, que prova seu ódio às mulheres, às quais prefere os touros Miúra por serem menos idiotas? E não me diga que você ignorava que o ex-Beatle John Lennon foi cúmplice de um assassinato em Hamburgo, além de ser escravo erótico de seu empresário *gay*!
 
@@ -334,7 +330,7 @@ Não se atirou ao chão e uma bomba explodiu, ferindo-o mortalmente. Era o dia 1
 
 ## Kafka (Curso)\*
 
-(3 das 13 páginas datilografadas para o curso)
+Inédito; Sem data; 3 das 13 páginas datilografadas para o curso
 
 Paralelamente aos acontecimentos de repercussão mundial da sua época, a vida de Kafka traça uma parábola simbólica: de 1883 coincidindo com a publicação de *Assim Falava Zaratustra* de Nietzsche até 1924 quando Hitler termina a redação de *Minha Luta*. No meio, dilacerando a Europa em duas frentes de batalha, a Prmeira Guerra de 1914. Em 1917 a revolução bolchevista na Rússia.
 
@@ -372,7 +368,7 @@ Porque para nós o clima irrepetível da angústia que Kafka passou a evocar, ma
 
 ## As cartas a Milena como documento literário e da angústia de Kafka
 
-(11 páginas datilografadas para o curso)
+Inédito; Sem data; 11 páginas datilografadas para o curso
 
 Franz Kafka deixou além da sua fundamental obra literária três documentos que são ao mesmo tempo literatura e documentam a sua angústia inescapável: a *Carta ao Pai*, o *Diário* e as *Cartas a Milena*.
 
@@ -480,11 +476,9 @@ Hoje, no plano político, o terceiro Reich desapareceu. Seis milhões de judeus 
 
 Como um punhado de cinzas tudo que resta de corpos que já vibraram permamecem as cartas a Milena como um dos mais patéticos e mais belos relatos de humanidade, de transcendência artística e de amor desesperado existentes na história dolorosa do convívio do homem com o homem.
 
-## Adendos sobre Kafka
+## Kafka revive em Praga
 
-Kafka revive em Praga
-
-*Correio da Manhã* 19 de outubro de 1963
+Correio da Manhã; 1963/10/19
 
 Este ano, quase meio século depois da sua morte, a Tchecoslováquia descobre Franz Kafka. Sua novela *Amerika*, traduzida agora do original alemão, foi esgotada em 72 horas nas livrarias de Praga, embora seu lançamento se tenha feito quase em surdina, sem alarde publicitário. No entanto, quem partir "*à la recherche de Kafka*" na Praga soturna de hoje, encontrará vestígios insuspeitados de sua presença na cidade outrora cosmopolita e alegre, com suas catedrais barrocas e as estátuas de seus santos debruçadas das ponstos sobre o Moldávia. Nas esquinas, nos bairros, divisam-se, claras, as cicatrizes da guerra, dos levantes populares sufocados, dos massacres nazistas contra a comunidade judaica e permanece, inextinguível, a recordação de Lídice. Os frequentadores dos cafés buliçosos da Ferdinandstrasse (atualmente transformada em Rua Norodni) foram dispersos pela terra e pela morte: Max Brod, Franz Werfel, Rilke. No cemitério local, a lápide sobre o túmulo do novelista foi abatida pela sanha nazista que não conhecia fronteiras nem mesmo no campo santo: a que agora assinala seu nome, sem epitáfio, é recente. Restam intactas duas das casas em que ele morou, em quartos alugados para fugir ao cerco espiritualmente esterilizante da vida diária familiar. Uma delas ergue-se na parte alta residencial, na Zlata Ulicsa, ruela que flui como um riacho obscuro aos pés do Castelo de São Vito, majestoso e fosforescente dentro da noite. As três irmãs foram trucidadas no campo de concentração de Belsen. Milena, a amiga intelectual e sensível, com quem ele manteve uma correspondência sem paralelo na literatura moderna ocidental, foi capturada nas ruas de Ravensbrücke, quando demosntrava com a cruz de David cosida no vestido sua solidariedade suicida aos amigos judeus.
 
@@ -522,7 +516,7 @@ E sua vitória final:
 
 ## Kafka em Praga
 
-*O Estado de São Paulo -- Suplemento Literário* 12 de março de 1966
+O Estado de São Paulo -- Suplemento Literário; 1966/03/12
 
 Depois que Baudelaire celebrou o mistério fosforescente da grande cidade, grandes novelistas contemporâneos se vêm identificando indissoluvelmente com a metrópole moderna. Paris, espelhada na prosa de Proust, é parte determinante do matiz e da formulação estética de sua *Recherche*. Borges e Buenos Aires, Svevo e Trieste, Musil e Viena, são outros binômios ilustrativos dessa fusão crescente de toda uma gama de relações entre o artista e o seu clima ambiental. Desde o sarcasmo devastador que Thomas Mann arremessou contra a sua Lübeck provinciana ao apaixonado "*I don't hate it!*" reiterado por Quentin Compson em relação ao Sul ancestral e violento da saga faulkneriana, há uma intensificação dessa interdependência, até atingir a ruptura do ódio. Joyce ao defrontar-se com a sua odiada-amada Dublin tipifica a dualidade de reação a um ambiente alternadamente execrado e exaltado, que descreve uma parábola: das vitriólicas e sombrias histórias iniciais de *Dubliners* até às imagens oníricas, tachistas da reconciliação final de *Finnegans Wake*.
 
@@ -546,7 +540,7 @@ Como nas seitas ocultistas cujos ensinamentos deslumbraram Baudelaire ao atribui
 
 ## Kafka (1983)\*
 
-*Jornal da Tarde* 2 de julho de 1983
+Jornal da Tarde; 1983/07/02
 
 Um juiz, diante de um operário detido por estar desempregado ordena que o réu, no prazo de um mês, consiga um emprego ou será preso acusado de "vadiagem".
 
@@ -620,7 +614,7 @@ Na terminologia percuciente de Ernest Becker, o profundo filósofo norte-america
 
 ## A assunção do martírio
 
-(9 páginas datilografadas para o curso)
+Inédito; Sem data; 9 páginas datilografadas para o curso
 
 Nas aulas anteriores vimos como o artista a partir de Baudelaire passava a encarar aquele ideal romântico do heroi que se opõe à tirani. Baudelaire à tirania dos preconceitos e dos valores burgueses acadêmicos e hipócritas, Lorca à tirania totalitária anti-popular. Nos expressionistas há um ideal de solidariedade humana de individualismo oposto à democracia que nivela por baixo e oposto ao totalitarismo (hecatombe nazista). Kafka é uma figura solitária e majestosa na sua não-integração mas subterraneamente de oposição ao marasmo e ao conformismo exemplificada indiretamente na morte de Milena como partícipe do levante contra a loucura monstruosa do nazismo.
 
@@ -700,11 +694,9 @@ Genet triunfa de maneira igualmente profunda através da literatura. A sua vivê
 
 Tendo evocado *o mito* Genet como um sacerdote que terminou de oficiar uma missa negra desaparece para ceder lugar à sua obra. É a suprema vitória do verbo que excede o seu criador e neutraliza o próprio tempo e espaço, ultrapassando a própria morte física. Abolindo a distância entre o seu mundo e o mundo que se encontrará na posteridade. Com as suas imagens de profundo satanismo, ele cria um elo ao mesmo tempo humano e literário entre a sua monstruosidade e a nossa, como que uma furtiva ternura que ele tanto ambicionara entre a vítima e o algoz.
 
-## Adendo
+## A véspera do livro Nossa Senhora das Flores
 
-A véspera do livro *Nossa Senhora das Flores*
-
-*Correio da Manhã* 31 de julho de 1965
+Correio da Manhã; 1965/07/31
 
 Pela primeira vez em língua portuguesa, este Suplemento divulga alguns trechos do romance de Jean Genet, *Nossa Senhora das Flores*, cuja tradução vem custando a Leo Gilson Ribeiro meses de trabalho intenso. Ao transplantar essa flor do mal para as letras do Brasil, é preenchida uma lacuna importante, pois o fenômeno Genet é objeto de vivas controvérsias na França e em muitos outros países: Sartre decicou-lhe um monumental ensaio crítico e liderou a lista de intelectuais que solicitaram a comutação da pena imposta pelo Ministério da Justiça, em Paris, ao escritor ladrão, preso em quase todas as cidades da Europa, formulador de um demoníaco culto da violência, do roubo, do assassinato e do homossexualismo. Por motivos óbvios, só trechos incompletos são transcritos a seguir desse satânico documento de verdade, de horror e de poesia que ilumina um dos mais trágicos problemas do ser humano.
 
@@ -752,7 +744,7 @@ Divina pensa naqueles instantes mais dolorosos para o vagabundo, quando um carro
 
 ## A musa trágica
 
-(12 páginas datilografadas para o curso)
+Inédito; Sem data; 12 páginas datilografadas para o curso
 
 Só em 1930 a Universidade de Harvard, primeira fundada nos EUA, inaugurou cursos independentes de literatura americana.
 
@@ -874,7 +866,7 @@ Como ele próprio declarou, as suas obras não foram escritas com o propósito d
 
 ## A redescoberta de Henry James I
 
-*Diário de Notícias* 24 de fevereiro de 1960
+Diário de Notícias; 1960/02/24
 
 O mundo complexo de Henry James assemelha-se a um caleidoscópio: cada uma de suas obras apresenta-nos um aspecto diferente da realidade interior, uma nova disposição de cores, uma nova inter-relação de espaços., luz e sombra. Se bem que a sua temática seja numericamente reduzida, as múltiplas manifestações da psique humana por ele exploradas são quase tão numerosas com as da própria vida. No entanto, certas tonalidades básicas permanecem nesse vitral imenso: a maioria dos críticos aponta como sua preocupação fundamental o digladiar-se do hedonismo, representado pela aristocracia europeia e que implica uma profunda decadência moral, e do estoicismo perante o sofrimento, simbolizado pelos personagens americanos, que sucumbem vítimas de seu código ético, oposto intrinsecamente ao esteticismo e ao materialismo sórdido que a opulência e o refinamento extremos ocultam. Graham Greene não examina a temática jamesiana unicamente sob o ponto de vista de um constraste insuperável entre a ética e a estética, mas relaciona a inquietude de Henry James com um "complexo de traição", um "complexo de Judas" que constitui a sua obsessão permanente. Greene cita as novelas em que um engano propositado é urdido perfidamente para os personagens inocentes, puros de intenções e que morre, moralmente, vítimas da sua não-pactuação com o crime na sua forma mais sutil e letal: o sufocamento da própria consciência. É sob esse prisma que ele analisa *The Portrait of a Lady* e *The Wings of the Dove*.
 
@@ -890,7 +882,7 @@ A sua investigação "daquilo que jaz por detrás da *mise-em-scène*\... da vid
 
 ## A redescoberta de Henry James II
 
-*Jornal de Letras* agosto de 1961 (republicado em *Diário de Notícias* 17/12/1961)
+Jornal de Letras; 1961/08; Republicado em Diário de Notícias 1961/12/17
 
 O fenômeno de unânime redescoberta de Henry James nos países de língua inglesa e por parte da elite intelectual de toda Europa que domina o inglês vem somente acentuar um fenômeno paralelo a este profundo ato de justiça literário internacional. Referimo-nos às características eminentemente intraduzíveis de seu estilo, até mesmo da sua forma expressiva. Daí a incompreensão com que críticos mal armados linguisticamente, no Brasil e no estrangeiro, se indurgem contra um autor que os maiores intérpretes da literatura ocidental não hesitam em colocar ao lado de Marcel Proust, saudando-o como o maior novelista de língua inglesa deste século, em plena igualdade de direitos com James Joyce. Mais ainda do que Shakespeare, portanto, cuja magia verbal transfigura os enredos por vezes tênues e nada invulgares de suas comédias e de algumas de suas tragédias, a fascinação inconfundível que Henry James desperta em seus admiradores parece jazer oculta detrás da chave secreta de seu estilo. Que dizer, então, da extrema complexidade, da atmosfera rarefeita de seus contos e novelas mais importantes? É compreensível que, de modo geral, a mentalidade mediterrâneia e asua subsidiária, a tropical, pouco se entusiame por um autor que analisa problemas extremamente complexos da ética no convívio humano, que focaliza quase exclusivamente as classes abastadas e requintadas da Europa e da América em seus livros e que se lança à indagação metafísica mais ampla em seu extenso mural de retratos incomparáveis de personagens-chaves da angústia e da miséria humanas.
 
@@ -902,7 +894,7 @@ Finalmente, parece-nos, da mesma forma que tentar ver em sua criação uma mera 
 
 ## A tragédia e a vitória de Henry James
 
-*Diário de Notícias* 13 de dezembro de 1964
+Diário de Notícias; 1964/12/13
 
 Se toda grande criação artística encerra uma extraordinária soma de esforços na sua lenta e penosa elaboração, todo grande artista exige para a decifração de seu segredo pessoal, do seu *tema* insistente, dotes também extraordinários, por parte do leitor, de percepção, intuição, de dedicação e reflexão. Nesse encontro de sensibilidades que é a leitura, a audição de um concerto, a contemplação de um quadro, não conta somente o fator da afinidade mas também o da profundidade da percepção do recipiente, os espectador do espetáculo artístico. Com a valuação atribuída comumente à obra literária de Henry James tem ocorrido o mesmo quase que com o valor dado pela esmagadora maioria das pessoas à música de Mozart, à obra de Joyce ou de Proust, a qualquer criação, enfim, que não se revela imediatamente e exige de quem nelas quiser penetrar uma humildade e uma falta de preconceitos fundamentais.
 
@@ -912,7 +904,7 @@ De fato, se observadores superficiais demonstram desprezo por Mozart, consideran
 
 ## Miguilim e o conhecimento da dor
 
-(9 páginas datilografadas para o curso)
+Inédito; Sem data; 9 páginas datilografadas para o curso
 
 No âmbito da literatura latino-americana que se afirma crescentemente na Europa e nos Estados Unidos Gimarães Rosa foi citado no ano passado como um dos dos candidatos ao maior prêmio europeu, só inferior ao prêmio Nobel: o prêmio Fomentor, de 11 editoras-chaves do Velho Mundo e só perdeu para o norte-americano Saul Bellow pela pouca divulgação da língua portuguesa, uma divulgação que se torna mínima se comparada com a repercussão mundial do inglês.
 

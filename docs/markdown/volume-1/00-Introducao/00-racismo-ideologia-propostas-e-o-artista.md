@@ -3,13 +3,10 @@ title: 'Racismo, ideologia, propostas. E o artista?'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Racismo, ideologia, propostas. E o artista?". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1990/03/16. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1990/03/16
-
 ---
 
 A complexidade francamente indescritível das relações inter-raciais nos Estados Unidos, na África do Sul do nazista *apartheid*, no Brasil e agora na Europa Ocidental, sem esquecer que os povos eslavos também são sobejamente conhecidos tanto por seu antissemitismo quanto por seu ódio aos negros e orientais -, essa complexidade não foi liquidada pelas conjecturas de um Sartre, nem de um Malcolm X, nem de Nabokov -- que achava indecente haver o próprio conceito de racismo.
@@ -31,3 +28,36 @@ Sobra então o que deve soar como uma blasfêmia aos ouvidos dos militares e de 
 Um intelectual russo de grande renome, Afanasyev, argumenta *a favor* da liquidação da Nação-Estado soviética que é também um Império de mais de 100 nacionalidades diferentes: será, crê, uma forma de solucionar os entrechoques étnicos e impedir o colapso e o caos da "Desunião Soviética".
 
 E nesse *maelstrom* de ideias em conflito, o poeta, o artista, o escritor de raça negra e dos dois sexos: que devem fazer?
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Racismo, ideologia, propostas. E o artista?". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1990/03/16. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Racismo, ideologia, propostas. E o artista?'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1990/03/16}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Racismo, ideologia, propostas. E o artista?'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1990/03/16
+    UR  - www.leogilsonribeiro.com.br/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista
+    ER  - 
+    ```

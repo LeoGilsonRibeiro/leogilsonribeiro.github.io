@@ -3,13 +3,10 @@ title: 'Nota sobre o livro Fala, Amendoeira'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Nota sobre o livro Fala, Amendoeira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 11-9-1970, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira
-orig_publisher: 'Jornal da Tarde 11-9-1970'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira
+orig_publisher: 'Jornal da Tarde'
+orig_date: 11/9/1970
 ---
 
 Transplantado para o Rio de Janeiro, o itabirita Carlos Drummond de Andrade levou na sua bagagem imaterial um segundo eu mineiro. Ao lado de sua grande poesia - meditação para orgão, que engloba todos os instrumentos - ele viu desabrochar sa crônica quase diária da cidade - um cravo modernizado, dotado de notas agudas para a ironia e graves para um humor auto-ironizante.
@@ -33,3 +30,36 @@ Há o mistério da bola, quando um jogo de futebol é transmitido no estilo da *
 Imprevisível, brilhante, extraindo do cotidiano aparentemente banal e prosaico veios de poesia filosófica e de um estilo conciso e admirável, Carlos Drummond de Andrade, que já era poeticamente *Fazendeiro do Ar*, torna-se com estas crônicas, esgotadas há oito anos e agora em 4a edição, um Garimpeiro da Beleza e da Percepção Profunda ao penetrar o fluxo da vida diária e encontrar nela tanto encanto, malícia e sabedoria ocultas.
 
 *Fala, Amendoeira* exige urgente um "Compre, leitor" como melhor conselho pra quem quer percorrer um Rio de Janeiro mágico nas mãos deste autor que talvez não saiba ser da mesma linhagem dos fantásticos contos de um Jorge Luís Borges.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Nota sobre o livro Fala, Amendoeira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 11/9/1970. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Nota sobre o livro Fala, Amendoeira'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 11/9/1970}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Nota sobre o livro Fala, Amendoeira'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 11/9/1970
+    UR  - www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira
+    ER  - 
+    ```

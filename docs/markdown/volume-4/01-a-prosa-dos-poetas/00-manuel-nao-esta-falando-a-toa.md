@@ -3,13 +3,10 @@ title: 'Manuel não está falando à toa'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Manuel não está falando à toa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 10/5/1966. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa
 orig_publisher: 'Jornal da Tarde'
 orig_date: 10/5/1966
-
 ---
 
 A crônica é um gênero literário peculiar ao Brasil. Cultivada com grande maestria por Rachel de Queiroz e Rubem Braga, nobilitada pela adesão de grandes poetas como Cecília Meirelles e Carlos Drummond de Andrade, constitui o registro sensível da fisionomia de uma grande cidade ou de momentos cruciais da vida de um povo. As colaborações de Manuel Bandeira a este filão menor, embora contínuas, estavam dispersas em vários jornais e revistas, Carlos Drummond de Andrade coligiu-as no propósito de salvar "um acervo de ideias, reflexões e anotações características de um poeta que nunca deixou de ser prosador seguro e gracioso, e jamais se eximiu de participar da vida de seu tempo e de seu país, pelo exercício simultâneo do lirismo e da razão empenhada em criar, aferir e difundir valores. Poeta prosador que fez de sua própria vida espelho de desinteresse pessoal e da dedicação ao melhor do homem".
@@ -59,3 +56,36 @@ Muito saudar a Riobaldo,
 Igualmente a Diadorim!"
 
 Como um Jimenez brasileiro, cheio de ternura mansa, de pureza, de retidão e austera devoção à sua arte, Manuel Bandeira espelha-se nesses textos inéditos que a José Lympio reuniu com tanta oportunidade e bom gosto, comomemorando as 8 festivas, ricas e soberbas décadas de Manuel Bandeira, andorinha \[seguem-se 4 linhas ilegíveis\].
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Manuel não está falando à toa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 10/5/1966. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Manuel não está falando à toa'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 10/5/1966}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Manuel não está falando à toa'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 10/5/1966
+    UR  - www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa
+    ER  - 
+    ```

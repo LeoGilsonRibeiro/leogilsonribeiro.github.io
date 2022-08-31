@@ -3,13 +3,10 @@ title: 'Quem tem medo de Hilda Hist?'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Quem tem medo de Hilda Hist?". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Polímica: revista semestral de crítica e criação, nº 2, 1980, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/09-quem-tem-medo-de-hilda-hist</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/09-quem-tem-medo-de-hilda-hist
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/09-quem-tem-medo-de-hilda-hist
 orig_publisher: 'Polímica: revista semestral de crítica e criação, nº 2, 1980'
 orig_date: Sem data
-
 ---
 
 Macunaíma tantas vezes, o brasileiro se cansa de todo autor que usa mais de 500 palavras usuais, tiradas do vocabulário comum, irmão gêmeo do primevo grunhido das cavernas pré-platonianas. Por isso, muitos leitores em potêncial preferem tirar uma soneca na rede balouçante e achar *a priori* a ficção instigante de Hilda Hilst, por exemplo, a obra de "uma chata, maçante, hermética, indecifrável". Cai o livro das mãos, predomina o império da sonolência aquiescida.
@@ -39,3 +36,36 @@ Ela é tudo isso e muito mais que só a leitura e a releitura podem vislumbrar, 
 *M'illumino*
 
 *d'immenso*
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Quem tem medo de Hilda Hist?". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Polímica: revista semestral de crítica e criação, nº 2, 1980, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/09-quem-tem-medo-de-hilda-hist</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Quem tem medo de Hilda Hist?'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/09-quem-tem-medo-de-hilda-hist},
+    orig_publisher = {'Polímica: revista semestral de crítica e criação, nº 2, 1980'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Quem tem medo de Hilda Hist?'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Polímica: revista semestral de crítica e criação, nº 2, 1980'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/09-quem-tem-medo-de-hilda-hist
+    ER  - 
+    ```

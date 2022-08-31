@@ -3,13 +3,10 @@ title: 'Inéditos de Clarice, para se conhecer melhor Clarice'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Inéditos de Clarice, para se conhecer melhor Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 30-05-1981, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice
-orig_publisher: 'Jornal da Tarde 30-05-1981'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice
+orig_publisher: 'Jornal da Tarde'
+orig_date: 30/05/1981
 ---
 
 A escritora e animadora das artes, Olga Borelli, amiga de Clarice Lispector, durante muitos anos, resolveu reunir páginas inéditas da grande escritora de *Laços de Família* e publicá-los agora após a morte daquela que é talvez a mais importante contista das Três Américas. Se Clarice Lispector, em vida, sempre fora explorada por editores inescrupulosos, demitida bruscamente de jornais em que colaborava, depois de morta, pelo menos o profundo respeito - que a sua esplêndida criação literária deveria incutir até nos mais incultos - lhe granjeou até agora melhor acolhida. A Editora Nova Fronteira, como quase todas as demais editoras brasileiras, não distribui (ou pelo menos distribui com grande atraso) os livros que publica, dificultando não só o trabalho do crítico que escreve regularmente na imprensa como, dessa forma, não fazendo propaganda gratuita, dirigida ao grande público, dos livros editados. (E que dizer de uma Editora Difel, que só envia capas dos livros, propondo ao crítico advinhar o que se esconde por trás daquela capa exígua e ridícula?)
@@ -191,3 +188,36 @@ Eu, eu, se não me falha a memória, morrerei.
 É que você não sabe o quanto pesa uma pessoa que não tem força. Me dê sua mão, porque preciso apertá-la para que nada doa tanto".
 
 Ela escorregou para os pés da cama, alongou-se em agonia e rompeu num grito primal, único, angustiado.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Inéditos de Clarice, para se conhecer melhor Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 30/05/1981. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Inéditos de Clarice, para se conhecer melhor Clarice'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 30/05/1981}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Inéditos de Clarice, para se conhecer melhor Clarice'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 30/05/1981
+    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice
+    ER  - 
+    ```

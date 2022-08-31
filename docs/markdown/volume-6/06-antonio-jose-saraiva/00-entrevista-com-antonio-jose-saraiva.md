@@ -3,13 +3,10 @@ title: 'Entrevista com Antônio José Saraiva'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista com Antônio José Saraiva". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-10-1977, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva
 orig_publisher: 'Jornal da Tarde 29-10-1977'
 orig_date: Sem data
-
 ---
 
 Exilado do seu país, Portugal, pelo regime salazarista que combateu sisemática e lucidamente, o professor Antônio José Saraiva, autor de vários livros sobre a literatura e a cultura portuguesas, continua ativo aos 60 anos de idade, voltando a lecionar agora, depois de longos anos no estrangeiro, na Universidade de Nova Lisboa e tendo se afastado voluntariamente do Partido Comunista, pois suas posições independentes não lhe permitem enquadrar-se em nenhum dos esquemas políticos existentes.
@@ -43,3 +40,36 @@ O Sr. se refere constantemente à falência da sociedade burguesa e em Portugal 
 Nas estruturas do totalitarismo de Esquerda, como a União Soviética, os movimentos dos dissidentes como o físico Sakharov, o general Grigorenko, o escritor Soljinitsin e outros, desempenham o papel de uma opção nova de uma recusa do terror centralizado no Estado policial?
 
 "Como já disse reiteradas vezes, os dissidentes encerram em si a esperança da humanidade e essa expressão não me parece exagerada. Esses dissidentes lutam contra um Sistema de tal modo implacável, de tal modo desumanizado, que a sus própria atitude revela uma espantosa coragem. São homens que arriscam serem expulsos de seu país natal, a Rússia, uma pátria extremamente absorvente, quando não arrostam a aniquilação física. Há poucos exemplos de tal coragem. E são eles que infundem confiança às pessoas: quando os homens são capazes de sobreviver a um Sistema desses, que controla as vidas individuais do nascimento até a morte, e são capazes de jogar o seu destino contra esta máquina, é porque de fato a natureza humana é forte e difícil de destruir."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Entrevista com Antônio José Saraiva". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-10-1977, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Entrevista com Antônio José Saraiva'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva},
+    orig_publisher = {'Jornal da Tarde 29-10-1977'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Entrevista com Antônio José Saraiva'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 29-10-1977'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva
+    ER  - 
+    ```

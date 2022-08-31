@@ -3,13 +3,10 @@ title: 'Foi nosso primeiro happening urbano'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Foi nosso primeiro happening urbano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 24-2-1972, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano
 orig_publisher: 'Jornal da Tarde 24-2-1972'
 orig_date: Sem data
-
 ---
 
 A semana de Arte Moderna, em 1922, no Teatro Municipal de São Paulo, foi o primeiro *happening* urbano do Brasil. "O rural foi a festa comemorativa dos índios que devoraram, nas costas da Bahia, o Bispo Sardinha". Conteve miados, cacarejos de galinhas, apupos, os chinelos de Villa-Lobos e a sementeira mais radical para o duplo processo que a Semana veio focalizar, acelerar e tornar urgente, no campo das artes brasileiras: a nacionalização e a atualização da literatura, das artes plásticas, da música.
@@ -161,3 +158,36 @@ Tem mais não."
 Coelho Neto descrevia a realidade como uma câmara fotográfica. Os Andrade conseguiram ver além do real.
 
 O texto de Coelho Neto é adornado como um monumento do Ipiranga, utiliza uma riqueza de vocábulos com o mesmo preciosismo que orientou o projeto do Palácio Nove de Julho, descreve a realidade com a mesma fidelidade fotográfica que encontramos no quadro de Pedro Alexandrino. Já os textos de Mário e Oswald de Andrade procuram empregar coloquialismos, usam um linguajar cheio de regionalismos (Mário), estrangeirismos (Oswald), neologismos (os dois).
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Foi nosso primeiro happening urbano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 24-2-1972, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Foi nosso primeiro happening urbano'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano},
+    orig_publisher = {'Jornal da Tarde 24-2-1972'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Foi nosso primeiro happening urbano'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios
+    PY  - 2022
+    PB  - 'Jornal da Tarde 24-2-1972'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano
+    ER  - 
+    ```

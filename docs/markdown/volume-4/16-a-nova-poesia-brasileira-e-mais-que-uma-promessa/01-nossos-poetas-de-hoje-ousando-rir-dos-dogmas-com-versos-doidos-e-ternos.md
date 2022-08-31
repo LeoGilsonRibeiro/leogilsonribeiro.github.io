@@ -3,13 +3,10 @@ title: 'Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e tern
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 3-03-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/01-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/01-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/01-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos
 orig_publisher: 'Jornal da Tarde 3-03-1984'
 orig_date: Sem data
-
 ---
 
 "Um dia as fórmulas fracassam"
@@ -159,3 +156,36 @@ Roberto Piva, Sílvio Pires e Cláudio Willer - que na minha opinião se destaca
 Com muita irreverência, brilho, malícia, verve, inventividade, pululam poetas dos três sexos, de todas as misturas raciais, como no soberbo *Jornal Dobrábil* de Glauco Matoso & Cia. Não faz parte, no entanto, da poesia do riso, da "gaia ciência poética" de Nietzsche enquanto lúcido a revista *Matraca*? Quem a folhear não duvidará que sim. Seu "anúncio" de página inteira do *Instituto Universal Cotiano* corre paralelo aos livros dos poetas editados: oferece cursos notáveis de praticidade e atualização como (ornado por uma fotografia): "Seja como eu um Técnico em Corrupção (nível Dois). Com aulas no Destrito Federal "ministradas" pelos mais requintados mestres da economia e política locais, este curso lhe garante um futuro alvissareiro No curriculum matérias como "Escândalo da Mandioca I", "Técnicas Lotéricas" e "Propina Comentada III". A seguir há cursos par auxiliar de acadêmico da Academia Brasileira de Letras, que em sete anos em período integral "lhe ensinará, entre outras coisas, a higienizar a dentadura dos imortais, a polir as muletas e a aplicações de morfina e soros anafiláticos. Curso reconhecido pela dra. Aslam". E as aulas de albanês em fita cassete...
 
 A irrisão é também uma arma válida para os poetas jovens, inseridos entre profecias da Grande Onda que varrerá os pecadores da orla marítima do Brasil e só preservará os filhos das inúmeras seitas místicas do Planalto. Com cartas de baralho e calendários como chamarizes para a poesia nova e um renovador ímpeto de iconoclastas, os poetas de hoje, aqui e agora misturam à face solene de uma dor dilacerante de ser em um mundo que lhes proíbe e coíbe a existência verídica a gaiatice da zommbaria inteligente e saudável. Rimbaud e Nietzsche entraram para a umbanda poética brasileira, nestes *slides* fulminantes do Absoluto.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 3-03-1984, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/01-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/01-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos},
+    orig_publisher = {'Jornal da Tarde 3-03-1984'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde 3-03-1984'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/01-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos
+    ER  - 
+    ```

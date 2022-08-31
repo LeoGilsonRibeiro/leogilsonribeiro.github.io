@@ -3,13 +3,10 @@ title: 'Baudelaire e a revolução da metáfora poética'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Baudelaire e a revolução da metáfora poética". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (Correio da Manhã 2 de Dezembro de 1965), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica
-orig_publisher: '(Correio da Manhã 2 de Dezembro de 1965)'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica
+orig_publisher: 'Correio da Manhã'
+orig_date: 1965/12/02
 ---
 
 É fundamental a transformação que Baudelaire imprime à poesia não só da França como de toda a Europa, a ponto de constituir um nítido divisor de águas entre a poesia acadêmica, parnasiana, que precede o seu aparecimento e a poesia propriamente moderna, esotérica em muitos de seus aspectos. É sua a primeira inclusão, total e obsessiva, da Grande Cidade (Paris) como tema central da sua arte poética. Ele constitui o primeiro poeta urbano, moderno, que deriva as suas imagens de elementos componentes da civilização pós-Revolução Industrial: grandes *boulevards*, parques, pontes, a elegância de uma noite gala na Ópera constrastando com a sordidez dos mendigos, das prostitutas, dos bêbados. Como verdadeiro arauto da geração de *poetas malditos* que o sucederão, como Rimbaud e Verlaine, uniu indissoluvelmente sua vida e o cultivo da sua arte requintada, aristocrática, mas profundamente participante da miséria da condição humana nos seus aspectos sociais ou metafísicos. Sacrificou à sua vocação qualquer conformismo ou adaptação aos critérios da sociedade bem-pensante do seu tempo. Isolado do grande público pela hostilidade da incompreensão que este demonstrava para com as suas revolucionárias inovações poéticas, perseguido pelos eternos invejosos mesquinhos, ele seria acossado pela doença, pela miséria financeira a mais humilhante e finalmente pelo proceso que a Justiça francesa moveu, impelida por motivos na realidade hipócritas, contra as suas *Fleurs du Mal*. Até neste particular foi pioneira a sua atuação, pois a este choque se seguirão, mais tarde, o da censura anglo-saxônica, de um puritanismo mórbido, contra o monumental *Ulysses* de Joyce e *O Amante de Lady Chatterley* de D. H. Lawrence.
@@ -63,3 +60,36 @@ Baudelaire, porém, vai mais longe do que a inovação verbal, formalística: pe
 "Será necessário eu dizer-te, a ti que não o adivinhaste, como todos os demais, que nesse livro atroz eu coloquei todo o meu coração, toda a minha ternura, toda a minha religião (disfarçada), todo o meu ódio\...?"
 
 Sua vida descreve uma parábola semelhante à dos seus poemas, que desembocam todos no tema obsessivo e abissal da Morte. Fracassaram as suas conferêncais na Bélgica, que o recebera com hostilidade e indiferença. Sua faculdade criadora enfraquece qundo ele passa a sofrer de afasia e se torna hemiplégico. Na miséria, na solidão, incompreendido, invejado, demasiado tarde lhe chega a glória, demasiado tarde o reconhecimento da grandeza de sua obra, assim como para o personagem de *O Castelo* chegaria demasiado tardiamente a admissão ao longinquo Castelo perdido na imprecisão das brumas. É a geração jovem, não esclerosada, que se entusiasma até o delírio diante do panorama novo que ele desvendou e em parte inventou: um certo Stéphane Mallarmé, de 23 anos, lhe escreve, depois um certo Paul Verlaine, de 21 anos e um seu amigo de 17, um desconhecido de nome Arthur Rimbaud. Todos o proclamam o supremo poeta da França "o país que tinha horror à poesia". O tempo que ele sempre temera na sua maratona em busca da perfeição, o tempo passara a ser seu aliado agora. E cada dia que se passa e um jovem se debruça sobre *Les Fleurs du Mal*, a fama de Baudelaire cresce, adensa-se, aprofunda-se, como uma das mais ricas e radicais vozes poéticas de todo o Ocidente.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Baudelaire e a revolução da metáfora poética". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Correio da Manhã, 1965/12/02. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Baudelaire e a revolução da metáfora poética'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica},
+    orig_publisher = {'Correio da Manhã'},
+    orig_date = {orig_date: 1965/12/02}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Baudelaire e a revolução da metáfora poética'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
+    PY  - 2022
+    PB  - 'Correio da Manhã'
+    Y1  - orig_date: 1965/12/02
+    UR  - www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica
+    ER  - 
+    ```

@@ -3,13 +3,10 @@ title: 'Hilda, encantamento místico inigualável'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Hilda, encantamento místico inigualável". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 16-6-1984 (publicado depois como posfácio do livro, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/12-hilda-encantamento-mistico-inigualavel</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/12-hilda-encantamento-mistico-inigualavel
-orig_publisher: 'LGR JT 16-6-1984 (publicado depois como posfácio do livro'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/12-hilda-encantamento-mistico-inigualavel
+orig_publisher: 'Jornal da Tarde'
+orig_date: 16/6/1984 (publicado depois como posfácio do livro
 ---
 
 de Hilda Hilst *Poemas Malditos Gozosos e Devotos*)
@@ -193,3 +190,36 @@ Lhe disse: Poeira: estou dentro de ti.
 Sou tudo isso, oco moita
 
 E a serpente de versos da tua boca"
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Hilda, encantamento místico inigualável". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 16/6/1984 (publicado depois como posfácio do livro. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/12-hilda-encantamento-mistico-inigualavel</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Hilda, encantamento místico inigualável'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/12-hilda-encantamento-mistico-inigualavel},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 16/6/1984 (publicado depois como posfácio do livro}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Hilda, encantamento místico inigualável'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 16/6/1984 (publicado depois como posfácio do livro
+    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/12-hilda-encantamento-mistico-inigualavel
+    ER  - 
+    ```

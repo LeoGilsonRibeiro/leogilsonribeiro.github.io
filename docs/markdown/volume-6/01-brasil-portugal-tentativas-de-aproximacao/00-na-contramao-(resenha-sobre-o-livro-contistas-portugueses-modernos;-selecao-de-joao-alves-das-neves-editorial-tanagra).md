@@ -3,13 +3,10 @@ title: 'Na contramão (resenha sobre o livro Contistas Portuguêses Modernos; se
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Na contramão (resenha sobre o livro Contistas Portuguêses Modernos; seleção de João Alves das Neves - Editorial Tanagra)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 26-06-1971, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)
 orig_publisher: 'Veja 26-06-1971'
 orig_date: Sem data
-
 ---
 
 O intercâmbio literário entre Brasil e Portugal é uma rua de mão única, até agora proibido para os mais importantes escritores portugueses contemporâneos. Enquanto em Lisboa são fartamente editados e discutidos Guimarães Rosa, Clarice Lispector, Carlos Drummond de Andrade, as editoras brasileiras preferem abarrotar o mercado nacional com medíocres *best-sellers* americanos. Agora, a Editorial Tanagra, de São Paulo, amplia sua primeira edição de *Contistas Portuguêses Modernos*, substitui trabalhos de vários autores e faz uma útil apresentação crítica de 28 contistas atuais de Portugal, selecionada pelo escritor e jornalista português radicado em São Paulo, João Alves das Neves.
@@ -25,3 +22,36 @@ João de Araújo Correia preocupa-se com uma dimensão mais acentuadamente socia
 É interessante a seleção final, toda dedicada a três escritoras, jovens e inovadoras. Delas, incontestavelmente, Maria Judite de Carvalho, com "A Noiva Inconsolável", é a mais moderna, a mais ágil, a que melhor aprendeu a lição dada por Katherine Mansfield, a esplêndida narradora de histórias curtas inglesa. Esquivando-se do envolvimento no sentimentalismo (que constitue a cilada mais perigosa para os escritores lusitanos e brasileiros), Maria Judite de Carvalho traça por trás de uma banal desilusão amorosa um quadro irônico da maledicência, da hipocrisia e da crueldade de um meio feminino constantemente alimentado por mexericos e intrigas.
 
 Evidentemente, entre os 28 contistas, emergem sempre ilhas de talento num mar mais ou menos espesso de mediocridade. Essa antologia não poderia fugir a essa regra internacional. Entre os defeitos dos contistas portugueses destaca-se em primeiro lugar o pieguismo exemplificado por "Menina Olímpia e a Sua Criada Belarmina", de José Régio, em que uma velha patroa arruinada e vestida ridiculamente é mantida secretamente por sua velha criada que pede esmolas na rua. Depois, a ausência de um sopro renovador que liberte a maioria dos contistas lusitanos de um enfoque literário pseudofilosófico, à maneira dos escritores de 1800, quando era moda Victor Hugo e Charles Dickens condoerem-se de seus personagens com seus leitores e exporem sua filosofia de vida em meio a figuras ocas de ficção. É o caso do conto de Fernando Namora, "Piquenique", que adota o monólogo de uma solteirona solitária: "Todos tinham muitas coisas que dizer uns aos outros, menos eu. Sentia-me mal, leprosa, indesejada". Finalmente, o excessivo regionalismo que caracteriza o estilo de muitas dessas histórias, tornando-as de difícil compreensão para o leitor brasileiro. Assim como é plenamente justificável que Guimrães Rosa tenha um glossário de termos brasileiros no final de seus livros editados em Portugal, seria compreensível que as edições futuras desses contistas definissem expressões do tipo "vem regar à despega", "marrã no cortelho", "Não é lá com os corticinhos de cores nem com os mitenes de máscaras... E a sra. Rosinha esmichou uma abelha mofina e tonta, que ainda lhe marinhou pelo braço".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Na contramão (resenha sobre o livro Contistas Portuguêses Modernos; seleção de João Alves das Neves - Editorial Tanagra)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 26-06-1971, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Na contramão (resenha sobre o livro Contistas Portuguêses Modernos; seleção de João Alves das Neves - Editorial Tanagra)'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)},
+    orig_publisher = {'Veja 26-06-1971'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Na contramão (resenha sobre o livro Contistas Portuguêses Modernos; seleção de João Alves das Neves - Editorial Tanagra)'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Veja 26-06-1971'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)
+    ER  - 
+    ```

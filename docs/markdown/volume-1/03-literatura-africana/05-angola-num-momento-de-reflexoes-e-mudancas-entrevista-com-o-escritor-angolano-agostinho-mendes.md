@@ -3,13 +3,10 @@ title: 'Angola, num momento de reflexões e mudanças - Entrevista com o escrito
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Angola, num momento de reflexões e mudanças - Entrevista com o escritor angolano Agostinho Mendes". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes
 orig_publisher: 'Jornal da Tarde'
 orig_date: Sem data
-
 ---
 
 Como na antiga -- e vastíssima -- colônia da minúscula Bélgica, o ex-Congo belga, as odiosas forças coloniais só tinham "permitido" que catorze "nativos" se formassem pela Universidade. Em Angola, igualmente, embora o número da *intelligentsia* fosse bem maior, a libertação nacional chamou a si, após a independência, todas as forças mais aptas a liderar a nação emergente. O escritor angolano de passagem pelo Brasil, Uanhenga Xitu (ou Agostinho Mendes de Carvalho, se usarmos o seu nome português), também foi ministro da Saúde e governador de uma província (o que corresponde a um Estado brasileiro), o de Luana. Fecundo autor de livros como *Maka na Sanzala, Manana* e *Mestre Tamoda*, além de outro que preparou em pouco tempo, durante suas férias na Alemanha Oriental, a ser publicado brevemente também no Brasil, é um autor "ingênuo" para as mentalidades complexas europeias, mas que fixa em seus relatos uma África ancestral em célere desaparecimento. Vai buscar suas fontes nos rapsodos das regiões rurais, os anciões que guardam a memória das tribos antes da chegada dos brancos. Antes dos navios negreiros e seus padres a abençoar as naus rumo ao Brasil com as palavras de Jesus em seus sermões à beira da praia e impressas em seus missais: "Amai-vos uns aos outros".
@@ -39,3 +36,36 @@ Além da tarefa de alfabetizar o povo, com as mulheres que se apresentam como pr
 Mas editá-los sem censura?
 
 > "Nós não temos censura, cada escritor escreve seu livro como crê e cria. Só não admitimos é uma literatura imoral, pornográfica, porque isso de nada serve para uma sociedade nova: isso, sim, é proibido, só se alguns indivíduos quiserem trazer material desse tipo em livros e videocassetes, não impedimos. Veja: Portugal, ou melhor, seu regime, durante muito tempo proibiu que falássemos em manifestações públicas ou nas escolas os nossos idiomas nativos; os batuques, por exemplo, deles temos notícias apenas pelas anotações feitas pelos missionários católicos protestantes, quando esses grupos eram apresentados aos turistas como coisa exótica: em resumo, Angola está-se fazendo dia a dia.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Angola, num momento de reflexões e mudanças - Entrevista com o escritor angolano Agostinho Mendes". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Angola, num momento de reflexões e mudanças - Entrevista com o escritor angolano Agostinho Mendes'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Angola, num momento de reflexões e mudanças - Entrevista com o escritor angolano Agostinho Mendes'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes
+    ER  - 
+    ```

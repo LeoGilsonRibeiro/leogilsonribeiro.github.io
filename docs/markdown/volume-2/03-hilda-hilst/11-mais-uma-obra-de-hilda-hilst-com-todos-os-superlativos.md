@@ -3,13 +3,10 @@ title: 'Mais uma obra de Hilda Hilst. Com todos os superlativos'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Mais uma obra de Hilda Hilst. Com todos os superlativos". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 20-11-1982, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos
-orig_publisher: 'LGR JT 20-11-1982'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos
+orig_publisher: 'Jornal da Tarde'
+orig_date: 20/11/1982
 ---
 
 O livro *A Obscena Senhora D* (Editora Massao Ohno), a ser publicado na semana que vem, em São Paulo, é um livro único da magnífica autora paulista contemporânea, sobretudo porque é possível lê-lo sem se ter a mínima notícia de seus livros e poemas anteriores. Perturbadoramente, é também um elo que se insere em seus escritos revolucionários. O *scholar* mais jovem da literatura brasileira nos Estado Unidos, Thomas Colchie, afirmou-me, com ponderada veemência, se assim se puder dizer, que a criação literária de Hilda Hilst é a mais alta e a mais importante do mundo ocidental deste final de século. O falecido e esplêndido crítico alemão emigrado para o Brasil, Anatol Rosenfeld, com todo o peso da sua profunda erudição, escreveu à autora que sua peça de teatro *As Aves da Noite* era a mais bela que lera de todos os textos de dramaturgia atual.
@@ -63,3 +60,36 @@ Na mitologia grega seria Tânatos, o espírito da Morte, matando Eros, o amor. O
 Rank surpreende pela conclusão mística a que chega, como psicólogo: para *ser* "o ser humano precisa ir além do outro, do tu, além dos consolos dos outros e das coisas deste mundo\... porque o homem é um ser teológico, termina Rank, e não (apenas) biológico".
 
 Hilda Hilst, no decurso de toda sua prodigiosa criação artística, reflete, nutre-se delas e retruca a essas elocubrações. A dualidade do sublime e do excremento ela adiciona, como Kierkegaard, o enigma de um Deus incompreensível para as acanhadas concepções humanas. E, deslumbrantemente, a cada livro enriquece o leitor com sua arte e sua lucidez espiritual, inigualáveis na literatura de nosso tempo.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Mais uma obra de Hilda Hilst. Com todos os superlativos". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 20/11/1982. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Mais uma obra de Hilda Hilst. Com todos os superlativos'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 20/11/1982}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Mais uma obra de Hilda Hilst. Com todos os superlativos'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 20/11/1982
+    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos
+    ER  - 
+    ```

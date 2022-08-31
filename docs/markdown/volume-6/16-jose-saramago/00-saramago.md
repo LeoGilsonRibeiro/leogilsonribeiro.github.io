@@ -3,13 +3,10 @@ title: 'Saramago'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Saramago". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 20-12-1986, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/16-jose-saramago/00-saramago</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/16-jose-saramago/00-saramago
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/16-jose-saramago/00-saramago
 orig_publisher: 'Jornal da Tarde 20-12-1986'
 orig_date: Sem data
-
 ---
 
 Os leitores inteligentes brasileiros - que os há, apesar das indicações em contrário - ficaram fascinados com dois livros do escritor português contemporâneo José Saramago, lançados recentemente entre nós: *O Ano da Morte de Ricardo Reis*, baseado na fictícia biografia de um dos heterônimos de Fernando Pessoa. E sobretudo o magnífico *Memorial do Convento*, um sutilíssimo estudo semântico do Portugal seiscentista e das relações entre D. João V e a freira que era sua amante, tendo como pano de fundo a influência que o autor supõe permanecer até hoje, seja do clero seja da monarquia, na psique portuguesa. Agora, em breve estada no Brasil, José Saramago, com sua inteligência ágil, sua fina urbanidade e modéstia, insistiu em que era um autoditada, que fizera só o primeiro ciclo de estudos. Mas seus excelentes livros falam mais eloquentemente da sua capacidade inventive, da minúcia de suas pesquisas históricas, de seu estilo urdido com o cuidado e a mestria de quem enfileira mosaicos do tempo.
@@ -125,3 +122,36 @@ Mesmo a sua obra mostra várias facetas do português, o transcendente, nos hete
 Pode-se dizer que o sr. aí é um Goya sorridente, que contempla os dois países e sua fantástica viagem?
 
 (Sorrindo) "Creio que sim, creio que sim."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Saramago". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 20-12-1986, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/16-jose-saramago/00-saramago</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Saramago'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/16-jose-saramago/00-saramago},
+    orig_publisher = {'Jornal da Tarde 20-12-1986'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Saramago'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 20-12-1986'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/16-jose-saramago/00-saramago
+    ER  - 
+    ```

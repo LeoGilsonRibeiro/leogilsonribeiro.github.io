@@ -3,13 +3,10 @@ title: 'Evocação de Clarice'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Evocação de Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Anexo de uma carta de LGR enviada (?) ao escritor Wilson Bueno datada de 12-13 de junho de 1994 - (provavelmente inédito, pois não foi localizada a eventual publicação do texto no jornal Nicolau para o qual havia sido escrito), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/13-evocacao-de-clarice</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/13-evocacao-de-clarice
-orig_publisher: 'Anexo de uma carta de LGR enviada (?) ao escritor Wilson Bueno datada de 12-13 de junho de 1994 - (provavelmente inédito, pois não foi localizada a eventual publicação do texto no jornal Nicolau para o qual havia sido escrito)'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/13-evocacao-de-clarice
+orig_publisher: 'Inédito'
+orig_date: 1994/06/12-13
 ---
 
 (Especial para o aniversário do *Nicolau*)
@@ -33,3 +30,38 @@ Foi ainda em Porto Alegre que essa mesma independência toldada como que por um 
 Foi um dos momentos em que captara indelevelmente aquela dimensão do sofrimento humano de forma reminiscente do testemunho de Simone Weil diante do imposto degredo humano. Uma sensibilidade que se revoltava, se assim se pode dizer, com a "inércia" da literatura. Como sua visão blakeana se retratara toda naquela frase cortada do *Correio da Manhã* e não encontrara o seu espaço: "Eu queria ter sido médica", ela dissera, com um olhar dirigido às favelas que lentamente o crepúsculo fazia desaparecer da vista.
 
 (Esta breve "evocação" da caleidoscópica Clarice Lispector dedico, *di tutto cuore*, ao meu amigo Wilson Bueno, talento maior contemporâneo)
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Evocação de Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Inédito, 1994/06/12-13. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/13-evocacao-de-clarice</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Evocação de Clarice'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    annote = {Anexo de uma carta de LGR enviada (?) ao escritor Wilson Bueno datada de 12-13 de junho de 1994 - (provavelmente inédito, pois não foi localizada a eventual publicação do texto no jornal Nicolau para o qual havia sido escrito)},,
+    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/13-evocacao-de-clarice},
+    orig_publisher = {'Inédito'},
+    orig_date = {orig_date: 1994/06/12-13}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Evocação de Clarice'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Inédito'
+    Y1  - orig_date: 1994/06/12-13
+    N1  - Anexo de uma carta de LGR enviada (?) ao escritor Wilson Bueno datada de 12-13 de junho de 1994 - (provavelmente inédito, pois não foi localizada a eventual publicação do texto no jornal Nicolau para o qual havia sido escrito)
+    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/13-evocacao-de-clarice
+    ER  - 
+    ```

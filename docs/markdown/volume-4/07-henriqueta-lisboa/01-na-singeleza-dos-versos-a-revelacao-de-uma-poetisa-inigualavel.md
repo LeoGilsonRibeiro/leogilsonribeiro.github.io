@@ -3,13 +3,10 @@ title: 'Na singeleza dos versos, a revelação de uma poetisa inigualável'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Na singeleza dos versos, a revelação de uma poetisa inigualável". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 8-9-1979, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/07-henriqueta-lisboa/01-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/07-henriqueta-lisboa/01-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/01-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel
 orig_publisher: 'Jornal da Tarde 8-9-1979'
 orig_date: Sem data
-
 ---
 
 Henriqueta Lisboa completa agora 50 anos de criação poética.
@@ -237,3 +234,36 @@ sem esquecimento
 nunca para sempre
 
 Doloridamente.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Na singeleza dos versos, a revelação de uma poetisa inigualável". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 8-9-1979, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/01-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Na singeleza dos versos, a revelação de uma poetisa inigualável'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/01-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel},
+    orig_publisher = {'Jornal da Tarde 8-9-1979'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Na singeleza dos versos, a revelação de uma poetisa inigualável'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde 8-9-1979'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/01-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel
+    ER  - 
+    ```

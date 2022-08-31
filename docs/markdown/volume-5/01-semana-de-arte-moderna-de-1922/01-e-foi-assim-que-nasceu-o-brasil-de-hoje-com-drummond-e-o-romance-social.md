@@ -3,13 +3,10 @@ title: 'E foi assim que nasceu o Brasil de hoje, com Drummond e o romance social
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "E foi assim que nasceu o Brasil de hoje, com Drummond e o romance social". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 13 de fevereiro de 1982, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/01-e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummond-e-o-romance-social</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/01-e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummond-e-o-romance-social
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/01-e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummond-e-o-romance-social
 orig_publisher: 'Jornal da Tarde 13 de fevereiro de 1982'
 orig_date: Sem data
-
 ---
 
 No armazém de secos e molhados das artes, São Paulo tinha um estoque modelar, naquele início de século XX: pintores que pintavam caipiras com a expressão apalermada de *demi-race*, pitando sua ignorância em telas a óleo rigorosamente seguindo os últimos figurinos acadêmicos de Paris. Era um retrato do exótico caboclo, uma *tranche de vie* (uma fatia de vida) vivíssima, que se comprava e se pendurava na parede da sala de visita, com solenidade. Na arquitetura, a revista *Cruzeiro* sugeria a seus leitores quatrocentões ou imigrantes italianos e árabes endinheirados *cotages* do tipo colonial norte-americano, patuscas casas de estilo "mexicano" onde só faltavam os bigodes de Panho Villa.
@@ -131,3 +128,36 @@ E para remate a desfaçatez do aviso em francês:
 "Majoration Provisoire, 20%"
 
 Hoje, decorridos meio século e meio da *Klaxon* e do movimento caótico que mudou os parâmetros da cultura brasileira, há ainda infinitos compradores dos sonetos, baladas e madrigais oferecidos pelos galhardos brincalhões. Mas daquela citadela de atualização sairia todo um Brasil contemporâneo, de Carlos Drummond de Andrade e Guimarães Rosa a Clarice Lispector e o romance social nordestino. Depois de 1922, felizmente, nunca mais o Brasil seria o mesmo cemitério às moscas de cidades e ideias mortas.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "E foi assim que nasceu o Brasil de hoje, com Drummond e o romance social". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 13 de fevereiro de 1982, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/01-e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummond-e-o-romance-social</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'E foi assim que nasceu o Brasil de hoje, com Drummond e o romance social'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/01-e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummond-e-o-romance-social},
+    orig_publisher = {'Jornal da Tarde 13 de fevereiro de 1982'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'E foi assim que nasceu o Brasil de hoje, com Drummond e o romance social'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios
+    PY  - 2022
+    PB  - 'Jornal da Tarde 13 de fevereiro de 1982'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/01-e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummond-e-o-romance-social
+    ER  - 
+    ```

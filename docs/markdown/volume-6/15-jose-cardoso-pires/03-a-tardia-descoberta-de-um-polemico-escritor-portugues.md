@@ -3,13 +3,10 @@ title: 'A tardia descoberta de um polêmico escritor português'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A tardia descoberta de um polêmico escritor português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 12-11-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues
 orig_publisher: 'Jornal da Tarde 12-11-1983'
 orig_date: Sem data
-
 ---
 
 O Brasil e Portugal vivem de costas um para o outro, décadas a fio. É ocioso esmiuçar as razões deste surrealista alheamento: a ditadura fascista de Salazar? Mas tínhamos uma ditadura fascista de Vargas aqui. A intensiva colonização cultural norte-americana no Brasil? No entanto, os grandes escritores franceses e italianos do pós-guerra, sem falar nos ingleses e até alemães, coexistiram com a recente enxurrada de esplêndidos escritores hispano-americanos: Virgínia Woolf, Doris Lessing, Ítalo Calvino, Pavese, Pasolini, Proust, Musil que só conhecemos tardiamente em traduções brasileiras.
@@ -61,3 +58,36 @@ Que haveria muitíssimos mais trechos desta obra-prima que ressaltar, o leitor i
 A estas reflexões como que saídas de um ensaio de Camus, José Cardoso Pires acrescenta, em sua sóbria "Nota Final":
 
 "Então como hoje ele (o arquiteto) sabia que na sua tragédia individual existiu uma parte maior de erro colectivo; que as sociedades de terror se servem dos crimes avulsos para justificarem o crime social que elas representam por si mesmas e que em todos esses crimes a sua mão está presente, em todos."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A tardia descoberta de um polêmico escritor português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 12-11-1983, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A tardia descoberta de um polêmico escritor português'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues},
+    orig_publisher = {'Jornal da Tarde 12-11-1983'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A tardia descoberta de um polêmico escritor português'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 12-11-1983'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues
+    ER  - 
+    ```

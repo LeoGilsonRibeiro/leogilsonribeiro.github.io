@@ -3,13 +3,10 @@ title: 'Clarice num derradeiro espelho diante de si mesma'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Clarice num derradeiro espelho diante de si mesma". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 23-12-1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma
-orig_publisher: 'Jornal da Tarde 23-12-1978'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma
+orig_publisher: 'Jornal da Tarde'
+orig_date: 23/12/1978
 ---
 
 A morte recente de Clarice Lispector dá à publicação póstuma de seu último livro, *Um Sopro de Vida*, um alcance arqueológico. São frases desenterradas, lascas de uma intenção fronteiriça que a depauperação orgânica impediu de realizar melhor. É um rascunho, um esboço que retrataria globalmente as suas mais fundas preocupações finais. Para quem conhece, no entanto, o inimitável sortilégio que se desprende de *A Paixão Segundo G. H.*, *Laços de Família*, *Felicidade Clandestina* e outras criações suas, permanece a insatisfação diante da obra a ser revista, podada, enxertada para alcançar a perfeição altíssima dos momentos anteriores. Para o leitor que não conhecer nem o nome de Clarice Lispector, esses círculos concêntricos de tensão em torno de si mesma parecerão indecifráveis e talvez sustem a leitura.
@@ -69,3 +66,36 @@ A noção de *durée* bergsonia que Proust incorporou em sua incomparável *À l
 "Ah, os areais do deserto do Saara me parecem longamente adormecidos, intransformáveis pelo passar dos dias e das noites. Se suas areias fossem brancas ou coloridas, elas teriam "fatos" e "acontecimentos", o que encurtaria o tempo. Mas da cor que são, nada acontece. E quando acontece, acontece um rígido cacto imóvel, grosso, intumescido, espinhento, eriçado, intratável. O cacto é cheio de raiva com dedos todos retorcidos e é impossível acarinhá-lo: ele te odeia em cada espinho espetado porque doi-lhe no corpo esse mesmo espinho, cuja primeira espetada foi na sua própria grossa carne. Mas pode-se cortá-lo em pedaços e chupar-lhe a áspera seiva: leite de mãe severa. Para suavizar essa minha vida que pinga lenta de gota em gota - tenho o poder da miragem: vejo oásis úmidos que se desvanecem quando chego perto para buscar abrigo materno. Uma vida dura é uma vida que parece mais longa. Mas, mesmo assim, me surpreendo de como é que já é maio, se ontem era fevereiro? Cada minuto que vem é um milagre que não se repete."
 
 Com a introspecção profética de todo grande artista, nas páginas finais deste livro propositalmente desordenado, desigual, com lampejos de fascínio e trechos ousadamente *kitsch*, é a própria Clarice Lispector que lega a sua metáfora de vida: somos todos intérpretes de um *show* que Deus, um Deus absurdo para a limitada compreensão humana, dirige. E implicitamente separa o artista do ser humano: aquele pode morrer, o outro permanece na eternidade, o único vaticínio falso desse tortuoso caminho rumo a si mesmo: enquanto houver sensibilidade, a artista profunda, deslumbrante que é Clarice Lispector permanecerá, resgatando à vida - e agora também à arte e à morte - o seu sentido oculto.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Clarice num derradeiro espelho diante de si mesma". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 23/12/1978. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Clarice num derradeiro espelho diante de si mesma'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 23/12/1978}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Clarice num derradeiro espelho diante de si mesma'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 23/12/1978
+    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma
+    ER  - 
+    ```

@@ -3,13 +3,10 @@ title: 'O Evangelho da Solidão de Eduardo de Oliveira'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "O Evangelho da Solidão de Eduardo de Oliveira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: O Estado de São Paulo, 1970/7/23. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/13-o-evangelho-da-solidao-de-eduardo-de-oliveira</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/13-o-evangelho-da-solidao-de-eduardo-de-oliveira
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/13-o-evangelho-da-solidao-de-eduardo-de-oliveira
 orig_publisher: 'O Estado de São Paulo'
 orig_date: 1970/7/23
-
 ---
 
 Na parte final desta sua coletânea de poemas, Eduardo de Oliveira transcreve a opinião hiperbólica de Tristão de Ataíde, que o considera "o novo Cruz e Souza" brasileiro, a par de outra que o define como "um triste sonhando coisas lindas\... (seu livro) é um porto de miragens, gemendo a insatisfação milenária dos poetas." A mesma indecisão caracteriza sua utilização dos versos:
@@ -121,3 +118,36 @@ Mas uma força que adquiri um ritmo e uma expressão próprias, quando o poeta n
 > com soluços de noites e pedaços do meu povo."
 
 O contacto com esta raiz expressiva e com os exemplos vigorosos da poesia negra -- de Langston Hughes aos poetas contemporâneos do Congo -- poderá trazer uma diretriz certa às suas hesitações poéticas, tornando-o uma expressão inédita da nossa poesia virgem -- a da negritude brasileira original.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "O Evangelho da Solidão de Eduardo de Oliveira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: O Estado de São Paulo, 1970/7/23. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/13-o-evangelho-da-solidao-de-eduardo-de-oliveira</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'O Evangelho da Solidão de Eduardo de Oliveira'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/13-o-evangelho-da-solidao-de-eduardo-de-oliveira},
+    orig_publisher = {'O Estado de São Paulo'},
+    orig_date = {orig_date: 1970/7/23}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'O Evangelho da Solidão de Eduardo de Oliveira'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'O Estado de São Paulo'
+    Y1  - orig_date: 1970/7/23
+    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/13-o-evangelho-da-solidao-de-eduardo-de-oliveira
+    ER  - 
+    ```

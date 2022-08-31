@@ -3,13 +3,10 @@ title: 'Clarice. Doando um fragmento iluminado de si mesma nestas crônicas'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Clarice. Doando um fragmento iluminado de si mesma nestas crônicas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 16-11-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/11-clarice-doando-um-fragmento-iluminado-de-si-mesma-nestas-cronicas</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/11-clarice-doando-um-fragmento-iluminado-de-si-mesma-nestas-cronicas
-orig_publisher: 'Jornal da Tarde 16-11-1984'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/11-clarice-doando-um-fragmento-iluminado-de-si-mesma-nestas-cronicas
+orig_publisher: 'Jornal da Tarde'
+orig_date: 16/11/1984
 ---
 
 *A Descoberta do Mundo*, um grosso volume de quase 800 páginas, reúne, pela Editora Nova Fronteira, as crônicas publicadas de Clarice Lispector na imprensa carioca de 1967 a 1973. Não fossem as indispensáveis reimpressões de cronistas insignes como Rubem Braga, Carlos Drummond de Andrade, Cecília Meireles e outros, a grande maioria dos leitores não teria acesso a esse trabalho miniaturesco, mas nem por isso menos perfeito de alguns dos nossos maiores escritores.
@@ -35,3 +32,36 @@ São empregadas extraordinárias que atravessam a sua vida: Aninha, a mineira qu
 Naquela antecipação inconsciente da reação do leitor, a magnífica escritora doou aos leitores de língua portuguesa o mais permanente presente transcendental que durará por todas as datas festivas ou comuns do futuro: um fragmento iluminado de si mesma. Como quando inicia uma crônica polifonicamente, e por que não também transcendentalmente, assinalando no seu estilo simples e inesquecível:
 
 "- Então isso era a felicidade. E - por assim dizer sem motivo. De início sentiu-se vazia. Depois os olhos ficaram úmidos: era felicidade, mas como sou mortal, como o amor pelo mundo me transcende".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Clarice. Doando um fragmento iluminado de si mesma nestas crônicas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 16/11/1984. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/11-clarice-doando-um-fragmento-iluminado-de-si-mesma-nestas-cronicas</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Clarice. Doando um fragmento iluminado de si mesma nestas crônicas'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/11-clarice-doando-um-fragmento-iluminado-de-si-mesma-nestas-cronicas},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 16/11/1984}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Clarice. Doando um fragmento iluminado de si mesma nestas crônicas'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 16/11/1984
+    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/11-clarice-doando-um-fragmento-iluminado-de-si-mesma-nestas-cronicas
+    ER  - 
+    ```

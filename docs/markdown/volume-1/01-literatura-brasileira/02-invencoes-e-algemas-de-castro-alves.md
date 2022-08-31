@@ -3,13 +3,10 @@ title: 'Invenções e algemas de Castro Alves'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Invenções e algemas de Castro Alves". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, 1971/07/14. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves
 orig_publisher: 'Veja'
 orig_date: 1971/07/14
-
 ---
 
 Nem sempre o crítico e o leitor falam do mesmo Castro Alves. Existe a imagem "oficial" do poeta romântico que se inflama na descrição épica do "Navio Negreiro". E uma visão mais rigorosa, que peneira versos esplêndidos da ganda volumosa de seu Amazonas poético. Os 24 anos de sua vida intensa foram breves demais para disciplinar sua inspiração desenfreada. Não lhe foi concedida a dilatação de prazo que pedira na véspera de sua morte, há cem anos: "Ai, o Quilombo dos Palmares! Seria minha obra-prima\... Dai-me, meu Deus, mais dois anos de vida!"
@@ -27,3 +24,36 @@ Cultuado nas palavras do poeta senegalês Léopold Senghor como "o poeta dos con
 Mas, se a perspectiva do presente emagrece seu perfil qualitativo, aumenta a importância de suas inovações. Castro Alves não hesita em chocar os ouvidos afinados por uma gramática e uma paisagem rigidamente importadas de Portugal. Utiliza a contração "pra" em vez de "para" e integra uma geografia brasileira em versos que falam de "picadas" na floresta, "gerais" e "capinzais" -- embora se limite a só ver borboletas azuis forçado pela rima e cego à variedade de colorido de nossa fauna. Nessa descrição intimista de estados da natureza -- alegria, melancolia, morte, esperança -- que refletem as emoções humanas diante da paisagem, ele cria pequenas joias de perfeita adequação de linguagem onomatopaica e frescor inventivo: "Em músico estalo rangia o coqueiro", ou "a surdina da tarde ao sol, que morre lento", entre dezenas de outros achados à procura de um garimpador paciente.
 
 Ao formular sua poesia social -- em parte deslocada no tempo, pois alude ao tráfico negreiro abolido quase vinte anos antes de seu nascimento -- ele se aproximaria da definição de poesia que Shelley formulou: "O poeta é o desconhecido legislador da humanidade". Seus versos aceleraram a proclamação da lei de 13 de Maio e apressaram indiretamente a proclamação da República por sua arrebatadora comunicabilidade popular. No continente americano, só Whitman teria, em sua época, um impacto e uma grandeza democrática tão profundos.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Invenções e algemas de Castro Alves". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, 1971/07/14. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Invenções e algemas de Castro Alves'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves},
+    orig_publisher = {'Veja'},
+    orig_date = {orig_date: 1971/07/14}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Invenções e algemas de Castro Alves'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Veja'
+    Y1  - orig_date: 1971/07/14
+    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves
+    ER  - 
+    ```

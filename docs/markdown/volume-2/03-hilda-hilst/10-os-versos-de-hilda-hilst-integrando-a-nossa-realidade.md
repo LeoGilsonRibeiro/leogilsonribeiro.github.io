@@ -3,13 +3,10 @@ title: 'Os versos de Hilda Hilst, integrando a nossa realidade'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Os versos de Hilda Hilst, integrando a nossa realidade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 14 de fevereiro de 1981, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/10-os-versos-de-hilda-hilst-integrando-a-nossa-realidade</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/10-os-versos-de-hilda-hilst-integrando-a-nossa-realidade
-orig_publisher: 'LGR JT 14 de fevereiro de 1981'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/10-os-versos-de-hilda-hilst-integrando-a-nossa-realidade
+orig_publisher: 'Jornal da Tarde'
+orig_date: 14 de fevereiro de 1981
 ---
 
 O Grande Prêmio atribuído na recente votação da Associação Paulista de Críticos de Arte a Hilda Hilst representa um indício de que, ao menos entre uma parte significativa da crítica pensante e sensível brasileira, a obra tríplice da paulista Hilda Hilst (como dramaturga, como poetisa e como prosadora) vem recebendo seu tardio, mas ainda válido reconhecimento.
@@ -207,3 +204,36 @@ Hilda Hilst não comunica ao leitor uma vivência pessoal: ela *incorpora* o lei
 São palavras que qualquer leitor de seus livros poderia subscrever:
 
 "Para mim, desde que li esse livro, as ficções deixaram de ser o imaginário apenas para fazerem parte do real, tangível, é como se você, entrando num plano de passionalidade total, pudesse sentir várias coisas brotando em você, acordando em você. A totalidade do ser humano seria o sentido de compreender o homem, teu próximo, e dar a vida a ele. Fazer da tua linguagem uma própria exensão da tua própria atuação e aí, sim, você começa a ser livre". Raramente na literatura a imaginação criadora e seus "pontos de ficção" espelharam tão fiel e transcendentemente a doação e a liberdade.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Os versos de Hilda Hilst, integrando a nossa realidade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 14 de fevereiro de 1981. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/10-os-versos-de-hilda-hilst-integrando-a-nossa-realidade</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Os versos de Hilda Hilst, integrando a nossa realidade'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/10-os-versos-de-hilda-hilst-integrando-a-nossa-realidade},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 14 de fevereiro de 1981}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Os versos de Hilda Hilst, integrando a nossa realidade'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 14 de fevereiro de 1981
+    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/10-os-versos-de-hilda-hilst-integrando-a-nossa-realidade
+    ER  - 
+    ```

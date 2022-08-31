@@ -3,13 +3,10 @@ title: 'Angola Escreve. Alguns grandes autores do romance ao conto'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Angola Escreve. Alguns grandes autores do romance ao conto". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/08/04. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/03-angola-escreve-alguns-grandes-autores-do-romance-ao-conto</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/03-angola-escreve-alguns-grandes-autores-do-romance-ao-conto
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/03-angola-escreve-alguns-grandes-autores-do-romance-ao-conto
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1981/08/04
-
 ---
 
 Se já no plano puramente temático o romance constitui um gênero no qual sobressai, alta, a figura de José Luandino Vieira, o conto angolano também nos reserva surpresas compensadoras. O próprio José Luandino Vieira atribui essa designação de "estórias" a várias coletâneas suas: *Luuanda*, *No Antigamente, na Vida*, *A Cidade e a Infância* e *Macanduba*. Nesses contos longos, porém, a temática político-social cede à evocação de uma vida com episódios bucólicos, nostálgica e poeticamente evocados pelo autor. Há cenas dignas de comédia, com os mais velhos assumindo uma postura de incredulidade e depois de indignação diante dos acontecimentos que os livros transmitem nas escolas aos filhos:
@@ -125,3 +122,36 @@ Não: ao contrário. Como já demonstra fartamente a literatura recente de Angol
 Enfaticamente: não. Angola se faz TAMBÉM com a inteligência, a sensibilidade, o arrojo de seus melhores escritores, tão decisivos na construção ética e estética de seu país quanto os cientistas, os engenheiros, os operários e até alguns ministros que não sejam do tipo do Tavares maravilhosamente ironizado por Manuel Rui. Se a população negra, mestiça ou branca de Angola quiser ser protagonista e não títere de seu tempo, ela por certo compreenderá que a literatura é o exercício supremo da Liberdade e da Democracia que nenhum regime de partido único, de imprensa amordaçada pelo Estado monolítico, pode jamais sufocar. É um testemunho dessa profundidade que os grandes autores angolanos nos trazem, fazendo-nos crer, com novo alento, no futuro dessa literatura tão forte e importante que nos vem de Angola, uma expressão original, bela, autônoma, de um povo hoje liberto dos grilhões do colonialismo e prestes a dar sua importante contribuição para a formação daquele autêntico humanismo a que referia lúcida e lapidarmente Alioune Diop linhas atrás.
 
 Sem a contribuição original, livre de tutelas estrangeiras adiposas, a África Negra insuflará, na civilização maquinal que nos massacra, aquela alma que dela se alijou à força dentro do maniqueísmo asfixiante do capitalismo selvagem e do marxismo arcaizante. Afinal, a literatura permanece como testemunho da imaginação e como documento de uma época: são os tiranos que perecem e mal deixam rastros de sua passagem no efêmero quebradiço da História.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Angola Escreve. Alguns grandes autores do romance ao conto". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/08/04. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/03-angola-escreve-alguns-grandes-autores-do-romance-ao-conto</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Angola Escreve. Alguns grandes autores do romance ao conto'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/03-angola-escreve-alguns-grandes-autores-do-romance-ao-conto},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1981/08/04}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Angola Escreve. Alguns grandes autores do romance ao conto'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1981/08/04
+    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/03-angola-escreve-alguns-grandes-autores-do-romance-ao-conto
+    ER  - 
+    ```

@@ -3,13 +3,10 @@ title: 'A esperança de chegar um dia a ter esperança. Hilda Hilst esta é a li
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A esperança de chegar um dia a ter esperança. Hilda Hilst esta é a literatura que eu escrevo". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR Interview, n. 82 (1985), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo
-orig_publisher: 'LGR Interview, n. 82 (1985)'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo
+orig_publisher: 'Interview, n. 82'
+orig_date: 1985
 ---
 
 Sem alardes, pouco a pouco, a escritora paulista Hilda Hilst conquista a França, a Oropa e a Bahia. O mais pretigioso e severo jornal de Paris, *Le monde*, dedicou-lhe um espaço e um destaque, em seu Suplemento Literário, normalmente só concedido a Borges, a Beckett, a Céline. O crítico Jorge Coli não mediu superlativos: a poesia de Hilda Hilst representa a perfeição da escritura qualitativa que torna a literatura brasileira uma das poucas de ressonância mundial.
@@ -259,3 +256,36 @@ O magnífico visionário, o grande poeta inglês William Blake discerniu misteri
 > E a serpente de versos da tua boca.
 
 Aos poucos, como a água umedecendo o verde limo e quase imperceptivelmente atravesando o cascalho, o nome de Hilda Hilst cresce, atravessa fronteiras de má vontaade, de inércia, de incompreensão. Para os grandes artistas, o Tempo é a dimensão imóvel, a Arte como a definia perceptivamente Yeats, busca a *stasis*, o imutável do Êxtase perene. E a cada dia a magnificência da criação literária, filosófica, comportamental, inquiridora dos mais profundos abismos da condição humana que Hilda Hilst nos lega, cresce, recolhe sua voz, íntima, diante de cada noite e a expande, espantosa, a cada esplendor do meio-dia.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A esperança de chegar um dia a ter esperança. Hilda Hilst esta é a literatura que eu escrevo". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Interview, n. 82, 1985. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A esperança de chegar um dia a ter esperança. Hilda Hilst esta é a literatura que eu escrevo'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo},
+    orig_publisher = {'Interview, n. 82'},
+    orig_date = {orig_date: 1985}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A esperança de chegar um dia a ter esperança. Hilda Hilst esta é a literatura que eu escrevo'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Interview, n. 82'
+    Y1  - orig_date: 1985
+    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo
+    ER  - 
+    ```

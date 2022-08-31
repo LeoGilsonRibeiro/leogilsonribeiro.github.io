@@ -3,13 +3,10 @@ title: 'Entrevista com Edoardo Bizzarri'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Entrevista com Edoardo Bizzarri". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Realizada em 2 de agosto de 1968 e não publicada, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri
-orig_publisher: 'Realizada em 2 de agosto de 1968 e não publicada'
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri
+orig_publisher: 'Inédito'
 orig_date: Sem data
-
 ---
 
 Qual a sua opinião sobre Guimarães Rosa?
@@ -43,3 +40,38 @@ De que forma o Sr. enquadra *Corpo de Baile* no contexto da obra de Guimarães R
 > O Sr. concorda que Guimarães Rosa é comparável a Joyce ou, pelo menos, que podemos compará-lo com os grandes novelistas que reestruturam a linguagem de seus respectivos países e idiomas?
 >
 > "Vamos ficar apenas com Joyce. A comparação com Joyce é um pouco imprópria. Em Joyce, a meu ver, o problema linguístico é de natureza totalmente diferente. Em Joyce há um fundo e uma exigência de caráter intelectual na modificação e na deformação da lingugem, na tentativa de criar uma linguagem nova. Em Guimarães Rosa há uma exigência poética de exprssão. Ele cria a linguagem por uma necessidade de expressar as várias nuanças de seu mundo poético."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Entrevista com Edoardo Bizzarri". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Entrevista com Edoardo Bizzarri'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    annote = {Realizada em 2 de agosto de 1968 e não publicada},,
+    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri},
+    orig_publisher = {'Inédito'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Entrevista com Edoardo Bizzarri'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Inédito'
+    Y1  - orig_date: Sem data
+    N1  - Realizada em 2 de agosto de 1968 e não publicada
+    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri
+    ER  - 
+    ```

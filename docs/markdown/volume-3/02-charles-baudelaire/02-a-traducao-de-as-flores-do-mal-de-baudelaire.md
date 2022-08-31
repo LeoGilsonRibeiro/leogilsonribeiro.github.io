@@ -3,13 +3,10 @@ title: 'A tradução de As Flores do Mal de Baudelaire'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A tradução de As Flores do Mal de Baudelaire". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal da Tarde 7 de dezembro de 1985, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire
-orig_publisher: 'Jornal da Tarde 7 de dezembro de 1985'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire
+orig_publisher: 'Jornal da Tarde'
+orig_date: 1985/12/07
 ---
 
 À primeira vista pode parecer uma brincadeira, mas os fatos comprovam.
@@ -63,3 +60,36 @@ Com o mais profundo respeito e sem nenhuma intenção irônica, malévola, essa 
 Que lhe fique o consolo, se consolo for, de que Goethe nunca foi bem traduzido em português. Que as traduções românticas alemãs de Shakespeare nada têm de shakespereanas. Que nem Nabokov conseguiu traduzir convincentemente Puchkin. Que Guimarães Rosa foi vilmente massacrado pelo inglês capenga de Miss Harriet de Onis, que transformou o soberbo painel de *Grande Sertão: Veredas* em uma história de faroeste em Mato Grosso, com centenas de palavras que ela não entendia simplesmente eliminadas.
 
 Baudelaire inaugurou o sentimento poético moderno e a esquizofrenia do "horror simpático", por isso não pode causar estranheza que ele não possa ter seguidores fiéis em qualquer língua, nem na devoção de Stefan George, na Alemanha, nem na de Ivan Junqueira, no Brasil. Nem na de muitos outros que se aventuraram a repetir o irrepetível. A oferenda votiva dessa tradução permanece ocmo um maço de flores ou uma vela acessa no altar dedicado a Baudelaire: seu gênio por certo percebe a pureza do labor e do gesto.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A tradução de As Flores do Mal de Baudelaire". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal da Tarde, 1985/12/07. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A tradução de As Flores do Mal de Baudelaire'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1985/12/07}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A tradução de As Flores do Mal de Baudelaire'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1985/12/07
+    UR  - www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire
+    ER  - 
+    ```

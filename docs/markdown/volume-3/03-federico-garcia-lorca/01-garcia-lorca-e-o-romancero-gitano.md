@@ -3,13 +3,10 @@ title: 'García Lorca e o Romancero Gitano'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "García Lorca e o Romancero Gitano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (9 páginas datilografadas para o curso), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano
-orig_publisher: '(9 páginas datilografadas para o curso)'
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano
+orig_publisher: 'Inédito'
 orig_date: Sem data
-
 ---
 
 Nas primeiras aulas situamos Baudelaire como a linha de divisão entre a poesia anterior a ele a que se lhe segue é o *arauto* da sensibilidade moderna contemporânea. Não só por introduzir temas da grande cidade industrializada mineral mas também por conceitos novos de beleza, de audácia artística, de liberdade criadora do artista.
@@ -87,3 +84,38 @@ Toda a sua poesia, como o *cante jondo* que ele celebrava com entusiasmo, está 
 De forma lapidar ele próprio saudou profeticamente o aspecto que teriam os cantos da Andalusia onde ficaria enterrado o poeta vítima do crime político. No trecho em que ele elogia o *duende* da Espanha o seu feitiço que se espraia demoniacamente pelos jardins de Granada, pelos quadros negros de Goya e pela música agitada e sofrida dos seus ciganos. Ele como que antecede o aspecto que deve ter hoje a paisagem na qual se integrou o seu corpo, quando ele diz:
 
 "*El duende\...* onde está *el duende?* Pelo arco vazio entra um ar mental que sopra com insistência sobre as cabeças dos mortos, em busca de novas paisagens e timbres ignorados; um ar com cheiro de saliva de crianças de herva mastigada e véu de medusa que anuncia o constante bastismo das coisas recém criadas".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "García Lorca e o Romancero Gitano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'García Lorca e o Romancero Gitano'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
+    date = {2022},
+    annote = {9 páginas datilografadas para o curso},,
+    url = {www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano},
+    orig_publisher = {'Inédito'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'García Lorca e o Romancero Gitano'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
+    PY  - 2022
+    PB  - 'Inédito'
+    Y1  - orig_date: Sem data
+    N1  - 9 páginas datilografadas para o curso
+    UR  - www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano
+    ER  - 
+    ```

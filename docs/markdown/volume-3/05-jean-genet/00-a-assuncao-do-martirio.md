@@ -3,13 +3,10 @@ title: 'A assunção do martírio'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A assunção do martírio". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (9 páginas datilografadas para o curso), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/05-jean-genet/00-a-assuncao-do-martirio</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/05-jean-genet/00-a-assuncao-do-martirio
-orig_publisher: '(9 páginas datilografadas para o curso)'
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-3/05-jean-genet/00-a-assuncao-do-martirio
+orig_publisher: 'Inédito'
 orig_date: Sem data
-
 ---
 
 Nas aulas anteriores vimos como o artista a partir de Baudelaire passava a encarar aquele ideal romântico do heroi que se opõe à tirani. Baudelaire à tirania dos preconceitos e dos valores burgueses acadêmicos e hipócritas, Lorca à tirania totalitária anti-popular. Nos expressionistas há um ideal de solidariedade humana de individualismo oposto à democracia que nivela por baixo e oposto ao totalitarismo (hecatombe nazista). Kafka é uma figura solitária e majestosa na sua não-integração mas subterraneamente de oposição ao marasmo e ao conformismo exemplificada indiretamente na morte de Milena como partícipe do levante contra a loucura monstruosa do nazismo.
@@ -89,3 +86,38 @@ A única forma de compreendê-lo então seria a de retirarmos a nossa máscara e
 Genet triunfa de maneira igualmente profunda através da literatura. A sua vivência humana, trágica, solitária, monstruosa, condenada, exilada evanesce-se. A sua existência fichada nos arquivos do orfanato que o acolheu em Paris, nos arquivos da polícia, nos cárceres em que esteve recolhido dilui-se com o tempo, cessa o didadão Genet, desaparecem as pistas legais dos processos movidos contra o criminoso, o ladrão, o pederasta Genet. Permanece unicamente a sua patética e majestosa prosa sombria, sinistra flor do mal que germina do humus negro da sua miséria, da sua maldição tenebrosa.
 
 Tendo evocado *o mito* Genet como um sacerdote que terminou de oficiar uma missa negra desaparece para ceder lugar à sua obra. É a suprema vitória do verbo que excede o seu criador e neutraliza o próprio tempo e espaço, ultrapassando a própria morte física. Abolindo a distância entre o seu mundo e o mundo que se encontrará na posteridade. Com as suas imagens de profundo satanismo, ele cria um elo ao mesmo tempo humano e literário entre a sua monstruosidade e a nossa, como que uma furtiva ternura que ele tanto ambicionara entre a vítima e o algoz.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A assunção do martírio". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/05-jean-genet/00-a-assuncao-do-martirio</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A assunção do martírio'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
+    date = {2022},
+    annote = {9 páginas datilografadas para o curso},,
+    url = {www.leogilsonribeiro.com.br/volume-3/05-jean-genet/00-a-assuncao-do-martirio},
+    orig_publisher = {'Inédito'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A assunção do martírio'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
+    PY  - 2022
+    PB  - 'Inédito'
+    Y1  - orig_date: Sem data
+    N1  - 9 páginas datilografadas para o curso
+    UR  - www.leogilsonribeiro.com.br/volume-3/05-jean-genet/00-a-assuncao-do-martirio
+    ER  - 
+    ```

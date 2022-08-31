@@ -3,13 +3,10 @@ title: 'As múltiplas seduções de Hilda Hilst: entrevista'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "As múltiplas seduções de Hilda Hilst: entrevista". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 18 de abril de 1977, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/06-as-multiplas-seducoes-de-hilda-hilst-entrevista</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/06-as-multiplas-seducoes-de-hilda-hilst-entrevista
-orig_publisher: 'LGR JT 18 de abril de 1977'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/06-as-multiplas-seducoes-de-hilda-hilst-entrevista
+orig_publisher: 'Jornal da Tarde'
+orig_date: 1977/04/18
 ---
 
 \- Hilda Hilst: há uns sete anos houve uma transformaçã radical da sua vida. Você pendurou o seu diploma de advogada formada pela Faculdade de Direito do Largo São Francisco. Abandonou as festas elegantes e a roda-vida da metrópole que é São Paulo. Casou-se com o escultor Dante Casarini. A mulher bonita, de paixões correspondidas, isoulou-se voluntariamente como que nesse claustro em que você vive, perto de Campinas. E passou a escrever com uma intensidade e uma qualidade absoluta. O que houve?
@@ -123,3 +120,36 @@ Veja: uma das duas criaturas que mais me marcou na vida foi Simone Weil. Ela, ju
 \- E a Literatura, para você, é um instrumento de conscientização, de reflexão ou é também uma forma de atuar sobre a realidade humana?
 
 "Existem determinados caminhos que podem reposicionar o homem. Um desses caminhos seria a pesquisa científica, outro a filosofia metafísica e, para mim, sobretudo a Literatura, que é o meu meio de expressão (não sou pianista nem pintora) porque é através da literatura que você pode se conhecer a si mesmo. Ora, só se conhecendo a si mesmo é que você pode conhecer e reconhecer o próximo, o Outro. Essas diversas vias capazes de reestruturar a visão que o homem tem da vida, de si, do universo, para mim tem na Literatura uma conotação afetiva que reforça a escolha da Literatura como instrumento da minha expressão. Meu pai, Apolônio Prado Hilst, era poeta e ensaísta, assinava com o pseudônimo de Luiz Bruma, foi uma das primeiras pessoas a falar em cooperativismo no Brasil, era filho de um francês de Lille que se casou com uma fazendeira paulista da familia Almeida Prado. Meu pai, nos escritos que minha mãe guardou dele e me deu para ler, se interrogou sobre o que aconteceria à alma na loucura. Escrever é então para mim sentir meu pai dentro de mim, em meu coração, me ensinando a pensar com o coração, como ele fazia, ou a ter emoções com lucidez. A Literatura para mim é tudo isso e deixa sempre o signo de uma interrogação tão grande que não pode ser perscrutada, entende? Afeto, saudade, coração, mente, compaixão, busca, terror, pessimismo e, paradoxalmente, quem sabe a esperança de chegar um dia a ter esperança -- isso é a literatura que eu escrevo e como eu a concebo para mim: acho que ela é ficções vividas em todos esses níveis e tudo envolto pela pátina (ou melodia?) da saudade do meu pai.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "As múltiplas seduções de Hilda Hilst: entrevista". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 1977/04/18. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/06-as-multiplas-seducoes-de-hilda-hilst-entrevista</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'As múltiplas seduções de Hilda Hilst: entrevista'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/06-as-multiplas-seducoes-de-hilda-hilst-entrevista},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1977/04/18}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'As múltiplas seduções de Hilda Hilst: entrevista'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1977/04/18
+    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/06-as-multiplas-seducoes-de-hilda-hilst-entrevista
+    ER  - 
+    ```

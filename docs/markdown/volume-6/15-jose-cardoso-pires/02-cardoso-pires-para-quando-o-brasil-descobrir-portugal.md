@@ -3,13 +3,10 @@ title: 'Cardoso Pires, para quando o Brasil descobrir Portugal'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Cardoso Pires, para quando o Brasil descobrir Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 01-10-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal
 orig_publisher: 'Jornal da Tarde 01-10-1983'
 orig_date: Sem data
-
 ---
 
 José Cardoso Pires, o grande romancista português, possivelmente o maior deste momento de toda a Península Ibérica, é vítima da quarentena crescente que isola cada vez mais o Brasil da cultura do seu tempo. Seus livros combativos e esteticamente irrepreensíveis *O Anjo Ancorado*, *Cartilha do Marialva* (Editora Ulisséia, Lisboa, 1960) e sobretudo *O Delfim* (Moraes Editores, Lisboa, 1968) raramente chegam ao Brasil. Na sua nova fase a Editora Difel ou outras editoras brasileiras estariam interessadas na difusão da criação literária de Cardoso Pires, incluindo-se nela as obras mais recentes: *Dinossauro Excelentíssimo*, *E Agora, José?*, *O Burro em Pé* e *Balada da Praia dos Cães*. Todas levantaram celeuma em Portugal quando publicadas e mais tarde discutidas na televisão, principalmente a última, por lidar com um crime político verídico. Durante sua breve passagem por São Paulo, ele concedeu ao *Jornal da Tarde* esta entrevista exclusiva:
@@ -101,3 +98,36 @@ E no fundo são descendentes de italianos. Quando li recentemente uma longa repo
 Mas, para sermos equânimes, será que as propostas de Lenin e Andropov são diferentes?
 
 "É claro que tanto no campo capitalista quanto no socialista temos que admitir que há tendências em ambos para criar novas formas de relações subjugando e uniformizando as sociedades e as culturas. É um fato. Eu, como marxista, reconheço que os horrores e desumanidades da era industrial não se comparam aos do feudalismo: quem trocaria um pelo outro? Ninguém! Da mesma forma que o pior tipo de paternalismo é o que se manifesta através das ditaduras fascistas. Na nossa época também o homem tem todo o direito de ter medo de se massificar. Pois tudo não se processa apenas "por mudanças", como dizia Camões: as mudanças têm também o seu lado altamente negativo. O homem no seu percurso entre a utopia e a morte sente uma salutar inquietação, pois só esta poderá corrigir a selvageria."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Cardoso Pires, para quando o Brasil descobrir Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 01-10-1983, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Cardoso Pires, para quando o Brasil descobrir Portugal'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal},
+    orig_publisher = {'Jornal da Tarde 01-10-1983'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Cardoso Pires, para quando o Brasil descobrir Portugal'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 01-10-1983'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal
+    ER  - 
+    ```

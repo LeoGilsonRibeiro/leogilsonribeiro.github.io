@@ -3,13 +3,10 @@ title: 'Tarsila do Amaral: A última entrevista'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Tarsila do Amaral: A última entrevista". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Veja 23 de fevereiro de 1972 - Edição 181, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/03-tarsila-do-amaral/00-tarsila-do-amaral-a-ultima-entrevista</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/03-tarsila-do-amaral/00-tarsila-do-amaral-a-ultima-entrevista
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-5/03-tarsila-do-amaral/00-tarsila-do-amaral-a-ultima-entrevista
 orig_publisher: 'Veja 23 de fevereiro de 1972 - Edição 181'
 orig_date: Sem data
-
 ---
 
 \"O que será aquela coisa?\"
@@ -100,3 +97,36 @@ Tarsila - Um dos meus quadros que fez muito sucesso quando eu o expus lá na Eur
 LGR - A sua pintura, tão poética, é então uma evocação enternecedora de uma infância feliz?
 
 Tarsila - Acho que o senhor não está longe de ter acertado.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Tarsila do Amaral: A última entrevista". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Veja 23 de fevereiro de 1972 - Edição 181, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-5/03-tarsila-do-amaral/00-tarsila-do-amaral-a-ultima-entrevista</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Tarsila do Amaral: A última entrevista'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-5/03-tarsila-do-amaral/00-tarsila-do-amaral-a-ultima-entrevista},
+    orig_publisher = {'Veja 23 de fevereiro de 1972 - Edição 181'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Tarsila do Amaral: A última entrevista'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios
+    PY  - 2022
+    PB  - 'Veja 23 de fevereiro de 1972 - Edição 181'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-5/03-tarsila-do-amaral/00-tarsila-do-amaral-a-ultima-entrevista
+    ER  - 
+    ```

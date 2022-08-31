@@ -3,13 +3,10 @@ title: 'Tentativa de explicação'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Tentativa de explicação". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Correio da Manhã, 21-03-1965, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/00-tentativa-de-explicacao</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/00-tentativa-de-explicacao
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/00-tentativa-de-explicacao
 orig_publisher: 'Correio da Manhã, 21-03-1965'
 orig_date: Sem data
-
 ---
 
 Já desde o início, a vida de Clarice Lispector fôra um constante deslocamento. Entre a pracinha da Faculdade de Direito em Recife onde ela brincava quando criança e a Praça General Osório, no Rio, onde nos encontramos agora, há uma longa trajetória, uma parábola que percorre meio mundo. Durante esses anos, ela viveu em países estrangeiros, teve dois filhos e a menina que aos sete anos enviava colaborações para a página infantil de um jornal pernambucano transformou-se na mais extraordinária escritora brasileira. O reconhecimento unânime da crítica já se espraia pelo estrangeiro: *Der Apfel im Dunkel*, o título em alemão do seu romance *A Maçã no Escuro*, é saudado como uma das obras mais importantes já traduzidas da América Latina. De lá para cá surgiram também seus contos que começara adolescente ainda: densos, estranhos, incomparáveis na sua maneira de expressar sensações, na sua falta de artifício, na sua diretriz inconscientemente nova e intensamente pessoal. Esse deslocamente frequente abrangeu o espaço, o tempo, as circunstâncias. Seus pais, russos da Ucrânia dos trigais imensos e do folclore de uma alegia estouvada, decidiram emigrar e foi numa cidadezinha ("que você não vai achar no mapa") que tiveram de interromper a viagem para a menina nascer. De Tchetchelnik a Recife, ela trouxe para a nossa literatura muito do mistério daqueles invernos luminosos e foscos, uma ilha de sugestão em meio à exuberância do nosso colorido tropical. Por um triz o destino deixou de presentear-nos com a sua sensibilidade: a família hesitou uns tempos antes de vir par o Brasil distante. Detiveram-se na Alemanha, pensaram estabelecer-se nos Estados Unidos. Felizmente para a literatura brasileira, fixaram-se definitivamente entre nós.
@@ -55,3 +52,36 @@ E se não fosse escritora, o que ela teria sido? Ela se sente realizada, feliz, 
 \- É, sim, porque é preciso ser muito feliz para viver numa cidade pequena, pois ela alarga a felicidade como alarga também a infelicidade. De modo que vou morando mesmo aqui no Rio. Você sabe, nas cidades grandes todos sabem que em cada apartamento existe uma espécie de solidariedade, pois em cada apartamento mora uma pessoa infeliz."
 
 Da cobertura ampla de um prédio, em Ipanema, onde conversamos à noite, olhamos um momento para a favela em frente à Praça General Osório. Talvez não seja uma praça tão diferente da praça em frente à Faculdade, no Recife: aqui, também, os choferes namoram as empregadas e é talvez perto daqui que Clarice escondeu as coisas que nunca mais conseguiu achar. As luzes da favela brilham quase que com ternura sutil. Se não fosse a tragédia que elas iluminam incertamente, podia-se dizer que a favela era bonita, mas não do sentido estético, no sentido alienado da miséra que as luzes nem escondem. Bonita no sentido poético, como é feio um prédio construído pela sofreguidão imobiliária. Sartre, em sua última obra, reitera seu desencanto com a obra literária, que considera ineficaz como arma de mudanças sociais. Uma posição semelhante e uma conclusão idêntica são as da escritora brasileira: "Desde que me conheço, o fato social teve em mim importância maior do que qualquer outro: em Recife, os mocambos deram a primeira verdade para mim. Muito antes de sentir "arte", senti a beleza profunda da luta. Mas é que tenho um modo simplório de me aproximar do fato social: eu queria era "fazer" alguma coisa, como se escrever não fosse fazer. O que não consigo é usar o escrever para isso, por mais que a incapacidade me doa e me humilhe."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Tentativa de explicação". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Correio da Manhã, 21-03-1965, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/00-tentativa-de-explicacao</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Tentativa de explicação'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/00-tentativa-de-explicacao},
+    orig_publisher = {'Correio da Manhã, 21-03-1965'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Tentativa de explicação'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Correio da Manhã, 21-03-1965'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/00-tentativa-de-explicacao
+    ER  - 
+    ```

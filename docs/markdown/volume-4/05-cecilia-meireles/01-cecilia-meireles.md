@@ -3,13 +3,10 @@ title: 'Cecília Meireles'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Cecília Meireles". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Inédito (7 páginas datilografadas, sem data, provavelmente meados dos anos 60)**. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/01-cecilia-meireles</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/01-cecilia-meireles
-orig_publisher: 'Inédito (7 páginas datilografadas, sem data'
-orig_date: provavelmente meados dos anos 60)**
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/01-cecilia-meireles
+orig_publisher: 'Inédito'
+orig_date: Sem data (provavelmente meados dos anos 60)
 ---
 
 Cecília Meireles aparece como um galho divergente do Movimento Modernista da Semana de 22 em São Paulo. Ela estava mais integrada à chamada corrente esiritualista de Tarso Silveira e Andrade Murici. As revistas *Árvore Nova, Festa* e *Terra e Sol* diferiam por exemplo das revistas dos modernistas como *Klaxon* e a *Revista de Antropofagia*. Enquanto os paulistas queriam uma arte nacionalizante, abolindo a métrica, a rima e impondo uma anarquia individualista de criação embora com propósitos coletivos, o Movimento Espiritualista de inspiração nitidamente católica defendia ao contrário aqueles que ele considerava os valores imutáveis da psique brasileira: a elaboração estilística do poema mesmo se necessário utilizando a métrica e a rima ou usando o verso livre dos modernistas. Em seguida: uma perscrutação filosófica não imediatista do poeta diante da vida da natureza e dos seus semelhantes e por fim o reconhecimento de que o Brasil não estava e não podia estar divorciado do mundo daí esse movimento ter se chamado também totalista ou universalista em oposição à irreverência dos paulistas que pretendiam destruir todos os ídolos anteriores. Não: o Movimento Espiritualista queria uma continuidade e é significativo que se tenha inspirado inicialmente no Movimento Simbolista de quem Cruz e Souza tinha sido no Brasil ao lado de Alphonsus de Guimaraens a expressão suprema.
@@ -59,3 +56,38 @@ Esta humana insuficiência desembocaria na fase final da maravilhosa criação p
 Como que pressentindo que a morte já a ronda, Cecília Meireles submerge no mundo de Outro Preto. Aquela Vila Rica dos tempos coloniais do jugo português e deixa pronto m dos paineis sociais mais abrasadores de toda a literatura brasileira. Ela não busca o épico: afinal a Inconfidência foi traída e seu mártir supremo da liberdade, Tiradentes foi enforcado e depois esquartejado, sua cabeça fincada sangrenta num poste bem alto para qe todos os inimigos da coroa predatória das riquezas do Brasil soubessem que os soberanos lusos sabiam não só explorar a colônia como, se necessário, sufocar qualquer veleidade de independência e de liberdade. Inserem-se neste mural elegíaco e no entanto quase viril na sua denúncia da traição de ideais tão nobres o cenário mineiro: o trabalho escravo nas minas de ouro e diamantes. Os aventureiros que iam para Vila Rica para enriquecer de qualquer maneira. O contraste entre o país rico e a população pobre, entre a elite intelectual, alijada das academias literárias de Lisboa como meros provincianos e a cupidez dos reinos que meramente se serviam das minas brasileiras para erguer palácios em Queluz e Lisboa. Inserem-se os severos, bárbaros costumes da moral mineira como nos versos da donzela assassinada pelo pai que erroneamente pensou que o lenço que ela recolhia do varal era um aceno para um amante que lhe tivesse roubado a honra do nome. As violências com o derrame exigido por D. Maria I, a rainha louca, a cobiça do Conde de Valadares, a poma da mulata Chica da Silva que construiu um lago para nele navegar com um navio trazido de Portugal pelo seu amante o rico português João Fernandes que a ataviava em sedas e deixava que ela tivesse essa ilusão mineira de mar a singrar as águas do lago artificial construído por seu capricho diante de seu palácio.
 
 Sob esse clima de opressão e luxo, com poetas e músicos, escultores como Aleijadinho e pintores, nessa pequena renascença cultural que Minas Gerais inaugura para o Brasil, fervilham as ideias liberais em política; leem-se os Enciclopedistas franceses: D'Alembert, Rousseau, Voltaire e Diderot. Murmura-se à respeito da indenpendência das colônias inglesas que conseguiram com o comando de George Washington libertar-se da tirania do rei George III da Inglaterra. Despacham-se inutilmente emissários para buscar em Benjamin Frank e em Thomas Jefferson, os paladinos da independência das 13 colônias da orla atlântica dos Estados Unidos, um apoio que esses idealizadores da Constituião americana negam ao Estado que quer nascer na América do Sul. Como que presságios de traição, sangue e morte assombram os passos da grande figura central - o Tiradentes, a quem um cigano prediz um destino funesto. Incompreendido pelos tropeiros de Alimaria que conduzia ouro Tiradentes é escarnecido pelos seus compatriotas enquanto uma espécie de Gestapo ou KGB portuguesa lhe segue os passos da figura misteriosa e sinistra do embuçado. Era o suicídio de Cláudio Manoel da Costa encerrado no cárcere da Casa dos Contos, era a denúncia daquela conspiração feita por poetas sem contato com a realidade dura e impiedosa que dá aos versos de Cecília Meireles aquele conflito entre a leviandade da palavra e a covardia da ação. Ironicamente o fado tece também seu escárnio: Marília vê partir para a África seu noivo amado, Tomás Gonzaga, que lá se casa com outra mulher depois de dedicar-lhe poemas de amor eterno. Marília aos oitentas e tantos anos de idade caminhando com passos incertos a mantilha na cabeça para a igreja na paróquia de Antônio Dias a recordar o amor fenecido antes de colhido, até a louca rainha de Portugal a quem os nobres cobiçosos faziam assinar penas e morte e de exílio sem que ela soubesse o que fazia entrar nesse romanceiro da Inconfidência, assim como o Conde assumir que como governador das Minas Gerais mandou incendiar as casas dos principais chefes da rebelião abortada. Sobretudo Joaquim José da Silva Xavier, o Tiradentes, perpassa vivo ou morto sendo condenado à força ou espalhando suas ideias perigosas de sedição em ouvidos discrentes ou surdos, assim como o outro Joaquim, Joaquim Silvério dos Reis, o calar daquela conjura, o delator que relatou ao Visconde de Barbacena pormenores dos projetos de rebeldia de que participara torpemente.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Cecília Meireles". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Inédito, Sem data (provavelmente meados dos anos 60). URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/01-cecilia-meireles</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Cecília Meireles'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    annote = {7 páginas datilografadas},,
+    url = {www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/01-cecilia-meireles},
+    orig_publisher = {'Inédito'},
+    orig_date = {orig_date: Sem data (provavelmente meados dos anos 60)}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Cecília Meireles'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Inédito'
+    Y1  - orig_date: Sem data (provavelmente meados dos anos 60)
+    N1  - 7 páginas datilografadas
+    UR  - www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/01-cecilia-meireles
+    ER  - 
+    ```

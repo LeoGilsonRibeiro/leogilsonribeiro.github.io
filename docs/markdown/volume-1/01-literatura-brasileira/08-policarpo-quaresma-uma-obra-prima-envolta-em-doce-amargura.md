@@ -3,13 +3,10 @@ title: 'Policarpo Quaresma, uma obra-prima envolta em doce amargura'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Policarpo Quaresma, uma obra-prima envolta em doce amargura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1983/4/9. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1983/4/9
-
 ---
 
 A compreensão do espírito que animou o romancista carioca Lima Barreto a compor o personagem título de suas páginas espantosas, *Triste Fim de Policarpo Quaresma*, pode ficar em parte impedida pela tradução imperfeita da frase de Renan que lhe serve de epígrafe. No original francês de seu Mar Aurèle, está claramente exposta a noção de ruptura entre o idealista e a realidade que o circunda:
@@ -59,3 +56,36 @@ Não só a loucura, a miséria, a guerra esgotam esta saga urbana: sensível à 
 Há quem queira ver nas frases finais do livro uma esperança: "Tinha havido grandes modificações nos aspectos, na fisionomia da terra, talvez no clima\... Esperamos mais, pensou ela; e seguiu serenamente ao encontro de Ricardo Coração dos Outros".
 
 Será justa essa aferição da conclusão de Lima Barreto? É impossível determinar, a não ser por um *parti pris* ideológico, que sim ou que não. De qualquer maneira, o que o leitor constata é uma mecânica da imobilidade do Brasil: de 1911, quando foi publicado esse livro, até hoje, o que mudou senão a aparência? Que modificações houve senão de alcance estatístico? De forma confusa, no entanto, sem rótulos precisos de "esperança" ou "desânimo", Lima Barreto incute em quem o lê a noção dual de que o prisma das coisas tristes é sem dúvida mais amplo e mais abrangente do que o da alegria, mas viver, como um inexplicável paradoxo, imbui as derrotas de uma atmosfera que só o enigma da doçura define e delimita.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Policarpo Quaresma, uma obra-prima envolta em doce amargura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1983/4/9. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Policarpo Quaresma, uma obra-prima envolta em doce amargura'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1983/4/9}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Policarpo Quaresma, uma obra-prima envolta em doce amargura'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1983/4/9
+    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura
+    ER  - 
+    ```

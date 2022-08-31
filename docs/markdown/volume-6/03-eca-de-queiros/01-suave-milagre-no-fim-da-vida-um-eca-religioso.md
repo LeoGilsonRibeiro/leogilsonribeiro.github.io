@@ -3,13 +3,10 @@ title: 'Suave milagre: no fim da vida, um Eça religioso'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Suave milagre: no fim da vida, um Eça religioso". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 28-5-1969, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso
 orig_publisher: 'Veja 28-5-1969'
 orig_date: Sem data
-
 ---
 
 Na rua de um santo (São Bento), em São Paulo, o livreiro Olinto de Moura guarda a chave seu único exemplar de uma obra rara: o *Diccionario dos Milagres*, livro póstumo e inacabado de Eça de Queirós sobre os santos mais venerados pelo povo em Portugal - alguns dos quais estão entre os 44 "cassados" pelo Vaticano. Mas o maior interesse dessa aglomeração de textos menores e incompletos do grande escritor português é para a crítica literária. Como se explica que Eça de Queirós, talvez o autor mais radicalmente anticlerical que Portugal já possuiu, tenha reunido pacientemente algumas dezenas de milagres atribuídos aos santos mais populares? Como chegou a compilar esse esboço de *Diccionario dos Milagres*, que sua morte, em 1900, aos 55 anos de idade, não o deixou terminar?
@@ -23,3 +20,36 @@ Eça não pode corrigir a recente cassação de vários santos, mas já seu cont
 Santa Bárbara administra a Santo Estanislau Kostka o sacramento da Eucaristia (1550-1568) - "Ao tempo a que Santo Estanislau se dispunha a entrar na Companhia de Jesus, foi acometido de moléstia de tamanha gravidade, que desesperaram os médicos de o poder salvar. E o coração do mancebo aperta-se, e o seu espírito confrangia-se não com receio da morte, mas por lhe faltar o meio de receber a Sagrada Comunhão, achando-se enfermo em casa de pessoas herejes. Nesta perplexidade acudiu a Santa Bárbara, rogando-lhe fervorosamente que o não desamparasse, nem permitisse que chegasse à morte sem antes participar da divina Eucaristia. Alta noite, não podendo Estanislau conciliar o sono, apareceu-lhe Santa Bárbara acompanhada de dois anjos, trazendo as espécies sacramentais de pão e de vinho. O jovem recebeu a comunhão das mãos de Santa Bárbara, servindo os anjos de acólitos; e daquela hora em diante começou a esperimentar melhoria..."
 
 Santa Filomena, taumaturga do décimo nono século, prova a sua identidade - "Apenas a rainha do Céu desaparecera, entrou (o Imperador) Diocleciano com os seus soldados no calabouço. Despiram, ataram-me a um pilar, e açoitaram-me até o meu corpo não ser mais do que uma chaga viva. Desmaiei após tão grande sofrimento e, dando-me por morta, os meus algozes abandonaram-me, baixando em seguida dois anjos a curar as minhas chagas. Ao dia seguinte, informado de que reflorescera a minha formosura, voltou a ver-me o Imperador, olhando-me com visível admiração, aconselhando-me a que rendesse graças a Júpiter por me haver restabelecido, e prometendo-me ser imperatriz dos romanos. Desprezei as suas promessas, e Diocleciano ordenou que me prendesse ao pescoço uma âncora, lançando-me em seguida às águas do Tibre. Executadas as suas ordens, baixaram novamente dos anjos e trouxeram-me para terra à vista de milhares de testemunhas. Muitos se converteram, mas Diocleciano, atribuindo-me a arte de magia, mandou ainda que me arrastassem despida pelas ruas de Roma, sendo um sem-número de flechas disparadas contra mim... Ao outro dia arrojaram-me a uma fornalha acessa, onde pereceram seis dos meus perseguidores; e Jesus recebeu a minha alma e conduziu-a ao paraíso, colocando sobre minha fronte as coroas do matírio e da virgindade."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Suave milagre: no fim da vida, um Eça religioso". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 28-5-1969, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Suave milagre: no fim da vida, um Eça religioso'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso},
+    orig_publisher = {'Veja 28-5-1969'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Suave milagre: no fim da vida, um Eça religioso'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Veja 28-5-1969'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso
+    ER  - 
+    ```

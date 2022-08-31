@@ -3,13 +3,10 @@ title: 'Cardoso Pires reinventa Portugal'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Cardoso Pires reinventa Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 16-01-1988, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/04-cardoso-pires-reinventa-portugal</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/04-cardoso-pires-reinventa-portugal
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/04-cardoso-pires-reinventa-portugal
 orig_publisher: 'Jornal da Tarde 16-01-1988'
 orig_date: Sem data
-
 ---
 
 José Cardoso Pires sobressai como possivelmente o maior escritor português em um país de revigorante efervescência literária atual. A escritura ática, elegíaca, da poesia de Eugênio de Andrade não lhe faz sombra. Nem tornam menor a sua criação prosadores com a vitalíssima reflexão de José Saramago e seu afresco do *Memorial do Convento*, ou a obra mais perfeita, maçã amarga amadurecida nas cãs de um Virgílio Ferreira, *Para Sempre*, nem os livros marcantes de muitos mais: Fernando Botelho, David Mourão-Ferreira, Agustina Bessa-Luís - a lista poderia ser estafantemente extensa.
@@ -41,3 +38,36 @@ Modestamente, José Cardoso Pires omite o que a imprensa internacional já divul
 A longa - a primeira, de que se tem notícia - meditação a respeito das frustrações e conquistas da Revolução dos Cravos, ele reconhece, faz de *Alexandra Alpha* um livro polêmico, aberto a diversas interpretações, causador de iras, de acusações de "reacionário", de antiportuguês, até de "cabotino". Só lhe importam, porém, os julgamentos de meia dúzia, não, não tantas, apenas três ou quatro pessoas inteligentes e argutas. E será difícil desentranhar amor do ódio que o autor vota a Portugal: tantos personagens apagados, tantas mulheres temerariamente corajosas, tantos homens covardes, do bando que sempre diz "sim, mestre!". Portugal é alternadamente o refugo do mar, o sobejo do dito "o meu país é o que o mar não quer" ou "no meu país não acontece nada": então urge *inventar* um país, desventrá-lo em suas possibilidades latentes. Neste livro singular, destemido, por vezes lírico em um autor vincadamente objetivo, há voos surrealistas e, como dizem pedantemente os linguistas, toda uma polissemia, uma variedade de interpretações e abordagens. Um método dinamicamente visual usa como que tomadas de câmeras panorâmicas, à maneira do fantástico voo inicial, batismal, do anjo-desportista da asa delta que da Pedra da Gávea, no Rio de Janeiro, se lança rumo à praia de Ipanema. Surgem aproximações, *close-ups* de protagonistas fugazes, quase fantasmagóricos. A poesia do voo livre se casa, arrevesadamente, com o tique-taque de uma bomba-relógio de um terrorista suicida, louro *kamikaze* insuspeito.
 
 Comparado no estrangeiro a (Ítalo) Calvino, a (Witold) Grombrowicz, a García Marquez, Cardoso Pires os engloba a todos: pelo frescor de sua inventividade ora caricatural, ora originalíssima, pelos círculos concêntricos que descreve em torno de Portugal entre voluptuoso e esquizofrênico, no sentido de duas faces do deus Janus e com laivos mesmo da morbidez de amar o que lhe parece difícil: abraçar lucidamente o seu fado, palavra que a etimologia já demonstra brotar da mesma origem que "fatalidade": a de ser português. Nas mãos plasmadoras, conscientes, de Cardoso Pires toda uma literatura multisecular, que se interrogou a si mesma sobre quem era, na realidade mostrou um significado tão radicalmente complexo do que significa essa emaranhado de conceitos às vezes em antítese: a portugalidade.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Cardoso Pires reinventa Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 16-01-1988, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/04-cardoso-pires-reinventa-portugal</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Cardoso Pires reinventa Portugal'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/04-cardoso-pires-reinventa-portugal},
+    orig_publisher = {'Jornal da Tarde 16-01-1988'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Cardoso Pires reinventa Portugal'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 16-01-1988'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/04-cardoso-pires-reinventa-portugal
+    ER  - 
+    ```

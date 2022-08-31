@@ -3,13 +3,10 @@ title: 'Eça de Queirós: cem anos de sua morte'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Eça de Queirós: cem anos de sua morte". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Caros Amigos - outubro de 2000, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte
 orig_publisher: 'Caros Amigos - outubro de 2000'
 orig_date: Sem data
-
 ---
 
 Que me seja permitido começar com uma redundância: a suprema literatura foge sempre ao efêmero. Atravessa todas as épocas da humanidade e continua perene como a arte dos gregos antigos, as catedrais góticas, as pinturas de Rembrandt, Goya, Van Gogh e muitos mais. Depois desse pleonasmo podemos celebrar (este e todos os anos) o centenário da imortalidade do supremo romancista português, Eça de Queirós, que faleceu biologicamente e de forma tão prematura, em 1900, com apenas 55 anos de idade.
@@ -63,3 +60,36 @@ Neste mundo bestialmente "globalizado" por meia dúzia de países ricos e famint
 Para novatos e veteranos para conhecimento de Eça de Queirós: a melhor biografia de Eça se chama *Eça de Queirós - Vida e Obra*, do magistral crítico português, que também deixou uma extraordinária biografia de Fernando Pessoa, João Gaspar Simões. De 1945, devem estar esgotadas, mas nos sebos devem existir ainda exemplares dessas magníficas e sumamente inteligentes biografias luminosas dos dois maiores gênios da literatura portuguesa.
 
 Há um *site*, o da Comissão Nacional para o Centenário da Morte de Eça de Queirós, acessível através do endereço da Biblioteca Nacional de Lisboa, [[www.bn.pt]{.underline}](file:///C:\Users\Fernando\Desktop\Ed.%20Lucerna%20aluguéis\www.bn.pt). É só clicar este ótimo acesso a quase tudo que existe sobre Eça. Computadores prontos!
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Eça de Queirós: cem anos de sua morte". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Caros Amigos - outubro de 2000, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Eça de Queirós: cem anos de sua morte'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte},
+    orig_publisher = {'Caros Amigos - outubro de 2000'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Eça de Queirós: cem anos de sua morte'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Caros Amigos - outubro de 2000'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte
+    ER  - 
+    ```

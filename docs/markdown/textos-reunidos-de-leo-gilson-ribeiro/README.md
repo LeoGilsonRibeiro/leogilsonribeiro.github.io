@@ -3,10 +3,10 @@ title: 'Apresentação aos textos reunidos de Leo Gilson Ribeiro'
 author: Fernando Rey Puente
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro'
-date: 2022-08
-print_bib: true
-abnt_ref: 'PUENTE, Fernando Rey. "Apresentação aos textos reunidos de Leo Gilson Ribeiro". In <em>Textos Reunidos de Leo Gilson Ribeiro</em>, 2022. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/textos-reunidos-de-leo-gilson-ribeiro/readme</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/textos-reunidos-de-leo-gilson-ribeiro/readme
+date: 2022
+view_url: www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/
+
+2022
 ---
 
 Há muitos anos eu estava guardando um material que eu obtive de Leo Gilson Ribeiro. Tratava-se de inúmeros recortes de jornal e de revistas, bem como um bom número de textos datilografados que ele preservava, mas de modo bastante desordenado, amontoados em prateleiras em um pequeno quarto nos fundos de sua casa. Nestes últimos anos de colapso cultural que estamos vivendo com recorrentes ataques do governo às universidades e aos centros de pesquisa, nada mais importante para um professor universitário do que procurar resgatar parte de nosso passado cultural do esquecimento e torná-lo público.
@@ -38,3 +38,32 @@ O sexto e último livro que eu escolhi organizar foi dedicado à relação liter
 Desejo então que as leitoras e os leitores desses livros virtuais por mim organizados e aqui reunidos digitalmente possam usufruir da escrita aliciante e envolvente de Leo Gilson Ribeiro que, espero eu, possa conduzir a todas e todos pelo universo labiríntico, mágico e encantado que nos é desvelado pelas literaturas de vários países, e em especial do Brasil, em suas inúmeras formas e manifestações ao longo do tempo.
 
 Boa leitura.
+
+
+=== "ABNT"
+    PUENTE, Fernando Rey. "Apresentação aos textos reunidos de Leo Gilson Ribeiro". In <em>Textos Reunidos de Leo Gilson Ribeiro</em>, 2022. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Puente2022,
+    author = {PUENTE, Fernando Rey},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Apresentação aos textos reunidos de Leo Gilson Ribeiro'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Puente2022
+    AU  - PUENTE, Fernando Rey
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Apresentação aos textos reunidos de Leo Gilson Ribeiro'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro
+    PY  - 2022
+    UR  - www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/
+    ER  - 
+    ```

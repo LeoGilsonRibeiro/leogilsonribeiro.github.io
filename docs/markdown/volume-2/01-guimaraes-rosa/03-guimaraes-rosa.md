@@ -3,13 +3,10 @@ title: 'Guimarães Rosa'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Guimarães Rosa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR Revista Goodyear (s-data), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/03-guimaraes-rosa</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/03-guimaraes-rosa
-orig_publisher: 'LGR Revista Goodyear (s-data)'
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/03-guimaraes-rosa
+orig_publisher: 'Revista Goodyear'
 orig_date: Sem data
-
 ---
 
 Recentemente, a corajosa ousadia de um diretor, Walter Avancini, levou à tela da televisão de milhões de brasileiros uma história diferente de tudo o que o aparelhinho mágico já apresentara em trinta anos de adaptação ao Brasil. *Grande Sertão: Veredas* de um tal de Guimarães Rosa deixava o espectador ao mesmo tempo fascinado e sem entender bem. Havia palavras arrevesadas -- "ele tinha conspeito tão forte", "verde que afina e esveste, belimbeleza", "não se importava, mesmo dava sua placença". Depois, que história era aquela de um caipira lutador, um jagunço ignorante, falar de Deus e do Diabo a toda hora? Cobras, jacarés, rios, vales sombrios, chapadas longas e o Rio São Francisco, cataratas e bosques de buriti -- a natureza luxuriante invadia as salas de estar das cidades brasileiras como se fosse um mundo exótico e indecifrável, selvagem, mas com suas leis crueis, próprias de feras. Feras eram os jagunços também em luta de vários anos, pelejas contra o governo ou contra os coroneis do sertão: cuspes, escarros, melodias cantadas ao som de violas, traições punidas com castrações -- se havia uma Lei no Sertão ela era primitiva, tosca, rude como aqueles homens presos a ordens do Chefe, em busca do inimigo como se fosse caça perigosa. O personagem que parecia ser o principal, o jagunço Riobaldo, hesitava o tempo todo entre Deus e o Demônio. O Diabo existe? ele perguntava, atormentado, como se sua perdição ou salvação dependesse disso, a milhões de telespectadores, crianças, adolescentes, homens e mulheres de meia-idade, velhos em asilos e grupos de pessoas reunidos em bares e botequins por esse Brasil adentro.
@@ -77,3 +74,36 @@ Há páginas quase que escondidas, de tão pouco divulgadas, de Guimarães Rosa 
 > "\... Mas, entretanto, cuidado. Falei em paradoxo. De Minas, tudo é possível. Viram como é de lá que mais se noticiam as coisas sensacionais ou esdrúxulas, os fenômenos? O diabo aparece, regularmente, homens e mulheres mudam anatomicamente de sexo, ocorrem terremotos, trombas-d'água, enchentes monstras, corridas-de-terrenos, enormes ravinamentos que desabam serras, aparições meteóricas, tudo o que aberra e espanta. Revejam, bem. Chamam a seu povo de "carneirada", por que respeita por modo quase automático seus Governos, impessoalmente, e os acata; mas, por tradição, conspira com rendimento, e entra com decisivo gosto nas maiores rebeliões. Dados por rotineiros e apáticos, foram de repente à Índia, buscar o zebu, que transforma, dele fazendo uma riqueza, e o exportam até para o estrangeiro. \... Disse que o mineiro não crê demasiado na ação objetiva; mas, com isso, não se anula. Só que mineiro não se move de graça. Ele permanece e conserva. Ele espia, escuta, indaga, protela, ou palia, se sopita, tolera, remancheia, perrengueia, sorri, escapole, se retarda, faz véspera, tempera, cala a boca, matuta, destorce, engambela, apuleia, se prepara. Mas, sendo a vez, sendo a hora, Minas atende, entende, atende, toma tento, avança, peleja e faz. Sempre foi assim. Ares e modos. Assim seja\..."
 
 Guimarães Rosa na sua aparência pacata, ensimesmada, detonou na literatura em língua portuguesa uma bomba atômica, conseguiu a fissão do átomo da linguagem, com uma inigualável sabedoria que conseguisse ao mesmo tempo inovar dentro do tradicional, criar o inédito com material misto: arcaico e inventado. Ou como alguém que magicamente obtivesse da literatura não apenas o espelho das situações humanas, mas um reflexo recôndito, admirável pela sua revolução estética e pelo seu inquisidor espírito, um reflexo do Absoluto: os vestígios mais ínfimos de Deus penetrando sutilmente o tecido carnoso da vida, a vida, que ele chama de essa travessia para o Eterno.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Guimarães Rosa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Revista Goodyear, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/03-guimaraes-rosa</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Guimarães Rosa'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/03-guimaraes-rosa},
+    orig_publisher = {'Revista Goodyear'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Guimarães Rosa'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Revista Goodyear'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/03-guimaraes-rosa
+    ER  - 
+    ```

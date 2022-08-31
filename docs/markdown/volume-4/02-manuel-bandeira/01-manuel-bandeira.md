@@ -3,16 +3,13 @@ title: 'Manuel Bandeira'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Manuel Bandeira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 19-4-1986, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/02-manuel-bandeira/01-manuel-bandeira</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/02-manuel-bandeira/01-manuel-bandeira
-orig_publisher: 'Jornal da Tarde 19-4-1986'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/01-manuel-bandeira
+orig_publisher: 'Jornal da Tarde'
+orig_date: 19/04/1986
 ---
 
-Há cem anos (em 19/4/1886) nascia no Pernambuco o poeta que usou os versos para vencer a doenç e a morte iminente. Conseguiu muito mais que isso: com sua grandeza, modernizou nossa poesia.
+Há cem anos (em 19/4/1886) nascia no Pernambuco o poeta que usou os versos para vencer a doença e a morte iminente. Conseguiu muito mais que isso: com sua grandeza, modernizou nossa poesia.
 
 Escudo simples: a este Grande,
 
@@ -363,3 +360,36 @@ E em verdade, estou morto ali."
 A negação, a recusa da vida é cabal, apesar dos esforços por colher os seus momentos coloridos de alegria, de prazer fugidio. No acre poema curto "Entrevista", imagina-se que um repórter o importuna com uma entrevista: o que ele acha de mais bonito no mundo? E ele responde que não sabe dizer. Sabe, isto sim, o que há de mais triste no mundo inteiro: "De mais triste é uma mulher grávida/ Qualquer mulher grávida". A vida é já amaldiçoada, indesejada, no ventre, sob a forma do veto, pois a vida significará sempre espanto, sordidez, sofrimento, frustração, maldade, engano: para que saudá-la quando nascitura?
 
 O poeta se aventura a fazer poemas à moda dos poemas de amigo dos cancioneiros medievais portugueses, hai-cais, poemas concretos, gazais da poesia persa, mas incursiona também, alegre por instantes, na pagodeira esfuziante, hilariante, das três mulheres do sabonete Araxá. É a modernidade dos anúncios publicitários que invade a poesia contemporânea: é uma versão divertida de Pasárgada, onde a fantasia não tem limites, onde as mulheres do sabonete do anúncio colocado em bondes e logradouros públicos despertam no poeta a veia satírica e a veia voluptuosa de par com o desejo de evasão da realidade sombria de pobreza, solidão e doença a minar-lhe os pulmões. Manuel Bandeira não se entrega, mesmo desenganado pela medicina oficial. Faz programs bissemanais pelo rádio, colabora como cronista de jornais, leciona Literatura Hispano-Americana na Universidade do Brasil, no Rio de Janeiro, entra para a Academia de Letras, traduz livros diversos, desde Brecht até aventuras de Tarzan e o *Macbeth* de Shakespeare, redige um livro em dois volumes sobre *Noções de História das Literaturas*, é o padrinho de casamento da poetisa Marly de Oliveira. Seria impossível em breve artigo de jornal resumir a grandeza que palpita em seus poemas. A sua é uma música íntima, de câmara, sem o ruído majestoso de uma filarmônica ou de uma sinfônica, é mais um quarteto voluntariamente amortecido em seus tons, mas de uma melodia triste que não se deixa desmentir pelos estouvados rompantes de alegria e traquinagem aqui e ali. Nem por isso a melodia que nos deixou é menor pela sua complexidade, pela espiritualização da carnalidade, pelo seu pudor legítimo, pela humildade sincera de sua modéstia e pela grandeza que nela só pressentem os que rimam poesia com sutileza e reticência.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Manuel Bandeira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 19/04/1986. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/01-manuel-bandeira</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Manuel Bandeira'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/01-manuel-bandeira},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 19/04/1986}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Manuel Bandeira'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 19/04/1986
+    UR  - www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/01-manuel-bandeira
+    ER  - 
+    ```

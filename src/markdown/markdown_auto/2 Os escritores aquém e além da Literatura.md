@@ -14,9 +14,9 @@ Que essas palavras finais tão otimistas e esperançosas de Leo Gilson Ribeiro p
 
 ## Guimarães Rosa: o sertão, o mundo e a travessia
 
-Entrevista exclusiva concedida a LGR especialmente para
+Inédito; 1965/07; Entrevista exclusiva concedida a LGR especialmente para
 
-*Cadernos Brasileiros* em julho de 1965 (12 páginas datilografadas/artigo não publicado)
+*Cadernos Brasileiros*
 
 "Dos Gerais, dos campos claros, vinham as boiadas e as lembranças" Guimarães Rosa
 
@@ -112,7 +112,7 @@ Não é apavorante constatar que os ensinamentos do Cristo destroem a realidade 
 
 ## Breve roteiro da obra de Guimarães Rosa
 
-LGR *JT* 15/10/1966
+Jornal da Tarde; 15/10/1966
 
 Toda a radical revolução que Guimarães Rosa trouxe à literatura brasileira corresponde, na realidade, a inaugurar o romance brasileiro de validez universal. É claro que o Brasil já tivera em Machado de Assis o seu grande cronista urbano, mas o amargo e cético retratista do desencanto e da desilusão amorosa equivale, como tom e como temática, a um Henry James ou um Eça de Queiroz menor.
 
@@ -144,7 +144,7 @@ A trajetória que meramente esboçamos da sua criação literária percorre, por
 
 ## Um velho castelo maciço, uma nova flor poética
 
-LGR *JT* 21/11/1967
+Jornal da Tarde; 1967/11/21
 
 Em Belém do Pará, onde eu dava um curso de literatura norte-americana para professores da Amazônia -- freiras belgas, monges holandeses que plantavam em plena selva uma escola, uma capela, um hospital tosco -- a primeira menção do nome: Guimarães Rosa, pelo amigo Benedito Nunes. A união do antigo sobrenome português, com a virilidade do castelo maciço, à evocação da flor poética por excelência, chamou-me a atenção. E logo o relato do Miguilim, aquela recriação mágica do mito da infância perdida, da inocência que resgata a experiência do mundo por meio da dor do conhecimento. Era uma época em que a minha reintegração no Brasil, depois de longa integração na Europa, se fazia mais difícil e eu hesitava em voltar à Alemanha, à Itália, à Espanha ou dar uma contribuição artesanal, sofrida, à cultura brasileira desprovida de incentivos, de diretrizes, de apoio. O encontro com a criação literária de Guimarães Rosa foi decisivo para a voluntária radicação numa terra que ele agora, como os navegadores do século XVI, descobria e revelava ao mundo da sensibilidade e da inteligência: o Brasil. Machado de Assis e Euclides da Cunha tinham sido as expedições de reconhecimento à costa da terra incógnita, mas quem dela tomou posse e nela plantou firme a bandeira conquistadora da sua linguagem foi Guimarães Rosa.
 
@@ -176,7 +176,7 @@ Haveria mais imagens a evocar - houvesse tempo e espaço, as duas Parcas que tec
 
 ## Guimarães Rosa
 
-LGR *Revista Goodyear* (s/data)
+Revista Goodyear; Sem data
 
 Recentemente, a corajosa ousadia de um diretor, Walter Avancini, levou à tela da televisão de milhões de brasileiros uma história diferente de tudo o que o aparelhinho mágico já apresentara em trinta anos de adaptação ao Brasil. *Grande Sertão: Veredas* de um tal de Guimarães Rosa deixava o espectador ao mesmo tempo fascinado e sem entender bem. Havia palavras arrevesadas -- "ele tinha conspeito tão forte", "verde que afina e esveste, belimbeleza", "não se importava, mesmo dava sua placença". Depois, que história era aquela de um caipira lutador, um jagunço ignorante, falar de Deus e do Diabo a toda hora? Cobras, jacarés, rios, vales sombrios, chapadas longas e o Rio São Francisco, cataratas e bosques de buriti -- a natureza luxuriante invadia as salas de estar das cidades brasileiras como se fosse um mundo exótico e indecifrável, selvagem, mas com suas leis crueis, próprias de feras. Feras eram os jagunços também em luta de vários anos, pelejas contra o governo ou contra os coroneis do sertão: cuspes, escarros, melodias cantadas ao som de violas, traições punidas com castrações -- se havia uma Lei no Sertão ela era primitiva, tosca, rude como aqueles homens presos a ordens do Chefe, em busca do inimigo como se fosse caça perigosa. O personagem que parecia ser o principal, o jagunço Riobaldo, hesitava o tempo todo entre Deus e o Demônio. O Diabo existe? ele perguntava, atormentado, como se sua perdição ou salvação dependesse disso, a milhões de telespectadores, crianças, adolescentes, homens e mulheres de meia-idade, velhos em asilos e grupos de pessoas reunidos em bares e botequins por esse Brasil adentro.
 
@@ -246,7 +246,7 @@ Guimarães Rosa na sua aparência pacata, ensimesmada, detonou na literatura em 
 
 ## Sobre o conto "A Hora e a Vez de Augusto Matraga"
 
-LGR (quatro páginas datilografadas avulsas e sem data)
+Inédito; Sem data; Quatro páginas datilografadas avulsas e sem data
 
 Com "A Hora e Vez de Augusto Matraga" João Guimarães Rosa definitivamente encerra uma fase de sua criação literária. E encerra a série de contos, o livro *Sagarana*. "A Hora e a Vez" é então preliminarmente o ponto final de uma primeira fase: saga vem de línguas nórdicas, significando estórias do gênero épico ou heroico e rana do tupi que significa semelhança, portanto sagarana são coisas narradas parecidas com estórias, à feição de contos. É uma forma de modéstia do autor de achar que estas são apenas arremedos de histórias e é uma inovação de linguagem ligar eufonicamente uma raíz estrangeira, nórdica, com um sufixo tupi, brasileiro, unindo assim designações culturais extremas: o louro nórdico e o nativo brasileiro, ambos antropologicamente idênticos como formadores de culturas. Neste caso uma cultura híbrida: a brasileira.
 
@@ -282,7 +282,7 @@ Matraga aconselha Joãozinho Bem-Bem seu amigo querido a perdoar o velho e o fuj
 
 ## Tutaméia: um átomo explode
 
-LGR *JT* 19/8/1967
+Jornal da Tarde; 19/8/1967
 
 De todas as obras magistrais já publicadas pelo maior escritor que o Brasil possui, no sentido universal do termo, esta *Tutaméia* é, sem dúvida, a mais moderna, diríamos mesmo a mais atual no plano da linguagem. T. S. Eliot já revelara, no plano da poesia, a característica fundamental da lírica moderna: ela exige a participação plena do leitor. Este não recebe mais, toda pronta, a obra elaborada pelo artista: ao contrário, o leitor é chamado a cooperar na decifração das imagens e ideias que o poeta esboça, tornando-se ele próprio co-autor do poema, pelo quinhão de compreensão e esforço de complementação que traz à página que tem diante dos olhos.
 
@@ -322,13 +322,13 @@ Por isso este livro é póstumo só quanto à "casca", a localização históric
 
 ## Adeus à palavra (nota sobre *Ave, Palavra* de G. Rosa)
 
-LGR *Veja* 1970
+Veja; 1970
 
 Guimarães Rosa recusava coerentemente deixar desvendar sua vida pessoal, insistindo que "a obra é que é o miolo, o autor é a casca". Felizmente, no caso do autor de *Grande Sertão: Veredas* até sua casca se aproveita. Alguns dos contos e crônicas esparsas cntidos nesta despedida póstuma da palavra têm o colorido e a fragrância de uma maçã. Já a reimpressão de outros dá a impressão de que se tentou aproveitar até o caroço de sua produção despretensiosa. (É o caso das poesias, do diário de Paris, das visitas a zoológicos de várias cidades.) Seria necessária uma seleção mais rigorosa dessas obras menores publicadas na imprensa. Só assim diminuiria o constraste entre o maravilhoso contista de *Campo Geral* e a voluntária ausência de crítica severa que permitiu a transcrição de criações tão insignificantes quanto as citadas. Porque, em certos momentos de *Ave, Palavra*, constata-se que reeditar miuçalhas da criação de um esplêndido artista significa afastar-se da sua grandeza e aproximar-se de seu quinhão de mediocridade comum à humanidade. No entanto, essas quinquilharias estão eclipsadas por momento da fantasia e do estilo rosianos que mereciam ser preservados. É o caso, entre muitos outros, dos seguintes: "A Velha" -- uma aristocrata hamburguesa que manda vir o cônsul do Brasil à sua mansão, quando o ódio anti-semita de Hitler incendeia os fornos crematórios nazistas, para salvar a filha de mãe "ariana" e pai judeu. Nessas escassas duas páginas e meia Guimarães Rosa cria um verdadeiro haicai em prosa, com neologismos típicos de sua revolução estlística: "Desfez-se um silêncio, Dame Veronika tomou a voz. Dissesse tão-só frases de polidez, repetia-as, balbuz, sob algum afrontamento, com um arrulho de asma. Ora fechava os olhos, sacudia, levíssima, a cabeça em frinas, reprincipiava. (\...) E começara a falar em português. (\...) E vi-que a voz pertence às estâncias da idade: que, bem assim, nesse teor de tom, que eu jamais ouvira, conversar-se-ia, outro tempo, em solar e saraus, em tertúlias, merendas e cavacos. Era como se falasse figura de álbum desbotado. '- Vivi em vosso país, vossa pequena formosa cidade de Petrópolys\... Conheci vosso bom Imperador -- ele estudava hebraico. Vosso Imperador nos convidava ao paço\...'" Há outras maravilhas nesse livro desigual: "Homem, Intentada Viagem", sobre um mineiro errante eternamente repatriado da Europa pelos consulados brasileiros; "Nascimento", com o relato conturbador do Natal esperado por velhos num asilo isolado do mundo ("Até macróbios casais, pares para bodas de brilhantes -- 'Minha boa Irmã' -- um velhote pedia, mansamente irado -- 'mande minha mulher me dar atenção, ela está só conversando om esse aí outro sujeito\...' -- e ainda proferia que nem por muito parava caduca, e era o marido dela, por ordem de Deus."); "Em-cidade", com uma original visão do bonde, hoje extinto, nas ruas do Rio; "Subles", que envereda pelo conto fantástico: um chamado telefônico para um desconhecido e que ameaça realizar-se num clima de absurdo pavor; "Uns Índios (Sua Fala)", com anotações sumamente interessantes do infatigável linguista que era Guimarães Rosa sobre a língua dos indígenas Terenos, "povo meridional dos Aruaks", no sul do Mato Grosso; e o delicioso encontro com cultivadores japoneses perto de Araçatuba (SP), documentado em "Cipango" ("- Planta só cana? -- Tudo paranta, esse bom\... -- Muito lucro? -- Camíjia comporou, dinhêrio num tem\..."). Ou a evocação da infância com os presépios vigiados por Vovó Chiquinha. E a ode a Minas Gerais ("O mineiro é velhíssimo, é um ser reflexivo, com segundos propósitos, e entolada natureza. É uma gente imaginosa, pois que muito resistente à monotonia. E boa -- porque considera este mundo como uma faisqueira, onde todos têm lugar para garimpar."). Depois desta *Ave, Palavra*, deve cessar a garimpagem excessivamente tolerante de preciosidades encontradas no veio póstumo de Guimarães Rosa. Caso contrário, pode-se colher muito que reluz, mas não foi lapidado pelo grande mestre da palavra.
 
 ## Guimarães Rosa 25 anos de veredas
 
-LGR *JT* 13/6/1981
+Jornal da Tarde; 13/6/1981
 
 Nunca, no Brasil, ninguém ousara tanto. Pois não é que naquele calmo ano de 1946, apeado o ditador Getúlio Vargas de seu trono absolutista e vencidos os nazi-fascistas na Europa e no Pacífico, um desconhecido ousava começar um livro de título já complicado, *Sagarana*, com a descrição minuciosa de uma carga de bois no interior de Minas Gerais sendo embarcados nos trens rumo aos matadouros?
 
@@ -422,7 +422,7 @@ Fora os raríssimos momentos em que o bom gosto cede ao mal gosto, na feitura de
 
 ## Vaqueiro de Roma
 
-LGR *Veja* 17/2/1971
+Veja; 17/2/1971
 
 "Eu sou um vaqueiro tangido para outros sertões pelo Coronel terrível do Fascismo italiano". O sotaque claramente romano, o rosto cinzelado como o de um personagem do Renascimento italiano, Edoardo Bizzarri, 53 anos, desde 1948 dirige em São Paulo o Instituto Cultural Brasil-Itália, a Casa de Dante e colabora com o Consulado-Geral como adido cultural. Na mesma sala em que dá aulas sobre Maquiavel, Petrarca e a *Divina Comédia*, ao lado dos volumes ilustres está sobre a mesa a edição recente de sua tradução para o italiano de *Grande Sertão: Veredas*, de Guimarães Rosa. Dizendo-se exausto como um Hércules que liquidou uma Hidra de Lerna - "afinal eu já tinha traduzido durante quase um ano o *Corpo de Baile* do autor mineiro" -, Bizarri não está satisfeito: acha que a tradução italiana de *Grande Sertão* deveria ter incluído o subtitulo "*Il diavolo per le vie*" ( O diabo solto nas ruas), que lhe parecia mais sugestivo. "Mas uma reunião de vendedores de livros derrotou minha sugestão por critérios de vendagem", explica. Modestamente, não acrescenta que sua admirável tradução de *Corpo di Ballo* entusiasmou o poeta Ungaretti, toda a crítica italiana e já entra em sua quarta edição pela Editora Feltrinelli. "Mas para traduzir Miguilim, Manuelzão e os outros contos magníficos daquela coleção eu contei com dezenas de cartas do autor, organizei um fichário com cerca de sete mil verbetes sobre plantas, animais, rochas, costumes, vocábulos, arcaísmos e mineirismos daquele mundo mítico e eterno do Sertão. Para o *Grande Sertão*, não, fiquei sozinho, mas moralmente comprometido com Guimarães Rosa, a fazer a tradução. Numa de suas últimas cartas ele me dizia, um mês antes de tomar posse na Academia Brasileira de Letras e morrer de enfarte: 'Você torne a vestir a roupa de campeiro, montado em cavalo malhado, e saindo por essas chapadas e veredas sertanejas nossas. Deus vos guie. Grato, grato é que estou'" -- terminava a última carta. "E eu não tive remédio senão me trasnformar no jagunço Riobaldo que lutra contra coroneis crueis, mas com dificuldades de traduzir um escritor genial e de lutar com a tarefa no tempo de dois anos estipulado sem dilatações de prazo pelo entusiasmo do editor Feltrinelli."
 
@@ -432,7 +432,7 @@ Guimarães Rosa é para ele um profeta que anuncia a coisificação do homem pel
 
 ## Entrevista com Edoardo Bizzarri
 
-Realizada em 2 de agosto de 1968 e não publicada
+Inédito; Sem data; Realizada em 2 de agosto de 1968 e não publicada
 
 Qual a sua opinião sobre Guimarães Rosa?
 
@@ -468,7 +468,7 @@ De que forma o Sr. enquadra *Corpo de Baile* no contexto da obra de Guimarães R
 
 ## Guimarães Rosa: novas luzes sobre um fascinante enigma
 
-LGR *JT* 6/10/1984
+Jornal da Tarde; 6/10/1984
 
 Sem exagero, pode-se afirmar que a literatura brasileira se rasga de alto a baixo, em *dois modos de ser*: antes de 1956 e depois desta data, a da publicação de *Grande Sertão: Veredas* de Guimarães Rosa. Comprovadamente, qualquer pessoa que folhear um razoável manual da nossa literatura deparará com nomes e obras em grande profusão. Uns e outras, forçosamente menores, noutros casos já se delineiam perfis assombrosos de uma genialidade pouco a pouco reconhecida -- nenhum, porém, com a altivez desafiadora e novíssima, irrepetível, dessa imensa cordilheira mineira até hoje indecifrada. Esfinge de enigmas nunca traduzidos para o linguajar prosaico e a compreensão reles do dia-a-dia, Guimarães Rosa, continua a formular interrogações. Mesmo os nossos melhores críticos lhe respondem apenas com fragmentos, por vezes argutos, de uma sua possível exegese, nunca, porém, com um estudo abrangente e marcante da sua ciclópica obra. Nada que se compare, por exemplo, à *Vida e Obra de Fernando Pessoa*, de João Gaspar Simões, em Portugal.
 
@@ -506,7 +506,7 @@ Coincidindo com a 16ª edição de *Grande Sertão: Veredas*, agora pela Editora
 
 ## Tentativa de explicação
 
-*Correio da Manhã*, 21/03/1965
+Correio da Manhã, 21/03/1965
 
 Já desde o início, a vida de Clarice Lispector fôra um constante deslocamento. Entre a pracinha da Faculdade de Direito em Recife onde ela brincava quando criança e a Praça General Osório, no Rio, onde nos encontramos agora, há uma longa trajetória, uma parábola que percorre meio mundo. Durante esses anos, ela viveu em países estrangeiros, teve dois filhos e a menina que aos sete anos enviava colaborações para a página infantil de um jornal pernambucano transformou-se na mais extraordinária escritora brasileira. O reconhecimento unânime da crítica já se espraia pelo estrangeiro: *Der Apfel im Dunkel*, o título em alemão do seu romance *A Maçã no Escuro*, é saudado como uma das obras mais importantes já traduzidas da América Latina. De lá para cá surgiram também seus contos que começara adolescente ainda: densos, estranhos, incomparáveis na sua maneira de expressar sensações, na sua falta de artifício, na sua diretriz inconscientemente nova e intensamente pessoal. Esse deslocamente frequente abrangeu o espaço, o tempo, as circunstâncias. Seus pais, russos da Ucrânia dos trigais imensos e do folclore de uma alegia estouvada, decidiram emigrar e foi numa cidadezinha ("que você não vai achar no mapa") que tiveram de interromper a viagem para a menina nascer. De Tchetchelnik a Recife, ela trouxe para a nossa literatura muito do mistério daqueles invernos luminosos e foscos, uma ilha de sugestão em meio à exuberância do nosso colorido tropical. Por um triz o destino deixou de presentear-nos com a sua sensibilidade: a família hesitou uns tempos antes de vir par o Brasil distante. Detiveram-se na Alemanha, pensaram estabelecer-se nos Estados Unidos. Felizmente para a literatura brasileira, fixaram-se definitivamente entre nós.
 
@@ -554,7 +554,7 @@ Da cobertura ampla de um prédio, em Ipanema, onde conversamos à noite, olhamos
 
 ## Que mistérios tem Clarice Lispector?
 
-*Jornal da Tarde* 5/02/1969
+Jornal da Tarde; 1969/02/05
 
 Uma mulher que gosta de crianças, gatos, cães, galinhas e insetos. Uma mulher que nunca mente para as crianças. Uma mulher que se pudesse escrever "passando a mão na cabeça de uma criança ou dando um passeio, não usaria mais uma só palavra".
 
@@ -648,7 +648,7 @@ Recentemente, em uma de suas crônicas num jornal carioca, Clarice Lispector def
 
 ## Carta de agradecimento a Clarice, por um novo livro
 
-*Jornal da Tarde*, 20/01/1972
+Jornal da Tarde; 20/01/1972
 
 Clarice Lispector,
 
@@ -686,7 +686,7 @@ Quando outros se empolgam com realizações técnicas, eu me exalto com todos es
 
 ## Auto-inspecção
 
-*Veja* 19/09/1973
+Veja; 19/09/1973
 
 Não contente em ser a mais admirável contista da América Latina, Clarice Lispector conseguiu superar o seu maior desafio pessoal. *Água Viva* - a meio caminho entre o conto e o romance - conserva da história curta a concisão que condensa no mínimo de palavras o máximo de impacto, reticência e profundidade de percepção sensível. E do romance guarda a continuidade do clima narrativo, gênero em que Clarice Lispector criou uma expressão própria e pioneira na literatura em português, mas por vezes de um hermetismo subjetivo que cansava o leitor um pouco menos paciente.
 
@@ -708,7 +708,7 @@ Com esta ficção, Clarice Lispector desperta a literatura que atualmente não s
 
 ## Muito sveglia
 
-*Veja* 24/04/1974
+Veja; 24/04/1974
 
 O fantástico sempre foi um dos componentes mais importantes da magistral contista pernambucana Clarice Lispector. E, nesta última coletânea de seus contos (*Onde Estivestes de Noite*?), o surrealismo de situações alucinantes é a tônica dominante. Por exemplo: uma mulher quer ter um filho com seu despertador, outra se perde nos labirintos do Estádio do Maracanã, sem saber como sair nem como entrou lá. Ao mesmo tempo, reaparecem os temas e protagonistas-chave de seus livros anteriores (*Laços de Família* e *A Legião Estrangeira*): a equiparação constante entre o ser humano desamparado e um animal ("De pé no banheiro era tão anônima quanto uma galinha") ou a aguda percepção dos velhos como sucata humana imprestável na atual sociedade tecnológica de consumo ("Dona Maria Rita pensava: depois de velha começara a desaparecer para os outros, só a viam de relance").
 
@@ -720,7 +720,7 @@ Sem a intensidade do esplêndido *Água Viva* nem a uniforme qualidade de *Laço
 
 ## Só os mais atentos conseguem encontrar esta maçã no escuro
 
-*Jornal da Tarde* 7/05/1975
+Jornal da Tarde; 7/05/1975
 
 *A Maçã no Escuro*, Clarice Lispector (Editora Paz e Terra, 4a edição)
 
@@ -738,7 +738,7 @@ Os romances de Clarice Lispector não têm a perfeição redonda de seus contos.
 
 ## A hora das estrelas
 
-*Jornal da Tarde* 19/11/1977
+Jornal da Tarde; 19/11/1977
 
 Para muita gente que pensa que lê, a literatura é como as prateleiras de uma farmácia: os autores sociais, "engajados", não se misturam com os "herméticos", que falam de metafísica, assim como o mertiolate está longe dos psicotrópicos.
 
@@ -780,7 +780,7 @@ Hesitante em um terreno novo, a magnífica autora de *Felicidade Clandestina* n�
 
 ## Clarice num derradeiro espelho diante de si mesma
 
-*Jornal da Tarde* 23/12/1978
+Jornal da Tarde; 23/12/1978
 
 A morte recente de Clarice Lispector dá à publicação póstuma de seu último livro, *Um Sopro de Vida*, um alcance arqueológico. São frases desenterradas, lascas de uma intenção fronteiriça que a depauperação orgânica impediu de realizar melhor. É um rascunho, um esboço que retrataria globalmente as suas mais fundas preocupações finais. Para quem conhece, no entanto, o inimitável sortilégio que se desprende de *A Paixão Segundo G. H.*, *Laços de Família*, *Felicidade Clandestina* e outras criações suas, permanece a insatisfação diante da obra a ser revista, podada, enxertada para alcançar a perfeição altíssima dos momentos anteriores. Para o leitor que não conhecer nem o nome de Clarice Lispector, esses círculos concêntricos de tensão em torno de si mesma parecerão indecifráveis e talvez sustem a leitura.
 
@@ -842,7 +842,7 @@ Com a introspecção profética de todo grande artista, nas páginas finais dest
 
 ## Inéditos de Clarice, para se conhecer melhor Clarice
 
-*Jornal da Tarde* 30/05/1981
+Jornal da Tarde; 30/05/1981
 
 A escritora e animadora das artes, Olga Borelli, amiga de Clarice Lispector, durante muitos anos, resolveu reunir páginas inéditas da grande escritora de *Laços de Família* e publicá-los agora após a morte daquela que é talvez a mais importante contista das Três Américas. Se Clarice Lispector, em vida, sempre fora explorada por editores inescrupulosos, demitida bruscamente de jornais em que colaborava, depois de morta, pelo menos o profundo respeito - que a sua esplêndida criação literária deveria incutir até nos mais incultos - lhe granjeou até agora melhor acolhida. A Editora Nova Fronteira, como quase todas as demais editoras brasileiras, não distribui (ou pelo menos distribui com grande atraso) os livros que publica, dificultando não só o trabalho do crítico que escreve regularmente na imprensa como, dessa forma, não fazendo propaganda gratuita, dirigida ao grande público, dos livros editados. (E que dizer de uma Editora Difel, que só envia capas dos livros, propondo ao crítico advinhar o que se esconde por trás daquela capa exígua e ridícula?)
 
@@ -1026,7 +1026,7 @@ Ela escorregou para os pés da cama, alongou-se em agonia e rompeu num grito pri
 
 ## Clarice, uma mulher que morreu pela vontade de escrever
 
-*Jornal da Tarde* 9/12/1982
+Jornal da Tarde; 9/12/1982
 
 No plano utilitarista da vida, Clarice Lispector foi uma grande escritora de alcance internacional que morreu vítima de seu maravilhoso talento, no dia 9 de dezembro de 1977, há cinco anos. Morreu vilmente explorada por editoras que lhe roubavam direitos autorais, por jornais que subitamente "dispensavam" as suas inigualáveis crônicas escritas duas, três vezes por semana. Dizer que Clarice morreu pobre, internada de favor, com câncer, num hospital da Previdência Social, é pouco. Em seu depoimento comovente ao *Coojornal* de Porto Alegre, ela relatou a miséria (a fome também?) que passara ludibriada por editores, jornais, pela ausência de uma estrutura industrial brasileira que lhe desse o sustento para seu extraordinário talento. Ela literalmente morreu vítima da compulsão que a tornava quase uma mendiga altiva: a vontade indetível, inútil de escrever.
 
@@ -1052,7 +1052,7 @@ Clarice Lispector é o paradoxo para sempre vivo de não se poder falar de uma e
 
 ## Um reencontro fascinante com o universo de Clarice
 
-*Jornal da Tarde* 27/08/1983
+Jornal da Tarde; 27/08/1983
 
 A oportuna 12a edição dos contos de Clarice Lispector reunidos em *Laços de Família* (Editora Nova Fronteira) renova a quase que uma geração inteira a importância e o fascínio perenes da revolução literária que ela trouxe à vida cultural brasileira. Deslocando-se do Nordeste intensamente voltado para os problemas sociais da seca, da decadência dos engenhos de açúcar e a perda de sua hegemonia para as economias do Sul do País, antes de Clarice Lispector a sensibilidade e a inventividade brasileiras estavam suspensas. O ato de escrever esgotara-se na denúncia das injustiças sociais e na evocação de uma camada aristocrática já passada? José Américo e José Lins do Rego, Rachel de Queiroz e o exemplo maior - Graciliano Ramos - tinham delimitado num painel gigantesco as fronteiras da prosa? A alternativa seria o romance baiano cheio de tempero local de um Jorge Amado, com sua antecipação de um "socialismo moreno" e sensual?
 
@@ -1112,7 +1112,7 @@ Clarice Lispector, neste renovado encontro, concede ao leitor a rara oportunidad
 
 ## Clarice. Doando um fragmento iluminado de si mesma nestas crônicas
 
-*Jornal da Tarde* 16/11/1984
+Jornal da Tarde; 16/11/1984
 
 *A Descoberta do Mundo*, um grosso volume de quase 800 páginas, reúne, pela Editora Nova Fronteira, as crônicas publicadas de Clarice Lispector na imprensa carioca de 1967 a 1973. Não fossem as indispensáveis reimpressões de cronistas insignes como Rubem Braga, Carlos Drummond de Andrade, Cecília Meireles e outros, a grande maioria dos leitores não teria acesso a esse trabalho miniaturesco, mas nem por isso menos perfeito de alguns dos nossos maiores escritores.
 
@@ -1140,7 +1140,7 @@ Naquela antecipação inconsciente da reação do leitor, a magnífica escritora
 
 ## A silenciosa revolução de Clarice
 
-*Jornal da Tarde* 12/12/1987
+Jornal da Tarde; 12/12/1987
 
 A criação literária de Clarice Lispector soava como alguém que insistisse em tocar um *Impromptu* de Schubert em meio a um comício: o plano abafado pelas palavras de ordem dos partidos políticos a se esgoelarem na praça. A princípio, alguns que se julgavam sábios meneavam a cabeça, céticos: "É uma impostora". Outros duvidavam de forma menos hostil, quase como uma desculpa: "Deve ser uma mulher fútil, que escreve pois não tem o que fazer". E por último, em coro, o arrazoado final: "É uma estrangeira linda, por onde passa os homens se inclinam diante dessa *femme fatale* exótica, russa, clara, de cabelos ruivos, olhos de gata no cio, distante, requintada, tropeçando nos "r" como uma gringa recém-chegada".
 
@@ -1216,7 +1216,7 @@ Há dias que são tão áridos e desérticos que eu daria anos de minha vida em 
 
 ## Evocação de Clarice
 
-Anexo de uma carta de LGR enviada (?) ao escritor Wilson Bueno datada de 12/13 de junho de 1994 -- (provavelmente inédito, pois não foi localizada a eventual publicação do texto no jornal *Nicolau* para o qual havia sido escrito)
+Inédito; 1994/06/12-13; Anexo de uma carta de LGR enviada (?) ao escritor Wilson Bueno datada de 12/13 de junho de 1994 -- (provavelmente inédito, pois não foi localizada a eventual publicação do texto no jornal *Nicolau* para o qual havia sido escrito)
 
 (Especial para o aniversário do *Nicolau*)
 
@@ -1244,7 +1244,7 @@ Foi um dos momentos em que captara indelevelmente aquela dimensão do sofrimento
 
 ## Nota sobre o livro *Poesia 1959/1967* (Livraria Sal) de Hilda Hilst
 
-LGR *O Estado de São Paulo* 1967
+O Estado de São Paulo; 1967
 
 Uma edição sóbria, de bom gosto, para uma importante poetisa. Hilda Hilst não está nas coluninhas sociais nem frequenta as odiosas igrejinhas pseudoliterárias. È uma artista séria, profunda, uma artesã severa da palavra, recolhida a um claustro da especulação poética. Como as tecelãs da Idade Média, ela pouco a pouco tece sua colorida tapeçaria lírica: "Roteiro do Silêncio" (1959), "Trovas de Muito Amor" (1960), "Testamento Lírico", "Sete Cantos do Poeta para o Anjo" (1962) até os mais recentes "Corpo da Terra" e "Corpo de Luz".
 
@@ -1252,9 +1252,9 @@ Sua inspiração -- como a da grande parte dos poetas novos brasileiros -- apoia
 
 ## Esperando Haydum
 
-*Fluxofloema*, Hilda Hilst (Editora Perspectiva)
+Fluxofloema, Hilda Hilst (Editora Perspectiva)
 
-*Veja* 9/12/1970 (?)
+Veja; 9/12/1970 (?)
 
 "E foi assim que o poeta/ Assombrado com as ausências/ Resolveu fazer parte da paisagem/ E repensar convivências" Hilda Hilst (*Poesia* 1959/1967)
 
@@ -1268,7 +1268,7 @@ Como um mistério de filme de Bergman, com imagens visuais da força de uma obra
 
 ## Poetisa em prosa. *Qadós* de Hilda Hilst
 
-LGR *Veja* 11 de julho de 1973
+Veja; 1973/07/11
 
 Não há meio-termo: ou o leitor se deixa envolver pela cadência verbal, pela magia das imagens que Hilda Hilst faz desfilar nas quatro histórias de *Qadós*, ou larga o livro, entediado, incapaz de seguir um itinerário tão hermético e tão pessoal.
 
@@ -1282,7 +1282,9 @@ Distante dos carcomidos conceitos tradicionais da literatura, Hilda Hilst insist
 
 Como soma final, *Qadós* enfeitiça pela beleza rítimica e pelo lirismo de suas evocações entremeadas de um prosaísmo chão, explícito e intencional. Mas, se Hilda Hilst já se afirmou como uma das vozes poéticas mais definitivas do nosso tempo, por que semear tantas páginas de prosa para colher um ou dois contos de deslumbrante textura e coesão? Não seria mais útil, do ponto de vista de rendimento final, concentrar no poema ou que transborda, supérflo, na prosa? Em literatura como em álgebra, há equações que o menos vale mais.
 
-## O vermelho da vida. *Júbilo, Memória, Noviciado da Paixão* de Hilda Hilst LGR *Veja* 24 de abril de 1974
+## O vermelho da vida. *Júbilo, Memória, Noviciado da Paixão* de Hilda Hilst 
+
+Veja; 1974/04/24
 
 A poesia lírica é um fio estendido sobre um abismo: um erro e o salto mortal se torna resível ou trágico. A poetisa paulista Hilda Hilst soube esticar bem o arame de sua expressão poética nesta inspirada coletânea amorosa. São versos que utilizam uma linguagem comum, diária, sem pedantismos de estilo ocamente "elevado": "Minha medida? Amor/ E tua boca na minha/ Imerecida".
 
@@ -1300,7 +1302,7 @@ Na poesia amorosa ela volta ao tema erótico: "Uma continuação do estigma da p
 
 ## Hilda Hilst. Em prosa ou poesia, a raridade de uma obra à frente de seu tempo
 
-LGR *JT* 24 de janeiro de 1976
+Jornal da Tarde; 1976/01/24
 
 Tempo de verão. Férias. O Brasil entra na modorra do cansaço, que ninguém é de ferro, depois de trabalhar e/ou estudar o ano inteiro. As próprias editoras entram numa sesta preguiçosa. Estremunham-se. Ficam silenciosas presas ao pretexto triplo: festas (Natal, Ano Novo), férias, carnaval. Só depois do "tríduo momesco" é que todos dirão adeus à carne e as gráficas retomarão a impressão das palavras, que cristalizam a cultura, a sensibilidade e a inteligência brasileiras, uma tríade que se opõe, paciente, teimosa, às tendências naturais de outro triângulo nacional ameaçador: futebol, carnaval e samba -- ai de nós, nenhum deles ainda inspirador de nada válido além das pernas e da pelvis. Com as raríssimas exceções de letras de música popular ou de um conto como "A Morte da Porta Estandarte" de Aníbal Machado.
 
@@ -1366,7 +1368,7 @@ Mas quem se aventurar, pacientemente, a percorrer com ela essas paisagens de uma
 
 ## As múltiplas seduções de Hilda Hilst: entrevista
 
-LGR *JT* 18 de abril de 1977
+Jornal da Tarde; 1977/04/18
 
 \- Hilda Hilst: há uns sete anos houve uma transformaçã radical da sua vida. Você pendurou o seu diploma de advogada formada pela Faculdade de Direito do Largo São Francisco. Abandonou as festas elegantes e a roda-vida da metrópole que é São Paulo. Casou-se com o escultor Dante Casarini. A mulher bonita, de paixões correspondidas, isoulou-se voluntariamente como que nesse claustro em que você vive, perto de Campinas. E passou a escrever com uma intensidade e uma qualidade absoluta. O que houve?
 
@@ -1482,7 +1484,7 @@ Veja: uma das duas criaturas que mais me marcou na vida foi Simone Weil. Ela, ju
 
 ## Depoimento de Hilda Hilst: "Eu quero a junção do misticismo com a ciência"
 
-LGR *JT* 15/3/1980 e *O Estado de São Paulo* 16/3/1980
+Jornal da Tarde; 15/3/1980 e *O Estado de São Paulo* 16/3/1980
 
 Em seu mais recente livro, *Tu não te moves de Ti* (Editora Cultura, SP), a ser lançado amanhã, a escritora paulista Hilda Hilst elabora uma narrativa tripla, três personagens, da Razão (Tadeu), Matamoros (da Fantasia) e Axelrod (da Proporção), que reproduzem aquela confluência einsteiniana de que, vistos à distância, o presente, o passado e o futuro coincidem como uma só ponta no infinito.
 
@@ -1616,7 +1618,7 @@ Talvez o melhor do meu trabalho, quero dizer o mais satisfatório, seja o nível
 
 ## A morte, saudada em versos iluminados. Por Hilda Hilst.
 
-LGR *JT* 18 de outubro de 1980
+Jornal da Tarde; 18 de outubro de 1980
 
 "Todos os dias conduzem à morte, o último chega a ela" Sêneca
 
@@ -1814,7 +1816,7 @@ Ela é tudo isso e muito mais que só a leitura e a releitura podem vislumbrar, 
 
 ## Os versos de Hilda Hilst, integrando a nossa realidade
 
-LGR *JT* 14 de fevereiro de 1981
+Jornal da Tarde; 14 de fevereiro de 1981
 
 O Grande Prêmio atribuído na recente votação da Associação Paulista de Críticos de Arte a Hilda Hilst representa um indício de que, ao menos entre uma parte significativa da crítica pensante e sensível brasileira, a obra tríplice da paulista Hilda Hilst (como dramaturga, como poetisa e como prosadora) vem recebendo seu tardio, mas ainda válido reconhecimento.
 
@@ -2014,7 +2016,7 @@ São palavras que qualquer leitor de seus livros poderia subscrever:
 
 ## Mais uma obra de Hilda Hilst. Com todos os superlativos.
 
-LGR *JT* 20/11/1982
+Jornal da Tarde; 20/11/1982
 
 O livro *A Obscena Senhora D* (Editora Massao Ohno), a ser publicado na semana que vem, em São Paulo, é um livro único da magnífica autora paulista contemporânea, sobretudo porque é possível lê-lo sem se ter a mínima notícia de seus livros e poemas anteriores. Perturbadoramente, é também um elo que se insere em seus escritos revolucionários. O *scholar* mais jovem da literatura brasileira nos Estado Unidos, Thomas Colchie, afirmou-me, com ponderada veemência, se assim se puder dizer, que a criação literária de Hilda Hilst é a mais alta e a mais importante do mundo ocidental deste final de século. O falecido e esplêndido crítico alemão emigrado para o Brasil, Anatol Rosenfeld, com todo o peso da sua profunda erudição, escreveu à autora que sua peça de teatro *As Aves da Noite* era a mais bela que lera de todos os textos de dramaturgia atual.
 
@@ -2070,7 +2072,7 @@ Hilda Hilst, no decurso de toda sua prodigiosa criação artística, reflete, nu
 
 ## Hilda, encantamento místico inigualável.
 
-LGR *JT* 16/6/1984 (publicado depois como posfácio do livro
+Jornal da Tarde; 16/6/1984 (publicado depois como posfácio do livro
 
 de Hilda Hilst *Poemas Malditos Gozosos e Devotos*)
 
@@ -2256,7 +2258,7 @@ E a serpente de versos da tua boca"
 
 ## A esperança de chegar um dia a ter esperança. Hilda Hilst esta é a literatura que eu escrevo
 
-LGR *Interview*, n. 82 (1985)
+Interview, n. 82; 1985
 
 Sem alardes, pouco a pouco, a escritora paulista Hilda Hilst conquista a França, a Oropa e a Bahia. O mais pretigioso e severo jornal de Paris, *Le monde*, dedicou-lhe um espaço e um destaque, em seu Suplemento Literário, normalmente só concedido a Borges, a Beckett, a Céline. O crítico Jorge Coli não mediu superlativos: a poesia de Hilda Hilst representa a perfeição da escritura qualitativa que torna a literatura brasileira uma das poucas de ressonância mundial.
 
@@ -2508,7 +2510,7 @@ Aos poucos, como a água umedecendo o verde limo e quase imperceptivelmente atra
 
 ## Hilda Hilst, cósmica e atemporal. Em busca de Deus.
 
-> LGR *JT* 17 de janeiro de 1987
+> Jornal da Tarde; 17 de janeiro de 1987
 
 Um dos muitos pseudônimos de Fernando Pessoa se enlaça aderentemente à criação ímpar de Hilda Hilst no panorama da contemporânea literatura mundial: Alexander Search, *search* ou *quest*: a Busca Incessante, sede que devora a totalidade de seus personagens, a Busca de quê? De um Deus compreensível para a paliçada de conceitos humanos que cerca Koyo, em seus diálogos com Deus, o inescrutável, talvez inexistente Haydun, na ficção intitulada "Floema". Da transcendência da vida chã, utilitária, materialista, como o executivo engasgado com a riqueza e seus rituais, o Tadeu morto-vivo sob pedras de ágata a buscar uma dimensão poética para a existência que nega aceitar como banal transitorieadade biológica em *Tu Não Te Moves de Ti*. A lúbrica, lírica Maria Matamoros embriagada de Eros como príapo e com o amor arrebatador e que só encontra no punhal que crava na própria vagina a parede final de seu beco sem saída nem volta. Amos Kéres, o professor de matemática que ousa ser diferente dos demais e perde a memória nas aulas, preso do êxtase de um *satori*, uma iluminação espiritual cegante e transfere seus livros para um bordel, meditando sobre a obsessão de seu amigo que vive com uma porca, Kadek: a curva de Moebius, que não tem avesso nem direito. Ou finalmente a *Obscena Senhora D*., a viúva Hillé que se muda para o vão da escada e recorta periodicamente peixes de papel que coloca em um aquário, a execrada pelo povoado por sua derrelição: desamparo, abandono, mas insaciável em sua digestão de Deus:
 
@@ -2570,7 +2572,7 @@ Acercar-se de seus textos é aceitar o riso de um impiedoso esquartejamento de t
 
 ## Punhal destemido. Nota sobre *Com os Meus Olhos de Cão* de Hilda Hilst
 
-LGR *Leia* janeiro de 1987
+Leia; 1987/01
 
 Quem tem medo de Hilda Hilst? Cochicha-se com enfado: "Ela é uma autora difícil". Alguns desfecham o golpe mortal par a preguiça do leitor comum: "É hermética, enigmática, quase indecifrável". Ela é todos os opostos: intratável, amabilíssima, egocêntrica, generosa. Refinada intelectual, guarda em sua fazenda (a 111 km de São Paulo) a pérola aristocrática de sua ficção a salvo dos bíblicos porcos ignorantes de seu mágico fascínio interior. Todos tinham medo de Hilda Hilst.
 
@@ -2588,7 +2590,7 @@ Numa época em que grande parte das preocupações brasileiras, além de econôm
 
 ## Hilda Hilst
 
-LGR *Revista Goodyear* julho-agosto 1989
+Revista Goodyear; 1989/07-08
 
 Palavra por palavra, que poucos leram, ela criou um universo de abismos, angústias, lucidez e beleza.
 
@@ -2620,7 +2622,7 @@ Agora, a decepção com sua longa trjetória literária exauriu-a. Terminou o li
 
 ## A luminosa despedida seguida de um longo depoimento de Hilda Hilst
 
-LGR *JT* 4 de março de 1989
+Jornal da Tarde; 4 de março de 1989
 
 A profunda, luminosa poesia de Hilda Hilst tinge-se de tons de melancolia e consciente despedida em seu último livro, *Amavisse* (infinitivo perfeito do verbo em latim *amare* que significa "ter amado"). Último por estar agora nas estantes das livrarias e último também por ser intencionalmente o derradeiro que ela se propõe a publicar no Brasil.
 

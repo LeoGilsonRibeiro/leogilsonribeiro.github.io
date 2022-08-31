@@ -3,13 +3,10 @@ title: 'Kafka em Praga'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Kafka em Praga". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: O Estado de São Paulo - Suplemento Literário 12 de março de 1966, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/03-kafka-em-praga</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/03-kafka-em-praga
-orig_publisher: 'O Estado de São Paulo - Suplemento Literário 12 de março de 1966'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/03-kafka-em-praga
+orig_publisher: 'O Estado de São Paulo - Suplemento Literário'
+orig_date: 1966/03/12
 ---
 
 Depois que Baudelaire celebrou o mistério fosforescente da grande cidade, grandes novelistas contemporâneos se vêm identificando indissoluvelmente com a metrópole moderna. Paris, espelhada na prosa de Proust, é parte determinante do matiz e da formulação estética de sua *Recherche*. Borges e Buenos Aires, Svevo e Trieste, Musil e Viena, são outros binômios ilustrativos dessa fusão crescente de toda uma gama de relações entre o artista e o seu clima ambiental. Desde o sarcasmo devastador que Thomas Mann arremessou contra a sua Lübeck provinciana ao apaixonado "*I don't hate it!*" reiterado por Quentin Compson em relação ao Sul ancestral e violento da saga faulkneriana, há uma intensificação dessa interdependência, até atingir a ruptura do ódio. Joyce ao defrontar-se com a sua odiada-amada Dublin tipifica a dualidade de reação a um ambiente alternadamente execrado e exaltado, que descreve uma parábola: das vitriólicas e sombrias histórias iniciais de *Dubliners* até às imagens oníricas, tachistas da reconciliação final de *Finnegans Wake*.
@@ -31,3 +28,36 @@ Há porém uma reviravolta decisiva no confronto de Kafka com a vida, a princíp
 "Como e angustia eque terrível é não podermos arrojarnos em cada palavras com tudo o que somos, de forma que quando esta palavra for atacada, possamos nos defender ou ser integralmente destruídos!"
 
 Como nas seitas ocultistas cujos ensinamentos deslumbraram Baudelaire ao atribuir à palavra o poder de fixar a essência da Beleza além da morte física (como em "*La Charogne*"), a palavra é reconhecida por Kafka como sendo dotada de um poder mágico, encantatório, como ele respodera à pergunta de Gustav Janouch: "Não diria que a literatura conduz à religião, mas certemanente conduz à prece". Kafka, incapaz de ação no mundo físico, passa do conceito goethiano do *Fausto* -- no princípio havia ação -- para o da Bíblia judaica: no princípio havia o Verbo. A palavra em suas mãos passa a ser um elemento dinâmico, de liberação, ele assume a sua condição humana através da literatura. Saída do seu exílio de passividade e segregação, a palavra é o exorcismo da maldição ancestral de Praga.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Kafka em Praga". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: O Estado de São Paulo - Suplemento Literário, 1966/03/12. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/03-kafka-em-praga</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Kafka em Praga'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/03-kafka-em-praga},
+    orig_publisher = {'O Estado de São Paulo - Suplemento Literário'},
+    orig_date = {orig_date: 1966/03/12}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Kafka em Praga'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
+    PY  - 2022
+    PB  - 'O Estado de São Paulo - Suplemento Literário'
+    Y1  - orig_date: 1966/03/12
+    UR  - www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/03-kafka-em-praga
+    ER  - 
+    ```

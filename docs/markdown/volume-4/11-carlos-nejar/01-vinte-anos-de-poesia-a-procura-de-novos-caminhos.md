@@ -3,13 +3,10 @@ title: 'Vinte anos de poesia, à procura de novos caminhos'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Vinte anos de poesia, à procura de novos caminhos". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 5-07-1980, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos
 orig_publisher: 'Jornal da Tarde 5-07-1980'
 orig_date: Sem data
-
 ---
 
 \[continuação do artigo em que analisa a trajetória poética de Marly de Oliveira e de Carlos Nejar\]
@@ -333,3 +330,36 @@ Como o passar do tempo comprova cabalmente, a inspiração poética de Carlos Ne
 Há pouco, durante uma entrevista concedida na Espanha, o escritor insigne do Peru, Mário Vargas-Llosa, confessou que chegara, após décadas de fecunda dedicação ao escrever romances sumamente importantes e comoventes, à conclusão que "a literatura não faz acontecer". De fato, os livros não são granadas, nem mísseis, nem metralhadoras. Sob esse ângulo, realmente, ele não são uma ação, um gesto que muda as coisas.
 
 Porém, como a poesia contida neste volume comprova de maneira esplêndida, os versos penetram sem pressa na sensibilidade e na apreensão do mundo e da vida, e quase impercptivelmente, vão tornando a existência um salto para a metafísica do "estado poético". Aí, sim, a poesia age, soberana e inconteste. E nós, leitores, é que, gratos, nos engrandecemos seguindo o canto do poeta, a mais válida prova de uma transcendência mediada pela palavra.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Vinte anos de poesia, à procura de novos caminhos". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 5-07-1980, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Vinte anos de poesia, à procura de novos caminhos'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos},
+    orig_publisher = {'Jornal da Tarde 5-07-1980'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Vinte anos de poesia, à procura de novos caminhos'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde 5-07-1980'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos
+    ER  - 
+    ```

@@ -3,13 +3,10 @@ title: 'Perfil da Literatura Negra'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Perfil da Literatura Negra". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Mostra Internacional de São Paulo, 1985/05/20-26. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/00-introducao/01-perfil-da-literatura-negra</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/00-introducao/01-perfil-da-literatura-negra
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/00-introducao/01-perfil-da-literatura-negra
 orig_publisher: 'Mostra Internacional de São Paulo'
 orig_date: 1985/05/20-26
-
 ---
 
 > "Eu sou invisível.
@@ -163,3 +160,36 @@ O esplêndido escritor irlandês George Bernard Shaw exprimiu esse mesmo anseio 
 > "Você vê como estão as coisas e diz: Por quê? Mas eu sonho com coisas que nunca existiram e então eu digo: Por que não?"
 
 É o sonho visionário da grande alma de Martin Luther King exclamando: "*I have a dream*!" ("Eu tenho um sonho!"): o sonho da justiça, da liberdade, do respeito mútuo, da pacífica e fecunda convivência de todos os seres humanos no mundo: não é chegado o momento de começarmos a realizar concretamente o que sonhamos?
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Perfil da Literatura Negra". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Mostra Internacional de São Paulo, 1985/05/20-26. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/00-introducao/01-perfil-da-literatura-negra</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Perfil da Literatura Negra'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/00-introducao/01-perfil-da-literatura-negra},
+    orig_publisher = {'Mostra Internacional de São Paulo'},
+    orig_date = {orig_date: 1985/05/20-26}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Perfil da Literatura Negra'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Mostra Internacional de São Paulo'
+    Y1  - orig_date: 1985/05/20-26
+    UR  - www.leogilsonribeiro.com.br/volume-1/00-introducao/01-perfil-da-literatura-negra
+    ER  - 
+    ```

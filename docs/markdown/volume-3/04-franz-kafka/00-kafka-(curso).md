@@ -3,13 +3,10 @@ title: 'Kafka (Curso)\'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Kafka (Curso)\". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (3 das 13 páginas datilografadas para o curso), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/00-kafka-(curso)</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/04-franz-kafka/00-kafka-(curso)
-orig_publisher: '(3 das 13 páginas datilografadas para o curso)'
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/00-kafka-(curso)
+orig_publisher: 'Inédito'
 orig_date: Sem data
-
 ---
 
 Paralelamente aos acontecimentos de repercussão mundial da sua época, a vida de Kafka traça uma parábola simbólica: de 1883 coincidindo com a publicação de *Assim Falava Zaratustra* de Nietzsche até 1924 quando Hitler termina a redação de *Minha Luta*. No meio, dilacerando a Europa em duas frentes de batalha, a Prmeira Guerra de 1914. Em 1917 a revolução bolchevista na Rússia.
@@ -45,3 +42,38 @@ Num período histórico em que parte da literatura conduziu à filosofia do prim
 Porque para nós o clima irrepetível da angústia que Kafka passou a evocar, mais ainda: que ele passou a assumir em si próprio, além de brotar de conexões significativas com o seu mundo interior refletido nos seus diários, nas suas cartas a Milena e ao pai. No entanto, ela parte de uma consciência profundamente religiosa em choque com um mundo secularizado e herético no ápice da fase de massificação das sociedades humanas desumanizadas nas suas relações sociais, na sua arte, nas suas diversões e transformada meramente numa cifra burocrática de organismos gigantescos regidos por citérios da cibernética e da estratégia da biologia e das necessidades político-sociais do momento.
 
 \[o restante do texto foi impresso no livro de LGR *Os Cronistas do Absurdo*, cap. 2: "A busca do absoluto perdido"\]
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Kafka (Curso)\". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/00-kafka-(curso)</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Kafka (Curso)\'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
+    date = {2022},
+    annote = {3 das 13 páginas datilografadas para o curso},,
+    url = {www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/00-kafka-(curso)},
+    orig_publisher = {'Inédito'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Kafka (Curso)\'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
+    PY  - 2022
+    PB  - 'Inédito'
+    Y1  - orig_date: Sem data
+    N1  - 3 das 13 páginas datilografadas para o curso
+    UR  - www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/00-kafka-(curso)
+    ER  - 
+    ```

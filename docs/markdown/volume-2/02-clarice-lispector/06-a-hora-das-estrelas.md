@@ -3,13 +3,10 @@ title: 'A hora das estrelas'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A hora das estrelas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 19-11-1977, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/06-a-hora-das-estrelas</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/06-a-hora-das-estrelas
-orig_publisher: 'Jornal da Tarde 19-11-1977'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/06-a-hora-das-estrelas
+orig_publisher: 'Jornal da Tarde'
+orig_date: 19/11/1977
 ---
 
 Para muita gente que pensa que lê, a literatura é como as prateleiras de uma farmácia: os autores sociais, "engajados", não se misturam com os "herméticos", que falam de metafísica, assim como o mertiolate está longe dos psicotrópicos.
@@ -49,3 +46,36 @@ Com segurança, chega-se ao desfecho para aquela que, em menina, na falta de um 
 Clarice escreveu deliberadamente um romance ou conto longo de tema vincadamente social? Tornou-se conscientemente uma escritora "comprometida"? Certamente que não. O social já estava implícito em sua literatura dos impotentes. A protagonista fundamental não é apenas oprimida, mas um ser múltiplo no seu estado comatoso, é um devir que nem a morte pode arrancar: ela revela a grandeza potencial de cada ser humano à espera de redenção total, não só social, ela é o prenúncio do silêncio que sobrevirá com a vinda de Deus à terra: "O silêncio é tal que nem o pensamento pensa".
 
 Hesitante em um terreno novo, a magnífica autora de *Felicidade Clandestina* não se "responsabiliza pelo que escreve", interroga-se se o que está descrevendo não é um meio-drama, cansa-se de descrições, não crê no intelecto para captar o que obstinadamente chama de "a essência das coisas", essa sua existencialista saudade de Deus e de penetração do mistério. Esta *Hora da Estrela*, a estrela de cinema Marilyn Monroe, que a nordestina sonhava ser, é um desvendamento, pela comoção, pela identificação do leitor com a anti-heroína desta ficção captada da realidade circundante, de um morno que imitou a aparência da vida. É talvez a primeira incursão da literatura brasileira naquele terreno ético de Kierkegaard em que o ser está condicionado pelo tremor de se saber mortal e pelo temor mesclado à sua crença em um Deus kafkianamente incompreensível e incognoscível. Portanto, é um triunfo de uma lucidez nova sobre um material entrevisto e rude de manipulação. Sem pieguismos, é o mimetismo de uma sensibilidade com uma condição desconhecida de se ser e, portanto, o aprofundamento da linguagem além do meramente estético e constativo para iluminar a apreensão dolorosa de uma verdade.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A hora das estrelas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 19/11/1977. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/06-a-hora-das-estrelas</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A hora das estrelas'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/06-a-hora-das-estrelas},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 19/11/1977}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A hora das estrelas'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 19/11/1977
+    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/06-a-hora-das-estrelas
+    ER  - 
+    ```

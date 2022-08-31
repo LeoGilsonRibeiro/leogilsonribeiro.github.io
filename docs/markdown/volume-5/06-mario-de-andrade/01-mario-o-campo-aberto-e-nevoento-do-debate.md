@@ -3,13 +3,10 @@ title: 'Mário, o campo aberto e nevoento do debate'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Mário, o campo aberto e nevoento do debate". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 8-10-1983, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/06-mario-de-andrade/01-mario-o-campo-aberto-e-nevoento-do-debate</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/06-mario-de-andrade/01-mario-o-campo-aberto-e-nevoento-do-debate
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/01-mario-o-campo-aberto-e-nevoento-do-debate
 orig_publisher: 'Jornal da Tarde 8-10-1983'
 orig_date: Sem data
-
 ---
 
 "É noite. E tudo é noite. Uma ronda de sombras,
@@ -45,3 +42,36 @@ Suas crônicas publicadas no *Diário Nacional*, orgão do Partido Democrático,
 Ou o *Grande Arquiteto*, que mistura estilos e recobre as paredes da casa de mármore falso, ao lado de um fogão Luiz XVI um portão de ferro árabe e torres florentinas. A ironia leve feita aos ridículos concursos de Miss Brasil: "Depois os Estados Unidos da América do Norte se mudaram pro nosso rancho e as revistas agora publicam fotografias de todas as iaras do Flamengo e outras praias". Com as precoces apreensões da transformação da mulher em objeto: "Mas não será rebaixamento do 'eterno feminino' reduzir a dona a essa linguagem sumária? É! Isso não tem que guerê nem pipoca. E tudo isso vem apenas prejudicar a emancipação da cunhã". E ue assombro não tomará os leitores da crônica ("São Tomás e os Jacarés") ao acompanhar o bote de um jacaré que abocanha um pato: "E o bicho tão quieto, com os olhos docinhos, longo e puro, tinha um ar de anjo. Não se imagine que chego à iniciativa de povoar os pagos celestes com jacarés alados... O bicho ficou por assim dizer pra fora do tempo naquele nhoque temível". Até à deliciosa conclusão de que os jacarés são... panteístas! Ou a comparação fascinante do Brasil com a vitória-régia: "Mistura de mistérios, dualidade interrogativa de coisas sublimes e coisas medonhas, grandeza aparente, dificuldade enorme, o melhor e o pior ao mesmo tempo, calma, tristonha, ofensiva, é impossível a gente ignorar que Nação representa essa flor..."
 
 Simbolicamente, em 1945 morria o gênio e caía a ditadura getulista. A história da inteligência e da cultura brasileiras, da melancolia e da coragem de Mário de Andrade se misturam e hoje são uma só grandeza: arrebatadora, profunda, visionária.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Mário, o campo aberto e nevoento do debate". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 8-10-1983, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/01-mario-o-campo-aberto-e-nevoento-do-debate</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Mário, o campo aberto e nevoento do debate'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/01-mario-o-campo-aberto-e-nevoento-do-debate},
+    orig_publisher = {'Jornal da Tarde 8-10-1983'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Mário, o campo aberto e nevoento do debate'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios
+    PY  - 2022
+    PB  - 'Jornal da Tarde 8-10-1983'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/01-mario-o-campo-aberto-e-nevoento-do-debate
+    ER  - 
+    ```

@@ -3,13 +3,10 @@ title: 'Fino, sutil, erudito: Sérgio Campos, Móbiles de Sal'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Fino, sutil, erudito: Sérgio Campos, Móbiles de Sal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 1991, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal
 orig_publisher: 'Jornal da Tarde 1991'
 orig_date: Sem data
-
 ---
 
 O poeta carioca Sérgio Campos orgulha-se de sua profissão defender o réu, desempenho que alterna com um cultivo coerente da poesia de Jorge de Lima e da poesia experimental de poetas brasileiros contemporâneos como José Santiago Knaud, Leonardo Fróes e Floriano Martins, entre outros. Uma das supresas agradáveis que seu livro recém-lançado, *Móbiles de Sal*, revela é que Sérgio Campos é um intelectual culto, que cita a propósito os grandes poetas ingleses que venera como Blake, John Donne, Gerard Manley Hopkins.
@@ -81,3 +78,36 @@ petições do vento
 à lua caiada"
 
 Não seria possível, por medo de exclusão de algum nome importante, por esquecimento involuntário, enumerar os poetas modernos que continuam com este lírico carioca a grande tradição galaico-portuguesa de poesia que Portugal generosamente legou como seiva interior ao Brasil: Carlos Nejar, Mário Chamie, Hilda Hilst, Marly de Oliveira, João Cabral de Melo Neto e, sem dúvida, outros. De nenhum deles ele destoa em sua ascenção rumo ao plano domínio da meditação e da escrita poéticas.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Fino, sutil, erudito: Sérgio Campos, Móbiles de Sal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 1991, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Fino, sutil, erudito: Sérgio Campos, Móbiles de Sal'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal},
+    orig_publisher = {'Jornal da Tarde 1991'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Fino, sutil, erudito: Sérgio Campos, Móbiles de Sal'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde 1991'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal
+    ER  - 
+    ```

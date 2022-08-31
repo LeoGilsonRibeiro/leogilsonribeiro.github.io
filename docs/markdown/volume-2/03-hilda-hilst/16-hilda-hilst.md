@@ -3,13 +3,10 @@ title: 'Hilda Hilst'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR Revista Goodyear julho-agosto 1989, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/16-hilda-hilst</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/16-hilda-hilst
-orig_publisher: 'LGR Revista Goodyear julho-agosto 1989'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/16-hilda-hilst
+orig_publisher: 'Revista Goodyear'
+orig_date: 1989/07-08
 ---
 
 Palavra por palavra, que poucos leram, ela criou um universo de abismos, angústias, lucidez e beleza.
@@ -39,3 +36,36 @@ O que move Hilda Hilst a escrever e esquecer o mundo? "Eu escrevo movida por uma
 Tanto no seu vigoroso teatro inédito quando nos seus belos livros de poesia, *Júbilo, Memórias e Noviciado da Paixão* (Editora Massao Ohno), *Da Morte, Odes Mínimas*, *Cantares de Perda e Predileção e Sobre a Tua Grande Face* (este com grafismos do insigne pintor japonês, radicado em São Paulo, Wakabayashi), escrever é um ato também político: "É sempre querer trasnformar as condições materiais, sociais e espirituais em que os homens vivem". Como estamos quase todos paralisados pelas policialescas sociedades em que vivemos, talvez muitos leitores se acovardem diante da proposta de seus livros: cada um conhecer-se melhor para permitir que o outro também se conheça a si mesmo. Muitos temem a mudança, a rebeldia. O escritor mostra como afastar os fantasmas das falsas verdades que nos foram impostas arbitrariamente, mostra como destruir os tabus e mitos nunca questionados e injustos. Só assim, seremos livres, ela crê: "A totalidade do ser humano seria então compreender o teu próximo e dar vida a ele. Fazer da tua linguagem uma extensão da tua ação, só assim você começará a amar o outro. No mundo de hoje só um louco é que se recusa a pensar em utopias".
 
 Agora, a decepção com sua longa trjetória literária exauriu-a. Terminou o livro *Amavisse* (Editor Massao Ohno), que em latim quer dizer "ter amado um dia", um livro elegíaco, em que um artista e um louco se encontram e só no despojamento de tudo, até da vaidade humana de ser reconhecido pela criação literária, reencontram seu caminho. A paixão apazigua, o Tempo devorando dia a dia nosso espaço mais exíguo de viver, rumo à Morte. Agora, Hilda Hilst ultima os textos *Lory Lambi*, uma "história pornojeca", as anotações infantis de uma menina de oito anos, Lory Lambi, que inocentemente participa de iniciações sexuais extremas. Tudo ilustrado pela mão de mestre de Millôr Fernandes, que assina 27 ilustrações. E por último *Histórias de Escárnio*. *Textos Grotescos*, um sarcasmo de tudo, até do fato de não ter sido compreendida em seu próprio país. Sem humildade nem altivez, ela crê que agora, finalmente, será lida e aceita: não se colocou no nível do país? "Com riso, com doçura, agora, sim, eu creio, finalmente, que me tornarei consumível".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Revista Goodyear, 1989/07-08. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/16-hilda-hilst</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Hilda Hilst'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/16-hilda-hilst},
+    orig_publisher = {'Revista Goodyear'},
+    orig_date = {orig_date: 1989/07-08}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Hilda Hilst'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Revista Goodyear'
+    Y1  - orig_date: 1989/07-08
+    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/16-hilda-hilst
+    ER  - 
+    ```

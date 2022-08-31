@@ -3,13 +3,10 @@ title: 'A África e a liberdade. Entrevista com Luandino Vieira'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A África e a liberdade. Entrevista com Luandino Vieira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1987/01/03. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/04-a-africa-e-a-liberdade-entrevista-com-luandino-vieira</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/04-a-africa-e-a-liberdade-entrevista-com-luandino-vieira
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/04-a-africa-e-a-liberdade-entrevista-com-luandino-vieira
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1987/01/03
-
 ---
 
 À primeira vista, bronzeado, com seu ar franco, ele parece um fazendeiro do Centro-Oeste brasileiro. Depois, o sotaque angolano, uma harmoniosa mistura de português lisboeta com a doçura da pronúncia vagarosa das sílabas, à moda africana ou brasileira, revela a sua verdadeira nacionalidade.
@@ -155,3 +152,36 @@ Há ainda muitas rivalidades tribais? Há racismo?
 E as culturas autóctones estão sendo, então, preservadas?
 
 > "Ah, sim: a música, a dança, as artes plásticas fundamentalmente, além da culinária, certas formas de vestir, de decorar a casa, que se vão mantendo enquanto a industrialização e a urbanização não chegarem, não é? Eu mesmo sou um exemplo dessa pluralidade de culturas que existe em Angola. Há a influências europeia sobre populações africanas e vice-versa. Eu, filho de portugueses, educado em escola de feição nitidamente portuguesa, tinha porém a rua, os meninos do bairro, e a influência do quimbundo se fez sentir fortemente em mim. Angola, variam os casos de aculturação, é estranhamente isto. A convivência fecunda de etnias e culturas diversas, sem eurocentrismos nem predominâncias culturais obsoletas".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A África e a liberdade. Entrevista com Luandino Vieira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1987/01/03. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/04-a-africa-e-a-liberdade-entrevista-com-luandino-vieira</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A África e a liberdade. Entrevista com Luandino Vieira'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/04-a-africa-e-a-liberdade-entrevista-com-luandino-vieira},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1987/01/03}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A África e a liberdade. Entrevista com Luandino Vieira'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1987/01/03
+    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/04-a-africa-e-a-liberdade-entrevista-com-luandino-vieira
+    ER  - 
+    ```

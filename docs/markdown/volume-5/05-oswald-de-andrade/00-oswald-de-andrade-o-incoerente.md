@@ -3,13 +3,10 @@ title: 'Oswald de Andrade, o incoerente'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Oswald de Andrade, o incoerente". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Leitura nº 30 novembro de 1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/05-oswald-de-andrade/00-oswald-de-andrade-o-incoerente</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/05-oswald-de-andrade/00-oswald-de-andrade-o-incoerente
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-5/05-oswald-de-andrade/00-oswald-de-andrade-o-incoerente
 orig_publisher: 'Leitura nº 30 novembro de 1984'
 orig_date: Sem data
-
 ---
 
 Na polarização maniqueísta - aqui o pleonasmo se torna necessário - do Brasil de hoje, agora é a vez de se cantar as glórias de um nome que já foi do Partido (obviamente com P maiúsculo, pois se é único). José Oswald de Sousa Andrade morreu há 30 anos? Comemora-se a data com espalhafato, ainda mais que ele às vezes foi bom escritor! Dóceis, as loas já saem prontas em quase toda a chamada grande imprensa, que obedece no Brasil a invisíveis fios de Pavlov habilmente manipulados pela Esquerda saudosa de Stálin, o Paizinho dos Povos. É como se todos lêssemos diferentes elogios publicados no *Pravda* e no *Izvestia* abrasileirados, socialmente morenos. Não morenos etnicamente, o que seria excelente, mas morenos na obscuridade mental e mendacidade. O patrulhamento ideológico stalinista nos censura com a voracidade e a vigilância tenaz do Departamento de Imprensa e Propaganda getulista ou da "dobradinha" Buzaid-Falcão.
@@ -59,3 +56,36 @@ Seus neologismos, sua libertação da frase da disposição comum, a fuga da lin
 Decididamente, pensar, pensar coerentemente, profundamente, e até o fim não foi o forte de Oswald de Andrade. Há, porém, passagens tocantes da sua vida, em contraste com a saraivada de frases ocas de seus escritos. Para mim a mais humanamente patética é o relato de seu filho Rudá, que transcrevo:
 
 "No fim de sua vida, em 54, levei-o à 2a Bienal. Era no Iberapuera de Niemeyer, da oficialização definitiva da arquitetura e da arte moderna que daria Brasília. Estávamos naquela tarde praticamente sós, sob as arrojadas estruturas de concreto e cercados de arte abstrata. Oswald sentia-se como um dos principais autores daquela conquista. Ele chorou. Era como se tivesse vencido uma longa batalha. Sentia-se apoiado e com a razão. Era algo que acontecia na sua cidadezinha provinciana, depois de uma vida de trabalho."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Oswald de Andrade, o incoerente". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Leitura nº 30 novembro de 1984, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-5/05-oswald-de-andrade/00-oswald-de-andrade-o-incoerente</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Oswald de Andrade, o incoerente'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-5/05-oswald-de-andrade/00-oswald-de-andrade-o-incoerente},
+    orig_publisher = {'Leitura nº 30 novembro de 1984'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Oswald de Andrade, o incoerente'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios
+    PY  - 2022
+    PB  - 'Leitura nº 30 novembro de 1984'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-5/05-oswald-de-andrade/00-oswald-de-andrade-o-incoerente
+    ER  - 
+    ```

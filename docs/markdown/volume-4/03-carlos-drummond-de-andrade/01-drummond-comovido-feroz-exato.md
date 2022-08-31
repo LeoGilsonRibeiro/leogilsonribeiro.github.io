@@ -3,13 +3,10 @@ title: 'Drummond: comovido, feroz. Exato'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Drummond: comovido, feroz. Exato". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 4-11-1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato
-orig_publisher: 'Jornal da Tarde 4-11-1978'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato
+orig_publisher: 'Jornal da Tarde'
+orig_date: 4/11/1978
 ---
 
 Em seu último livro de poemas, *Discurso de Primavera e Algumas Sombras*, Carlos Drummond de Andrade continua imune à erosão do Tempo. Supremo poeta vivo do Ocidente - posição que os maiores intelectuais norte-americanos lhe reconhecem de forma crescente e justa -, um dos três poetas mais perfeitos do idioma, mesmo em um livro de circunstância como este, ele consegue ser o Orfeu brasileiro a resgatar a sua Eurídice, a mediocridade, da ausência de talento, descobrindo todo um universo poético insuspeitado mesmo nos acontecimentos mais cotidianos. Sua lira profunda paralisa as feras da estupidez e do marasmo, da leviandade que se engalana com plumas pseudo-literárias e sua poesia encanta pelo enlevo da sua melodia. Na lírica do Brasil, ele é o primeiro clarividente, aquele Baudelaire precoce, *voyant* como o definia lucidamente Rimbaud.
@@ -1455,3 +1452,36 @@ A morte ronda muito de seus escritos. Sem morbidez. Até com a originalidade de 
 "Vida depois da vida"
 
 "A morte não existe para os mortos. Os mortos conquistam a vida, não a lendária, mas a propriamente dita a que perdemos ao nascer. A sem nome sem limite sem rumo (todos os rumos, simultâneos, lhe servem) completo estar-vivo no sem-fim de possíveis acoplados. A morte sabe disto e cala. Só a morte é que sabe."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Drummond: comovido, feroz. Exato". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 4/11/1978. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Drummond: comovido, feroz. Exato'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 4/11/1978}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Drummond: comovido, feroz. Exato'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 4/11/1978
+    UR  - www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato
+    ER  - 
+    ```

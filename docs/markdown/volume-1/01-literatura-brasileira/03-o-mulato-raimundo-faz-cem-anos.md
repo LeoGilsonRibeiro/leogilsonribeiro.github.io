@@ -3,13 +3,10 @@ title: 'O mulato Raimundo faz cem anos'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "O mulato Raimundo faz cem anos". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/5/23. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/03-o-mulato-raimundo-faz-cem-anos</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/03-o-mulato-raimundo-faz-cem-anos
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/03-o-mulato-raimundo-faz-cem-anos
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1981/5/23
-
 ---
 
 Felizmente para a nossa literatura, em geral é péssima a aclimatação no Brasil dos "ismos" europeus para cá importados. O romantismo deu algum sinal de vitalidade no lirismo chopiniano de um Casimiro de Abreu, na veemência arrebatada e na sincera eloquência dos versos abolicionistas de Castro Alves. Mas depois desse primeiro tímido transplante, houve uma série de rejeições do corpo orgânico brasileiro desses enxertos vindos de lá com grande atraso. O simbolismo, que teve como um de seus máximos expoentes o catarinense Cruz e Souza, evaporou-se nos sonhos racistas e empolados do vate negro que sonhava com loiras celestes e usava termos alambicados para cantar sua Beatriz alvíssima a que não podia ter acesso, preso ao inferno do preconceito contra qualquer epiderme escura. O parnasianismo apresentou até elementos humorísticos inesperados quando cultuados por nossos imitadores da frieza escultórica, marmoreamente impassível de um gélido Lecomte Lisle ou de um estático Heredia: excelente cultor da língua, Olavo Bilac deu ao impávido parnasianismo uma vibração erótica tropical, não prevista no roteiro que nos foi enviado da França.
@@ -75,3 +72,36 @@ O saldo é óbvio:
 Tardiamente aboliu-se a escravidão: proclamou-se a República: mas a ignorância das massas, comprova-se hoje, não é privilégio da inépcia monárquica. Este é o defeito dos romances-teoremas: passados os tempos, as teses ruíram e nada resta do seu arcabouço. Pois só arroubos bairristas maranhenses poderiam dar a um livro cheio de defeitos notórios a classificação de "obra-prima": esse raciocínio só é válido para os que não admitem nenhuma jocosidade ao descrever São Luís do Maranhão como "a Atenas brasileira"\... Seria, contudo, igualmente infamante e impensável aceitar a crítica rasteira e sem base que um setor da Igreja lhe moveu na época, através de seu órgão de imprensa, *Civilização*. Mais interessante do que o romance é a batalha verbal que se trava entre um padre, por coincidência chamado Raimundo (como *O Mulato* que é o personagem central do livro) Alves da Fonseca, a atacar com as invectivas mais baixas o autor em artigos mentirosos e pusilânimes e, do outro lado, Aluísio de Azevedo, no jornal *Pensamento* a responder e a querer substituir a crença na religião pela adesão ao pensar, hábito não aclimatado no Brasil, como se vê, até os dias que correm.
 
 É um centenário um tanto embaraçoso dos 100 anos da publicação de *O Mulato*, pois muito pouco há para se celebrar e literariamente há mais para se calar. Zola dizia, ele mesmo fazendo o diagnóstico-epitáfio de seus romances naturalistas, que ao escrever queria proceder a "uma autópsia cirúrgica no corpo da sociedade". Como *O Mulato* infelizmente comprova, para se fazer uma autópsia é preciso primeiro que exista um cadáver e este é de belíssimas feições idealistas mas corroído por uma enfermidade insanável: a verborragia a serviço da pregação de ideias, doença que a História da Literatura demonstra ser fatal para o autor, o indefeso leitor e as estropiadas ideias atingidas pelo cancro crescente de uma retórica oca e balofa.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "O mulato Raimundo faz cem anos". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/5/23. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/03-o-mulato-raimundo-faz-cem-anos</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'O mulato Raimundo faz cem anos'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/03-o-mulato-raimundo-faz-cem-anos},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1981/5/23}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'O mulato Raimundo faz cem anos'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1981/5/23
+    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/03-o-mulato-raimundo-faz-cem-anos
+    ER  - 
+    ```

@@ -3,13 +3,10 @@ title: 'A prosa dos poetas, oportuna e brilhante'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A prosa dos poetas, oportuna e brilhante". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 26-5-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante
-orig_publisher: 'Jornal da Tarde 26-5-1984'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante
+orig_publisher: 'Jornal da Tarde'
+orig_date: 26/5/1984
 ---
 
 Último jardineiro a cultivar as flores caboclas deste jardim brasileiro - a crônica - Carlos Drummond de Andrade, involuntariamente, mostra que a arte da crônica - a não ser em suas escalavradas e mágicas mãos - morreu.
@@ -83,3 +80,36 @@ Se a perfeição parece fluir de forma fácil para Drummond (o encontro com o mi
 Diante da mudez geral das universidades, da imprensa, dos estudantes, dos bispos, dos sindicatos, dos artistas, intelectuais e campeões de audiência na TV ou nos estádios de futebol, da mesma forma, não some sem ruído um Andrei Sakharov, a consciência do povo russo, como sumiram mlhares de latino-americanos sob tortura, fome, miseria, indiferença?
 
 A diferença é que diante da mortalha que amortalha os que se acham vivos é só esta: os poetas não calam.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A prosa dos poetas, oportuna e brilhante". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 26/5/1984. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A prosa dos poetas, oportuna e brilhante'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 26/5/1984}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A prosa dos poetas, oportuna e brilhante'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 26/5/1984
+    UR  - www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante
+    ER  - 
+    ```

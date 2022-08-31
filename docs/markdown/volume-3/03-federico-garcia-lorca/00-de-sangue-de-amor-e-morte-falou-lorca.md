@@ -3,13 +3,10 @@ title: 'De sangue, de amor e morte falou Lorca'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "De sangue, de amor e morte falou Lorca". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal da Tarde 26 de agosto de 1966, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca
-orig_publisher: 'Jornal da Tarde 26 de agosto de 1966'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca
+orig_publisher: 'Jornal da Tarde'
+orig_date: 196/08/26
 ---
 
 Federico García Lorca encarna o ressurgimento explosivo da vitalidade criadora espanhola. Profundamente fiel à psique nacional e seu mais puro intérprete, ele uniria a tradição culta, aristocrática, e o denso, variado sentimento popular, sensualidade e intelecto, como um Goya que se exprimisse por meio de versos. Mas para empobrecimento da humanidade, Federico García Lorca assume também, com sua morte prematura, o papel sacrificial do poeta moderno, imolado pelas forças políticas do Estado moderno, no macabro embate entre liberdade e totalitarismo, democracia e ditadura. Ele é assim um fantasmagórico predecessor da geração de poetas expressionistas fuzilados pelos nazistas e pelos escritores russos que se esfacelram nos campos de concentração de Stalin. Sua vida cessa aos 38 anos de idade, quando o poeta atingia, seguro, a maturidade do seu canto. Versátil e pioneiro como Baudelaire, ele porém nada tinha do seu isolamento, da sua patética incapacidade de fazer-se amar e compreender pelos contemporâneos. Ao contrário: Lorca buscou sempre integrar-se, irmanar-se com poetas ommo Jorge Guillén e Rafael Alberti e humildes *limpiabotas*, *toreros*, *gitanos*, *bailaores y cantaores de flamenco*. À sua passagem fulminante, meteórica, significa sobretudo um traço de união, nunca um isolamento voluntário e altivo. Identificando-se com todas as regiões da Península Ibérica, elabora poemas em todos os seus dialetos, inclusive um galaico-português; espraindo-se mais ainda sua cálida ânsia de ternura, abrange na sua pessoal geografia sentimental e artística os países latino-americanos, seus povos, suas paisagens e seus poetas, que celebra com alvoraçado entusiasmo e fina compreensão. Não lhe basta a síntese das várias artes que cultiva ativamente -- a música folclórica das regiões espanholas que recolhe em viagens pela Andalusia, por Astúrias e León, o teatro com seu grupo famoso de *La Barraca*, o desenho e o ensaio poético. Com a ambivalência do artista moderno -- Henry James, Baudelaire, Proust -- é também um altíssimo crítico literário. Restabelece o culto de Gôngora e sua poesia hermética, intelectualizada e que traçaria todo o roteiro da lírica do nosso século. A sua simpatia humana, exuberante, espanhola, contagiava "todo o seu séquito", como assinala Guillén: "Ele era para todos simplesmente *Federico*. E nós todos o seguíamos, porque ele era a festa, a alegria que surgia ali de repante diante de nós e não tínhamos outro remédio senão segui-lo".
@@ -31,3 +28,36 @@ E breve, antes de completar 40 anos, Federico García Lorca, poeta, encarnaria o
 "*Tardará mucho tiempo em nacer, si es que nace,*
 
 *un andaluz tan claro, tan rico de aventura*".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "De sangue, de amor e morte falou Lorca". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal da Tarde, 196/08/26. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'De sangue, de amor e morte falou Lorca'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 196/08/26}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'De sangue, de amor e morte falou Lorca'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 196/08/26
+    UR  - www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca
+    ER  - 
+    ```

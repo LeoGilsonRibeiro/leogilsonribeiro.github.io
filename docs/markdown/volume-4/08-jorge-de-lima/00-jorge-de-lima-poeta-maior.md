@@ -3,13 +3,10 @@ title: 'Jorge de Lima, poeta maior'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Jorge de Lima, poeta maior". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 10-6-1967, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/08-jorge-de-lima/00-jorge-de-lima-poeta-maior</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/08-jorge-de-lima/00-jorge-de-lima-poeta-maior
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/08-jorge-de-lima/00-jorge-de-lima-poeta-maior
 orig_publisher: 'Jornal da Tarde 10-6-1967'
 orig_date: Sem data
-
 ---
 
 Em seu conto "Campo Geral" Guimarães Rosa descreve o momento em que o menino Miguilim vê o mundo pela primeira vez em suas dimensões reais, liberto da miopia que lhe embaçara a vista até então:
@@ -95,3 +92,36 @@ nem descrita nem viagem,
 há aventuras de partidas
 
 porém nunca acontecidas".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Jorge de Lima, poeta maior". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 10-6-1967, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/08-jorge-de-lima/00-jorge-de-lima-poeta-maior</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Jorge de Lima, poeta maior'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/08-jorge-de-lima/00-jorge-de-lima-poeta-maior},
+    orig_publisher = {'Jornal da Tarde 10-6-1967'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Jorge de Lima, poeta maior'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde 10-6-1967'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-4/08-jorge-de-lima/00-jorge-de-lima-poeta-maior
+    ER  - 
+    ```

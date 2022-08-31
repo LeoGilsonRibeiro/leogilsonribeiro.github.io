@@ -3,13 +3,10 @@ title: 'Lima Barreto - altamente inovador. E quase desconhecido'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Lima Barreto - altamente inovador. E quase desconhecido". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/5/9. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/06-lima-barreto-altamente-inovador-e-quase-desconhecido</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/06-lima-barreto-altamente-inovador-e-quase-desconhecido
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/06-lima-barreto-altamente-inovador-e-quase-desconhecido
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1981/5/9
-
 ---
 
 "Nasci sem dinheiro, mulato e livre"
@@ -71,3 +68,36 @@ Cor: parda -- Idade: 38 anos -- Nacionalidade: brasileira. Estado civil: solteir
 Vendo a existência humana com um estoicismo valente, incapaz de ater-se a uma fé mística, não crendo que fosse possível ao ser humano devassar o Mistério que circunda o nascimento e a morte, Lima Barreto, no entanto, não deixa como mensagem final o desalento. Confirma, é verdade, o estado calamitoso em que se encontram todos os seus conterrâneos e contemporâneos. Mas, como sucede frequentemente na prosa lírica arrebatada desse Mestre que não pôde perfazer a sua Perfeição, há lugar para uma remota esperança no futuro. O passado foi canibalesco, hediondo, apavorante e sem remédio, mas quem sabe uma Humanidade futura aprenderá o amor, a comoção, a solidariedade, a grandeza generosa da alma? É o que subentende claramente o trecho final de seu belo, comovente, miniaturesco *O Triste Fim de Policarpo Quaresma* com seu ritmo de *adagio* melodioso e solene:
 
 > "Saiu e andou. Olhou o céu, os ares, as árvores de Santa Teresa, e se lembrou que, por estas terras, já tinham errado tribos selvagens, das quais um dos chefes se orgulhava de ter no sangue o sangue de dez mil inimigos. Fora há quatro séculos. Olhou de novo o céu, os ares, as árvores de Santa Teresa, as casas, as igrejas: viu os bondes passarem; uma locomotiva apitou; um carro, puxado por uma linda parelha, atravessou-lhe na frente, quando já a entrar no campo\... Tinha havido grandes e inúmeras modificações. Que fora aquele parque? Talvez um charco. Tinha havido grande modificações nos aspectos, na fisionomia da terra, talvez no clima\... Esperemos mais, pensou ela; e seguiu serenamente ao encontro de Ricardo Coração dos Outros."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Lima Barreto - altamente inovador. E quase desconhecido". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/5/9. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/06-lima-barreto-altamente-inovador-e-quase-desconhecido</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Lima Barreto - altamente inovador. E quase desconhecido'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/06-lima-barreto-altamente-inovador-e-quase-desconhecido},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1981/5/9}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Lima Barreto - altamente inovador. E quase desconhecido'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1981/5/9
+    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/06-lima-barreto-altamente-inovador-e-quase-desconhecido
+    ER  - 
+    ```

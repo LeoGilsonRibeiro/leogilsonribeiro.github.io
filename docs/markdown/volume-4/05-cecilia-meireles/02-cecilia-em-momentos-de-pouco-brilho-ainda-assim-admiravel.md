@@ -3,13 +3,10 @@ title: 'Cecília em momentos de pouco brilho. Ainda assim, admirável'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Cecília em momentos de pouco brilho. Ainda assim, admirável". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 14-3-1981, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel
-orig_publisher: 'Jornal da Tarde 14-3-1981'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel
+orig_publisher: 'Jornal da Tarde'
+orig_date: 14/3/1981
 ---
 
 A incursão do político, administrador, escritor e editor Carlos Lacerda, falecido há pouco, deixou além de marcas profundas nos rumos da vida política, social e cultural brasileira, um vácuo até hoje não preenchido pela sua personalidade polêmica, combativa, lúcida. A Editora Nova Fronteira, empreendimento extraordinário do qual foi fundador e animador decisivo, frutifica até hoje e tem (teve?) como paralelo uma ramificação rarificada para consumo de poucos, denominada "Confraria dos Amigos do Livro". Baseada em modelos franceses e de outros países de tradição editorial multi-seccular, a *Confraria* apresenta grandes nomes ilustrados por artistas plásticos insignes, um pouco à feição das editoras que, nos EUA ou na Europa, se dedicam a restritos clubes de consumidores de livros ou bibliófilos.
@@ -95,3 +92,36 @@ Há ainda metáforas soberbas como a que se refere a "ó lábio, limite do insta
 No entanto, essa coletânea mostra apenas uma Cecília Meireles menor, quase que circunstancial, não deixando vislumbrar a magnitude atemporal do seu canto. Um dos mais límpidos e perfeitos do Brasil, ele permanece apesar do silêncio que se faz em torno da sua poética e da sandice do momento de descalabro cultural e moral pelo qual o Brasil de hoje passa, da inflação monetária à inflação de valores falsos, trombeteados pelos eternos moedeiros falsos de nossas sinistras siglas que se digladiam entre TFP e CPC.
 
 Cecília Meireles, olimpicamente, paira acima da miuçalha do tempo das indignidades e, nem que seja em *samizdat*, permanecerá sempre como uma das vozes mais altas, mais preclaras, mais excelsas da poesia em qualquer literatura de expressão latina.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Cecília em momentos de pouco brilho. Ainda assim, admirável". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 14/3/1981. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Cecília em momentos de pouco brilho. Ainda assim, admirável'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 14/3/1981}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Cecília em momentos de pouco brilho. Ainda assim, admirável'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 14/3/1981
+    UR  - www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel
+    ER  - 
+    ```

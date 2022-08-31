@@ -3,16 +3,13 @@ title: 'Guimarães Rosa: o sertão, o mundo e a travessia'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Guimarães Rosa: o sertão, o mundo e a travessia". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Entrevista exclusiva concedida a LGR especialmente para, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/00-guimaraes-rosa-o-sertao-o-mundo-e-a-travessia</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/00-guimaraes-rosa-o-sertao-o-mundo-e-a-travessia
-orig_publisher: 'Entrevista exclusiva concedida a LGR especialmente para'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/00-guimaraes-rosa-o-sertao-o-mundo-e-a-travessia
+orig_publisher: 'Inédito'
+orig_date: 1965/07
 ---
 
-*Cadernos Brasileiros* em julho de 1965 (12 páginas datilografadas/artigo não publicado)
+*Cadernos Brasileiros*
 
 "Dos Gerais, dos campos claros, vinham as boiadas e as lembranças" Guimarães Rosa
 
@@ -105,3 +102,38 @@ Então como diz o Miguilim, é preciso reconhecer que "no começo de tudo há um
 > \- "Explico-me: É preciso ler os Evangelhos com absoluta atenção, inclusive com acuidade intelectual e legítima devoção espiritual. Se necessário, fazer até estudos semânticos, compreendendo e comparando os textos grego e latino das traduções. Porque os Evangelhos ensinam leis espirituais como um manual de física ensina leis físicas: propriedades da eletricidade, lei da gravidade etc. Mas as leis espirituais, formuladas pelos Evangelhos, são ainda mais atuais hoje em dia, após o advento da Física Atômica. É, sim: são tremendas, são verdadeiros terremotos as parábolas e exortações do Cristo: 'Pede e te será dado', "Se orardes com fé, obtereis'. São leis mais fortes que as formuladas pela psicologia, são tão fortes que as Igrejas instituídas temeram-nas e, como se faz com o rádium, envolvendo-o num envoltório de chumbo, diminuíram o efeito das parábolas de Cristo, que consideram perigosas, e transformaram a Fé na fé num mero sistema, num dogma, mas Cristo a formulou como a Fé criadora por excelência. Veja: em Cristo há duas constantes, através de toda a sua trajetória na terra Ele insiste no poder criador da Fé e do Amor. São princípios nada acidentais, que retornam várias vozes na Bíblia sob formas diversas, mas coerentemente, sempre.
 
 Não é apavorante constatar que os ensinamentos do Cristo destroem a realidade sensorial ou mehor: provam a Desrealidade da Realidade Extática, substituindo-a por uma ação espiritual dinâmica, transformadora, criadora, eterna?"
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Guimarães Rosa: o sertão, o mundo e a travessia". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Inédito, 1965/07. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/00-guimaraes-rosa-o-sertao-o-mundo-e-a-travessia</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Guimarães Rosa: o sertão, o mundo e a travessia'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    annote = {Entrevista exclusiva concedida a LGR especialmente para},,
+    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/00-guimaraes-rosa-o-sertao-o-mundo-e-a-travessia},
+    orig_publisher = {'Inédito'},
+    orig_date = {orig_date: 1965/07}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Guimarães Rosa: o sertão, o mundo e a travessia'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Inédito'
+    Y1  - orig_date: 1965/07
+    N1  - Entrevista exclusiva concedida a LGR especialmente para
+    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/00-guimaraes-rosa-o-sertao-o-mundo-e-a-travessia
+    ER  - 
+    ```

@@ -3,13 +3,10 @@ title: 'Hilda Hilst. Em prosa ou poesia, a raridade de uma obra à frente de seu
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Hilda Hilst. Em prosa ou poesia, a raridade de uma obra à frente de seu tempo". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 24 de janeiro de 1976, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo
-orig_publisher: 'LGR JT 24 de janeiro de 1976'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo
+orig_publisher: 'Jornal da Tarde'
+orig_date: 1976/01/24
 ---
 
 Tempo de verão. Férias. O Brasil entra na modorra do cansaço, que ninguém é de ferro, depois de trabalhar e/ou estudar o ano inteiro. As próprias editoras entram numa sesta preguiçosa. Estremunham-se. Ficam silenciosas presas ao pretexto triplo: festas (Natal, Ano Novo), férias, carnaval. Só depois do "tríduo momesco" é que todos dirão adeus à carne e as gráficas retomarão a impressão das palavras, que cristalizam a cultura, a sensibilidade e a inteligência brasileiras, uma tríade que se opõe, paciente, teimosa, às tendências naturais de outro triângulo nacional ameaçador: futebol, carnaval e samba -- ai de nós, nenhum deles ainda inspirador de nada válido além das pernas e da pelvis. Com as raríssimas exceções de letras de música popular ou de um conto como "A Morte da Porta Estandarte" de Aníbal Machado.
@@ -47,3 +44,36 @@ Solitária em sua fazenda no vale verdejante perto de Campinas, ela se desconsol
 Por isso, atualmente, prefere captar as vozes dos mortos, em noites inteiras durante as quais grava sussurros frases inteligíveis e impressionantes de mortos que a chamam e falam com ela. Repete as experiências de Jakobson, na Suécia; os feitos cientificamente inexplicáveis de médiuns na União Soviética, oficialmente ateia e que, no entanto, possui mulheres capazes de leram livros fechados em cofres, e de gurus da Índia que desafiam as leis da biologia passando 40 dias sem se alimentar, controlando as batidas do coração e disciplinando a respirção como ensinam há milênios os textos sagrados do *Baghavad Gita*, dos Vedas, dos diferentes ramos da *yoga*.
 
 A escritora Hilda de Almeida Prado Hilst cansou-se prematuramente de ser entendida pelos vivos. Não sabe que seu mundo modelado com intenções tão radicais quanto as de Mallarmé, na poesia moderna, e de Kafka e Proust, na prosa, é uma semente. E no Brasil, embora a terra seja fértil, brota e cresce, como aquela valsa de Debussy *La plus que lente*, a um ritmo exasperantemente vagaroso. Mas cresce. Como todo talento inestinguível, sua obra se afirmará, apesar de todos os obstáculos. Como diria Soljinitsin: a verdade pode ser ocultada durante muito tempo mas afinal tem sempre a força incoercível de uma Lei inviolável na Natureza, uma ecologia que o homem não pode transgredir. E a obra em prosa -- maior -- e poética -- menor -- de Hilda Hilst irá impor-se, como a de Proust, *dans le Temps*, com o tempo, seu grande aliado, ao contrário do que a sua impaciência possa levá-la a crer.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Hilda Hilst. Em prosa ou poesia, a raridade de uma obra à frente de seu tempo". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 1976/01/24. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Hilda Hilst. Em prosa ou poesia, a raridade de uma obra à frente de seu tempo'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1976/01/24}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Hilda Hilst. Em prosa ou poesia, a raridade de uma obra à frente de seu tempo'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1976/01/24
+    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo
+    ER  - 
+    ```

@@ -3,13 +3,10 @@ title: 'Inconfundível marca diáfana, abstrata'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Inconfundível marca diáfana, abstrata". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 18-12-1976, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata
-orig_publisher: 'Jornal da Tarde 18-12-1976'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata
+orig_publisher: 'Jornal da Tardel'
+orig_date: 18/12/1976
 ---
 
 Como que em surdina a poesia de Henriqueta Lisboa ressoa como um cêmbalo em um concerto barroco, a sua rarefeita beleza só audível para quem estiver atento à sua sonoridade propositalmente menor.
@@ -153,3 +150,36 @@ Muitos prodígios mais surpreenderão o que se iniciar na leitura desta poetisa 
 "E acaso simplesmente prolonga
 
 o ato criador de um deus."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Inconfundível marca diáfana, abstrata". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tardel, 18/12/1976. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Inconfundível marca diáfana, abstrata'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata},
+    orig_publisher = {'Jornal da Tardel'},
+    orig_date = {orig_date: 18/12/1976}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Inconfundível marca diáfana, abstrata'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tardel'
+    Y1  - orig_date: 18/12/1976
+    UR  - www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata
+    ER  - 
+    ```

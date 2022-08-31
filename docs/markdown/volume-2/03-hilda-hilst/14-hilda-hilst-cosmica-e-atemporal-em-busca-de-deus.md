@@ -3,13 +3,10 @@ title: 'Hilda Hilst, cósmica e atemporal. Em busca de Deus'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Hilda Hilst, cósmica e atemporal. Em busca de Deus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: > LGR JT 17 de janeiro de 1987, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus
-orig_publisher: '> LGR JT 17 de janeiro de 1987'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus
+orig_publisher: '> Jornal da Tarde'
+orig_date: 17 de janeiro de 1987
 ---
 
 Um dos muitos pseudônimos de Fernando Pessoa se enlaça aderentemente à criação ímpar de Hilda Hilst no panorama da contemporânea literatura mundial: Alexander Search, *search* ou *quest*: a Busca Incessante, sede que devora a totalidade de seus personagens, a Busca de quê? De um Deus compreensível para a paliçada de conceitos humanos que cerca Koyo, em seus diálogos com Deus, o inescrutável, talvez inexistente Haydun, na ficção intitulada "Floema". Da transcendência da vida chã, utilitária, materialista, como o executivo engasgado com a riqueza e seus rituais, o Tadeu morto-vivo sob pedras de ágata a buscar uma dimensão poética para a existência que nega aceitar como banal transitorieadade biológica em *Tu Não Te Moves de Ti*. A lúbrica, lírica Maria Matamoros embriagada de Eros como príapo e com o amor arrebatador e que só encontra no punhal que crava na própria vagina a parede final de seu beco sem saída nem volta. Amos Kéres, o professor de matemática que ousa ser diferente dos demais e perde a memória nas aulas, preso do êxtase de um *satori*, uma iluminação espiritual cegante e transfere seus livros para um bordel, meditando sobre a obsessão de seu amigo que vive com uma porca, Kadek: a curva de Moebius, que não tem avesso nem direito. Ou finalmente a *Obscena Senhora D*., a viúva Hillé que se muda para o vão da escada e recorta periodicamente peixes de papel que coloca em um aquário, a execrada pelo povoado por sua derrelição: desamparo, abandono, mas insaciável em sua digestão de Deus:
@@ -69,3 +66,36 @@ Quem sabe a febre da busca podia ser usada na publicidade e tornar Koyo rico, po
 Evidentemente, há mais riquezas incontáveis nas semeaduras de Hilda Hilst do que as que este espaço pudesse, miraculosamente, comportar.
 
 Acercar-se de seus textos é aceitar o riso de um impiedoso esquartejamento de tudo que nos veio mofado, peremptório, falaz, obsoleto. Junto com os supremos nomes que o Novo Mundo deu à sensibilidade humana em todos os quadrantes -- o requinte e o enigma de Borges, a textura terrosa e fantasmal de Rulfo, o maravilhoso inserido no real de Carpentier, a imaginação alicerçada na documentação científica de Vargas-Llosa, a sabedoria lúcida da irreparável tragédia humana de Faulkner -- ela é o Brasil cósmico e atemporal da originalidade imperecível enquanto houver para tanto humano entendimento.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Hilda Hilst, cósmica e atemporal. Em busca de Deus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: > Jornal da Tarde, 17 de janeiro de 1987. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Hilda Hilst, cósmica e atemporal. Em busca de Deus'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus},
+    orig_publisher = {'> Jornal da Tarde'},
+    orig_date = {orig_date: 17 de janeiro de 1987}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Hilda Hilst, cósmica e atemporal. Em busca de Deus'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - '> Jornal da Tarde'
+    Y1  - orig_date: 17 de janeiro de 1987
+    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus
+    ER  - 
+    ```

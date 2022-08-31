@@ -3,13 +3,10 @@ title: 'Mário Chamie. Meditações sobre a falta de liberdade'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Mário Chamie. Meditações sobre a falta de liberdade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 12-04-1986, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/10-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/10-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/10-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade
 orig_publisher: 'Jornal da Tarde 12-04-1986'
 orig_date: Sem data
-
 ---
 
 Afinal, nenhum dos poetas oficiais de qualquer esquerda irrompeu, neste Brasil pós-1964, com a veemência lúcida e o dizer patético e eloquente deste mais recente livro de Mário Chamie. *A Quinta Parede*, Editora Nova Fronteira, enfeixa em suas sóbrias 154 páginas uma das mais cristalinas e apavorantes meditações poéticas sobre a falta de liberdade. Neste país em que se esquece a tesoura da censura Buzaid-Falcão, como se deixa impune um ex-ministro da Justiça como Abi-Ackel, os poemas aqui contidos falam com uma linguagem incendiada de escárnio e ódio paradoxalmente sereno, de um longo período de falta de liberdade. Sem pretender fazer uma poesia "engajada", Mário Chamie no entanto se revela, íntegra e integralmente como um secreto guardião da palavra. Proibida, mutilada sussurrada, sufocada, a palavra varou a noite, luta ainda contra os obscurantismos soezes, e o poeta não a celebra como se fosse um réquiem: não, é com cólera que ele a resgata dos porões dos gritos, do sangue e da morte:
@@ -185,3 +182,36 @@ a nossa dívida
 já dividida".
 
 São, parece-me, adiposidades podáveis, senões de um poeta que com força crescente se afirma, a cada livro, como um dos poetas que mais soberanamente aliam a emoção da denúncia social à percuciente análise intelectual das estruturas econômicas que nos dominam. Seria injusto não reconhecer também, abertamente, que estes poemas denunciam, simultaneamente, os totalitarismos de esquerda ou direita, sem adotarem nunca uma posição morna, em cima do muro. Como os poetas renascentistas de um mundo tumultuado de terras por descobrir, o poeta brasileiro aqui, mais uma vez, se antecipa a um porvir que só aos vates é dado divisar: nas palavras de Shelley: "os poetas são os desconhecidos legisladores da humanidade."
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Mário Chamie. Meditações sobre a falta de liberdade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 12-04-1986, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/10-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Mário Chamie. Meditações sobre a falta de liberdade'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/10-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade},
+    orig_publisher = {'Jornal da Tarde 12-04-1986'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Mário Chamie. Meditações sobre a falta de liberdade'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde 12-04-1986'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-4/10-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade
+    ER  - 
+    ```

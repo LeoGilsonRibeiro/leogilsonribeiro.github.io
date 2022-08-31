@@ -3,13 +3,10 @@ title: 'O adeus do mestre: Para a pintura brasileira, ficam as mulatas, o morro,
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "O adeus do mestre: Para a pintura brasileira, ficam as mulatas, o morro, o mar e a Semana de Arte Moderna". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Veja 3-11-1971, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/02-emilio-di-cavalcanti/00-o-adeus-do-mestre-para-a-pintura-brasileira-ficam-as-mulatas-o-morro-o-mar-e-a-semana-de-arte-moderna</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-5/02-emilio-di-cavalcanti/00-o-adeus-do-mestre-para-a-pintura-brasileira-ficam-as-mulatas-o-morro-o-mar-e-a-semana-de-arte-moderna
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-5/02-emilio-di-cavalcanti/00-o-adeus-do-mestre-para-a-pintura-brasileira-ficam-as-mulatas-o-morro-o-mar-e-a-semana-de-arte-moderna
 orig_publisher: 'Veja 3-11-1971'
 orig_date: Sem data
-
 ---
 
 Alegre, generoso, bom: Emiliano Di Cavalcanti, um dos mestres da pintura brasileira, é de uma afetividade imediata e constante. Trata com a mesma delicadeza um garçom de restaurante e uma duquesa européia. Engraçado, contador de casos e piadas espirituosas, prende seus ouvintes horas a fio numa conversa desordenada mas sempre cheia de calor humano e de uma malícia brejeira e inocente. Quer criar no Rio, com seu amigo, o ensaísta Francisco de Assis Barbosa, um Museu da Paisagem Carioca, para conservar pelo menos nos quadros a natureza que o homem massacra dia a dia justamente onde ela é mais privilegiada.
@@ -59,3 +56,36 @@ Até aproximadamente 1926, a pintura de Di Cavalcanti é ainda a de um artista i
 Quase ingênuas, outras telas mostram mulatas voluptuosas estendidas na cama, com violões abandonados ao lado e no fundo a bandeira brasileira na parede e uma nesga de mar percebida da sacada. Seu *Nascimento de Vênus* tem o agrupamento triangular típico das *Pietà* sacras de Bellini, mas a divindade que jaz no colo das mulheres é uma mulher carnosa, nua, na praia, ao lado de mulatas sestrosas que penteiam o cabelo ou vigiam a beldade surgida do mar. São os três M esplêndidos do pintor que comemora cinquenta anos de criação: as mulatas, o mar e o morro. Às vezes com a adição de um quarto M dedicado aos músicos dos blocos de carnaval ou das canções cantadas junto fogueiras de festas juninas. No calendário de empresas industriais, suas figuras surgem também nos desenhos, nas joias, nas caricaturas, nos cartazes.
 
 "Criar é acima de tudo dar substância ideal ao que existe", proclama uma frase do próprio Di pendurada no museu ao lado de suas 486 criações mgnificentemente expostas. É um itinerário ideal e concreto que o visitante percorre, num dos raros momentos em que a realidade é apreendida em toda a sua potencialidade de lirismo. Cada quadro parece uma repetição da célebre frase do poeta romântico alemão Novalis: "Só o poético é verdadeiro, quanto mais poético, mais real".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "O adeus do mestre: Para a pintura brasileira, ficam as mulatas, o morro, o mar e a Semana de Arte Moderna". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Veja 3-11-1971, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-5/02-emilio-di-cavalcanti/00-o-adeus-do-mestre-para-a-pintura-brasileira-ficam-as-mulatas-o-morro-o-mar-e-a-semana-de-arte-moderna</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'O adeus do mestre: Para a pintura brasileira, ficam as mulatas, o morro, o mar e a Semana de Arte Moderna'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-5/02-emilio-di-cavalcanti/00-o-adeus-do-mestre-para-a-pintura-brasileira-ficam-as-mulatas-o-morro-o-mar-e-a-semana-de-arte-moderna},
+    orig_publisher = {'Veja 3-11-1971'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'O adeus do mestre: Para a pintura brasileira, ficam as mulatas, o morro, o mar e a Semana de Arte Moderna'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios
+    PY  - 2022
+    PB  - 'Veja 3-11-1971'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-5/02-emilio-di-cavalcanti/00-o-adeus-do-mestre-para-a-pintura-brasileira-ficam-as-mulatas-o-morro-o-mar-e-a-semana-de-arte-moderna
+    ER  - 
+    ```

@@ -3,13 +3,10 @@ title: 'A musa trágica'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A musa trágica". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: (12 páginas datilografadas para o curso), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/06-henry-james/00-a-musa-tragica</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/06-henry-james/00-a-musa-tragica
-orig_publisher: '(12 páginas datilografadas para o curso)'
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-3/06-henry-james/00-a-musa-tragica
+orig_publisher: 'Inédito'
 orig_date: Sem data
-
 ---
 
 Só em 1930 a Universidade de Harvard, primeira fundada nos EUA, inaugurou cursos independentes de literatura americana.
@@ -129,3 +126,38 @@ Disposta a enfrentar a ameça terrível e sobrenatural ela interroga o menino a 
 A investigação de Henry James "daquilo que jaz por detrás da *mise em scène* da vida" termina não com uma afirmação niilista mas com a denuncia de uma sociedade putrefata oculta sob a aparência de beleza e de magia num vaticínio semelhante ao de Proust no final da sua caleidoscópica "em busca do tempo perdido".
 
 Como ele próprio declarou, as suas obras não foram escritas com o propósito de "deixar uma impressão agradável nos leitores". Ele se referia com insistência à frustração da vida inerente a toda existência humana. Na vida de qualquer ser humano há sempre qualquer coisa importante que ele perdeu ou não conseguiu realizar. A vida é deprimente e a arte inspiradora. Muito do seu mundo demoníaco de histórias de fantasmas que produzem o *frisson calvanique* exigido por Baudelaire está profundamente impregnado de simbolismo e do duelo entre o Mal e a Pureza, a Inocência e a Experiência. A afirmação crescente e indetível da obra de Henry James hoje examinada pela crítica é considerada uma das supremas contribuiões à novelística ocidental -- impõe-se com a serenidade inerente às coisas perfeitas. É possível que como os seus personagens que sucumbiram a frustrações impostas pelas circunstâncias a sua vitória final tenha sido póstuma, à medida que descobrirmos sob os escombros de sua frustração individual o tesouro inestimável da sua Arte.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A musa trágica". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/06-henry-james/00-a-musa-tragica</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A musa trágica'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
+    date = {2022},
+    annote = {12 páginas datilografadas para o curso},,
+    url = {www.leogilsonribeiro.com.br/volume-3/06-henry-james/00-a-musa-tragica},
+    orig_publisher = {'Inédito'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A musa trágica'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
+    PY  - 2022
+    PB  - 'Inédito'
+    Y1  - orig_date: Sem data
+    N1  - 12 páginas datilografadas para o curso
+    UR  - www.leogilsonribeiro.com.br/volume-3/06-henry-james/00-a-musa-tragica
+    ER  - 
+    ```

@@ -3,13 +3,10 @@ title: 'A redescoberta de Henry James I'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A redescoberta de Henry James I". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Diário de Notícias 24 de fevereiro de 1960, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i
-orig_publisher: 'Diário de Notícias 24 de fevereiro de 1960'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i
+orig_publisher: 'Diário de Notícias'
+orig_date: 1960/02/24
 ---
 
 O mundo complexo de Henry James assemelha-se a um caleidoscópio: cada uma de suas obras apresenta-nos um aspecto diferente da realidade interior, uma nova disposição de cores, uma nova inter-relação de espaços., luz e sombra. Se bem que a sua temática seja numericamente reduzida, as múltiplas manifestações da psique humana por ele exploradas são quase tão numerosas com as da própria vida. No entanto, certas tonalidades básicas permanecem nesse vitral imenso: a maioria dos críticos aponta como sua preocupação fundamental o digladiar-se do hedonismo, representado pela aristocracia europeia e que implica uma profunda decadência moral, e do estoicismo perante o sofrimento, simbolizado pelos personagens americanos, que sucumbem vítimas de seu código ético, oposto intrinsecamente ao esteticismo e ao materialismo sórdido que a opulência e o refinamento extremos ocultam. Graham Greene não examina a temática jamesiana unicamente sob o ponto de vista de um constraste insuperável entre a ética e a estética, mas relaciona a inquietude de Henry James com um "complexo de traição", um "complexo de Judas" que constitui a sua obsessão permanente. Greene cita as novelas em que um engano propositado é urdido perfidamente para os personagens inocentes, puros de intenções e que morre, moralmente, vítimas da sua não-pactuação com o crime na sua forma mais sutil e letal: o sufocamento da própria consciência. É sob esse prisma que ele analisa *The Portrait of a Lady* e *The Wings of the Dove*.
@@ -23,3 +20,36 @@ Naturalmente, a extrema complexidade e sutileza de Henry James que tanto o irman
 Para os críticos e leitores de forçados a ler Henry James em traduções ou os que o lerem no original sem conhecer suficientemente o inglês, o problema agrava-se de maneira radical, pois poucos autores são tão integralmente intraduziveis como Henry James\> em seus livros a coloração específica, única de suas frases constitui muito do sortilégio inconfundível que se depreende da sua leitura. Não há correspondência exata -- e às vezes nem aproximada -- entre as palavras inglesas e, por exemplo, as que deveriam ser suas equivalentes -- mas não o são -- em português, alemão ou italiano. O resultado dessas traduçõe -- além de constituir a célebre "traição" de que fala o adágio italiano: *tradutore-traditore* -- é forçosamente grotesco, pois trduzir Henry James corresponde, *mutatis mutandis*, a reorquestrar uma composição de Debussy toda feita de arabescos, de cromatismos interinsecamente ligados à estrutura dos instrumentos como as frases iridiscentes de Henry James estão indissoluvelmente ligadas aos termos em que são criadas, na hierarquia de valores verbais da língua inglesa. A lista de exemplos ilustrativos incluiria a quase totalidade das suas obras, principalmente as da fase derradeira.
 
 A sua investigação "daquilo que jaz por detrás da *mise-em-scène*\... da vida" termina não com uma afirmação niilista, mas com a denúncia, com a revelação de uma sociedade putrefata oculta sob a aparência de beleza e magia mas como ele próprio declarou, suas obras não foram escritas com o propósito de "deixar uma recordação agradável nos leitores". Tem razão Swan ao focalizar a "insistência com que James se refere à frustração da vida inerente a toda existência humana, "a atenção que ele dá à ideia de que "na vida de qualquer ser humano há sempre qualquer coisa importante que ele perdeu ou não conseguiu realizar". Ele próprio declarara: "a vida é deprimente, a arte é inspiradora" e um de seus personagens exclama: "a frustração é a própria vida!" Seria também interessante relacionar a sua fascinação pelo sobrenatural com a descrição mórbida dos monstros feita por Lautréamont e estudar o exorcismo do Mal latente em todas as coisas, expresso pela obra de Kafka, a fim de determinarmos a divergência de origens dessa incursão no sobrenatural e principalmente definir a divergência de conclusões a que chegam os autores francês, tcheco e americano. Muito do demonismo das suas histórias fantasmagóricas, cujo horror produz o "*frisson calvanique*" exigido por Baudelaire da poesia moderna, - em *The Jolly Corner* o retorno a sua cidade natal de um homem que tem de lugar contra o seu *alter ego* um fantasma monstruoso e maligno -- muito desse mundo surrealista contêm um sentido alegórico impregnado de simbolismo como o duelo entre o Mal e a Pureza, a Inocência e a Experiência nas evocações flamejantes e visionárias de Blake. O acidente sofrido por Henry James quando ainda muito jovem e que o invalidou para uma "vida normal" devido ao mistério com que foi circundado constitui atualmente objeto de pesquisas minuciosas e indagações por parte de seus biógrafos, exegetas e até mesmo por parte de psicólogos, na Alemanha e na Inglaterra. Mas ele levou para o túmulo o seu segredo, a chave de sua derrota pessoal perante a vida. No entanto, a sua amarga derrota humana só acentua a luminosidade das suas criações artísticas. A afirmação gradual da obra de Henry James -- hoje reexaminada pela crítica e considerada uma das supremas contribuições à novelística ocidental -- impõe-se com a serenidade inerente às coisas perfeitas, à medida que sob os escombros de sua frustração individual, redescobrimos o tesouro inestimável da sua Arte.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A redescoberta de Henry James I". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Diário de Notícias, 1960/02/24. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A redescoberta de Henry James I'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i},
+    orig_publisher = {'Diário de Notícias'},
+    orig_date = {orig_date: 1960/02/24}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A redescoberta de Henry James I'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
+    PY  - 2022
+    PB  - 'Diário de Notícias'
+    Y1  - orig_date: 1960/02/24
+    UR  - www.leogilsonribeiro.com.br/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i
+    ER  - 
+    ```

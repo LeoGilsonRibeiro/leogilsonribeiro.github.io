@@ -3,13 +3,10 @@ title: 'Sobre o conto "A Hora e a Vez de Augusto Matraga"'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Sobre o conto "A Hora e a Vez de Augusto Matraga"". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR (quatro páginas datilografadas avulsas e sem data), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga
-orig_publisher: 'LGR (quatro páginas datilografadas avulsas e sem data)'
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga
+orig_publisher: 'Inédito'
 orig_date: Sem data
-
 ---
 
 Com "A Hora e Vez de Augusto Matraga" João Guimarães Rosa definitivamente encerra uma fase de sua criação literária. E encerra a série de contos, o livro *Sagarana*. "A Hora e a Vez" é então preliminarmente o ponto final de uma primeira fase: saga vem de línguas nórdicas, significando estórias do gênero épico ou heroico e rana do tupi que significa semelhança, portanto sagarana são coisas narradas parecidas com estórias, à feição de contos. É uma forma de modéstia do autor de achar que estas são apenas arremedos de histórias e é uma inovação de linguagem ligar eufonicamente uma raíz estrangeira, nórdica, com um sufixo tupi, brasileiro, unindo assim designações culturais extremas: o louro nórdico e o nativo brasileiro, ambos antropologicamente idênticos como formadores de culturas. Neste caso uma cultura híbrida: a brasileira.
@@ -43,3 +40,38 @@ Não, Joãzinho Bem-Bem quer matar um dos dois rapazinhos irmão do fujão e ent
 Aí chega a hora e vez de Augusto Matraga.
 
 Matraga aconselha Joãozinho Bem-Bem seu amigo querido a perdoar o velho e o fujão, os meninos e as moças. Como não é atendido, segue-se o duelo que dá fim ao conto: Matraga mata Joãozinho Bem-Bem e morre dos ferimentos que recebe dele. Perdoa a mulher, o major, todos os inimigos, abençoa a filha que virou prostituta e acha "tudo em ordem" e morreu.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Sobre o conto "A Hora e a Vez de Augusto Matraga"". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Sobre o conto "A Hora e a Vez de Augusto Matraga"'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    annote = {Quatro páginas datilografadas avulsas e sem data},,
+    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga},
+    orig_publisher = {'Inédito'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Sobre o conto "A Hora e a Vez de Augusto Matraga"'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Inédito'
+    Y1  - orig_date: Sem data
+    N1  - Quatro páginas datilografadas avulsas e sem data
+    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga
+    ER  - 
+    ```

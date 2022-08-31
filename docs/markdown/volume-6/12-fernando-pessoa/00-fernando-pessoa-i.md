@@ -3,13 +3,10 @@ title: 'Fernando Pessoa I'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Fernando Pessoa I". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 19-03-1977, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/00-fernando-pessoa-i</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/12-fernando-pessoa/00-fernando-pessoa-i
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/00-fernando-pessoa-i
 orig_publisher: 'Jornal da Tarde 19-03-1977'
 orig_date: Sem data
-
 ---
 
 Não era - confessava em carta a dois psiquiatras franceses - totalmente um cadáver consciente.
@@ -137,3 +134,36 @@ Demasiado complexo para ser objeto de um mero artigo, ele projeta neste pequeno 
 Ninguém, em língua portuguesa, encarnou como ele a conclusão de Shelley:
 
 "Os poetas são, sem o saberem, os legisladores desconhecidos da humanidade".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Fernando Pessoa I". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 19-03-1977, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/00-fernando-pessoa-i</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Fernando Pessoa I'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/00-fernando-pessoa-i},
+    orig_publisher = {'Jornal da Tarde 19-03-1977'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Fernando Pessoa I'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 19-03-1977'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/00-fernando-pessoa-i
+    ER  - 
+    ```

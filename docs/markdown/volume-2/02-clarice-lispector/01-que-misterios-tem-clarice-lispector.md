@@ -3,13 +3,10 @@ title: 'Que mistérios tem Clarice Lispector?'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Que mistérios tem Clarice Lispector?". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde 5-02-1969, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector
-orig_publisher: 'Jornal da Tarde 5-02-1969'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector
+orig_publisher: 'Jornal da Tarde'
+orig_date: 1969/02/05
 ---
 
 Uma mulher que gosta de crianças, gatos, cães, galinhas e insetos. Uma mulher que nunca mente para as crianças. Uma mulher que se pudesse escrever "passando a mão na cabeça de uma criança ou dando um passeio, não usaria mais uma só palavra".
@@ -101,3 +98,36 @@ A barata, que no longo monólogo de *A Paixão Segundo G.H.* passa a verdadeiro 
 A mesma técnica quase de conto policial, de manter a criança em suspense, e que foi empregada no livro anterior é utilizada aqui: a identidade e o crime da *Mulher que Matou os Peixes* só são revelados - e com pedido de perdão às crianças - no final do livro. O suspense é alternado com divagações pessoais: "Voltando aos coelhos, tem gente que come coelho. Eu não tenho coragem porque é como se eu comesse um amigo. Os dois coelhos que tivemos em casa eram meus amigos". Ao lado de conselhos também pessoais: "Se vocês gostam de escrever, façam porque é ótimo: enquanto a gente brinca assim, não se sente mais sozinha, e fica de coração quieto".
 
 Recentemente, em uma de suas crônicas num jornal carioca, Clarice Lispector definiu com lucidez e intuição sua própria maneira de ser, seu próprio estilo inconfundivel para crianças e adultos. A sua, segundo suas próprias palavras, é "uma inteligência sensível" ou "uma sensibilidade inteligente", sem pretensões a autora cerebral nem a autora desligada de qualquer realidade. Esta maravilhosa conjugação de sensibilidade e inteligência está contida inteira nesse seu novo presente às crianças brasileiras, que pouco a pouco vão formando uma estante de livros raros, formados, como este, de sensibilidade lírica e inteligência comunicativa.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Que mistérios tem Clarice Lispector?". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 1969/02/05. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Que mistérios tem Clarice Lispector?'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1969/02/05}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Que mistérios tem Clarice Lispector?'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1969/02/05
+    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector
+    ER  - 
+    ```

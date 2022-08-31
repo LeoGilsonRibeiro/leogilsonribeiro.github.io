@@ -3,13 +3,10 @@ title: 'O negro e a cultura de Moçambique não merecem romance tão ruim quanto
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "O negro e a cultura de Moçambique não merecem romance tão ruim quanto este". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1982/02/27. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1982/02/27
-
 ---
 
 A África Negra -- e demograficamente nela se inclui também a racista África do Sul do ignominioso *apartheid* -- era, até há pouco, objeto apenas de retratos feitos por autores brancos: Alan Paton em seu comovente *Cry, the Beloved Country* denunciando a desumanidade nazista do regime da sua África do Sul natal; Doris Lessing rememorando no ambiente da antiga Rodésia, hoje Zimbabue, uma luta que lhe parecia urgente, cega porém para a luta em prol da libertação do negro: a conquista da emancipação feminina, no quadro de uma "normal" opressão imperialista dos brancos ingleses em Salisbury. Eram, com exceções, instantâneos da savana africana tirados pela esplêndida escritora dinamarquesa, baronesa e fazendeira na África, Isak Dinesen, ou incursões rápidas, superficiais como um cenário de *papier-mâché* feito em Hollywood: os romances de Ernest Hemingway no Quênia que, infantis, jamais tiveram a África e sua problemática plural e ingente como foco central.
@@ -37,3 +34,36 @@ O que se há de fazer? A férrea natureza do imperialismo lusitano e europeu em 
 Orlando Mendes, profissionalmente, é fitopatologista: nada demais, há escritores de todas as origens, até negreiros no sentido estrito do termo: Rimbaud no final de sua vida e Voltaire durante sua vida toda, quase. Assim, como há grandes escritores fascistas que trabalhavam em sapatarias, como Céline, ou toxicômanos, como Baudelaire. O lamentável é que nos seja mostrado como o grande escritor moçambicano -- o único? -- justamente Orlando Mendes. O autor nem sequer sabe estruturar uma narração: esquece que um personagem, como o Esteves, é velho demais para se apoderar da esposa do herói João Xilim, depois resolve improvisadamente "inventar" uma tia inexistente em Portugal para onde mandar um miúdo (criança), além do estilo maçante, pré-histórico, uma prova a mais de que as boas intenções cravejam os caminhos que levam ao inferno. Efetivamente, as excelentes intenções humanitárias do autor levam o leitor ao inferno literário das frases-feitas, da involuntária inautenticidade do dramalhão postiço. Restam dois ou três motivos legítimos para que *Portagem* fosse escrito, publicado e, quem sabe?, até lido por leitores ingênuos ou que cultuam esse tipo de literatura, armados -- é indispensável -- de uma dose maciça de paciência. Porque Orlando Mendes é o período da pedra lascada da literatura: interessante para os darwinistas que procuram ainda o "elo perdido", o famoso *missing link* da árvore da qual descemos todos os antropoides até o pomposo e fátuo *homo Sapiens*, assim autoproclamado. Um dos motivos que realmente ficam desse livro primário é o da revolta dupla que sentem os mulatos, desprezados igualmente por brancos e negros, numa espécie de *no man's land* apavorante pela sua dupla segregação. Depois, o desejo legítimo e hoje tornado novamente atual pela ameaça de nova servidão por intermédio do imperialismo soviético: o instinto de libertação, de nacionalismo, de expressão das forças vitais de Moçambique na busca de sua identidade racialmente plural e sua projeção cultural, social, política e econômica na África e no mundo.
 
 Diante de um romance tão capenga quanto este, reminiscente de algum original guardado em alguma gaveta de Rondônia como "o maior romance escrito por um autor do novo Estado", só nos resta uma saudável esperança: a de que surjam novos romances moçambicanos. Não poderão ser piores. A menos que enveredem pela cartilha suicida do "realismo socialista" leninista-stalinista, do qual Deus há de preservar a nós, à literatura, à inteligência e a Moçambique. Amém.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "O negro e a cultura de Moçambique não merecem romance tão ruim quanto este". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1982/02/27. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'O negro e a cultura de Moçambique não merecem romance tão ruim quanto este'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1982/02/27}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'O negro e a cultura de Moçambique não merecem romance tão ruim quanto este'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1982/02/27
+    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este
+    ER  - 
+    ```

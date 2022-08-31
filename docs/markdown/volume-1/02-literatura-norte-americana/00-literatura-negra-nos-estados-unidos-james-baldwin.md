@@ -3,13 +3,10 @@ title: 'Literatura negra nos Estados Unidos - James Baldwin'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Literatura negra nos Estados Unidos - James Baldwin". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã, 1965/3/27. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin
 orig_publisher: 'Correio da Manhã'
 orig_date: 1965/3/27
-
 ---
 
 O cartão entregue a cada um dos milhões de refugiados da Europa Central acampados em barracas à espera do visto de imigração é simbólico da nossa era atômica -- a era das *displaced persons*. A expressão inglesa é cruel na sua especificação de que uma pessoa está "fora do seu lugar", no desajuste, no desenraizamento que são a forma século XX da angústia mais desesperada que o *mal du siècle* dos românticos e o *Weltschmerz* dos melancólicos poetas alemães. Kafka foi o arauto dessa multidão em busca de uma Canaã mítica -- perdida, inacessível ou inexistente? -, dos judeus que *displaced* na Alemanha de Hitler, terminaram cremados nos infernos de Dachau e de Ausschwitz. Mas são também desambientados os jovens irados ingleses e os *beatnicks* que procuram no orgasmo e no Zen budismo, na maconha e no *jazz* uma expressão para o seu inconformismo e finalmente são *displaced* em seu sexo os travestis mimetizados com um ideal feminino.
@@ -33,3 +30,36 @@ James Baldwin ultrapassa essa incursão que terminou quando cessou o efeito das 
 "A brutalidade com que os negros são tratados na América simplesmente não pode ser exagerada. A princípio, o negro *não acredita* que os brancos o tratem dessa forma\... Ainda não existe uma linguagem sequer para descrever o sofrimento pessoal do negro neste país\..."
 
 Agora, James Baldwin forjou admiravelmente esta linguagem, que utiliza como uma catapulta de ideias e reflexões. A nossa época, que já conta com o *Diário de Anna Frank* e o de Maria Carolina de Jesus, além do *Journal du Voleur* de Jean Genet, tem agora completo o triângulo dos párias de vários regimes e várias épocas: o judeu, o negro e o homossexual. São misteriosas e muitas vezes ilógicas as trajetórias das palavras de um reformador que se exprime através da literatura. Não se exclui assim a possibilidade de que, apelando para a razão do americano branco consciente das suas responsabilidades, o autor nascido no Harlem atinja o ponto central do qual unicamente poderá partir a modificação que ele propõe e todos ambicionamos. Exemplarmente, a língua inglesa fala de *a change of heart* quando uma pessoa muda de opinião ou de ideia. É nesta "transformação de corações" e de cérebros cegados pelo racismo que reside a nossa esperança.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Literatura negra nos Estados Unidos - James Baldwin". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã, 1965/3/27. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Literatura negra nos Estados Unidos - James Baldwin'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin},
+    orig_publisher = {'Correio da Manhã'},
+    orig_date = {orig_date: 1965/3/27}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Literatura negra nos Estados Unidos - James Baldwin'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Correio da Manhã'
+    Y1  - orig_date: 1965/3/27
+    UR  - www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin
+    ER  - 
+    ```

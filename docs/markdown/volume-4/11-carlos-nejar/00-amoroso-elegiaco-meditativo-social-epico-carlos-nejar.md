@@ -3,13 +3,10 @@ title: 'Amoroso, elegíaco, meditativo, social, épico: Carlos Nejar'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Amoroso, elegíaco, meditativo, social, épico: Carlos Nejar". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 8-07-1978, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar
 orig_publisher: 'Jornal da Tarde 8-07-1978'
 orig_date: Sem data
-
 ---
 
 "E, contudo, uma meditação suficiente e persistente chega à convicção: a metafísica jamais proporciona, por sua essência, ao habitar humano a possibilidade de se estabelece propriamente na paragem, isto é: na essência do esquecimento do ser. É por isso que o pensamento e a poesia devem retornar lá, onde, de certo modo, já tínham sempre estado... Chegamos tarde demais para os Deuses e cedo demais para o Ser. Cujo rosto iniciado é o ser humano."
@@ -251,3 +248,36 @@ dente do mar.
 O absoluto amor"
 
 Carlos Nejar se alaç, com sua produção poética extensa e agora em seu apogeu do dizer, do pensar e do sentir, ao mais alto nível da poesia brasileira deste final de século. Nenhuma contagem qualificativa da nossa lírica estará sequer esboçada sem a menção de seu nome, aval de uma coerência estética e uma honestidade ética extremamente rarefeitas no Brasil da década de 70. *O Chapéus das Estações* é não só a soma de sua presenaç poética, o divisor de suas realizações, é um desafio temível para o poeta: como superar-se daqui por diante? Porque com este marco definitivo de maturidade poética formal e filosófica, Carlos Nejar depara-se com seu próprio repto supremo: como dar continuidade ao apogeu e como arcar com o legado terrível de ser a mais versátil voz poética brasileira surgida depois de Drummond, como transcender este umbral já tão colindante com a perfeição que ele ultrapassou agora?
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Amoroso, elegíaco, meditativo, social, épico: Carlos Nejar". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 8-07-1978, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Amoroso, elegíaco, meditativo, social, épico: Carlos Nejar'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar},
+    orig_publisher = {'Jornal da Tarde 8-07-1978'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Amoroso, elegíaco, meditativo, social, épico: Carlos Nejar'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde 8-07-1978'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar
+    ER  - 
+    ```

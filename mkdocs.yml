@@ -4,8 +4,8 @@
 site_name: Leo Gilson Ribeiro
 site_description: Textos reunidos de Leo Gilson Ribeiro
 docs_dir: docs/markdown/
-repo_name: bcdavasconcelos/LGR
-repo_url: https://github.com/bcdavasconcelos/LGR
+repo_name: LeoGilsonRibeiro/LGR
+repo_url: https://github.com/LeoGilsonRibeiro/LGR
 edit_uri: tree/main
 copyright: |
   <span style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"><em>Textos Reunidos de Leo Gilson Ribeiro</em>. Transcrição, organização e introdução de Fernando Rey Puente <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0 2022</a> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="m245.83 214.87-33.22 17.28c-9.43-19.58-25.24-19.93-27.46-19.93-22.13 0-33.22 14.61-33.22 43.84 0 23.57 9.21 43.84 33.22 43.84 14.47 0 24.65-7.09 30.57-21.26l30.55 15.5c-6.17 11.51-25.69 38.98-65.1 38.98-22.6 0-73.96-10.32-73.96-77.05 0-58.69 43-77.06 72.63-77.06 30.72-.01 52.7 11.95 65.99 35.86zm143.05 0-32.78 17.28c-9.5-19.77-25.72-19.93-27.9-19.93-22.14 0-33.22 14.61-33.22 43.84 0 23.55 9.23 43.84 33.22 43.84 14.45 0 24.65-7.09 30.54-21.26l31 15.5c-2.1 3.75-21.39 38.98-65.09 38.98-22.69 0-73.96-9.87-73.96-77.05 0-58.67 42.97-77.06 72.63-77.06 30.71-.01 52.58 11.95 65.56 35.86zM247.56 8.05C104.74 8.05 0 123.11 0 256.05c0 138.49 113.6 248 247.56 248 129.93 0 248.44-100.87 248.44-248 0-137.87-106.62-248-248.44-248zm.87 450.81c-112.54 0-203.7-93.04-203.7-202.81 0-105.42 85.43-203.27 203.72-203.27 112.53 0 202.82 89.46 202.82 203.26-.01 121.69-99.68 202.82-202.84 202.82z"></path></svg></span> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M314.9 194.4v101.4h-28.3v120.5h-77.1V295.9h-28.3V194.4c0-4.4 1.6-8.2 4.6-11.3 3.1-3.1 6.9-4.7 11.3-4.7H299c4.1 0 7.8 1.6 11.1 4.7 3.1 3.2 4.8 6.9 4.8 11.3zm-101.5-63.7c0-23.3 11.5-35 34.5-35s34.5 11.7 34.5 35c0 23-11.5 34.5-34.5 34.5s-34.5-11.5-34.5-34.5zM247.6 8C389.4 8 496 118.1 496 256c0 147.1-118.5 248-248.4 248C113.6 504 0 394.5 0 256 0 123.1 104.7 8 247.6 8zm.8 44.7C130.2 52.7 44.7 150.6 44.7 256c0 109.8 91.2 202.8 203.7 202.8 103.2 0 202.8-81.1 202.8-202.8.1-113.8-90.2-203.3-202.8-203.3z"></path></svg></span> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M247.6 8C387.4 8 496 115.9 496 256c0 147.2-118.5 248-248.4 248C113.1 504 0 393.2 0 256 0 123.1 104.7 8 247.6 8zM55.8 189.1c-7.4 20.4-11.1 42.7-11.1 66.9 0 110.9 92.1 202.4 203.7 202.4 122.4 0 177.2-101.8 178.5-104.1l-93.4-41.6c-7.7 37.1-41.2 53-68.2 55.4v38.1h-28.8V368c-27.5-.3-52.6-10.2-75.3-29.7l34.1-34.5c31.7 29.4 86.4 31.8 86.4-2.2 0-6.2-2.2-11.2-6.6-15.1-14.2-6-1.8-.1-219.3-97.4zM248.4 52.3c-38.4 0-112.4 8.7-170.5 93l94.8 42.5c10-31.3 40.4-42.9 63.8-44.3v-38.1h28.8v38.1c22.7 1.2 43.4 8.9 62 23L295 199.7c-42.7-29.9-83.5-8-70 11.1 53.4 24.1 43.8 19.8 93 41.6l127.1 56.7c4.1-17.4 6.2-35.1 6.2-53.1 0-57-19.8-105-59.3-143.9-39.3-39.9-87.2-59.8-143.6-59.8z"></path></svg></span> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M247.6 8C389.4 8 496 118.1 496 256c0 147.1-118.5 248-248.4 248C113.6 504 0 394.5 0 256 0 123.1 104.7 8 247.6 8zm.8 44.7C130.2 52.7 44.7 150.6 44.7 256c0 109.8 91.2 202.8 203.7 202.8 103.2 0 202.8-81.1 202.8-202.8.1-113.8-90.2-203.3-202.8-203.3zm94 144.3v42.5H162.1V197h180.3zm0 79.8v42.5H162.1v-42.5h180.3z"></path></svg></span></span>
@@ -96,6 +96,9 @@ markdown_extensions:
         - name: latex
           class: latex
           format: !!python/name:pymdownx.superfences.fence_code_format
+        - name: ris
+          class: ris
+          format: !!python/name:pymdownx.superfences.fence_code_format
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
@@ -111,10 +114,10 @@ extra_css:
 
 
 extra_javascript:
-  - assets/tablesort.js
+  - assets/js/tablesort.js
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
 nav:
-  - 'Textos Reunidos de Leo Gilson Ribeiro':
+  - 'Apresentação aos textos reunidos de Leo Gilson Ribeiro':
     - 'Apresentação aos textos reunidos de Leo Gilson Ribeiro': textos-reunidos-de-leo-gilson-ribeiro/README.md
     - 'Volume I: Racismo e literatura negra':
       - 'Volume I: Racismo e literatura negra': volume-1/README.md
@@ -199,7 +202,7 @@ nav:
         - 'Nota sobre o livro Poesia 1959-1967 (Livraria Sal) de Hilda Hilst': volume-2/03-hilda-hilst/00-nota-sobre-o-livro-poesia-1959-1967-(livraria-sal)-de-hilda-hilst.md
         - 'Esperando Haydum': volume-2/03-hilda-hilst/01-esperando-haydum.md
         - 'Poetisa em prosa. Qadós de Hilda Hilst': volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst.md
-        - 'O vermelho da vida. Júbilo, Memória, Noviciado da Paixão de Hilda Hilst LGR Veja 24 de abril de 1974': volume-2/03-hilda-hilst/03-o-vermelho-da-vida-jubilo-memoria-noviciado-da-paixao-de-hilda-hilst-lgr-veja-24-de-abril-de-1974.md
+        - 'O vermelho da vida. Júbilo, Memória, Noviciado da Paixão de Hilda Hilst': volume-2/03-hilda-hilst/03-o-vermelho-da-vida-jubilo-memoria-noviciado-da-paixao-de-hilda-hilst.md
         - 'Hilda Hilst. Em prosa ou poesia, a raridade de uma obra à frente de seu tempo': volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo.md
         - 'Hilda Hilst, Ficções (São Paulo - Edições Quíron Limitada, 1977), pp. VII- XII': volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii.md
         - 'As múltiplas seduções de Hilda Hilst - entrevista': volume-2/03-hilda-hilst/06-as-multiplas-seducoes-de-hilda-hilst-entrevista.md
@@ -221,21 +224,21 @@ nav:
         - Revolução Estética da Arte Moderna: volume-3/01-revolucao-estetica-da-arte-moderna/README.md
       - Charles Baudelaire:
         - 'Baudelaire e a revolução da metáfora poética': volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica.md
-        - 'Dois adendos posteriores sobre Baudelaire': volume-3/02-charles-baudelaire/01-dois-adendos-posteriores-sobre-baudelaire.md
+        - 'Baudelaire. Quase dois séculos de uma poesia original e sublime': volume-3/02-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime.md
         - 'A tradução de As Flores do Mal de Baudelaire': volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire.md
       - Federico García Lorca:
         - 'De sangue, de amor e morte falou Lorca': volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca.md
         - 'García Lorca e o Romancero Gitano': volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano.md
-        - 'Adendo': volume-3/03-federico-garcia-lorca/02-adendo.md
+        - 'Trágica melancolia (nota sobre a biografia de Ian Gibson)': volume-3/03-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson).md
       - Franz Kafka:
         - 'Kafka (Curso)\': volume-3/04-franz-kafka/00-kafka-(curso).md
         - 'As cartas a Milena como documento literário e da angústia de Kafka': volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka.md
-        - 'Adendos sobre Kafka': volume-3/04-franz-kafka/02-adendos-sobre-kafka.md
+        - 'Kafka revive em Praga': volume-3/04-franz-kafka/02-kafka-revive-em-praga.md
         - 'Kafka em Praga': volume-3/04-franz-kafka/03-kafka-em-praga.md
         - 'Kafka (1983)\': volume-3/04-franz-kafka/04-kafka-(1983).md
       - Jean Genet:
         - 'A assunção do martírio': volume-3/05-jean-genet/00-a-assuncao-do-martirio.md
-        - 'Adendo': volume-3/05-jean-genet/01-adendo.md
+        - 'A véspera do livro Nossa Senhora das Flores': volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores.md
       - Henry James:
         - 'A musa trágica': volume-3/06-henry-james/00-a-musa-tragica.md
         - 'A redescoberta de Henry James I': volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i.md
@@ -292,6 +295,24 @@ nav:
       - A nova poesia brasileira é mais que uma promessa:
         - 'Jovem, cínica, desesperada, terna': volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna.md
         - 'Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos': volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/01-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos.md
+    - 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios':
+      - 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios': volume-5/README.md
+      - Semana de Arte Moderna de 1922:
+        - 'Foi nosso primeiro happening urbano': volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano.md
+        - 'E foi assim que nasceu o Brasil de hoje, com Drummond e o romance social': volume-5/01-semana-de-arte-moderna-de-1922/01-e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummond-e-o-romance-social.md
+      - Emílio Di Cavalcanti:
+        - 'O adeus do mestre - Para a pintura brasileira, ficam as mulatas, o morro, o mar e a Semana de Arte Moderna': volume-5/02-emilio-di-cavalcanti/00-o-adeus-do-mestre-para-a-pintura-brasileira-ficam-as-mulatas-o-morro-o-mar-e-a-semana-de-arte-moderna.md
+        - 'Di, para quem viver era um círculo mágico': volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico.md
+      - Tarsila do Amaral:
+        - 'Tarsila do Amaral - A última entrevista': volume-5/03-tarsila-do-amaral/00-tarsila-do-amaral-a-ultima-entrevista.md
+      - Menotti del Picchia:
+        - 'Menotti del Picchia - "nada me orgulha mais do que ter sido poeta"': volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta.md
+      - Oswald de Andrade:
+        - 'Oswald de Andrade, o incoerente': volume-5/05-oswald-de-andrade/00-oswald-de-andrade-o-incoerente.md
+      - Mário de Andrade:
+        - 'Astuto ou generoso. Mas sempre amoral': volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral.md
+        - 'Mário, o campo aberto e nevoento do debate': volume-5/06-mario-de-andrade/01-mario-o-campo-aberto-e-nevoento-do-debate.md
+        - 'Curso sobre o movimento modernista - Mário de Andrade': volume-5/06-mario-de-andrade/02-curso-sobre-o-movimento-modernista-mario-de-andrade.md
     - 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios':
       - 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios': volume-5/README.md
       - Semana de Arte Moderna de 1922:

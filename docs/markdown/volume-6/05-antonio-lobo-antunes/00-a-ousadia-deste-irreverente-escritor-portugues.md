@@ -3,13 +3,10 @@ title: 'A ousadia deste irreverente escritor português'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A ousadia deste irreverente escritor português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues
 orig_publisher: 'Jornal da Tarde 1984'
 orig_date: Sem data
-
 ---
 
 "De fato, e consoante as profecias da familia, tornara-me um homem: uma espécie de avidez triste e cínica, feita de desesperança cúpida, de egoísmo, e de pressa de me esconder de mim próprio..."
@@ -49,3 +46,36 @@ Quem quiser encontrar nesta sua obra o clarão de um Rimbaud de *Le Bateau Ivre*
 Antônio Lobo Antunes ignora outro truísmo banal:
 
 Portugal é um país único na Europa, séculos e séculos a fio: talvez só a minúscula Atenas do terceiro ao quinto século antes de Cristo apresente uma fermentação e uma qualidade de gerações poéticas comparável à de Portugal, como bem ressaltou o lusitanista britânico Aubrey Bell. Confundir a própria dispepsia com a morte de Deus é reservado apenas aos raros Nietzsches que despontam de cem em cem anos, antes de submergir na loucura menos fecunda para os que estão do lado de cá do hospício, torcendo junto com Lacan, Laing e toda a virada riquíssima da antipsiquiatria. Antônio Lobo Antunes, nos mais hilariantes momentos de seu desmascaramento da superstição ignara imbuída da crença de que é um sentimento místico-religioso autêntico, não ousa tanto quanto o retrato ácido da Titi de *A Relíquia* de Eça de Queirós. Publicada em 1887, portanto, quase há um século já. Este livro, *Os Cus de Judas*, é uma catarse excelente para quem quer purgar seus pecados de colonialismo, imperialismo, imobilidade cultural: seu autor é o que os franceses chamam de um *enfant terrible* a quebrar louças em vários pesudo-santuários. Mas, ao contrário de tantas figuras da literatura portuguesa, ai de nós, não é um gênio.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A ousadia deste irreverente escritor português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 1984, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A ousadia deste irreverente escritor português'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues},
+    orig_publisher = {'Jornal da Tarde 1984'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A ousadia deste irreverente escritor português'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 1984'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues
+    ER  - 
+    ```

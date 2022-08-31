@@ -3,13 +3,10 @@ title: 'A morte, saudada em versos iluminados. Por Hilda Hilst'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A morte, saudada em versos iluminados. Por Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 18 de outubro de 1980, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst
-orig_publisher: 'LGR JT 18 de outubro de 1980'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst
+orig_publisher: 'Jornal da Tarde'
+orig_date: 18 de outubro de 1980
 ---
 
 "Todos os dias conduzem à morte, o último chega a ela" Sêneca
@@ -173,3 +170,36 @@ Tem passado
 Passa com a sua fina faca"
 
 Nesta bela e cuidada edição de Massao Ohno e Roswitha Kempf, os que não conhecem a altíssima poesia de Hilda Hilst poderão tomar um primeiro contacto com a sua erudição em nada pedante, com a profundidade filosófica do seu canto, com a inquirição sempre colorida de um lirismo contagiante em torno do destino humano delimitado entre o breve gozo, o inexplicável sofrimento e a imensurável morte, tessitura indiscernível dos dias. Para os que já conhecem a importância sem paralelo de Hilda Hilst na criação de todo um universo poético ora expresso em prosa ora veiculado pela poesia, o ritmo, o encantamento, o fascínio das abstrções confirmarão uma vocação que no Brasil só se equipara, em densidade, riqueza e transcendência permanente, à invenção de Guimarães Rosa. Para ambos a vida, rutilante e plural, é uma travessia metafísica, sempre entranhadamente poética e de uma inquirição luminosa do pensamento debruçado sobre o enigma cotidiano do viver.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A morte, saudada em versos iluminados. Por Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 18 de outubro de 1980. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A morte, saudada em versos iluminados. Por Hilda Hilst'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 18 de outubro de 1980}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A morte, saudada em versos iluminados. Por Hilda Hilst'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 18 de outubro de 1980
+    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst
+    ER  - 
+    ```

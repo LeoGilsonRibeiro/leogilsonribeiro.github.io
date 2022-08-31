@@ -3,13 +3,10 @@ title: 'A África, hoje. Em dois bons livros - LGR comenta as obras de Chinua Ac
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A África, hoje. Em dois bons livros - LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1983/05/28. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/11-a-africa-hoje-em-dois-bons-livros-lgr-comenta-as-obras-de-chinua-achebe-e-cyprian-ekwensi</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/11-a-africa-hoje-em-dois-bons-livros-lgr-comenta-as-obras-de-chinua-achebe-e-cyprian-ekwensi
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/11-a-africa-hoje-em-dois-bons-livros-lgr-comenta-as-obras-de-chinua-achebe-e-cyprian-ekwensi
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1983/05/28
-
 ---
 
 Com a preponderância avassaladora da economia e da política como únicos critérios da nossa época, ficam relegados a segundo plano os aspectos culturais de tal modo que a Nigéria, para o brasileiro medianamente bem informado, se reduz a um esqueleto: petróleo, população imensa e guerra do Biafra. Ignora-se que, desde a sua libertação do domínio inglês, há mais de duas décadas, e até mesmo antes de sua independência política, a Nigéria já se distinguia de todos os outros países da África Negra pela sua rica efervescência cultural. Com cinco universidades, entre elas a mais importante ao sul do Saara, a de Ibadan, com a revista *Black Orpheus* (Orfeu Negro), que já antes da libertação divulgava os temas e conquistas da poesia da *négritude* de um Léopold Senghor ou de um Aimé Césaire, a Nigéria celebra o passado faustoso das esculturas de bronze de Benin e se afirma no presente com a poesia de nível internacional, de John Pepper Clark, na sua pesquisa de música popular, desde o *high life* de Gana até o *dixieland* e o *jazz* dos Estados Unidos e os sons do Caribe.
@@ -53,3 +50,36 @@ Não, sublinhe-se bem que Chinua Achebe seja um saudosista de um Èden inexisten
 Já em *Gente da Cidade*, Cyprian Ekwensi avocará para si a tarefa de retratar a Nigéria de hoje, com seu tumulto urbano, sua transição repentina de um estágio cultural para a proletarização citadina, para a burocratização e uniformização das metrópoles do século XX. A violentação das sociedades africanas é também, sem nenhuma metáfora, a destruição de suas estruturas éticas, a perda de sua identidade psíquica. É tarde, agora, porém, parece concluir Ekwensi: seus personagens são repórteres, músicos, moças que vendem sua beleza exótica a brancos milionários, favelados vindos de Gana ou do Alto Volta todos indistintos naquele caldeirão governamental de Lagos, a capital e seu burburinho cacofônico.
 
 A África tornou-se igual aos outros continentes? A extirpação da sua personalidade foi total? Não parece ser a resposta de autores tão diferentes e, no entanto, semelhantes em sua visão da Nigéria atual: a África milenar sutilmente se insinua em meio a uma civilização que lhe é antípoda e nela reconstrói o lado positivo da herança africana -- a doçura, a humanidade, o riso, o abandono do relógio de ponto em prol de uma cooperação comunitária cheia de solidariedade e reconquistada alegria. Apesar dos preconceitos e da opressão, a África vive.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A África, hoje. Em dois bons livros - LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1983/05/28. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/11-a-africa-hoje-em-dois-bons-livros-lgr-comenta-as-obras-de-chinua-achebe-e-cyprian-ekwensi</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A África, hoje. Em dois bons livros - LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/11-a-africa-hoje-em-dois-bons-livros-lgr-comenta-as-obras-de-chinua-achebe-e-cyprian-ekwensi},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1983/05/28}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A África, hoje. Em dois bons livros - LGR comenta as obras de Chinua Achebe e Cyprian Ekwensi'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1983/05/28
+    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/11-a-africa-hoje-em-dois-bons-livros-lgr-comenta-as-obras-de-chinua-achebe-e-cyprian-ekwensi
+    ER  - 
+    ```

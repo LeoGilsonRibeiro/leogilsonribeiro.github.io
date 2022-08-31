@@ -3,13 +3,10 @@ title: 'Resenha de LGR vetada e não publicada no JT sobre Adolfo Caminha'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Resenha de LGR vetada e não publicada no JT sobre Adolfo Caminha". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: In "O Bom Crioulo", 1983. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha
 orig_publisher: 'In "O Bom Crioulo"'
 orig_date: 1983
-annote: Por ocasião da reedição de sua obra
 ---
 
 > "Esse acervo de mentiras galantes e torpezas dissimuladas, esse cortiço de vespas que se denomina -- sociedade" Adolfo Caminha
@@ -77,3 +74,38 @@ Em futuras edições dessa pequena obra-prima, a Editora Ática deveria proceder
 As questões complexíssimas que *O Bom-Crioulo* suscita fazem deste livro uma ruptura, na literatura brasileira, entre o antigo e o moderno. Caminha não faz preleções, não "moraliza" no sentido estreito que as digníssimas e zelosas Senhoras da Lapa dão a esse termo. Quer dizer: não permanece indiferente ao tradicionalismo das ideias feitas e nunca questionadas. O autor cearense está fundamentalmente empenhado com a Ética, cético à "moral" imposta segundo os ditames variáveis de uma época ou de um período histórico e social. À saia baião não se sucederam o biquini, o *topless* e a pílula anticoncepcional? Ao processo e encarceramento de Oscar Wilde não sobrevieram a adoção de leis liberais e a conscientização do *Gay Movement* em vários países? A Lei Afonso Arinos não penaliza, pelo menos juridicamente, a discriminação racial?
 
 É singular, por último, como mero fecho destas anotações sucintas sobre uma de nossas obras-primas, destacar: o autor *não se exime* de formular uma pergunta muito mais importante do que as indagações sobre a libido, a sexualidade permitida ou não e até mesmo capaz de ultrapassar a injustiça que circunda a crueldade e a estupidez do racismo. Qual deve ser o procedimento ético, humano, de um ser humano para com o outro?
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Resenha de LGR vetada e não publicada no JT sobre Adolfo Caminha". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: In "O Bom Crioulo", 1983. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Resenha de LGR vetada e não publicada no JT sobre Adolfo Caminha'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    annote = {Por ocasião da reedição de sua obra},,
+    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha},
+    orig_publisher = {'In "O Bom Crioulo"'},
+    orig_date = {orig_date: 1983}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Resenha de LGR vetada e não publicada no JT sobre Adolfo Caminha'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'In "O Bom Crioulo"'
+    Y1  - orig_date: 1983
+    N1  - Por ocasião da reedição de sua obra
+    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha
+    ER  - 
+    ```

@@ -3,13 +3,10 @@ title: 'Um velho castelo maciço, uma nova flor poética'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Um velho castelo maciço, uma nova flor poética". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: LGR JT 21-11-1967, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/02-um-velho-castelo-macico-uma-nova-flor-poetica</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/02-um-velho-castelo-macico-uma-nova-flor-poetica
-orig_publisher: 'LGR JT 21-11-1967'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/02-um-velho-castelo-macico-uma-nova-flor-poetica
+orig_publisher: 'Jornal da Tarde'
+orig_date: 1967/11/21
 ---
 
 Em Belém do Pará, onde eu dava um curso de literatura norte-americana para professores da Amazônia -- freiras belgas, monges holandeses que plantavam em plena selva uma escola, uma capela, um hospital tosco -- a primeira menção do nome: Guimarães Rosa, pelo amigo Benedito Nunes. A união do antigo sobrenome português, com a virilidade do castelo maciço, à evocação da flor poética por excelência, chamou-me a atenção. E logo o relato do Miguilim, aquela recriação mágica do mito da infância perdida, da inocência que resgata a experiência do mundo por meio da dor do conhecimento. Era uma época em que a minha reintegração no Brasil, depois de longa integração na Europa, se fazia mais difícil e eu hesitava em voltar à Alemanha, à Itália, à Espanha ou dar uma contribuição artesanal, sofrida, à cultura brasileira desprovida de incentivos, de diretrizes, de apoio. O encontro com a criação literária de Guimarães Rosa foi decisivo para a voluntária radicação numa terra que ele agora, como os navegadores do século XVI, descobria e revelava ao mundo da sensibilidade e da inteligência: o Brasil. Machado de Assis e Euclides da Cunha tinham sido as expedições de reconhecimento à costa da terra incógnita, mas quem dela tomou posse e nela plantou firme a bandeira conquistadora da sua linguagem foi Guimarães Rosa.
@@ -39,3 +36,36 @@ Incapaz de uma crítica venenosa, altivo na sua solidão e na sua modesta consci
 Tomava -- no tempo que havia ainda -- um democrático "lotação" daqueles que ziguezagueavam como se o *chaffeur* tivesse descoberto o LSD muito antes dos *hippies* dos Estados Unidos e que depois de vinte minutos de curvas beirando o pânico e a loucura o depositava, incólume, à porta do edifício rosado do Itamaraty. Lá ele assumia sua função burocrática, exterior, seu *status* civil: Embaixador, Chefe do Departamento de Fronteiras, nomeação demasiado providencial para que não fosse obra de sua bruxaria pessoal, conseguindo aquele posto que raramente o fazia lidar com marcos limítrofes perdidos entre o Acre a Bolívia, a Venezuela e o Amapá, nas selvas equatoriais da Amazônia. Ou era simbólico também que o habitante da fronteira entre o físico e o metafísico ocupasse aquele cargo, como intermediário entre as duas realidades que ele, melhor do que ninguém, sabiam que se sobrepunham uma à outra como a alma encaixando-se no corpo?
 
 Haveria mais imagens a evocar - houvesse tempo e espaço, as duas Parcas que tecem e cortam as limitações humanas - mas é tarde. E Guimarães Rosa não morreu. Para ele não há epitáfios nem lápides mortuárias, porque a sua essência, como toda a essência do sofrimento, da beleza, do conhecimento humano confiado às palavras, é feita toda de futuro e de presente perpétuos. Pois ele somou, antecedeu e elaborou a grandeza literária de um povo jovem e de uma Nação, como ele, lançada já no presente para um futuro perene.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Um velho castelo maciço, uma nova flor poética". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 1967/11/21. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/02-um-velho-castelo-macico-uma-nova-flor-poetica</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Um velho castelo maciço, uma nova flor poética'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/02-um-velho-castelo-macico-uma-nova-flor-poetica},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1967/11/21}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Um velho castelo maciço, uma nova flor poética'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1967/11/21
+    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/02-um-velho-castelo-macico-uma-nova-flor-poetica
+    ER  - 
+    ```

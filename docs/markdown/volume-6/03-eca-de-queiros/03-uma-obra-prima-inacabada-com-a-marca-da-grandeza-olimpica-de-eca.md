@@ -3,13 +3,10 @@ title: 'Uma obra-prima inacabada com a marca da grandeza olímpica de Eça'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Uma obra-prima inacabada com a marca da grandeza olímpica de Eça". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 22-03-1980, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/03-uma-obra-prima-inacabada-com-a-marca-da-grandeza-olimpica-de-eca</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/03-eca-de-queiros/03-uma-obra-prima-inacabada-com-a-marca-da-grandeza-olimpica-de-eca
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/03-uma-obra-prima-inacabada-com-a-marca-da-grandeza-olimpica-de-eca
 orig_publisher: 'Jornal da Tarde 22-03-1980'
 orig_date: Sem data
-
 ---
 
 Parece uma das *ficciones* (ficções) de Jorge Luís Borges, cheia de enigmas, labirintos, espelhos, sabres e mistérios indecifráveis pela vã filosofia humana:
@@ -89,3 +86,36 @@ Permanece como uma obra estranha, conturbadora, do Mestre incomparável do idiom
 Resta confrontar com a outra edição o que se perdeu ou ganhou nesta. Pois às vezes até os tipógrafos são, inconsciente e involuntariamente, colaboradores ótimos dos escritores: suprimindo ou acrescentando, por acidente, trechos, letras, palavras que dão nova coloração ao texto.
 
 Será difícil, porém, que uma obra-prima incompleta, inconclusa pelo próprio gênio que a criou fale com mais persuasão e igual força.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Uma obra-prima inacabada com a marca da grandeza olímpica de Eça". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 22-03-1980, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/03-uma-obra-prima-inacabada-com-a-marca-da-grandeza-olimpica-de-eca</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Uma obra-prima inacabada com a marca da grandeza olímpica de Eça'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/03-uma-obra-prima-inacabada-com-a-marca-da-grandeza-olimpica-de-eca},
+    orig_publisher = {'Jornal da Tarde 22-03-1980'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Uma obra-prima inacabada com a marca da grandeza olímpica de Eça'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 22-03-1980'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/03-uma-obra-prima-inacabada-com-a-marca-da-grandeza-olimpica-de-eca
+    ER  - 
+    ```

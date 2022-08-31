@@ -3,13 +3,10 @@ title: 'Paulo Colina - o poeta das cinzas'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Paulo Colina - o poeta das cinzas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Revista Goodyear, n.47, 1988. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/15-paulo-colina-o-poeta-das-cinzas</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/15-paulo-colina-o-poeta-das-cinzas
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/15-paulo-colina-o-poeta-das-cinzas
 orig_publisher: 'Revista Goodyear, n.47'
 orig_date: 1988
-
 ---
 
 "Que Abolição temos que comemorar? A Princesa Isabel, talvez por ingenuidade, cedeu à pressão dos grandes latifundiários. Daí por diante, enquanto milhões de europeus chegavam para substituir o trabalho escravo no negro, o Brasil 'branqueava' sua população. O negro da senzala foi atirado à favela, à marginalidade, à fome, ao biscate, à ignorância."
@@ -75,3 +72,36 @@ Sem se deixar rotular de pessimista, ele vê o ser humano ainda em um estado mui
 As vocações de Paulo Colina e James Baldwin coincidem em sua relutância em limitar seus escritos a ensaios anti-racistas como *Da Próxima Vez, Fogo!* ou a fazer uma poesia panfletária, obcecada apenas por um tema: "A visão que se tem de dentro do gueto negro, eu digo sempre, é uma visão menor da realidade, que é múltipla e muda rapidissimamente. Não posso bater só nessa tecla: sou negro. Gosto de ser negro. Amo minhas raízes africanas. Não sou um disco quebrado. Quem for escrever, negro ou branco, tem que ter uma única coisa indispensável: talento. No 'movimento negro' temos de tudo. Há negros bajuladores de Maluf, do Jânio e, antigamente, do Adhemar de Barros. Dedicam livros babosos aos poderosos e querem usar sua subliteratura rastejante para subir socialmente. Basta de o negro eternamente 'morder o granito' das estátuas que povoam as praças das cidades brasileiras." Seu é o sonho de Martin Luther King transportado para o Brasil: o de um dia haver uma efetiva democracia brasileira, quando a cor da pele do indivíduo não pesar mais na avaliação do seu valor, do seu caráter, da sua dignidade: "Será que estou sonhando alto demais?"
 
 Recusa-se a banalizar palavras como solidariedade ou povo, despejadas de qualquer palanque político e toda a propaganda governamental. Afinal, sua poesia e sua ação social estão longe dos desfiles do "reinado de Momo". Estão fincadas firmemente na realidade da Quarta-Feira de Cinzas, "de olhos bem abertos e sentidos alerta".
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Paulo Colina - o poeta das cinzas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Revista Goodyear, n.47, 1988. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/15-paulo-colina-o-poeta-das-cinzas</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Paulo Colina - o poeta das cinzas'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/15-paulo-colina-o-poeta-das-cinzas},
+    orig_publisher = {'Revista Goodyear, n.47'},
+    orig_date = {orig_date: 1988}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Paulo Colina - o poeta das cinzas'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Revista Goodyear, n.47'
+    Y1  - orig_date: 1988
+    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/15-paulo-colina-o-poeta-das-cinzas
+    ER  - 
+    ```

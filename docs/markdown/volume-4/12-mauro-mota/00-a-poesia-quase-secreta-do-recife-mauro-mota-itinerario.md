@@ -3,13 +3,10 @@ title: 'A poesia quase secreta do Recife: Mauro Mota, Itinerário'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A poesia quase secreta do Recife: Mauro Mota, Itinerário". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: O Estado de São Paulo 31-05-1975, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario
 orig_publisher: 'O Estado de São Paulo 31-05-1975'
 orig_date: Sem data
-
 ---
 
 A folha corrida do Recife: desde a resistência à invasão holandesa, vem vencendo a batalha pelo abrasileiramento da nossa cultura, livre de estrangeirismos inúteis mas abertas à qualidade internacional.
@@ -301,3 +298,36 @@ blusa rota de operária.
 Vestes o Recife, e voltas
 
 para casa quase nua.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A poesia quase secreta do Recife: Mauro Mota, Itinerário". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: O Estado de São Paulo 31-05-1975, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A poesia quase secreta do Recife: Mauro Mota, Itinerário'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario},
+    orig_publisher = {'O Estado de São Paulo 31-05-1975'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A poesia quase secreta do Recife: Mauro Mota, Itinerário'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'O Estado de São Paulo 31-05-1975'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario
+    ER  - 
+    ```

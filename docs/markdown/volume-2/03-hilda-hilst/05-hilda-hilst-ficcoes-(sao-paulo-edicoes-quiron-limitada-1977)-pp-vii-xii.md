@@ -3,13 +3,10 @@ title: 'Hilda Hilst, Ficções (São Paulo: Edições Quíron Limitada, 1977), p
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Hilda Hilst, Ficções (São Paulo: Edições Quíron Limitada, 1977), pp. VII- XII". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Apresentação de Leo Gilson Ribeiro, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii
 orig_publisher: 'Apresentação de Leo Gilson Ribeiro'
 orig_date: Sem data
-
 ---
 
 Os textos em prosa de Hilda Hilst têm todos o ritmo vagaroso de sementes. Suas palavras, frases, conceitos germinam atemporalmente na retina e na percepção de quem os lê. Em todos há uma desapiedada visão do animalesco, do visceral agarrado como um molusco repelente a um altar incompreensível. Deus? Um sádico imperfeito que esboçou seres humanos para temê-Lo e adorá-Lo. A velhice que mineraliza aos poucos o corpo, dando à flacidez e às rugas o tom acobreado, metálico da lenta necrose orgânica.
@@ -33,3 +30,36 @@ Se a escritora se mantém num plano especulativo, não deixa, porém, de abordar
 Hilda Hilst carrega involuntariamente um estigma: o de nunca talvez vir a ser popular, agradável, acessível. Ela que ambiciona tanto ser discutida, focalizada, continuará por uma espécie de condenação intrínseca incompreensível para a maioria. Porque ela em português retratou um Malone agonizante no atoleiro da dúvida e das dimensões diminutas de quem não tem antenas para captar o que há ou que não há depois da Morte. E porque ela escreveu, em português, o equivalente a um *Finnegan's Wake* de Joyce ou seja: escreveu um absurdo palimpsesto mesopotâmico. E poucos terão a imaginação recriadora, a profundeza de propósitos e o mesmo afã místico que ela para embrenhar-se nessa *selva oscura* da alma e do humano estar no mundo.
 
 Mas quem se aventurar, pacientemente, a percorrer com ela essas paisagens de uma desolação povoada de pequenas vitórias, cacos de vidro brilhantes através dos quais se contempla o sol, terá submergido num mundo intrépido, de terror e tremor, de beleza indescritível e de uma fascinante prospecção filosófica sobre o Tempo, a Morte, o Amor, o Medo, o Horror, a Busca. O espanto diante da criação de Hilda Hilst crescerá à medida que as gerações futuras consigam apreender a grandeza imune ao efêmero desta vivência escrita, deste arame esticado sobre o abismo da prosa resplandecente deste maior escritor vivo em língua portuguesa.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Hilda Hilst, Ficções (São Paulo: Edições Quíron Limitada, 1977), pp. VII- XII". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Apresentação de Leo Gilson Ribeiro, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Hilda Hilst, Ficções (São Paulo: Edições Quíron Limitada, 1977), pp. VII- XII'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii},
+    orig_publisher = {'Apresentação de Leo Gilson Ribeiro'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Hilda Hilst, Ficções (São Paulo: Edições Quíron Limitada, 1977), pp. VII- XII'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
+    PY  - 2022
+    PB  - 'Apresentação de Leo Gilson Ribeiro'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii
+    ER  - 
+    ```

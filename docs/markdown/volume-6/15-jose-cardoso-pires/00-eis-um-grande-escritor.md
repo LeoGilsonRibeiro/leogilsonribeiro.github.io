@@ -3,13 +3,10 @@ title: 'Eis um grande escritor'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Eis um grande escritor". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 27-07-1971, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor
 orig_publisher: 'Jornal da Tarde 27-07-1971'
 orig_date: Sem data
-
 ---
 
 Agora, José Cardoso Pires vai deixar jornal, universidade, Lisboa, para ir viver num pequeno subúrbio da capital. Só vai escrever e viver da literatura "embora modestamente". E hoje o escritor mais famoso de Portugal, principalmente devido a *O Delfim* descoberto recentemente pelos franceses.
@@ -127,3 +124,36 @@ Fora de quaisquer enfoques políticos, de quaisquer julgamentos apriorísticos, 
 O leitor brasileiro tem um encontro importante marcado com uma das inteligências sensíveis mais incisivas da Europa - um encontro na nossa própria língua, sem o inferno das traduções deturpadoras, sem a adaptação a ambiente e valores franceses, ingleses, italianos ou alemães.
 
 Enquanto outras nações instauram um Renascimento científico no espaço - atingindo a Lua, desvendando novas galáxias -, o pequenino Portugal ancestral desce ao interior da efêmera dimensão humana: a passagem do homem pelo tempo, pelo seu país, pela sua época. E revela uma grandeza sinfônica, madura, perfeita como este *Delfim*, de leitura não só indispensável e urgente: de leitura oxigenante para o intelecto, o coração e o espírito embotados pela poluição de pseudo-livros e pseudo-artes.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Eis um grande escritor". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 27-07-1971, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Eis um grande escritor'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor},
+    orig_publisher = {'Jornal da Tarde 27-07-1971'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Eis um grande escritor'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 27-07-1971'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor
+    ER  - 
+    ```

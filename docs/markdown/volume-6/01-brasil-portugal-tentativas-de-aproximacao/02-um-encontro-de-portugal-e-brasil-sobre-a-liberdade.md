@@ -3,13 +3,10 @@ title: 'Um encontro de Portugal e Brasil. Sobre a liberdade'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Um encontro de Portugal e Brasil. Sobre a liberdade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 26-10-1984, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade
 orig_publisher: 'Jornal da Tarde 26-10-1984'
 orig_date: Sem data
-
 ---
 
 Para um encontro entre escritores de Portugal e do Brasil, os longos discursos são o agrotóxico mais certo para matar a tenra planta que se quiser cultivar. Depois, é preciso que a platéia jovem tenha um mínimo de respeito democrático pelo direito de outros quererem ouvir o que os escritores dizem. Não é legal - em qualquer sentido do termo - que suas vozes sejam abafadas pelo burburinho de dezenas de estudantes falando mais alto, na platéia, que os convidados, de microfone em punho, e educadamente perplexos no palco.
@@ -35,3 +32,36 @@ Criou-se ao lado da literatura ou jornalismo escritos toda uma interpretação s
 Hoje, em Portugal, poetas novos publicam seus livros com tiragens de 10 mil exemplares, um feito não conseguido nem pelos poetas estreantes da Inglaterra, da França, da Itália ou de outros países europeus, ressaltou. Pires finalizou de forma lapidar: o jornalismo e a literatura, quando são bons, é lógico, descentralizam o monopólio da cultura exercido pelos grandes centros. Ajudam a debelar a "desimaginação ambiente", pois representam, nos casos melhores, um eficaz e duradouro elemento de resistência ao obscurantismo mental, ao embotamento de mentes e corações, aos quais se nega o acesso à verdade.
 
 Capítulo II
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Um encontro de Portugal e Brasil. Sobre a liberdade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 26-10-1984, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Um encontro de Portugal e Brasil. Sobre a liberdade'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade},
+    orig_publisher = {'Jornal da Tarde 26-10-1984'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Um encontro de Portugal e Brasil. Sobre a liberdade'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Jornal da Tarde 26-10-1984'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade
+    ER  - 
+    ```

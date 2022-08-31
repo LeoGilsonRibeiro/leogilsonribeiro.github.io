@@ -3,13 +3,10 @@ title: 'O negro Baldwin luta pelos seus'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "O negro Baldwin luta pelos seus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1966/10/29. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/02-o-negro-baldwin-luta-pelos-seus</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/02-o-negro-baldwin-luta-pelos-seus
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/02-o-negro-baldwin-luta-pelos-seus
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1966/10/29
-
 ---
 
 O aguilhão, cravado desde o nascimento na pele luzidia e negra, não pára de doer nunca quando você é negro em certas regiões do mundo. A princípio atônito, quando ainda criança, James Baldwin não compreende porque seu pai, pastor protestante, o proíbe de brincar com crianças brancas na calçada, de entrar no parque onde estão as palavras incompreensíveis "só para brancos" e porque ele abraçou a religião que fala do amor ao próximo, com seus hinos religiosos de força e poesia.
@@ -53,3 +50,36 @@ Porque, em seu último livro, Baldwin *assumiu* plenamente a sua identidade amer
 > "In short, I had become na American". Em poucas palavras: eu me tornei um americano. Eu ingressara, tropeçara, inevitavelmente, na confusão sem fim que é tão individual e tão pública da República Americana".
 
 É legítimo esperar do seu destemor que se adentrou na raiz de todo o seu crucial problema a floração, agora, da sua imaginação. Agora que sua mente lúcida produziu já, em abundância, os seus frutos de agridoce sabor, que seu coração nos falou de tão perto, será a vez de sua fantasia criadora trazer a uma humanidade faminta da sua voz as novas perspectivas e a nova esperança que o negro traz para uma Civilização exausta e necessitada da sua redenção.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "O negro Baldwin luta pelos seus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1966/10/29. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/02-o-negro-baldwin-luta-pelos-seus</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'O negro Baldwin luta pelos seus'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/02-o-negro-baldwin-luta-pelos-seus},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1966/10/29}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'O negro Baldwin luta pelos seus'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1966/10/29
+    UR  - www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/02-o-negro-baldwin-luta-pelos-seus
+    ER  - 
+    ```

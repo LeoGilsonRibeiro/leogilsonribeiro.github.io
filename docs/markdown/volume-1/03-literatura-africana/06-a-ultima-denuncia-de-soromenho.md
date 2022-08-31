@@ -3,13 +3,10 @@ title: 'A última denúncia de Soromenho'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "A última denúncia de Soromenho". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1971/02/24. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1971/02/24
-
 ---
 
 *A Chaga*, o último e excelente livro de Soromenho
@@ -55,3 +52,36 @@ Os negros são os personagens trágicos deste romance que fotografa, com sensibi
 Para o leitor deste terrível mural, sóbrio e de paixão contida por um estilo de magistral disciplina, Angola nunca mais será um ponto verde, amplo, no mapa da África.
 
 Como para Castro Soromenho, será, como para a consciência do próprio homem, a chaga na pele de um Continente, admiravelmente captada por uma sensibilidade compassiva e que não compactua com sua gangrena.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "A última denúncia de Soromenho". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1971/02/24. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'A última denúncia de Soromenho'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1971/02/24}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'A última denúncia de Soromenho'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1971/02/24
+    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho
+    ER  - 
+    ```

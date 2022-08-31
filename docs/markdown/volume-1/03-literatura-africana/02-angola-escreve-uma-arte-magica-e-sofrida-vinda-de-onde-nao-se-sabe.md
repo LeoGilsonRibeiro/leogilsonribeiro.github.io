@@ -3,13 +3,10 @@ title: 'Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/07/04. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1981/07/04
-
 ---
 
 África Negra. A mera enunciação das duas palavras desperta interpretações e fantasias conflitantes. Para alguns, o adjetivo será considerado insultuoso, típico do racista que mantém o preconceito inflexível contra tudo o que for "coisa de negro", portanto, nesta acepção **a priori** os termos significam tudo que for desprezível, pejorativo, "inferior. Há depois as nuances de"piedade" dos "coitadinhos", matizes que vão do missionário em catequese sincera, querendo salvar aquelas almas pagãs para a única Fé, a de Jesus Cristo, como a devoção dos bem-intencionados que querem transmitir às populações negras o alfabeto, a roda, a escrita, a indústria, a medicina em vez dos feiticeiros da tribo, a favela em vez das choças tribais.
@@ -85,3 +82,36 @@ Até o coro que se ergue na prisão, paralelo ao sangue que se esvai:
 > Morreu
 >
 > Porque não quis falar"
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/07/04. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1981/07/04}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1981/07/04
+    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe
+    ER  - 
+    ```

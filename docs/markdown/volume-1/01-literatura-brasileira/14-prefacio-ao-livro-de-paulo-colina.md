@@ -3,13 +3,10 @@ title: 'Prefácio ao livro de Paulo Colina'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Prefácio ao livro de Paulo Colina". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores, 1987. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina
 orig_publisher: 'In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores'
 orig_date: 1987
-
 ---
 
 Dramaturgo, tradutor, animador de encontros culturais na União Brasileira de Escritores, em São Paulo, o poeta Paulo Colina tem uma personalidade artística nítida, forte, a destacá-lo do conjunto de importantes poetas negros contemporâneos no Brasil de hoje.
@@ -57,3 +54,36 @@ Lúcido, o poeta se vê, recolhendo o que resta de seus anseios, esperanças des
 E nós todos, buscando no bar, no álcool, no esquecimento, estarmos refletidos estoicamente nos "espelhos do Nada". Esse naufrágio coletivo da "Nave dos Tolos" medieval que somos nós, os seres humanos, captados em nossa insignificância, não escapa ao poeta invadido pela melancolia, em meio ao modismo de letreiros luminosos em inglês na noite. Seu cosmopolitismo, que o leva a conhecer, em inglês, poetas e prosadores decisivos do nosso tempo como a traduzir, com ajuda de outrem poesias de um outro artista desgarrado da vida, japonês, pobre, possivelmente ignorante do orgulho étnico de seu povo que se considera uma *Herrenrasse* (uma raça de dominadores) pois descende, só ela, de deuses, aquele infeliz Takuboku Ishikawa -- tudo isso não faz perder a seiva paulistana, contemporânea, desse poeta que livro a livro, poema a poema, amadurece. Os grilhões de um passado histórico que lhe foi roubado permanecem: Paulo Colina não é um "alienado" como entoariam em coro as vozes que seguem mais o "materialismo histérico" do que "histórico". Consciente de que a Princesa, quem sabe, esqueceu-se de assinar a carteira de trabalho que completaria a Abolição, ele sutilmente ironiza o carnaval como epopeia da raça, da mesma maneira que não veria no futebol, creio, a glorificação do artilheiro negro.
 
 Mais elevada e menos efêmera é esta poesia que começa da constatação da quarta-feira e cinzas cotidiana, longe das passarelas, do ópio da cor, das luzes, do som e dos aplausos da multidão. Quero crer que Paulo Colina forja um canto muito mais abrangente e que desafia um período de tempo tão escasso e tão artificialmente celebrado. As suas conquistas de estilo, a concisão e o impacto de seus versos nos asseguram que ele depura, cada vez mais, o seu ritmo contemporaneamente sincopado, traspassado de *blues* -- uma voz autêntica da ebulição do Brasil deste final da década de 80 e que todos os prognósticos tranquilamente indicam que será uma das vozes decisivas da poesia brasileira a fincar a sua inspiração de talento, inteligência e vigor neste solo nem sempre mãe gentil. Mas não é o destino dos poetas autênticos da modernidade, de Baudelaire a Fernando Pessoa, tecerem seu canto como quem se sobrepõe às correntes adversas de um tempo sombrio, o mais ferozmente armado de códigos e látegos para "disciplinar" o poeta?
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Prefácio ao livro de Paulo Colina". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores, 1987. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Prefácio ao livro de Paulo Colina'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina},
+    orig_publisher = {'In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores'},
+    orig_date = {orig_date: 1987}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Prefácio ao livro de Paulo Colina'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
+    PY  - 2022
+    PB  - 'In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores'
+    Y1  - orig_date: 1987
+    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina
+    ER  - 
+    ```

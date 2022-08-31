@@ -3,13 +3,10 @@ title: 'Lírios, luar, rosas desfolhadas: é a poesia de Alphonsus'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "Lírios, luar, rosas desfolhadas: é a poesia de Alphonsus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde (1971), Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/00-lirios-luar-rosas-desfolhadas-e-a-poesia-de-alphonsus</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/00-lirios-luar-rosas-desfolhadas-e-a-poesia-de-alphonsus
-orig_publisher: 'Jornal da Tarde (1971)'
-orig_date: Sem data
-
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/00-lirios-luar-rosas-desfolhadas-e-a-poesia-de-alphonsus
+orig_publisher: 'Jornal da Tarde'
+orig_date: 1971
 ---
 
 O Simbolismo, como todos os movimentos literários anteriores à Semana de Arte Moderna de 1922, veio transplantado da Europa para o Brasil. De todos os gêneros importados, foi o que menos se aclimatou aqui.
@@ -221,3 +218,36 @@ Conduzindo a saudade
 De alguém que morre...
 
 (*Serenada*)
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "Lírios, luar, rosas desfolhadas: é a poesia de Alphonsus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 1971. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/00-lirios-luar-rosas-desfolhadas-e-a-poesia-de-alphonsus</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'Lírios, luar, rosas desfolhadas: é a poesia de Alphonsus'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/00-lirios-luar-rosas-desfolhadas-e-a-poesia-de-alphonsus},
+    orig_publisher = {'Jornal da Tarde'},
+    orig_date = {orig_date: 1971}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'Lírios, luar, rosas desfolhadas: é a poesia de Alphonsus'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
+    PY  - 2022
+    PB  - 'Jornal da Tarde'
+    Y1  - orig_date: 1971
+    UR  - www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/00-lirios-luar-rosas-desfolhadas-e-a-poesia-de-alphonsus
+    ER  - 
+    ```

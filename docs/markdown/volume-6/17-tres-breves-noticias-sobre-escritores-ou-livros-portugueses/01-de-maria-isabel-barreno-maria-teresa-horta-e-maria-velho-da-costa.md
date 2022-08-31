@@ -3,13 +3,10 @@ title: 'de Maria Isabel Barreno, Maria Teresa Horta e Maria Velho da Costa'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
-date: 2022-08
-print_bib: true
-abnt_ref: 'RIBEIRO, Leo Gilson. "de Maria Isabel Barreno, Maria Teresa Horta e Maria Velho da Costa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 12-06-1974, Sem data. URL: <a href="yml_view_url">https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa</a>'
-view_url: https://github.com/bcdavasconcelos/lgr/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa
+date: 2022
+view_url: www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa
 orig_publisher: 'Veja 12-06-1974'
 orig_date: Sem data
-
 ---
 
 Tombam em Portugal armas e varões assinalados. Nenhum McLuhan com seu telescópio assestado em Lisboa poderia prever que a invenção de Gutenberg abalaria impérios tão sediços e arcaicos. Ao Brasil, estes disparos chegam em ordem cronológica inversa. Lá, o ariete político de "Portugal e o Futuro" do general Antônio de Spinola somente foi detonado depois do assalto à Bastilha do machismo que estas três guerrilheiras empreendem neste livro com fúria e munição surpreendentes. Medéia, Antígona e Electra não têm mais cólera que as três Marias para minar o claustro em que os homens enclausuraram a mulher portuguesa.
@@ -23,3 +20,36 @@ Como um fio contínuo, as três Marias equiparam a libertação da mulher, colô
 Elas arremessam de todos os flancos. Às mulheres conformistas e coniventes com a situação de "coisas", a que foram reduzidas por seus "donos", dirigem uma carta como se fosse redigida por sóror Mariana à sua própria mãe: "Bem me podeis executar, que me defende? A lei? A que dá aos pais todos os direitos de mordaça, aos machos primazia e à mulher somente o infinitamente menos nada, com dádivas de tudo?" Denunciam a falta de solidariedade das mulheres entre si "de solidariedade ninguém, casadas e vendidas de nós próprias", pois "à mulher só é dado o parir e o parado". Enveredam por trechos eróticos de grande beleza e pormenorizadamente descritos, mas com arrebato poético e dignidade. Descem a saraivadas de motes irônicos e específicos contra os "garanhões tão maus amantes". Esvoaçam sobre o papel social da mulher como produtora de filhos, como matéria-prima dos bordéis na linha de montagem da luxúria masculina. Reconhecem o fulcro da sua luta na obtenção da identidade do homem independente dos padrões machistas, assim com um negro impõe seus valores divergentes dos critérios racistas dos brancos dominadores. E denunciam a pseudo-ascensão feminina: "Em que mudou a situação da mulher? Era dantes uma propriedade rural, para ser fecunda, e agora está comercializada, para ser distribuída".
 
 São páginas admiráveis, que não têm o amargor nem a erudição de *O Segundo Sexo* de Simone de Beauvoir, nem o requinte literário dos estudos do português José Cardoso Pires sobre as "marialvas" (cafetinas) lusitanas. Este livro, porém, divide a literatura portuguesa feminista e talvez a própria concepção da mulher em Portugal em duas épocas: antes e depois das extraordinárias três Marias.
+
+
+=== "ABNT"
+    RIBEIRO, Leo Gilson. "de Maria Isabel Barreno, Maria Teresa Horta e Maria Velho da Costa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 12-06-1974, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa</a>
+
+=== "BibTeX"
+    ```latex
+    @misc{Ribeiro2022,
+    author = {RIBEIRO, Leo Gilson},
+    editor = {PUENTE, Fernando Rey},
+    title = {'de Maria Isabel Barreno, Maria Teresa Horta e Maria Velho da Costa'},
+    booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
+    date = {2022},
+    url = {www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa},
+    orig_publisher = {'Veja 12-06-1974'},
+    orig_date = {orig_date: Sem data}
+    }
+    ```
+
+=== "RIS"
+    ```ris
+    TY  - WEB
+    ID  - Ribeiro2022
+    AU  - RIBEIRO, Leo Gilson
+    ED  - PUENTE, Fernando Rey
+    TI  - 'de Maria Isabel Barreno, Maria Teresa Horta e Maria Velho da Costa'
+    T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
+    PY  - 2022
+    PB  - 'Veja 12-06-1974'
+    Y1  - orig_date: Sem data
+    UR  - www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa
+    ER  - 
+    ```
