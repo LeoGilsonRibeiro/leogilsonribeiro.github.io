@@ -10,6 +10,8 @@ view_url: https://github.com/bcdavasconcelos/LGR/commits/main/docs/src/Leo-Gilso
 Para navegar pelo projeto, utilize a barra superior e a barra lateral à esquerda. Para navegar pelo texto em exibição, utilize a barra lateral direita. Para alternar entre os modos de exibição claro e escuro, clique no ícone no cabeçalho. Pressione `/`   para iniciar uma *busca textual* ou utilize o sistema de *tags*.  
 
 
+![](/img/LGR_0001.jpg "Leo Gilson Ribeiro")
+
 
 
 === "ABNT"

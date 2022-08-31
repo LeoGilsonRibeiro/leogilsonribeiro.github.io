@@ -111,10 +111,10 @@ extra_css:
 
 
 extra_javascript:
-  - assets/js/tablesort.js
+  - assets/tablesort.js
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
 nav:
-  - 'Apresentação aos textos reunidos de Leo Gilson Ribeiro':
+  - 'Textos Reunidos de Leo Gilson Ribeiro':
     - 'Apresentação aos textos reunidos de Leo Gilson Ribeiro': textos-reunidos-de-leo-gilson-ribeiro/README.md
     - 'Volume I: Racismo e literatura negra':
       - 'Volume I: Racismo e literatura negra': volume-1/README.md
@@ -238,7 +238,7 @@ nav:
         - 'Adendo': volume-3/05-jean-genet/01-adendo.md
       - Henry James:
         - 'A musa trágica': volume-3/06-henry-james/00-a-musa-tragica.md
-        - 'Adendos': volume-3/06-henry-james/01-adendos.md
+        - 'A redescoberta de Henry James I': volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i.md
         - 'A redescoberta de Henry James II': volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii.md
         - 'A tragédia e a vitória de Henry James': volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james.md
       - Guimarães Rosa:
@@ -266,31 +266,32 @@ nav:
         - 'Cecília Meireles. Um canto fascinado e lúcido': volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido.md
       - Murilo Mendes:
         - 'Entrevista': volume-4/06-murilo-mendes/00-entrevista.md
-        - 'Inconfundível marca diáfana, abstrata': volume-4/06-murilo-mendes/01-inconfundivel-marca-diafana-abstrata.md
-        - 'Na singeleza dos versos, a revelação de uma poetisa inigualável': volume-4/06-murilo-mendes/02-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel.md
-        - 'A poesia deste livro inaugura nosso ano literário': volume-4/06-murilo-mendes/03-a-poesia-deste-livro-inaugura-nosso-ano-literario.md
-        - 'Um presente para a sensibilidade': volume-4/06-murilo-mendes/04-um-presente-para-a-sensibilidade.md
+      - Henriqueta Lisboa:
+        - 'Inconfundível marca diáfana, abstrata': volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata.md
+        - 'Na singeleza dos versos, a revelação de uma poetisa inigualável': volume-4/07-henriqueta-lisboa/01-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel.md
+        - 'A poesia deste livro inaugura nosso ano literário': volume-4/07-henriqueta-lisboa/02-a-poesia-deste-livro-inaugura-nosso-ano-literario.md
+        - 'Um presente para a sensibilidade': volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade.md
       - Jorge de Lima:
-        - 'Jorge de Lima, poeta maior': volume-4/07-jorge-de-lima/00-jorge-de-lima-poeta-maior.md
+        - 'Jorge de Lima, poeta maior': volume-4/08-jorge-de-lima/00-jorge-de-lima-poeta-maior.md
       - João Cabral de Melo Neto:
-        - 'João Cabral rega com poesia a aridez de nossa literatura': volume-4/08-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura.md
+        - 'João Cabral rega com poesia a aridez de nossa literatura': volume-4/09-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura.md
       - Mário Chamie:
-        - 'Um poeta como os gregos queriam - profetizando o futuro, observando o presente': volume-4/09-mario-chamie/00-um-poeta-como-os-gregos-queriam-profetizando-o-futuro-observando-o-presente.md
-        - 'Mário Chamie. Meditações sobre a falta de liberdade': volume-4/09-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade.md
+        - 'Um poeta como os gregos queriam - profetizando o futuro, observando o presente': volume-4/10-mario-chamie/00-um-poeta-como-os-gregos-queriam-profetizando-o-futuro-observando-o-presente.md
+        - 'Mário Chamie. Meditações sobre a falta de liberdade': volume-4/10-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade.md
       - Carlos Nejar:
-        - 'Amoroso, elegíaco, meditativo, social, épico - Carlos Nejar': volume-4/10-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar.md
-        - 'Vinte anos de poesia, à procura de novos caminhos': volume-4/10-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos.md
+        - 'Amoroso, elegíaco, meditativo, social, épico - Carlos Nejar': volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar.md
+        - 'Vinte anos de poesia, à procura de novos caminhos': volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos.md
       - Mauro Mota:
-        - 'A poesia quase secreta do Recife - Mauro Mota, Itinerário': volume-4/11-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario.md
+        - 'A poesia quase secreta do Recife - Mauro Mota, Itinerário': volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario.md
       - Emílio Moura:
-        - 'A delicada textura poética de Emílio Moura': volume-4/12-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura.md
+        - 'A delicada textura poética de Emílio Moura': volume-4/13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura.md
       - Sérgio Campos:
-        - 'Fino, sutil, erudito - Sérgio Campos, Móbiles de Sal': volume-4/13-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal.md
+        - 'Fino, sutil, erudito - Sérgio Campos, Móbiles de Sal': volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal.md
       - Cora Coralina:
-        - 'Cora Coralina. A morte da poetisa. E de um grande ser humano': volume-4/14-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano.md
-        - 'Jovem, cínica, desesperada, terna... A nova poesia brasileira é mais que uma promessa': volume-4/14-cora-coralina/01-jovem-cinica-desesperada-terna-a-nova-poesia-brasileira-e-mais-que-uma-promessa.md
-      - Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos.:
-        - Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos.: volume-4/15-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos/README.md
+        - 'Cora Coralina. A morte da poetisa. E de um grande ser humano': volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano.md
+      - A nova poesia brasileira é mais que uma promessa:
+        - 'Jovem, cínica, desesperada, terna': volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna.md
+        - 'Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos': volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/01-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos.md
     - 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios':
       - 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios': volume-5/README.md
       - Semana de Arte Moderna de 1922:
