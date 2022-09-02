@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano
+view_url: https://www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Inédito'
 orig_date: Sem data
 ---
@@ -87,7 +90,7 @@ De forma lapidar ele próprio saudou profeticamente o aspecto que teriam os cant
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "García Lorca e o Romancero Gitano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano</a>
+    RIBEIRO, Leo Gilson. "García Lorca e o Romancero Gitano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano</a>
 
 === "BibTeX"
     ```latex
@@ -98,9 +101,9 @@ De forma lapidar ele próprio saudou profeticamente o aspecto que teriam os cant
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
     annote = {9 páginas datilografadas para o curso},,
-    url = {www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano},
     orig_publisher = {'Inédito'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -114,8 +117,8 @@ De forma lapidar ele próprio saudou profeticamente o aspecto que teriam os cant
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'Inédito'
-    Y1  - orig_date: Sem data
+    Y1  - Sem data
     N1  - 9 páginas datilografadas para o curso
-    UR  - www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano
     ER  - 
     ```

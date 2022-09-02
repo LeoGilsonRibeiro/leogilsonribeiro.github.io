@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo
+view_url: https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Interview, n. 82'
 orig_date: 1985
 ---
@@ -259,7 +262,7 @@ Aos poucos, como a água umedecendo o verde limo e quase imperceptivelmente atra
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A esperança de chegar um dia a ter esperança. Hilda Hilst esta é a literatura que eu escrevo". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Interview, n. 82, 1985. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo</a>
+    RIBEIRO, Leo Gilson. "A esperança de chegar um dia a ter esperança. Hilda Hilst esta é a literatura que eu escrevo". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Interview, n. 82, 1985. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo</a>
 
 === "BibTeX"
     ```latex
@@ -269,9 +272,9 @@ Aos poucos, como a água umedecendo o verde limo e quase imperceptivelmente atra
     title = {'A esperança de chegar um dia a ter esperança. Hilda Hilst esta é a literatura que eu escrevo'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo},
     orig_publisher = {'Interview, n. 82'},
-    orig_date = {orig_date: 1985}
+    orig_date = {1985}
     }
     ```
 
@@ -285,7 +288,7 @@ Aos poucos, como a água umedecendo o verde limo e quase imperceptivelmente atra
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Interview, n. 82'
-    Y1  - orig_date: 1985
-    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo
+    Y1  - 1985
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/13-a-esperanca-de-chegar-um-dia-a-ter-esperanca-hilda-hilst-esta-e-a-literatura-que-eu-escrevo
     ER  - 
     ```

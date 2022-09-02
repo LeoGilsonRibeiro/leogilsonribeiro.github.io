@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri
+view_url: https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Inédito'
 orig_date: Sem data
 ---
@@ -43,7 +46,7 @@ De que forma o Sr. enquadra *Corpo de Baile* no contexto da obra de Guimarães R
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Entrevista com Edoardo Bizzarri". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri</a>
+    RIBEIRO, Leo Gilson. "Entrevista com Edoardo Bizzarri". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri</a>
 
 === "BibTeX"
     ```latex
@@ -54,9 +57,9 @@ De que forma o Sr. enquadra *Corpo de Baile* no contexto da obra de Guimarães R
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
     annote = {Realizada em 2 de agosto de 1968 e não publicada},,
-    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri},
     orig_publisher = {'Inédito'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -70,8 +73,8 @@ De que forma o Sr. enquadra *Corpo de Baile* no contexto da obra de Guimarães R
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Inédito'
-    Y1  - orig_date: Sem data
+    Y1  - Sem data
     N1  - Realizada em 2 de agosto de 1968 e não publicada
-    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/10-entrevista-com-edoardo-bizzarri
     ER  - 
     ```

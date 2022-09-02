@@ -4,7 +4,10 @@ author: Fernando Rey Puente
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/
+view_url: https://www.leogilsonribeiro.com.br/volume-4/
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/readme.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/readme.md
+status: 
 orig_date: 2022
 ---
 
@@ -18,7 +21,7 @@ Esperemos que todo esse material aqui reunido sirva como uma prova inconteste da
 
 
 === "ABNT"
-    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/</a>
+    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/</a>
 
 === "BibTeX"
     ```latex
@@ -28,7 +31,7 @@ Esperemos que todo esse material aqui reunido sirva como uma prova inconteste da
     title = {Introdução},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/}
+    url = {https://www.leogilsonribeiro.com.br/volume-4/}
     }
     ```
 
@@ -41,6 +44,6 @@ Esperemos que todo esse material aqui reunido sirva como uma prova inconteste da
     TI  - Introdução
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
-    UR  - www.leogilsonribeiro.com.br/volume-4/
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/
     ER  - 
     ```

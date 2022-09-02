@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues
+view_url: https://www.leogilsonribeiro.com.br/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 06-08-1983'
 orig_date: Sem data
 ---
@@ -47,7 +50,7 @@ O autor português talvez queira ter dado ao título de sua jornada por tantos m
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A fascinante aventura do Marco Polo português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 06-08-1983, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues</a>
+    RIBEIRO, Leo Gilson. "A fascinante aventura do Marco Polo português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 06-08-1983, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues</a>
 
 === "BibTeX"
     ```latex
@@ -57,9 +60,9 @@ O autor português talvez queira ter dado ao título de sua jornada por tantos m
     title = {'A fascinante aventura do Marco Polo português'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues},
     orig_publisher = {'Jornal da Tarde 06-08-1983'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -73,7 +76,7 @@ O autor português talvez queira ter dado ao título de sua jornada por tantos m
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 06-08-1983'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues
     ER  - 
     ```

@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/03-guimaraes-rosa
+view_url: https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/03-guimaraes-rosa
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/01-guimaraes-rosa/03-guimaraes-rosa.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/03-guimaraes-rosa.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Revista Goodyear'
 orig_date: Sem data
 ---
@@ -77,7 +80,7 @@ Guimarães Rosa na sua aparência pacata, ensimesmada, detonou na literatura em 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Guimarães Rosa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Revista Goodyear, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/03-guimaraes-rosa</a>
+    RIBEIRO, Leo Gilson. "Guimarães Rosa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Revista Goodyear, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/03-guimaraes-rosa</a>
 
 === "BibTeX"
     ```latex
@@ -87,9 +90,9 @@ Guimarães Rosa na sua aparência pacata, ensimesmada, detonou na literatura em 
     title = {'Guimarães Rosa'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/03-guimaraes-rosa},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/03-guimaraes-rosa},
     orig_publisher = {'Revista Goodyear'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -103,7 +106,7 @@ Guimarães Rosa na sua aparência pacata, ensimesmada, detonou na literatura em 
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Revista Goodyear'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/03-guimaraes-rosa
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/03-guimaraes-rosa
     ER  - 
     ```

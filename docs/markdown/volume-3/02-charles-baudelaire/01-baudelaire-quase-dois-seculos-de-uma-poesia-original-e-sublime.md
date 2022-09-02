@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime
+view_url: https://www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/02-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/02-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1981/04/09
 ---
@@ -37,7 +40,7 @@ De uma musicalidade que nenhum poeta francês conseguiu igualar até hoje, Baude
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Baudelaire. Quase dois séculos de uma poesia original e sublime". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal da Tarde, 1981/04/09. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime</a>
+    RIBEIRO, Leo Gilson. "Baudelaire. Quase dois séculos de uma poesia original e sublime". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal da Tarde, 1981/04/09. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime</a>
 
 === "BibTeX"
     ```latex
@@ -47,9 +50,9 @@ De uma musicalidade que nenhum poeta francês conseguiu igualar até hoje, Baude
     title = {'Baudelaire. Quase dois séculos de uma poesia original e sublime'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1981/04/09}
+    orig_date = {1981/04/09}
     }
     ```
 
@@ -63,7 +66,7 @@ De uma musicalidade que nenhum poeta francês conseguiu igualar até hoje, Baude
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1981/04/09
-    UR  - www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime
+    Y1  - 1981/04/09
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime
     ER  - 
     ```

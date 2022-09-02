@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores
+view_url: https://www.leogilsonribeiro.com.br/volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Correio da Manhã'
 orig_date: 1965/07/31
 ---
@@ -53,7 +56,7 @@ Divina pensa naqueles instantes mais dolorosos para o vagabundo, quando um carro
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A véspera do livro Nossa Senhora das Flores". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Correio da Manhã, 1965/07/31. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores</a>
+    RIBEIRO, Leo Gilson. "A véspera do livro Nossa Senhora das Flores". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Correio da Manhã, 1965/07/31. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores</a>
 
 === "BibTeX"
     ```latex
@@ -63,9 +66,9 @@ Divina pensa naqueles instantes mais dolorosos para o vagabundo, quando um carro
     title = {'A véspera do livro Nossa Senhora das Flores'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores},
     orig_publisher = {'Correio da Manhã'},
-    orig_date = {orig_date: 1965/07/31}
+    orig_date = {1965/07/31}
     }
     ```
 
@@ -79,7 +82,7 @@ Divina pensa naqueles instantes mais dolorosos para o vagabundo, quando um carro
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'Correio da Manhã'
-    Y1  - orig_date: 1965/07/31
-    UR  - www.leogilsonribeiro.com.br/volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores
+    Y1  - 1965/07/31
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores
     ER  - 
     ```

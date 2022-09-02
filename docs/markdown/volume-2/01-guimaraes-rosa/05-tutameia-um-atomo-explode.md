@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode
+view_url: https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 19/8/1967
 ---
@@ -25,7 +28,7 @@ Mestre Guimarães, mineiramente, constrói em silêncio, para o futuro. Sob a mo
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Tutaméia: um átomo explode". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 19/8/1967. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode</a>
+    RIBEIRO, Leo Gilson. "Tutaméia: um átomo explode". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 19/8/1967. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode</a>
 
 === "BibTeX"
     ```latex
@@ -35,9 +38,9 @@ Mestre Guimarães, mineiramente, constrói em silêncio, para o futuro. Sob a mo
     title = {'Tutaméia: um átomo explode'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 19/8/1967}
+    orig_date = {19/8/1967}
     }
     ```
 
@@ -51,7 +54,7 @@ Mestre Guimarães, mineiramente, constrói em silêncio, para o futuro. Sob a mo
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 19/8/1967
-    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode
+    Y1  - 19/8/1967
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode
     ER  - 
     ```

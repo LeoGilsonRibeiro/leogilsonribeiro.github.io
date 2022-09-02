@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica
+view_url: https://www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Correio da Manhã'
 orig_date: 1965/12/02
 ---
@@ -63,7 +66,7 @@ Sua vida descreve uma parábola semelhante à dos seus poemas, que desembocam to
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Baudelaire e a revolução da metáfora poética". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Correio da Manhã, 1965/12/02. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica</a>
+    RIBEIRO, Leo Gilson. "Baudelaire e a revolução da metáfora poética". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Correio da Manhã, 1965/12/02. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica</a>
 
 === "BibTeX"
     ```latex
@@ -73,9 +76,9 @@ Sua vida descreve uma parábola semelhante à dos seus poemas, que desembocam to
     title = {'Baudelaire e a revolução da metáfora poética'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica},
     orig_publisher = {'Correio da Manhã'},
-    orig_date = {orig_date: 1965/12/02}
+    orig_date = {1965/12/02}
     }
     ```
 
@@ -89,7 +92,7 @@ Sua vida descreve uma parábola semelhante à dos seus poemas, que desembocam to
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'Correio da Manhã'
-    Y1  - orig_date: 1965/12/02
-    UR  - www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica
+    Y1  - 1965/12/02
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica
     ER  - 
     ```

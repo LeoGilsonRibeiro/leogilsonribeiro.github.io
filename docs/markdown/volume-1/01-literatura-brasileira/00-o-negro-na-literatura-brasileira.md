@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira
+view_url: https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Anais do Seminários de Literatura brasileira: ensaios'
 orig_date: 1990
 ---
@@ -89,7 +92,7 @@ Estas anotações, na realidade, sinto-as como prematuras. Amanhã, tenho certez
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O negro na literatura brasileira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Anais do Seminários de Literatura brasileira: ensaios, 1990. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira</a>
+    RIBEIRO, Leo Gilson. "O negro na literatura brasileira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Anais do Seminários de Literatura brasileira: ensaios, 1990. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira</a>
 
 === "BibTeX"
     ```latex
@@ -100,9 +103,9 @@ Estas anotações, na realidade, sinto-as como prematuras. Amanhã, tenho certez
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
     annote = {Exposição feita na mesa intitulada "o negro na literatura brasileira" no âmbito da 3ª Bienal Nestlé de Literatura promovido pela Fundação Cultural Nestlê},,
-    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira},
     orig_publisher = {'Anais do Seminários de Literatura brasileira: ensaios'},
-    orig_date = {orig_date: 1990}
+    orig_date = {1990}
     }
     ```
 
@@ -116,8 +119,8 @@ Estas anotações, na realidade, sinto-as como prematuras. Amanhã, tenho certez
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Anais do Seminários de Literatura brasileira: ensaios'
-    Y1  - orig_date: 1990
+    Y1  - 1990
     N1  - Exposição feita na mesa intitulada "o negro na literatura brasileira" no âmbito da 3ª Bienal Nestlé de Literatura promovido pela Fundação Cultural Nestlê
-    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira
     ER  - 
     ```

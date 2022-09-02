@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/13-evocacao-de-clarice
+view_url: https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/13-evocacao-de-clarice
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/02-clarice-lispector/13-evocacao-de-clarice.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/13-evocacao-de-clarice.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Inédito'
 orig_date: 1994/06/12-13
 ---
@@ -33,7 +36,7 @@ Foi um dos momentos em que captara indelevelmente aquela dimensão do sofrimento
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Evocação de Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Inédito, 1994/06/12-13. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/13-evocacao-de-clarice</a>
+    RIBEIRO, Leo Gilson. "Evocação de Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Inédito, 1994/06/12-13. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/13-evocacao-de-clarice</a>
 
 === "BibTeX"
     ```latex
@@ -44,9 +47,9 @@ Foi um dos momentos em que captara indelevelmente aquela dimensão do sofrimento
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
     annote = {Anexo de uma carta de LGR enviada (?) ao escritor Wilson Bueno datada de 12-13 de junho de 1994 - (provavelmente inédito, pois não foi localizada a eventual publicação do texto no jornal Nicolau para o qual havia sido escrito)},,
-    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/13-evocacao-de-clarice},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/13-evocacao-de-clarice},
     orig_publisher = {'Inédito'},
-    orig_date = {orig_date: 1994/06/12-13}
+    orig_date = {1994/06/12-13}
     }
     ```
 
@@ -60,8 +63,8 @@ Foi um dos momentos em que captara indelevelmente aquela dimensão do sofrimento
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Inédito'
-    Y1  - orig_date: 1994/06/12-13
+    Y1  - 1994/06/12-13
     N1  - Anexo de uma carta de LGR enviada (?) ao escritor Wilson Bueno datada de 12-13 de junho de 1994 - (provavelmente inédito, pois não foi localizada a eventual publicação do texto no jornal Nicolau para o qual havia sido escrito)
-    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/13-evocacao-de-clarice
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/13-evocacao-de-clarice
     ER  - 
     ```

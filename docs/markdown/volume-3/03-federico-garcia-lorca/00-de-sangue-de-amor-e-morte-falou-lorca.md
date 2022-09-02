@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca
+view_url: https://www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 196/08/26
 ---
@@ -31,7 +34,7 @@ E breve, antes de completar 40 anos, Federico García Lorca, poeta, encarnaria o
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "De sangue, de amor e morte falou Lorca". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal da Tarde, 196/08/26. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca</a>
+    RIBEIRO, Leo Gilson. "De sangue, de amor e morte falou Lorca". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal da Tarde, 196/08/26. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca</a>
 
 === "BibTeX"
     ```latex
@@ -41,9 +44,9 @@ E breve, antes de completar 40 anos, Federico García Lorca, poeta, encarnaria o
     title = {'De sangue, de amor e morte falou Lorca'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 196/08/26}
+    orig_date = {196/08/26}
     }
     ```
 
@@ -57,7 +60,7 @@ E breve, antes de completar 40 anos, Federico García Lorca, poeta, encarnaria o
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 196/08/26
-    UR  - www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca
+    Y1  - 196/08/26
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca
     ER  - 
     ```

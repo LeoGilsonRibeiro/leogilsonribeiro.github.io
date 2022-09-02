@@ -4,7 +4,10 @@ author: Fernando Rey Puente
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/
+view_url: https://www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/textos-reunidos-de-leo-gilson-ribeiro/readme.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/textos-reunidos-de-leo-gilson-ribeiro/readme.md
+status: 
 orig_date: 2022
 ---
 
@@ -40,7 +43,7 @@ Boa leitura.
 
 
 === "ABNT"
-    PUENTE, Fernando Rey. "Apresentação aos textos reunidos de Leo Gilson Ribeiro". In <em>Textos Reunidos de Leo Gilson Ribeiro</em>, 2022. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/</a>
+    PUENTE, Fernando Rey. "Apresentação aos textos reunidos de Leo Gilson Ribeiro". In <em>Textos Reunidos de Leo Gilson Ribeiro</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/</a>
 
 === "BibTeX"
     ```latex
@@ -50,7 +53,7 @@ Boa leitura.
     title = {'Apresentação aos textos reunidos de Leo Gilson Ribeiro'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/}
+    url = {https://www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/}
     }
     ```
 
@@ -63,6 +66,6 @@ Boa leitura.
     TI  - 'Apresentação aos textos reunidos de Leo Gilson Ribeiro'
     T2  - Textos Reunidos de Leo Gilson Ribeiro
     PY  - 2022
-    UR  - www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/
+    UR  - https://www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/
     ER  - 
     ```

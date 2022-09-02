@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969)
+view_url: https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969)
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969).md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969).md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1969
 ---
@@ -19,7 +22,7 @@ Charles Wright é um dos melhores escritores negros ou de qualquer cor atuais. E
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Resenha do livro O Mensageiro de Charles Wright (Editora Nova Crítica, 1969)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1969. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969)</a>
+    RIBEIRO, Leo Gilson. "Resenha do livro O Mensageiro de Charles Wright (Editora Nova Crítica, 1969)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1969. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969)</a>
 
 === "BibTeX"
     ```latex
@@ -29,9 +32,9 @@ Charles Wright é um dos melhores escritores negros ou de qualquer cor atuais. E
     title = {'Resenha do livro O Mensageiro de Charles Wright (Editora Nova Crítica, 1969)'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969)},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969)},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1969}
+    orig_date = {1969}
     }
     ```
 
@@ -45,7 +48,7 @@ Charles Wright é um dos melhores escritores negros ou de qualquer cor atuais. E
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1969
-    UR  - www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969)
+    Y1  - 1969
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969)
     ER  - 
     ```

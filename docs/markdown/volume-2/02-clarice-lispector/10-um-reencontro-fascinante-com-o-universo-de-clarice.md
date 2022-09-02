@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice
+view_url: https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 27/08/1983
 ---
@@ -67,7 +70,7 @@ Clarice Lispector, neste renovado encontro, concede ao leitor a rara oportunidad
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Um reencontro fascinante com o universo de Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 27/08/1983. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice</a>
+    RIBEIRO, Leo Gilson. "Um reencontro fascinante com o universo de Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 27/08/1983. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice</a>
 
 === "BibTeX"
     ```latex
@@ -77,9 +80,9 @@ Clarice Lispector, neste renovado encontro, concede ao leitor a rara oportunidad
     title = {'Um reencontro fascinante com o universo de Clarice'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 27/08/1983}
+    orig_date = {27/08/1983}
     }
     ```
 
@@ -93,7 +96,7 @@ Clarice Lispector, neste renovado encontro, concede ao leitor a rara oportunidad
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 27/08/1983
-    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice
+    Y1  - 27/08/1983
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice
     ER  - 
     ```

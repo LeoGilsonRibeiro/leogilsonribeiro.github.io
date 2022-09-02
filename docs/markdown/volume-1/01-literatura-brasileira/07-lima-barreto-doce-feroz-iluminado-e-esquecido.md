@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido
+view_url: https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1984/04/14
 ---
@@ -53,7 +56,7 @@ Romance inicial de um dos poucos gênios da Literatura Brasileira que o descaso 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Lima Barreto - doce, feroz, iluminado. E esquecido". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1984/04/14. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido</a>
+    RIBEIRO, Leo Gilson. "Lima Barreto - doce, feroz, iluminado. E esquecido". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1984/04/14. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido</a>
 
 === "BibTeX"
     ```latex
@@ -63,9 +66,9 @@ Romance inicial de um dos poucos gênios da Literatura Brasileira que o descaso 
     title = {'Lima Barreto - doce, feroz, iluminado. E esquecido'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1984/04/14}
+    orig_date = {1984/04/14}
     }
     ```
 
@@ -79,7 +82,7 @@ Romance inicial de um dos poucos gênios da Literatura Brasileira que o descaso 
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1984/04/14
-    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido
+    Y1  - 1984/04/14
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/07-lima-barreto-doce-feroz-iluminado-e-esquecido
     ER  - 
     ```

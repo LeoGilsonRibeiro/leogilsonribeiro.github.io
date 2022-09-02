@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este
+view_url: https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1982/02/27
 ---
@@ -37,7 +40,7 @@ Diante de um romance tão capenga quanto este, reminiscente de algum original gu
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O negro e a cultura de Moçambique não merecem romance tão ruim quanto este". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1982/02/27. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este</a>
+    RIBEIRO, Leo Gilson. "O negro e a cultura de Moçambique não merecem romance tão ruim quanto este". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1982/02/27. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este</a>
 
 === "BibTeX"
     ```latex
@@ -47,9 +50,9 @@ Diante de um romance tão capenga quanto este, reminiscente de algum original gu
     title = {'O negro e a cultura de Moçambique não merecem romance tão ruim quanto este'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1982/02/27}
+    orig_date = {1982/02/27}
     }
     ```
 
@@ -63,7 +66,7 @@ Diante de um romance tão capenga quanto este, reminiscente de algum original gu
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1982/02/27
-    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este
+    Y1  - 1982/02/27
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este
     ER  - 
     ```

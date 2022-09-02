@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin
+view_url: https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Correio da Manhã'
 orig_date: 1965/3/27
 ---
@@ -33,7 +36,7 @@ Agora, James Baldwin forjou admiravelmente esta linguagem, que utiliza como uma 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Literatura negra nos Estados Unidos - James Baldwin". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã, 1965/3/27. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin</a>
+    RIBEIRO, Leo Gilson. "Literatura negra nos Estados Unidos - James Baldwin". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã, 1965/3/27. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin</a>
 
 === "BibTeX"
     ```latex
@@ -43,9 +46,9 @@ Agora, James Baldwin forjou admiravelmente esta linguagem, que utiliza como uma 
     title = {'Literatura negra nos Estados Unidos - James Baldwin'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin},
     orig_publisher = {'Correio da Manhã'},
-    orig_date = {orig_date: 1965/3/27}
+    orig_date = {1965/3/27}
     }
     ```
 
@@ -59,7 +62,7 @@ Agora, James Baldwin forjou admiravelmente esta linguagem, que utiliza como uma 
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Correio da Manhã'
-    Y1  - orig_date: 1965/3/27
-    UR  - www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin
+    Y1  - 1965/3/27
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin
     ER  - 
     ```

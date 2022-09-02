@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)
+view_url: https://www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao).md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao).md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 1985'
 orig_date: Sem data
 ---
@@ -39,7 +42,7 @@ A fascinante mutiplicidade de aspectos, às vezes conflitantes, de Fernando Pess
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Fernando Pessoa III, o Poeta Singular e Plural de João Alves das Neves (Editora Expressão)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 1985, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)</a>
+    RIBEIRO, Leo Gilson. "Fernando Pessoa III, o Poeta Singular e Plural de João Alves das Neves (Editora Expressão)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 1985, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)</a>
 
 === "BibTeX"
     ```latex
@@ -49,9 +52,9 @@ A fascinante mutiplicidade de aspectos, às vezes conflitantes, de Fernando Pess
     title = {'Fernando Pessoa III, o Poeta Singular e Plural de João Alves das Neves (Editora Expressão)'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)},
     orig_publisher = {'Jornal da Tarde 1985'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -65,7 +68,7 @@ A fascinante mutiplicidade de aspectos, às vezes conflitantes, de Fernando Pess
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 1985'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao)
     ER  - 
     ```

@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma
+view_url: https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 6/10/1984
 ---
@@ -43,7 +46,7 @@ Coincidindo com a 16ª edição de *Grande Sertão: Veredas*, agora pela Editora
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Guimarães Rosa: novas luzes sobre um fascinante enigma". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 6/10/1984. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma</a>
+    RIBEIRO, Leo Gilson. "Guimarães Rosa: novas luzes sobre um fascinante enigma". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 6/10/1984. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma</a>
 
 === "BibTeX"
     ```latex
@@ -53,9 +56,9 @@ Coincidindo com a 16ª edição de *Grande Sertão: Veredas*, agora pela Editora
     title = {'Guimarães Rosa: novas luzes sobre um fascinante enigma'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 6/10/1984}
+    orig_date = {6/10/1984}
     }
     ```
 
@@ -69,7 +72,7 @@ Coincidindo com a 16ª edição de *Grande Sertão: Veredas*, agora pela Editora
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 6/10/1984
-    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma
+    Y1  - 6/10/1984
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma
     ER  - 
     ```

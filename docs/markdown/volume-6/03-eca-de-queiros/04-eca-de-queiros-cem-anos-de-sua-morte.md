@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte
+view_url: https://www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Caros Amigos - outubro de 2000'
 orig_date: Sem data
 ---
@@ -63,7 +66,7 @@ Há um *site*, o da Comissão Nacional para o Centenário da Morte de Eça de Qu
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Eça de Queirós: cem anos de sua morte". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Caros Amigos - outubro de 2000, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte</a>
+    RIBEIRO, Leo Gilson. "Eça de Queirós: cem anos de sua morte". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Caros Amigos - outubro de 2000, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte</a>
 
 === "BibTeX"
     ```latex
@@ -73,9 +76,9 @@ Há um *site*, o da Comissão Nacional para o Centenário da Morte de Eça de Qu
     title = {'Eça de Queirós: cem anos de sua morte'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte},
     orig_publisher = {'Caros Amigos - outubro de 2000'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -89,7 +92,7 @@ Há um *site*, o da Comissão Nacional para o Centenário da Morte de Eça de Qu
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Caros Amigos - outubro de 2000'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte
     ER  - 
     ```

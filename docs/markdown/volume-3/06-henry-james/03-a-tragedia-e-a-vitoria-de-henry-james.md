@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james
+view_url: https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Diário de Notícias'
 orig_date: 1964/12/13
 ---
@@ -15,7 +18,7 @@ De fato, se observadores superficiais demonstram desprezo por Mozart, consideran
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A tragédia e a vitória de Henry James". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Diário de Notícias, 1964/12/13. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james</a>
+    RIBEIRO, Leo Gilson. "A tragédia e a vitória de Henry James". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Diário de Notícias, 1964/12/13. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james</a>
 
 === "BibTeX"
     ```latex
@@ -25,9 +28,9 @@ De fato, se observadores superficiais demonstram desprezo por Mozart, consideran
     title = {'A tragédia e a vitória de Henry James'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james},
     orig_publisher = {'Diário de Notícias'},
-    orig_date = {orig_date: 1964/12/13}
+    orig_date = {1964/12/13}
     }
     ```
 
@@ -41,7 +44,7 @@ De fato, se observadores superficiais demonstram desprezo por Mozart, consideran
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'Diário de Notícias'
-    Y1  - orig_date: 1964/12/13
-    UR  - www.leogilsonribeiro.com.br/volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james
+    Y1  - 1964/12/13
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james
     ER  - 
     ```

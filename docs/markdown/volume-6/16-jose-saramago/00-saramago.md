@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/16-jose-saramago/00-saramago
+view_url: https://www.leogilsonribeiro.com.br/volume-6/16-jose-saramago/00-saramago
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/16-jose-saramago/00-saramago.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/16-jose-saramago/00-saramago.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 20-12-1986'
 orig_date: Sem data
 ---
@@ -125,7 +128,7 @@ Pode-se dizer que o sr. aí é um Goya sorridente, que contempla os dois países
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Saramago". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 20-12-1986, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/16-jose-saramago/00-saramago</a>
+    RIBEIRO, Leo Gilson. "Saramago". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 20-12-1986, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/16-jose-saramago/00-saramago</a>
 
 === "BibTeX"
     ```latex
@@ -135,9 +138,9 @@ Pode-se dizer que o sr. aí é um Goya sorridente, que contempla os dois países
     title = {'Saramago'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/16-jose-saramago/00-saramago},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/16-jose-saramago/00-saramago},
     orig_publisher = {'Jornal da Tarde 20-12-1986'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -151,7 +154,7 @@ Pode-se dizer que o sr. aí é um Goya sorridente, que contempla os dois países
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 20-12-1986'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/16-jose-saramago/00-saramago
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/16-jose-saramago/00-saramago
     ER  - 
     ```

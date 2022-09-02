@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/01-revolucao-estetica-da-arte-moderna/
+view_url: https://www.leogilsonribeiro.com.br/volume-3/01-revolucao-estetica-da-arte-moderna/
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/01-revolucao-estetica-da-arte-moderna/readme.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/01-revolucao-estetica-da-arte-moderna/readme.md
+status: Transcrição completa. Aguardando revisão.
 ---
 
 *Correio da Manhã*; 1965/11/09
@@ -43,7 +46,7 @@ Logo confirmada por Brecht, ao defender veemente e ironicamente sua peça *Lukul
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Revolução Estética da Arte Moderna". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/01-revolucao-estetica-da-arte-moderna/</a>
+    RIBEIRO, Leo Gilson. "Revolução Estética da Arte Moderna". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/01-revolucao-estetica-da-arte-moderna/</a>
 
 === "BibTeX"
     ```latex
@@ -53,7 +56,7 @@ Logo confirmada por Brecht, ao defender veemente e ironicamente sua peça *Lukul
     title = {Revolução Estética da Arte Moderna},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-3/01-revolucao-estetica-da-arte-moderna/}
+    url = {https://www.leogilsonribeiro.com.br/volume-3/01-revolucao-estetica-da-arte-moderna/}
     }
     ```
 
@@ -66,6 +69,6 @@ Logo confirmada por Brecht, ao defender veemente e ironicamente sua peça *Lukul
     TI  - Revolução Estética da Arte Moderna
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
-    UR  - www.leogilsonribeiro.com.br/volume-3/01-revolucao-estetica-da-arte-moderna/
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/01-revolucao-estetica-da-arte-moderna/
     ER  - 
     ```

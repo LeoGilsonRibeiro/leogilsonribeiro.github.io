@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma
+view_url: https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 23/12/1978
 ---
@@ -69,7 +72,7 @@ Com a introspecção profética de todo grande artista, nas páginas finais dest
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Clarice num derradeiro espelho diante de si mesma". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 23/12/1978. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma</a>
+    RIBEIRO, Leo Gilson. "Clarice num derradeiro espelho diante de si mesma". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 23/12/1978. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma</a>
 
 === "BibTeX"
     ```latex
@@ -79,9 +82,9 @@ Com a introspecção profética de todo grande artista, nas páginas finais dest
     title = {'Clarice num derradeiro espelho diante de si mesma'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 23/12/1978}
+    orig_date = {23/12/1978}
     }
     ```
 
@@ -95,7 +98,7 @@ Com a introspecção profética de todo grande artista, nas páginas finais dest
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 23/12/1978
-    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma
+    Y1  - 23/12/1978
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma
     ER  - 
     ```

@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever
+view_url: https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 9/12/1982
 ---
@@ -33,7 +36,7 @@ Clarice Lispector é o paradoxo para sempre vivo de não se poder falar de uma e
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Clarice, uma mulher que morreu pela vontade de escrever". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 9/12/1982. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever</a>
+    RIBEIRO, Leo Gilson. "Clarice, uma mulher que morreu pela vontade de escrever". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 9/12/1982. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever</a>
 
 === "BibTeX"
     ```latex
@@ -43,9 +46,9 @@ Clarice Lispector é o paradoxo para sempre vivo de não se poder falar de uma e
     title = {'Clarice, uma mulher que morreu pela vontade de escrever'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 9/12/1982}
+    orig_date = {9/12/1982}
     }
     ```
 
@@ -59,7 +62,7 @@ Clarice Lispector é o paradoxo para sempre vivo de não se poder falar de uma e
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 9/12/1982
-    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever
+    Y1  - 9/12/1982
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever
     ER  - 
     ```

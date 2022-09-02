@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/02-kafka-revive-em-praga
+view_url: https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/02-kafka-revive-em-praga
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/04-franz-kafka/02-kafka-revive-em-praga.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/04-franz-kafka/02-kafka-revive-em-praga.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Correio da Manhã'
 orig_date: 1963/10/19
 ---
@@ -45,7 +48,7 @@ E sua vitória final:
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Kafka revive em Praga". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Correio da Manhã, 1963/10/19. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/02-kafka-revive-em-praga</a>
+    RIBEIRO, Leo Gilson. "Kafka revive em Praga". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Correio da Manhã, 1963/10/19. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/02-kafka-revive-em-praga</a>
 
 === "BibTeX"
     ```latex
@@ -55,9 +58,9 @@ E sua vitória final:
     title = {'Kafka revive em Praga'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/02-kafka-revive-em-praga},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/02-kafka-revive-em-praga},
     orig_publisher = {'Correio da Manhã'},
-    orig_date = {orig_date: 1963/10/19}
+    orig_date = {1963/10/19}
     }
     ```
 
@@ -71,7 +74,7 @@ E sua vitória final:
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'Correio da Manhã'
-    Y1  - orig_date: 1963/10/19
-    UR  - www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/02-kafka-revive-em-praga
+    Y1  - 1963/10/19
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/02-kafka-revive-em-praga
     ER  - 
     ```

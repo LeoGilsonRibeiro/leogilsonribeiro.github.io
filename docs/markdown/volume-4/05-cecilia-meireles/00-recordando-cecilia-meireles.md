@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles
+view_url: https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Diário de Notícias'
 orig_date: 06/12/1964
 ---
@@ -23,7 +26,7 @@ Contei-lhe do entusiasmo que contagiara uma audiência de quase mil estudantes d
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Recordando Cecília Meireles". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Diário de Notícias, 06/12/1964. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles</a>
+    RIBEIRO, Leo Gilson. "Recordando Cecília Meireles". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Diário de Notícias, 06/12/1964. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles</a>
 
 === "BibTeX"
     ```latex
@@ -33,9 +36,9 @@ Contei-lhe do entusiasmo que contagiara uma audiência de quase mil estudantes d
     title = {'Recordando Cecília Meireles'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles},
     orig_publisher = {'Diário de Notícias'},
-    orig_date = {orig_date: 06/12/1964}
+    orig_date = {06/12/1964}
     }
     ```
 
@@ -49,7 +52,7 @@ Contei-lhe do entusiasmo que contagiara uma audiência de quase mil estudantes d
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Diário de Notícias'
-    Y1  - orig_date: 06/12/1964
-    UR  - www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles
+    Y1  - 06/12/1964
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles
     ER  - 
     ```

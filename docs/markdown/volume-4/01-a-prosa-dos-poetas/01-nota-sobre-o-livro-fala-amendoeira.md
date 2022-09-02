@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira
+view_url: https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 11/9/1970
 ---
@@ -33,7 +36,7 @@ Imprevisível, brilhante, extraindo do cotidiano aparentemente banal e prosaico 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Nota sobre o livro Fala, Amendoeira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 11/9/1970. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira</a>
+    RIBEIRO, Leo Gilson. "Nota sobre o livro Fala, Amendoeira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 11/9/1970. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira</a>
 
 === "BibTeX"
     ```latex
@@ -43,9 +46,9 @@ Imprevisível, brilhante, extraindo do cotidiano aparentemente banal e prosaico 
     title = {'Nota sobre o livro Fala, Amendoeira'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 11/9/1970}
+    orig_date = {11/9/1970}
     }
     ```
 
@@ -59,7 +62,7 @@ Imprevisível, brilhante, extraindo do cotidiano aparentemente banal e prosaico 
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 11/9/1970
-    UR  - www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira
+    Y1  - 11/9/1970
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira
     ER  - 
     ```

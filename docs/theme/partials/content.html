@@ -15,7 +15,7 @@
     {% include "icons/material/file-edit-outline.svg" %}
   </a>
   <a
-    href="{{ page.meta.view_url }}"
+    href="{{ page.meta.commits_url }}"
     title="Versões anteriores"
     class="md-content__button md-icon"
   >
@@ -59,7 +59,11 @@
   {{ page.meta.orig_date }} &nbsp;&nbsp;&nbsp;{% endif %}
 
   {% if page.meta.orig_publisher %}<span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 5v14H4V5h16m0-2H4c-1.11 0-2 .89-2 2v14c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V5c0-1.11-.89-2-2-2m-2 12H6v2h12v-2m-8-8H6v6h4V7m2 2h6V7h-6v2m6 2h-6v2h6v-2Z"></path></svg></span>
-  {{ page.meta.orig_publisher }} {% endif %}</p><hr>
+  {{ page.meta.orig_publisher }} &nbsp;&nbsp;&nbsp;{% endif %}
+
+  {% if page.meta.status %}<span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16.5 11 13 7.5l1.4-1.4 2.1 2.1L20.7 4l1.4 1.4-5.6 5.6M11 7H2v2h9V7m10 6.4L19.6 12 17 14.6 14.4 12 13 13.4l2.6 2.6-2.6 2.6 1.4 1.4 2.6-2.6 2.6 2.6 1.4-1.4-2.6-2.6 2.6-2.6M11 15H2v2h9v-2Z"></path></svg></span>
+  {{ page.meta.status }} {% endif %}
+  </p><hr>
 {% endif %}
 
 <!-- Markdown content -->

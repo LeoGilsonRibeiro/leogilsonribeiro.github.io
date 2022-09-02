@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior
+view_url: https://www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1978
 ---
@@ -313,7 +316,7 @@ Para o poeta dos *pianissimi* da percepção intelectual, para o poeta que busca
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Manuel Bandeira, um poeta dez anos maior". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 1978. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior</a>
+    RIBEIRO, Leo Gilson. "Manuel Bandeira, um poeta dez anos maior". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 1978. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior</a>
 
 === "BibTeX"
     ```latex
@@ -323,9 +326,9 @@ Para o poeta dos *pianissimi* da percepção intelectual, para o poeta que busca
     title = {'Manuel Bandeira, um poeta dez anos maior'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1978}
+    orig_date = {1978}
     }
     ```
 
@@ -339,7 +342,7 @@ Para o poeta dos *pianissimi* da percepção intelectual, para o poeta que busca
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1978
-    UR  - www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior
+    Y1  - 1978
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/02-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior
     ER  - 
     ```

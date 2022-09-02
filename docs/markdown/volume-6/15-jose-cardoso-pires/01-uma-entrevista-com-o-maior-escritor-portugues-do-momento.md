@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento
+view_url: https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 28-08-1986'
 orig_date: Sem data
 ---
@@ -183,7 +186,7 @@ E atualmente, você está preparando uma peça de teatro, conforme disse antes?
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Uma entrevista com o maior escritor português do momento". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 28-08-1986, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento</a>
+    RIBEIRO, Leo Gilson. "Uma entrevista com o maior escritor português do momento". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 28-08-1986, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento</a>
 
 === "BibTeX"
     ```latex
@@ -193,9 +196,9 @@ E atualmente, você está preparando uma peça de teatro, conforme disse antes?
     title = {'Uma entrevista com o maior escritor português do momento'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento},
     orig_publisher = {'Jornal da Tarde 28-08-1986'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -209,7 +212,7 @@ E atualmente, você está preparando uma peça de teatro, conforme disse antes?
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 28-08-1986'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento
     ER  - 
     ```

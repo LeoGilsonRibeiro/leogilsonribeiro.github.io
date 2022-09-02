@@ -56,9 +56,11 @@ src_files = "#{BLOG_FOLDER}/src"
 docx_dir = "#{src_files}/docx"
 markdown_auto = "#{src_files}/markdown/markdown_auto"
 markdown_stable = "#{src_files}/markdown/markdown_stable"
+img_files = "#{src_files}/img"
 markdown_archive = "#{src_files}/markdown/markdown_archive"
 yml_files = "#{src_files}/yml"
 docs_markdown = "#{BLOG_FOLDER}/docs/markdown"
+docs_img = "#{docs_markdown}/img"
 nav = []
 
 logger.info 'Starting script ...'
@@ -106,8 +108,8 @@ Dir["#{markdown_auto}/*.md"].each_with_index do |volume_file, v|
       File.write(vol_file, add_metadata(author, editor, text_title, text, '', vol_file))
       logger.debug "Created volume file :: #{vol_file}"
     end
-    nav << "##{text_title}:"
-    nav << "###{text_title}: #{path_to_slug(vol_file)}"
+    nav << "###{text_title}:"
+    nav << "####{text_title}: #{path_to_slug(vol_file)}"
     next
 
   else # Demais volumes
@@ -209,9 +211,20 @@ Dir["#{markdown_stable}/*.md"].each do |page_file|
 end
 logger.info "Finished copying #{Dir["#{markdown_stable}/**/*.md"].count} assets to \"#{docs_markdown}\""
 
+logger.info "Copying assets from \"#{img_files}\" ..."
+Dir["#{img_files}/*"].each do |img_file|
+  `mkdir -p "#{docs_img}"` unless Dir.exist?(docs_img) || dry_run
+  FileUtils.cp(img_file, docs_img) unless dry_run
+  logger.debug "Copied #{img_file} to #{docs_img}"
+end
+logger.info "Finished copying #{Dir["#{img_files}/**/*.md"].count} assets to \"#{docs_img}\""
+
+
 logger.info 'Generating navigation data...'
 final_nav = []
-final_nav << 'nav:'
+final_nav << %(nav:
+  - 'Textos reunidos de Leo Gilson Ribeiro':
+    - 'Textos reunidos de Leo Gilson Ribeiro': README.md)
 nav.each do |n|
   final_nav << n.gsub(/#/, '  ').sub(/^( +)/, '\1- ').to_s
 end
@@ -227,7 +240,7 @@ Dir["#{yml_files}/*.yml"].each do |yml_file|
 end
 logger.info "Finished transfering #{Dir["#{yml_files}/**/*.yml"].count} yml files"
 
-logger.info "Finished"
+logger.info 'Finished'
 
 logger.info "Script took #{Time.now - start_time}s to complete."
 

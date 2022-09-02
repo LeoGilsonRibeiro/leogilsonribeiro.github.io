@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso
+view_url: https://www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja 28-5-1969'
 orig_date: Sem data
 ---
@@ -23,7 +26,7 @@ Santa Filomena, taumaturga do décimo nono século, prova a sua identidade - "Ap
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Suave milagre: no fim da vida, um Eça religioso". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 28-5-1969, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso</a>
+    RIBEIRO, Leo Gilson. "Suave milagre: no fim da vida, um Eça religioso". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 28-5-1969, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso</a>
 
 === "BibTeX"
     ```latex
@@ -33,9 +36,9 @@ Santa Filomena, taumaturga do décimo nono século, prova a sua identidade - "Ap
     title = {'Suave milagre: no fim da vida, um Eça religioso'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso},
     orig_publisher = {'Veja 28-5-1969'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -49,7 +52,7 @@ Santa Filomena, taumaturga do décimo nono século, prova a sua identidade - "Ap
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Veja 28-5-1969'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso
     ER  - 
     ```

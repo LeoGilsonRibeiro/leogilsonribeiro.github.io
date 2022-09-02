@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas
+view_url: https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1986\*
 ---
@@ -93,7 +96,7 @@ Com exceção de Abelardo Rodrigues e de Éle Semog, os demais poetas não apres
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Poesia. Uma obra reunindo poetas negros de várias épocas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1986\*. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas</a>
+    RIBEIRO, Leo Gilson. "Poesia. Uma obra reunindo poetas negros de várias épocas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1986\*. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas</a>
 
 === "BibTeX"
     ```latex
@@ -103,9 +106,9 @@ Com exceção de Abelardo Rodrigues e de Éle Semog, os demais poetas não apres
     title = {'Poesia. Uma obra reunindo poetas negros de várias épocas'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1986\*}
+    orig_date = {1986\*}
     }
     ```
 
@@ -119,7 +122,7 @@ Com exceção de Abelardo Rodrigues e de Éle Semog, os demais poetas não apres
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1986\*
-    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas
+    Y1  - 1986\*
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas
     ER  - 
     ```

@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal
+view_url: https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 01-10-1983'
 orig_date: Sem data
 ---
@@ -101,7 +104,7 @@ Mas, para sermos equânimes, será que as propostas de Lenin e Andropov são dif
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Cardoso Pires, para quando o Brasil descobrir Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 01-10-1983, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal</a>
+    RIBEIRO, Leo Gilson. "Cardoso Pires, para quando o Brasil descobrir Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 01-10-1983, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal</a>
 
 === "BibTeX"
     ```latex
@@ -111,9 +114,9 @@ Mas, para sermos equânimes, será que as propostas de Lenin e Andropov são dif
     title = {'Cardoso Pires, para quando o Brasil descobrir Portugal'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal},
     orig_publisher = {'Jornal da Tarde 01-10-1983'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -127,7 +130,7 @@ Mas, para sermos equânimes, será que as propostas de Lenin e Andropov são dif
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 01-10-1983'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal
     ER  - 
     ```

@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/16-nota-sobre-o-livro-desonra-de-j-m-coetzee
+view_url: https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/16-nota-sobre-o-livro-desonra-de-j-m-coetzee
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/03-literatura-africana/16-nota-sobre-o-livro-desonra-de-j-m-coetzee.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/03-literatura-africana/16-nota-sobre-o-livro-desonra-de-j-m-coetzee.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Caros Amigos, n.46'
 orig_date: 2001/01
 ---
@@ -13,7 +16,7 @@ J. M. Coetzee é um narrador sul-africano como Nadine Gordimer e Doris Lessing r
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Nota sobre o livro Desonra de J. M. Coetzee". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Caros Amigos, n.46, 2001/01. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/16-nota-sobre-o-livro-desonra-de-j-m-coetzee</a>
+    RIBEIRO, Leo Gilson. "Nota sobre o livro Desonra de J. M. Coetzee". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Caros Amigos, n.46, 2001/01. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/16-nota-sobre-o-livro-desonra-de-j-m-coetzee</a>
 
 === "BibTeX"
     ```latex
@@ -23,9 +26,9 @@ J. M. Coetzee é um narrador sul-africano como Nadine Gordimer e Doris Lessing r
     title = {'Nota sobre o livro Desonra de J. M. Coetzee'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/16-nota-sobre-o-livro-desonra-de-j-m-coetzee},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/16-nota-sobre-o-livro-desonra-de-j-m-coetzee},
     orig_publisher = {'Caros Amigos, n.46'},
-    orig_date = {orig_date: 2001/01}
+    orig_date = {2001/01}
     }
     ```
 
@@ -39,7 +42,7 @@ J. M. Coetzee é um narrador sul-africano como Nadine Gordimer e Doris Lessing r
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Caros Amigos, n.46'
-    Y1  - orig_date: 2001/01
-    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/16-nota-sobre-o-livro-desonra-de-j-m-coetzee
+    Y1  - 2001/01
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/16-nota-sobre-o-livro-desonra-de-j-m-coetzee
     ER  - 
     ```

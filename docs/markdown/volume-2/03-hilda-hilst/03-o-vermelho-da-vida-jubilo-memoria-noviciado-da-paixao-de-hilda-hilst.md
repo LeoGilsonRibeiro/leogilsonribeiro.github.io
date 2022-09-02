@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/03-o-vermelho-da-vida-jubilo-memoria-noviciado-da-paixao-de-hilda-hilst
+view_url: https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/03-o-vermelho-da-vida-jubilo-memoria-noviciado-da-paixao-de-hilda-hilst
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/03-hilda-hilst/03-o-vermelho-da-vida-jubilo-memoria-noviciado-da-paixao-de-hilda-hilst.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/03-hilda-hilst/03-o-vermelho-da-vida-jubilo-memoria-noviciado-da-paixao-de-hilda-hilst.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja'
 orig_date: 1974/04/24
 ---
@@ -25,7 +28,7 @@ Na poesia amorosa ela volta ao tema erótico: "Uma continuação do estigma da p
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O vermelho da vida. Júbilo, Memória, Noviciado da Paixão de Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja, 1974/04/24. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/03-o-vermelho-da-vida-jubilo-memoria-noviciado-da-paixao-de-hilda-hilst</a>
+    RIBEIRO, Leo Gilson. "O vermelho da vida. Júbilo, Memória, Noviciado da Paixão de Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja, 1974/04/24. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/03-o-vermelho-da-vida-jubilo-memoria-noviciado-da-paixao-de-hilda-hilst</a>
 
 === "BibTeX"
     ```latex
@@ -35,9 +38,9 @@ Na poesia amorosa ela volta ao tema erótico: "Uma continuação do estigma da p
     title = {'O vermelho da vida. Júbilo, Memória, Noviciado da Paixão de Hilda Hilst'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/03-o-vermelho-da-vida-jubilo-memoria-noviciado-da-paixao-de-hilda-hilst},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/03-o-vermelho-da-vida-jubilo-memoria-noviciado-da-paixao-de-hilda-hilst},
     orig_publisher = {'Veja'},
-    orig_date = {orig_date: 1974/04/24}
+    orig_date = {1974/04/24}
     }
     ```
 
@@ -51,7 +54,7 @@ Na poesia amorosa ela volta ao tema erótico: "Uma continuação do estigma da p
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Veja'
-    Y1  - orig_date: 1974/04/24
-    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/03-o-vermelho-da-vida-jubilo-memoria-noviciado-da-paixao-de-hilda-hilst
+    Y1  - 1974/04/24
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/03-o-vermelho-da-vida-jubilo-memoria-noviciado-da-paixao-de-hilda-hilst
     ER  - 
     ```

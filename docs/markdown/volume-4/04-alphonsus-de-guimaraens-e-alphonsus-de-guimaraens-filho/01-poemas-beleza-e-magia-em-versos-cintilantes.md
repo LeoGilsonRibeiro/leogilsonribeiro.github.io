@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes
+view_url: https://www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1984
 ---
@@ -73,7 +76,7 @@ Essa temática tão próxima do *Cantico delle Criature*, de São Francisco de A
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Poemas. Beleza e magia em versos cintilantes". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 1984. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes</a>
+    RIBEIRO, Leo Gilson. "Poemas. Beleza e magia em versos cintilantes". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 1984. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes</a>
 
 === "BibTeX"
     ```latex
@@ -83,9 +86,9 @@ Essa temática tão próxima do *Cantico delle Criature*, de São Francisco de A
     title = {'Poemas. Beleza e magia em versos cintilantes'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1984}
+    orig_date = {1984}
     }
     ```
 
@@ -99,7 +102,7 @@ Essa temática tão próxima do *Cantico delle Criature*, de São Francisco de A
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1984
-    UR  - www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes
+    Y1  - 1984
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/04-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes
     ER  - 
     ```

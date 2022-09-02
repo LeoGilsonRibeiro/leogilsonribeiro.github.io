@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor
+view_url: https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 27-07-1971'
 orig_date: Sem data
 ---
@@ -127,7 +130,7 @@ Enquanto outras nações instauram um Renascimento científico no espaço - atin
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Eis um grande escritor". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 27-07-1971, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor</a>
+    RIBEIRO, Leo Gilson. "Eis um grande escritor". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 27-07-1971, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor</a>
 
 === "BibTeX"
     ```latex
@@ -137,9 +140,9 @@ Enquanto outras nações instauram um Renascimento científico no espaço - atin
     title = {'Eis um grande escritor'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor},
     orig_publisher = {'Jornal da Tarde 27-07-1971'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -153,7 +156,7 @@ Enquanto outras nações instauram um Renascimento científico no espaço - atin
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 27-07-1971'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/00-eis-um-grande-escritor
     ER  - 
     ```

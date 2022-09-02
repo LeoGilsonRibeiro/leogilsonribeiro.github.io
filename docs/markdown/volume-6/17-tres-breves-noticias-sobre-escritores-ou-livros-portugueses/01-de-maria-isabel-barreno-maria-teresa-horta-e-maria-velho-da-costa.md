@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa
+view_url: https://www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja 12-06-1974'
 orig_date: Sem data
 ---
@@ -23,7 +26,7 @@ São páginas admiráveis, que não têm o amargor nem a erudição de *O Segund
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "de Maria Isabel Barreno, Maria Teresa Horta e Maria Velho da Costa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 12-06-1974, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa</a>
+    RIBEIRO, Leo Gilson. "de Maria Isabel Barreno, Maria Teresa Horta e Maria Velho da Costa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 12-06-1974, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa</a>
 
 === "BibTeX"
     ```latex
@@ -33,9 +36,9 @@ São páginas admiráveis, que não têm o amargor nem a erudição de *O Segund
     title = {'de Maria Isabel Barreno, Maria Teresa Horta e Maria Velho da Costa'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa},
     orig_publisher = {'Veja 12-06-1974'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -49,7 +52,7 @@ São páginas admiráveis, que não têm o amargor nem a erudição de *O Segund
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Veja 12-06-1974'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa
     ER  - 
     ```

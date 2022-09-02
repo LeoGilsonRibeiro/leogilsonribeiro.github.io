@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano
+view_url: https://www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 24-2-1972'
 orig_date: Sem data
 ---
@@ -161,7 +164,7 @@ O texto de Coelho Neto é adornado como um monumento do Ipiranga, utiliza uma ri
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Foi nosso primeiro happening urbano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 24-2-1972, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano</a>
+    RIBEIRO, Leo Gilson. "Foi nosso primeiro happening urbano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 24-2-1972, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano</a>
 
 === "BibTeX"
     ```latex
@@ -171,9 +174,9 @@ O texto de Coelho Neto é adornado como um monumento do Ipiranga, utiliza uma ri
     title = {'Foi nosso primeiro happening urbano'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano},
+    url = {https://www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano},
     orig_publisher = {'Jornal da Tarde 24-2-1972'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -187,7 +190,7 @@ O texto de Coelho Neto é adornado como um monumento do Ipiranga, utiliza uma ri
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios
     PY  - 2022
     PB  - 'Jornal da Tarde 24-2-1972'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano
     ER  - 
     ```

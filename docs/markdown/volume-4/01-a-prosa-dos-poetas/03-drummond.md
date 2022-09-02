@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/03-drummond
+view_url: https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/03-drummond
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/03-drummond.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/03-drummond.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: '17-8-1985'
 orig_date: Sem data
 ---
@@ -39,7 +42,7 @@ Pode-se esperar mais de um livro tão próximo da perfeição, na sua concissão
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Drummond". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: 17-8-1985, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/03-drummond</a>
+    RIBEIRO, Leo Gilson. "Drummond". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: 17-8-1985, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/03-drummond</a>
 
 === "BibTeX"
     ```latex
@@ -49,9 +52,9 @@ Pode-se esperar mais de um livro tão próximo da perfeição, na sua concissão
     title = {'Drummond'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/03-drummond},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/03-drummond},
     orig_publisher = {'17-8-1985'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -65,7 +68,7 @@ Pode-se esperar mais de um livro tão próximo da perfeição, na sua concissão
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - '17-8-1985'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/03-drummond
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/03-drummond
     ER  - 
     ```

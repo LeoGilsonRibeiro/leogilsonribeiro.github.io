@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/18-da-ficcao
+view_url: https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/18-da-ficcao
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/03-hilda-hilst/18-da-ficcao.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/03-hilda-hilst/18-da-ficcao.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: '> Cadernos de Literatura Brasileira: Hilda Hilst'
 orig_date: Sem data
 ---
@@ -368,7 +371,7 @@ Igual a um morto."
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Da Ficção". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: > Cadernos de Literatura Brasileira: Hilda Hilst, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/18-da-ficcao</a>
+    RIBEIRO, Leo Gilson. "Da Ficção". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: > Cadernos de Literatura Brasileira: Hilda Hilst, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/18-da-ficcao</a>
 
 === "BibTeX"
     ```latex
@@ -378,9 +381,9 @@ Igual a um morto."
     title = {'Da Ficção'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/18-da-ficcao},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/18-da-ficcao},
     orig_publisher = {'> Cadernos de Literatura Brasileira: Hilda Hilst'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -394,7 +397,7 @@ Igual a um morto."
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - '> Cadernos de Literatura Brasileira: Hilda Hilst'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/18-da-ficcao
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/18-da-ficcao
     ER  - 
     ```

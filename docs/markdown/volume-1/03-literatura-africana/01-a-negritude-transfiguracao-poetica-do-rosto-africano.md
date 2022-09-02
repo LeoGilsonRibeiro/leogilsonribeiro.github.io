@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/01-a-negritude-transfiguracao-poetica-do-rosto-africano
+view_url: https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/01-a-negritude-transfiguracao-poetica-do-rosto-africano
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/03-literatura-africana/01-a-negritude-transfiguracao-poetica-do-rosto-africano.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/03-literatura-africana/01-a-negritude-transfiguracao-poetica-do-rosto-africano.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Correio da Manhã'
 orig_date: 1964/12/20
 ---
@@ -129,7 +132,7 @@ Sobretudo, porém, essa consciência africana é fruto da reflexão do negro sob
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A Negritude - Transfiguração Poética do Rosto Africano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã, 1964/12/20. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/01-a-negritude-transfiguracao-poetica-do-rosto-africano</a>
+    RIBEIRO, Leo Gilson. "A Negritude - Transfiguração Poética do Rosto Africano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã, 1964/12/20. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/01-a-negritude-transfiguracao-poetica-do-rosto-africano</a>
 
 === "BibTeX"
     ```latex
@@ -139,9 +142,9 @@ Sobretudo, porém, essa consciência africana é fruto da reflexão do negro sob
     title = {'A Negritude - Transfiguração Poética do Rosto Africano'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/01-a-negritude-transfiguracao-poetica-do-rosto-africano},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/01-a-negritude-transfiguracao-poetica-do-rosto-africano},
     orig_publisher = {'Correio da Manhã'},
-    orig_date = {orig_date: 1964/12/20}
+    orig_date = {1964/12/20}
     }
     ```
 
@@ -155,7 +158,7 @@ Sobretudo, porém, essa consciência africana é fruto da reflexão do negro sob
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Correio da Manhã'
-    Y1  - orig_date: 1964/12/20
-    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/01-a-negritude-transfiguracao-poetica-do-rosto-africano
+    Y1  - 1964/12/20
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/01-a-negritude-transfiguracao-poetica-do-rosto-africano
     ER  - 
     ```

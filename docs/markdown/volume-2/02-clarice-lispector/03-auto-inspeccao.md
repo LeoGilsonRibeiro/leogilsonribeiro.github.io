@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/03-auto-inspeccao
+view_url: https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/03-auto-inspeccao
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/02-clarice-lispector/03-auto-inspeccao.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/03-auto-inspeccao.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja'
 orig_date: 19/09/1973
 ---
@@ -29,7 +32,7 @@ Com esta ficção, Clarice Lispector desperta a literatura que atualmente não s
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Auto-inspecção". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja, 19/09/1973. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/03-auto-inspeccao</a>
+    RIBEIRO, Leo Gilson. "Auto-inspecção". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja, 19/09/1973. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/03-auto-inspeccao</a>
 
 === "BibTeX"
     ```latex
@@ -39,9 +42,9 @@ Com esta ficção, Clarice Lispector desperta a literatura que atualmente não s
     title = {'Auto-inspecção'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/03-auto-inspeccao},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/03-auto-inspeccao},
     orig_publisher = {'Veja'},
-    orig_date = {orig_date: 19/09/1973}
+    orig_date = {19/09/1973}
     }
     ```
 
@@ -55,7 +58,7 @@ Com esta ficção, Clarice Lispector desperta a literatura que atualmente não s
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Veja'
-    Y1  - orig_date: 19/09/1973
-    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/03-auto-inspeccao
+    Y1  - 19/09/1973
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/03-auto-inspeccao
     ER  - 
     ```

@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro
+view_url: https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 7/05/1975
 ---
@@ -25,7 +28,7 @@ Os romances de Clarice Lispector não têm a perfeição redonda de seus contos.
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Só os mais atentos conseguem encontrar esta maçã no escuro". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 7/05/1975. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro</a>
+    RIBEIRO, Leo Gilson. "Só os mais atentos conseguem encontrar esta maçã no escuro". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 7/05/1975. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro</a>
 
 === "BibTeX"
     ```latex
@@ -35,9 +38,9 @@ Os romances de Clarice Lispector não têm a perfeição redonda de seus contos.
     title = {'Só os mais atentos conseguem encontrar esta maçã no escuro'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 7/05/1975}
+    orig_date = {7/05/1975}
     }
     ```
 
@@ -51,7 +54,7 @@ Os romances de Clarice Lispector não têm a perfeição redonda de seus contos.
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 7/05/1975
-    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro
+    Y1  - 7/05/1975
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro
     ER  - 
     ```

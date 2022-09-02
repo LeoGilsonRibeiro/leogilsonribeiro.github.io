@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire
+view_url: https://www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1985/12/07
 ---
@@ -63,7 +66,7 @@ Baudelaire inaugurou o sentimento poético moderno e a esquizofrenia do "horror 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A tradução de As Flores do Mal de Baudelaire". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal da Tarde, 1985/12/07. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire</a>
+    RIBEIRO, Leo Gilson. "A tradução de As Flores do Mal de Baudelaire". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal da Tarde, 1985/12/07. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire</a>
 
 === "BibTeX"
     ```latex
@@ -73,9 +76,9 @@ Baudelaire inaugurou o sentimento poético moderno e a esquizofrenia do "horror 
     title = {'A tradução de As Flores do Mal de Baudelaire'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1985/12/07}
+    orig_date = {1985/12/07}
     }
     ```
 
@@ -89,7 +92,7 @@ Baudelaire inaugurou o sentimento poético moderno e a esquizofrenia do "horror 
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1985/12/07
-    UR  - www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire
+    Y1  - 1985/12/07
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire
     ER  - 
     ```

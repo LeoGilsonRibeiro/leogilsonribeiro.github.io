@@ -4,7 +4,10 @@ author: Fernando Rey Puente
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/
+view_url: https://www.leogilsonribeiro.com.br/volume-6/
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/readme.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/readme.md
+status: 
 orig_date: 2022
 ---
 
@@ -16,7 +19,7 @@ Por fim, caberia chamar a atenção da/o leitor/a que em algumas das discussões
 
 
 === "ABNT"
-    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/</a>
+    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/</a>
 
 === "BibTeX"
     ```latex
@@ -26,7 +29,7 @@ Por fim, caberia chamar a atenção da/o leitor/a que em algumas das discussões
     title = {Introdução},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/}
+    url = {https://www.leogilsonribeiro.com.br/volume-6/}
     }
     ```
 
@@ -39,6 +42,6 @@ Por fim, caberia chamar a atenção da/o leitor/a que em algumas das discussões
     TI  - Introdução
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
-    UR  - www.leogilsonribeiro.com.br/volume-6/
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/
     ER  - 
     ```

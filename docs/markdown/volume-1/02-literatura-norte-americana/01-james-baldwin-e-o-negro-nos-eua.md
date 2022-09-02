@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua
+view_url: https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Correio da Manhã (Caminhos da cultura)'
 orig_date: 1965
 ---
@@ -31,7 +34,7 @@ Seu impressionante documento pessoal e humano termina com um apelo aos negros e 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "James Baldwin e o negro nos EUA". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã (Caminhos da cultura), 1965. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua</a>
+    RIBEIRO, Leo Gilson. "James Baldwin e o negro nos EUA". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Correio da Manhã (Caminhos da cultura), 1965. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua</a>
 
 === "BibTeX"
     ```latex
@@ -41,9 +44,9 @@ Seu impressionante documento pessoal e humano termina com um apelo aos negros e 
     title = {'James Baldwin e o negro nos EUA'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua},
     orig_publisher = {'Correio da Manhã (Caminhos da cultura)'},
-    orig_date = {orig_date: 1965}
+    orig_date = {1965}
     }
     ```
 
@@ -57,7 +60,7 @@ Seu impressionante documento pessoal e humano termina com um apelo aos negros e 
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Correio da Manhã (Caminhos da cultura)'
-    Y1  - orig_date: 1965
-    UR  - www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua
+    Y1  - 1965
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/01-james-baldwin-e-o-negro-nos-eua
     ER  - 
     ```

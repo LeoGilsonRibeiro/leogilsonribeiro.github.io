@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa
+view_url: https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 10/5/1966
 ---
@@ -59,7 +62,7 @@ Como um Jimenez brasileiro, cheio de ternura mansa, de pureza, de retidão e aus
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Manuel não está falando à toa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 10/5/1966. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa</a>
+    RIBEIRO, Leo Gilson. "Manuel não está falando à toa". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 10/5/1966. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa</a>
 
 === "BibTeX"
     ```latex
@@ -69,9 +72,9 @@ Como um Jimenez brasileiro, cheio de ternura mansa, de pureza, de retidão e aus
     title = {'Manuel não está falando à toa'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 10/5/1966}
+    orig_date = {10/5/1966}
     }
     ```
 
@@ -85,7 +88,7 @@ Como um Jimenez brasileiro, cheio de ternura mansa, de pureza, de retidão e aus
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 10/5/1966
-    UR  - www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa
+    Y1  - 10/5/1966
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa
     ER  - 
     ```

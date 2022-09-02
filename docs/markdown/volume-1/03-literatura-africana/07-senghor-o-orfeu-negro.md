@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/07-senghor-o-orfeu-negro
+view_url: https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/07-senghor-o-orfeu-negro
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/03-literatura-africana/07-senghor-o-orfeu-negro.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/03-literatura-africana/07-senghor-o-orfeu-negro.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja'
 orig_date: 1969/12/31
 ---
@@ -17,7 +20,7 @@ Mas a poesia de Senghor não se restringe ao exótico. Suas "Elegias" ultrapassa
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Senghor, o Orfeu negro". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, 1969/12/31. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/07-senghor-o-orfeu-negro</a>
+    RIBEIRO, Leo Gilson. "Senghor, o Orfeu negro". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, 1969/12/31. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/07-senghor-o-orfeu-negro</a>
 
 === "BibTeX"
     ```latex
@@ -27,9 +30,9 @@ Mas a poesia de Senghor não se restringe ao exótico. Suas "Elegias" ultrapassa
     title = {'Senghor, o Orfeu negro'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/07-senghor-o-orfeu-negro},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/07-senghor-o-orfeu-negro},
     orig_publisher = {'Veja'},
-    orig_date = {orig_date: 1969/12/31}
+    orig_date = {1969/12/31}
     }
     ```
 
@@ -43,7 +46,7 @@ Mas a poesia de Senghor não se restringe ao exótico. Suas "Elegias" ultrapassa
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Veja'
-    Y1  - orig_date: 1969/12/31
-    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/07-senghor-o-orfeu-negro
+    Y1  - 1969/12/31
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/07-senghor-o-orfeu-negro
     ER  - 
     ```

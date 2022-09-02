@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice
+view_url: https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 12/12/1987
 ---
@@ -83,7 +86,7 @@ Há dias que são tão áridos e desérticos que eu daria anos de minha vida em 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A silenciosa revolução de Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 12/12/1987. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice</a>
+    RIBEIRO, Leo Gilson. "A silenciosa revolução de Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 12/12/1987. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice</a>
 
 === "BibTeX"
     ```latex
@@ -93,9 +96,9 @@ Há dias que são tão áridos e desérticos que eu daria anos de minha vida em 
     title = {'A silenciosa revolução de Clarice'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 12/12/1987}
+    orig_date = {12/12/1987}
     }
     ```
 
@@ -109,7 +112,7 @@ Há dias que são tão áridos e desérticos que eu daria anos de minha vida em 
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 12/12/1987
-    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice
+    Y1  - 12/12/1987
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/12-a-silenciosa-revolucao-de-clarice
     ER  - 
     ```

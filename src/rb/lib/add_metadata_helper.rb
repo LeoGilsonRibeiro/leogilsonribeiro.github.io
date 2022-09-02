@@ -23,8 +23,9 @@ def add_metadata(author, editor, title, text, vol_title, path) # rubocop:disable
   publisher = metadata[0] || 'Desconhecido'
   orig_date = metadata[1] || 'Sem data'
   relative_path = path.gsub(BLOG_FOLDER, '')
-  yml_view_url = "#{MKDOCS_REPO_URL}/commits/main#{relative_path.gsub(".md", "")}".downcase
-  stable_url = "www.leogilsonribeiro.com.br#{relative_path.gsub(/(\/docs\/markdown|.md)/, "")}".downcase.gsub(/(readme|\/$)/, '')
+  commits_url = "#{MKDOCS_REPO_URL}/commits/main#{relative_path.gsub("", "")}".downcase
+  edit_url = "#{MKDOCS_REPO_URL}/edit/main#{relative_path.gsub("", "")}".downcase
+  stable_url = "https://www.leogilsonribeiro.com.br#{relative_path.gsub(%r{(/docs/markdown|.md)}, "")}".downcase.gsub(%r{(readme|/$)}, '')
   stable_url_bibtex = "url = {#{stable_url}}"
   stable_url_ris = "UR  - #{stable_url}"
 
@@ -36,9 +37,9 @@ def add_metadata(author, editor, title, text, vol_title, path) # rubocop:disable
     orig_pub_abnt = " Publicação original: #{text_to_title(publisher).strip}, #{orig_date}."
     orig_pub_bibtex = "orig_publisher = {#{text_to_title(publisher).strip}}"
     orig_pub_ris = "PB  - #{text_to_title(publisher).strip}"
-    orig_date = "orig_date: #{orig_date}"
     orig_date_bibtex = "orig_date = {#{orig_date}}"
     orig_date_ris = "Y1  - #{orig_date}"
+    orig_date = "orig_date: #{orig_date}"
   end
 
   # orig_date = publisher == 'Desconhecido' && orig_date == 'Sem data' ? '' : "orig_date: #{orig_date}"
@@ -57,6 +58,7 @@ def add_metadata(author, editor, title, text, vol_title, path) # rubocop:disable
 
   if author == 'Fernando Rey Puente'
     publisher = 'leogilsonribeiro.com.br'
+    status = ''
     date = '2022'
     orig_pub = ''
     orig_pub_bibtex = ''
@@ -68,10 +70,12 @@ def add_metadata(author, editor, title, text, vol_title, path) # rubocop:disable
     annote = ''
     annote_bibtex_field = ''
     annote_ris_field = ''
+  else
+    status = 'Transcrição completa. Aguardando revisão.'
   end
 
-
-  abnt_ref = "#{author_name}. \"#{title}\". In#{author == editor ? "" : " #{editor_name} (org.)"} <em>#{vol_title}</em>, #{date}.#{orig_pub_abnt} URL: <a href=\"yml_view_url\">#{stable_url}</a>".gsub(/'/, '')
+  # p stable_url, yml_view_url
+  abnt_ref = "#{author_name}. \"#{title}\". In#{author == editor ? "" : " #{editor_name} (org.)"} <em>#{vol_title}</em>, #{date}.#{orig_pub_abnt} URL: <a href=\"stable_url\">#{stable_url}</a>".gsub(/'/, '')
 
   bibtex = [author_name_bibtex, editor_name_bibtex, title_bibtex, vol_title_bibtex, date_bibtex, annote_bibtex_field, stable_url_bibtex, orig_pub_bibtex, orig_date_bibtex].flatten.reject(&:empty?).join(",\n    ")
 
@@ -83,7 +87,10 @@ def add_metadata(author, editor, title, text, vol_title, path) # rubocop:disable
                         "editor: #{editor}",
                         "vol_title: #{text_to_title(vol_title)}",
                         "date: #{date}",
-                        "view_url: #{stable_url}"]
+                        "view_url: #{stable_url}",
+                        "edit_url: #{edit_url}",
+                        "commits_url: #{commits_url}",
+                        "status: #{status}"]
 
 
   bib_ref = %(

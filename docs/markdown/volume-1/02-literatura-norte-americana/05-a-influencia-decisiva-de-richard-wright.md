@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/05-a-influencia-decisiva-de-richard-wright
+view_url: https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/05-a-influencia-decisiva-de-richard-wright
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/02-literatura-norte-americana/05-a-influencia-decisiva-de-richard-wright.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/05-a-influencia-decisiva-de-richard-wright.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1992\*
 ---
@@ -19,7 +22,7 @@ Seus livros não trouxeram a revolução que ele esperava? O racismo continua vi
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A influência decisiva de Richard Wright". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1992\*. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/05-a-influencia-decisiva-de-richard-wright</a>
+    RIBEIRO, Leo Gilson. "A influência decisiva de Richard Wright". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1992\*. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/05-a-influencia-decisiva-de-richard-wright</a>
 
 === "BibTeX"
     ```latex
@@ -29,9 +32,9 @@ Seus livros não trouxeram a revolução que ele esperava? O racismo continua vi
     title = {'A influência decisiva de Richard Wright'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/05-a-influencia-decisiva-de-richard-wright},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/05-a-influencia-decisiva-de-richard-wright},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1992\*}
+    orig_date = {1992\*}
     }
     ```
 
@@ -45,7 +48,7 @@ Seus livros não trouxeram a revolução que ele esperava? O racismo continua vi
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1992\*
-    UR  - www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/05-a-influencia-decisiva-de-richard-wright
+    Y1  - 1992\*
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/05-a-influencia-decisiva-de-richard-wright
     ER  - 
     ```

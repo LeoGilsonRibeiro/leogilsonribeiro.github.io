@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata
+view_url: https://www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tardel'
 orig_date: 18/12/1976
 ---
@@ -153,7 +156,7 @@ o ato criador de um deus."
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Inconfundível marca diáfana, abstrata". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tardel, 18/12/1976. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata</a>
+    RIBEIRO, Leo Gilson. "Inconfundível marca diáfana, abstrata". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tardel, 18/12/1976. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata</a>
 
 === "BibTeX"
     ```latex
@@ -163,9 +166,9 @@ o ato criador de um deus."
     title = {'Inconfundível marca diáfana, abstrata'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata},
     orig_publisher = {'Jornal da Tardel'},
-    orig_date = {orig_date: 18/12/1976}
+    orig_date = {18/12/1976}
     }
     ```
 
@@ -179,7 +182,7 @@ o ato criador de um deus."
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tardel'
-    Y1  - orig_date: 18/12/1976
-    UR  - www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata
+    Y1  - 18/12/1976
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata
     ER  - 
     ```

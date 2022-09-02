@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/07-adeus-a-palavra-(nota-sobre-ave-palavra-de-g-rosa)
+view_url: https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/07-adeus-a-palavra-(nota-sobre-ave-palavra-de-g-rosa)
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/01-guimaraes-rosa/07-adeus-a-palavra-(nota-sobre-ave-palavra-de-g-rosa).md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/07-adeus-a-palavra-(nota-sobre-ave-palavra-de-g-rosa).md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja'
 orig_date: 1970
 ---
@@ -13,7 +16,7 @@ Guimarães Rosa recusava coerentemente deixar desvendar sua vida pessoal, insist
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Adeus à palavra (nota sobre Ave, Palavra de G. Rosa)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja, 1970. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/07-adeus-a-palavra-(nota-sobre-ave-palavra-de-g-rosa)</a>
+    RIBEIRO, Leo Gilson. "Adeus à palavra (nota sobre Ave, Palavra de G. Rosa)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja, 1970. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/07-adeus-a-palavra-(nota-sobre-ave-palavra-de-g-rosa)</a>
 
 === "BibTeX"
     ```latex
@@ -23,9 +26,9 @@ Guimarães Rosa recusava coerentemente deixar desvendar sua vida pessoal, insist
     title = {'Adeus à palavra (nota sobre Ave, Palavra de G. Rosa)'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/07-adeus-a-palavra-(nota-sobre-ave-palavra-de-g-rosa)},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/07-adeus-a-palavra-(nota-sobre-ave-palavra-de-g-rosa)},
     orig_publisher = {'Veja'},
-    orig_date = {orig_date: 1970}
+    orig_date = {1970}
     }
     ```
 
@@ -39,7 +42,7 @@ Guimarães Rosa recusava coerentemente deixar desvendar sua vida pessoal, insist
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Veja'
-    Y1  - orig_date: 1970
-    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/07-adeus-a-palavra-(nota-sobre-ave-palavra-de-g-rosa)
+    Y1  - 1970
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/07-adeus-a-palavra-(nota-sobre-ave-palavra-de-g-rosa)
     ER  - 
     ```

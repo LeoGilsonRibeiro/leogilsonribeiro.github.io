@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/03-kafka-em-praga
+view_url: https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/03-kafka-em-praga
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/04-franz-kafka/03-kafka-em-praga.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/04-franz-kafka/03-kafka-em-praga.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'O Estado de São Paulo - Suplemento Literário'
 orig_date: 1966/03/12
 ---
@@ -31,7 +34,7 @@ Como nas seitas ocultistas cujos ensinamentos deslumbraram Baudelaire ao atribui
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Kafka em Praga". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: O Estado de São Paulo - Suplemento Literário, 1966/03/12. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/03-kafka-em-praga</a>
+    RIBEIRO, Leo Gilson. "Kafka em Praga". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: O Estado de São Paulo - Suplemento Literário, 1966/03/12. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/03-kafka-em-praga</a>
 
 === "BibTeX"
     ```latex
@@ -41,9 +44,9 @@ Como nas seitas ocultistas cujos ensinamentos deslumbraram Baudelaire ao atribui
     title = {'Kafka em Praga'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/03-kafka-em-praga},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/03-kafka-em-praga},
     orig_publisher = {'O Estado de São Paulo - Suplemento Literário'},
-    orig_date = {orig_date: 1966/03/12}
+    orig_date = {1966/03/12}
     }
     ```
 
@@ -57,7 +60,7 @@ Como nas seitas ocultistas cujos ensinamentos deslumbraram Baudelaire ao atribui
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'O Estado de São Paulo - Suplemento Literário'
-    Y1  - orig_date: 1966/03/12
-    UR  - www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/03-kafka-em-praga
+    Y1  - 1966/03/12
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/03-kafka-em-praga
     ER  - 
     ```

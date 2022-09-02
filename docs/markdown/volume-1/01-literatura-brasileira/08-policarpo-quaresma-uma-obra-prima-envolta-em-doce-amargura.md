@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura
+view_url: https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1983/4/9
 ---
@@ -59,7 +62,7 @@ Será justa essa aferição da conclusão de Lima Barreto? É impossível determ
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Policarpo Quaresma, uma obra-prima envolta em doce amargura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1983/4/9. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura</a>
+    RIBEIRO, Leo Gilson. "Policarpo Quaresma, uma obra-prima envolta em doce amargura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1983/4/9. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura</a>
 
 === "BibTeX"
     ```latex
@@ -69,9 +72,9 @@ Será justa essa aferição da conclusão de Lima Barreto? É impossível determ
     title = {'Policarpo Quaresma, uma obra-prima envolta em doce amargura'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1983/4/9}
+    orig_date = {1983/4/9}
     }
     ```
 
@@ -85,7 +88,7 @@ Será justa essa aferição da conclusão de Lima Barreto? É impossível determ
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1983/4/9
-    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura
+    Y1  - 1983/4/9
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/08-policarpo-quaresma-uma-obra-prima-envolta-em-doce-amargura
     ER  - 
     ```

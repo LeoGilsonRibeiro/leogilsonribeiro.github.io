@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura
+view_url: https://www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 29-06-1985'
 orig_date: Sem data
 ---
@@ -39,7 +42,7 @@ Vergílio Ferreira, neste que nos parece o seu livro mais perfeito, mais abissal
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Destruindo a palavra. Para reencontrá-la mais bela e pura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-06-1985, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura</a>
+    RIBEIRO, Leo Gilson. "Destruindo a palavra. Para reencontrá-la mais bela e pura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-06-1985, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura</a>
 
 === "BibTeX"
     ```latex
@@ -49,9 +52,9 @@ Vergílio Ferreira, neste que nos parece o seu livro mais perfeito, mais abissal
     title = {'Destruindo a palavra. Para reencontrá-la mais bela e pura'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura},
     orig_publisher = {'Jornal da Tarde 29-06-1985'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -65,7 +68,7 @@ Vergílio Ferreira, neste que nos parece o seu livro mais perfeito, mais abissal
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 29-06-1985'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura
     ER  - 
     ```

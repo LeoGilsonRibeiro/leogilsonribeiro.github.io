@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal
+view_url: https://www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 12-12-1988'
 orig_date: Sem data
 ---
@@ -23,7 +26,7 @@ Em seu último livro, ele acentua principalmente o valor de uma "viagem interior
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Os novos tempos de Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 12-12-1988, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal</a>
+    RIBEIRO, Leo Gilson. "Os novos tempos de Portugal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 12-12-1988, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal</a>
 
 === "BibTeX"
     ```latex
@@ -33,9 +36,9 @@ Em seu último livro, ele acentua principalmente o valor de uma "viagem interior
     title = {'Os novos tempos de Portugal'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal},
     orig_publisher = {'Jornal da Tarde 12-12-1988'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -49,7 +52,7 @@ Em seu último livro, ele acentua principalmente o valor de uma "viagem interior
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 12-12-1988'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal
     ER  - 
     ```

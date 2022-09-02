@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues
+view_url: https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 12-11-1983'
 orig_date: Sem data
 ---
@@ -61,7 +64,7 @@ A estas reflexões como que saídas de um ensaio de Camus, José Cardoso Pires a
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A tardia descoberta de um polêmico escritor português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 12-11-1983, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues</a>
+    RIBEIRO, Leo Gilson. "A tardia descoberta de um polêmico escritor português". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 12-11-1983, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues</a>
 
 === "BibTeX"
     ```latex
@@ -71,9 +74,9 @@ A estas reflexões como que saídas de um ensaio de Camus, José Cardoso Pires a
     title = {'A tardia descoberta de um polêmico escritor português'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues},
     orig_publisher = {'Jornal da Tarde 12-11-1983'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -87,7 +90,7 @@ A estas reflexões como que saídas de um ensaio de Camus, José Cardoso Pires a
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 12-11-1983'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues
     ER  - 
     ```

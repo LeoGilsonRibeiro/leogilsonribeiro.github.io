@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes
+view_url: https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: Sem data
 ---
@@ -39,7 +42,7 @@ Mas editá-los sem censura?
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Angola, num momento de reflexões e mudanças - Entrevista com o escritor angolano Agostinho Mendes". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes</a>
+    RIBEIRO, Leo Gilson. "Angola, num momento de reflexões e mudanças - Entrevista com o escritor angolano Agostinho Mendes". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes</a>
 
 === "BibTeX"
     ```latex
@@ -49,9 +52,9 @@ Mas editá-los sem censura?
     title = {'Angola, num momento de reflexões e mudanças - Entrevista com o escritor angolano Agostinho Mendes'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -65,7 +68,7 @@ Mas editá-los sem censura?
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/05-angola-num-momento-de-reflexoes-e-mudancas-entrevista-com-o-escritor-angolano-agostinho-mendes
     ER  - 
     ```

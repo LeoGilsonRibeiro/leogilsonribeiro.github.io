@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga
+view_url: https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Inédito'
 orig_date: Sem data
 ---
@@ -43,7 +46,7 @@ Matraga aconselha Joãozinho Bem-Bem seu amigo querido a perdoar o velho e o fuj
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Sobre o conto "A Hora e a Vez de Augusto Matraga"". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga</a>
+    RIBEIRO, Leo Gilson. "Sobre o conto "A Hora e a Vez de Augusto Matraga"". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga</a>
 
 === "BibTeX"
     ```latex
@@ -54,9 +57,9 @@ Matraga aconselha Joãozinho Bem-Bem seu amigo querido a perdoar o velho e o fuj
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
     annote = {Quatro páginas datilografadas avulsas e sem data},,
-    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga},
     orig_publisher = {'Inédito'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -70,8 +73,8 @@ Matraga aconselha Joãozinho Bem-Bem seu amigo querido a perdoar o velho e o fuj
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Inédito'
-    Y1  - orig_date: Sem data
+    Y1  - Sem data
     N1  - Quatro páginas datilografadas avulsas e sem data
-    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/04-sobre-o-conto-a-hora-e-a-vez-de-augusto-matraga
     ER  - 
     ```

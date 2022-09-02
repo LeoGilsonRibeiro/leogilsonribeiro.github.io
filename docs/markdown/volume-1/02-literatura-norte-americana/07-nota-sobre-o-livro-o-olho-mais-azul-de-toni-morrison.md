@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/07-nota-sobre-o-livro-o-olho-mais-azul-de-toni-morrison
+view_url: https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/07-nota-sobre-o-livro-o-olho-mais-azul-de-toni-morrison
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/02-literatura-norte-americana/07-nota-sobre-o-livro-o-olho-mais-azul-de-toni-morrison.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/07-nota-sobre-o-livro-o-olho-mais-azul-de-toni-morrison.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Caros Amigos, n.71'
 orig_date: 2003/02
 ---
@@ -15,7 +18,7 @@ Este livro, que levou 25 anos para ser publicado e foi recusado por todas as edi
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Nota sobre o livro O Olho mais Azul de Toni Morrison". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Caros Amigos, n.71, 2003/02. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/07-nota-sobre-o-livro-o-olho-mais-azul-de-toni-morrison</a>
+    RIBEIRO, Leo Gilson. "Nota sobre o livro O Olho mais Azul de Toni Morrison". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Caros Amigos, n.71, 2003/02. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/07-nota-sobre-o-livro-o-olho-mais-azul-de-toni-morrison</a>
 
 === "BibTeX"
     ```latex
@@ -25,9 +28,9 @@ Este livro, que levou 25 anos para ser publicado e foi recusado por todas as edi
     title = {'Nota sobre o livro O Olho mais Azul de Toni Morrison'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/07-nota-sobre-o-livro-o-olho-mais-azul-de-toni-morrison},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/07-nota-sobre-o-livro-o-olho-mais-azul-de-toni-morrison},
     orig_publisher = {'Caros Amigos, n.71'},
-    orig_date = {orig_date: 2003/02}
+    orig_date = {2003/02}
     }
     ```
 
@@ -41,7 +44,7 @@ Este livro, que levou 25 anos para ser publicado e foi recusado por todas as edi
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Caros Amigos, n.71'
-    Y1  - orig_date: 2003/02
-    UR  - www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/07-nota-sobre-o-livro-o-olho-mais-azul-de-toni-morrison
+    Y1  - 2003/02
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/07-nota-sobre-o-livro-o-olho-mais-azul-de-toni-morrison
     ER  - 
     ```

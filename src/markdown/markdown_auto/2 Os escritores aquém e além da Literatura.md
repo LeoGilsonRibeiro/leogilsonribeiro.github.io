@@ -300,6 +300,8 @@ Mestre Guimarães, mineiramente, constrói em silêncio, para o futuro. Sob a mo
 
 ## Orelha para a primeira edição do livro *Estas Estórias* (1969)
 
+Estas Estórias; 1969
+
 *Estas Estórias* são um caleidoscópio do Grande Sertão que o escritor mineiro desvendou para a literatura brasileira e para o mundo: um caleidoscópio que mostra várias de suas fascinantes veredas. No "Vaqueiro Mariano" a captação épica, viril, da natureza selvagem do Pantanal mato-grossense, aliada à compreensão profunda dos seus herois anônimos, os vaqueiros que encontram em Mariano o seu arquétipo definitivo. Em "Os Chapéus Transeuntes" a criação matizada, risonha e filosófica de figuras que lembram uma *commedia dell'arte* mineira, com Vovô Barão e o Ratapulgo. Em "Meu Tio o Iauaretê" a pesquisa estilística realizada no monólogo do índio semi-agregado à civilização tecnológica que encerra, de forma inquietante, este esplêndido mural.
 
 Mas para decifrar todo o facínio do seu texto, Guimarães Rosa pede unicamente a colaboração ativa do leitor. Como todo artista moderno, a partir de Baudelaire, ele faz com T. S. Eliot, com Joyce, Pound, Gadda, Cortázar e Benn proclamando: a arte -- no século XX -- tem uma linguagem própria, como a astronáutica, a música dodecafônica, a arte cinética. Se o leitor aceita o desafio inicial do esforço para penetrar nesse maravilhoso Reino da Linguagem que Guimarães Rosa criou -- inclusive recorrendo ao dicionário para elucidar termos de uso não diário -- ele vislumbrará um reino vasto, majestoso, que o acompanhará sempre.

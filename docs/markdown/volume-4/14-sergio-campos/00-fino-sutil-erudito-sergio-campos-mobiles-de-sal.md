@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal
+view_url: https://www.leogilsonribeiro.com.br/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 1991'
 orig_date: Sem data
 ---
@@ -81,7 +84,7 @@ Não seria possível, por medo de exclusão de algum nome importante, por esquec
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Fino, sutil, erudito: Sérgio Campos, Móbiles de Sal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 1991, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal</a>
+    RIBEIRO, Leo Gilson. "Fino, sutil, erudito: Sérgio Campos, Móbiles de Sal". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 1991, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal</a>
 
 === "BibTeX"
     ```latex
@@ -91,9 +94,9 @@ Não seria possível, por medo de exclusão de algum nome importante, por esquec
     title = {'Fino, sutil, erudito: Sérgio Campos, Móbiles de Sal'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal},
     orig_publisher = {'Jornal da Tarde 1991'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -107,7 +110,7 @@ Não seria possível, por medo de exclusão de algum nome importante, por esquec
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde 1991'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal
     ER  - 
     ```

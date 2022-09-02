@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos
+view_url: https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 20/11/1982
 ---
@@ -63,7 +66,7 @@ Hilda Hilst, no decurso de toda sua prodigiosa criação artística, reflete, nu
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Mais uma obra de Hilda Hilst. Com todos os superlativos". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 20/11/1982. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos</a>
+    RIBEIRO, Leo Gilson. "Mais uma obra de Hilda Hilst. Com todos os superlativos". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 20/11/1982. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos</a>
 
 === "BibTeX"
     ```latex
@@ -73,9 +76,9 @@ Hilda Hilst, no decurso de toda sua prodigiosa criação artística, reflete, nu
     title = {'Mais uma obra de Hilda Hilst. Com todos os superlativos'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 20/11/1982}
+    orig_date = {20/11/1982}
     }
     ```
 
@@ -89,7 +92,7 @@ Hilda Hilst, no decurso de toda sua prodigiosa criação artística, reflete, nu
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 20/11/1982
-    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos
+    Y1  - 20/11/1982
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/11-mais-uma-obra-de-hilda-hilst-com-todos-os-superlativos
     ER  - 
     ```

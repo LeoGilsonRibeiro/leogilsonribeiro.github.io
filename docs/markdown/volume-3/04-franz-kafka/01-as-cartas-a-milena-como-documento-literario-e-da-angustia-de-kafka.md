@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka
+view_url: https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Inédito'
 orig_date: Sem data
 ---
@@ -117,7 +120,7 @@ Como um punhado de cinzas tudo que resta de corpos que já vibraram permamecem a
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "As cartas a Milena como documento literário e da angústia de Kafka". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka</a>
+    RIBEIRO, Leo Gilson. "As cartas a Milena como documento literário e da angústia de Kafka". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka</a>
 
 === "BibTeX"
     ```latex
@@ -128,9 +131,9 @@ Como um punhado de cinzas tudo que resta de corpos que já vibraram permamecem a
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
     annote = {11 páginas datilografadas para o curso},,
-    url = {www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka},
     orig_publisher = {'Inédito'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -144,8 +147,8 @@ Como um punhado de cinzas tudo que resta de corpos que já vibraram permamecem a
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'Inédito'
-    Y1  - orig_date: Sem data
+    Y1  - Sem data
     N1  - 11 páginas datilografadas para o curso
-    UR  - www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka
     ER  - 
     ```

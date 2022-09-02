@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido
+view_url: https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 10/11/1984
 ---
@@ -309,7 +312,7 @@ olhai, vinde vê-lo, o seu nome
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Cecília Meireles. Um canto fascinado e lúcido". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 10/11/1984. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido</a>
+    RIBEIRO, Leo Gilson. "Cecília Meireles. Um canto fascinado e lúcido". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 10/11/1984. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido</a>
 
 === "BibTeX"
     ```latex
@@ -319,9 +322,9 @@ olhai, vinde vê-lo, o seu nome
     title = {'Cecília Meireles. Um canto fascinado e lúcido'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 10/11/1984}
+    orig_date = {10/11/1984}
     }
     ```
 
@@ -335,7 +338,7 @@ olhai, vinde vê-lo, o seu nome
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 10/11/1984
-    UR  - www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido
+    Y1  - 10/11/1984
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido
     ER  - 
     ```

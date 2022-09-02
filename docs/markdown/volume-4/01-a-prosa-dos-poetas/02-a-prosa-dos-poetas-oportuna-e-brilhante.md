@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante
+view_url: https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 26/5/1984
 ---
@@ -83,7 +86,7 @@ A diferença é que diante da mortalha que amortalha os que se acham vivos é s�
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A prosa dos poetas, oportuna e brilhante". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 26/5/1984. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante</a>
+    RIBEIRO, Leo Gilson. "A prosa dos poetas, oportuna e brilhante". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 26/5/1984. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante</a>
 
 === "BibTeX"
     ```latex
@@ -93,9 +96,9 @@ A diferença é que diante da mortalha que amortalha os que se acham vivos é s�
     title = {'A prosa dos poetas, oportuna e brilhante'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 26/5/1984}
+    orig_date = {26/5/1984}
     }
     ```
 
@@ -109,7 +112,7 @@ A diferença é que diante da mortalha que amortalha os que se acham vivos é s�
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 26/5/1984
-    UR  - www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante
+    Y1  - 26/5/1984
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante
     ER  - 
     ```

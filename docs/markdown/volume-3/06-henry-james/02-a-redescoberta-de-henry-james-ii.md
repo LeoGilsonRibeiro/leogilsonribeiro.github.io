@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii
+view_url: https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal de Letras'
 orig_date: 1961/08
 ---
@@ -19,7 +22,7 @@ Finalmente, parece-nos, da mesma forma que tentar ver em sua criação uma mera 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A redescoberta de Henry James II". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal de Letras, 1961/08. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii</a>
+    RIBEIRO, Leo Gilson. "A redescoberta de Henry James II". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Jornal de Letras, 1961/08. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii</a>
 
 === "BibTeX"
     ```latex
@@ -30,9 +33,9 @@ Finalmente, parece-nos, da mesma forma que tentar ver em sua criação uma mera 
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
     annote = {Republicado em Diário de Notícias 1961-12-17},,
-    url = {www.leogilsonribeiro.com.br/volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii},
     orig_publisher = {'Jornal de Letras'},
-    orig_date = {orig_date: 1961/08}
+    orig_date = {1961/08}
     }
     ```
 
@@ -46,8 +49,8 @@ Finalmente, parece-nos, da mesma forma que tentar ver em sua criação uma mera 
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'Jornal de Letras'
-    Y1  - orig_date: 1961/08
+    Y1  - 1961/08
     N1  - Republicado em Diário de Notícias 1961-12-17
-    UR  - www.leogilsonribeiro.com.br/volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/02-a-redescoberta-de-henry-james-ii
     ER  - 
     ```

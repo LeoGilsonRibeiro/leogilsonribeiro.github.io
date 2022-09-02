@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii
+view_url: https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Apresentação de Leo Gilson Ribeiro'
 orig_date: Sem data
 ---
@@ -33,7 +36,7 @@ Mas quem se aventurar, pacientemente, a percorrer com ela essas paisagens de uma
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Hilda Hilst, Ficções (São Paulo: Edições Quíron Limitada, 1977), pp. VII- XII". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Apresentação de Leo Gilson Ribeiro, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii</a>
+    RIBEIRO, Leo Gilson. "Hilda Hilst, Ficções (São Paulo: Edições Quíron Limitada, 1977), pp. VII- XII". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Apresentação de Leo Gilson Ribeiro, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii</a>
 
 === "BibTeX"
     ```latex
@@ -43,9 +46,9 @@ Mas quem se aventurar, pacientemente, a percorrer com ela essas paisagens de uma
     title = {'Hilda Hilst, Ficções (São Paulo: Edições Quíron Limitada, 1977), pp. VII- XII'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii},
     orig_publisher = {'Apresentação de Leo Gilson Ribeiro'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -59,7 +62,7 @@ Mas quem se aventurar, pacientemente, a percorrer com ela essas paisagens de uma
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Apresentação de Leo Gilson Ribeiro'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/05-hilda-hilst-ficcoes-(sao-paulo-edicoes-quiron-limitada-1977)-pp-vii-xii
     ER  - 
     ```

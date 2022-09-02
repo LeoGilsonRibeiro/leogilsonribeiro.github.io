@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna
+view_url: https://www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 25-02-1984'
 orig_date: Sem data
 ---
@@ -295,7 +298,7 @@ Sílvio Pires veio, surpreendentemente, fincar uma força poética e uma origina
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Jovem, cínica, desesperada, terna". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 25-02-1984, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna</a>
+    RIBEIRO, Leo Gilson. "Jovem, cínica, desesperada, terna". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 25-02-1984, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna</a>
 
 === "BibTeX"
     ```latex
@@ -305,9 +308,9 @@ Sílvio Pires veio, surpreendentemente, fincar uma força poética e uma origina
     title = {'Jovem, cínica, desesperada, terna'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna},
     orig_publisher = {'Jornal da Tarde 25-02-1984'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -321,7 +324,7 @@ Sílvio Pires veio, surpreendentemente, fincar uma força poética e uma origina
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde 25-02-1984'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna
     ER  - 
     ```

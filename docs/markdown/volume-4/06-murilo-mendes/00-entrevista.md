@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/06-murilo-mendes/00-entrevista
+view_url: https://www.leogilsonribeiro.com.br/volume-4/06-murilo-mendes/00-entrevista
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/06-murilo-mendes/00-entrevista.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/06-murilo-mendes/00-entrevista.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja, 6-9-1972'
 orig_date: Sem data
 ---
@@ -89,7 +92,7 @@ LGR - No entanto, você desde 1956, achava que a Revolução chinesa era, com a 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Entrevista". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Veja, 6-9-1972, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/06-murilo-mendes/00-entrevista</a>
+    RIBEIRO, Leo Gilson. "Entrevista". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Veja, 6-9-1972, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/06-murilo-mendes/00-entrevista</a>
 
 === "BibTeX"
     ```latex
@@ -99,9 +102,9 @@ LGR - No entanto, você desde 1956, achava que a Revolução chinesa era, com a 
     title = {'Entrevista'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/06-murilo-mendes/00-entrevista},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/06-murilo-mendes/00-entrevista},
     orig_publisher = {'Veja, 6-9-1972'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -115,7 +118,7 @@ LGR - No entanto, você desde 1956, achava que a Revolução chinesa era, com a 
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Veja, 6-9-1972'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-4/06-murilo-mendes/00-entrevista
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/06-murilo-mendes/00-entrevista
     ER  - 
     ```

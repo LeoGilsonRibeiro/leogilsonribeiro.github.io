@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario
+view_url: https://www.leogilsonribeiro.com.br/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'O Estado de São Paulo 31-05-1975'
 orig_date: Sem data
 ---
@@ -301,7 +304,7 @@ para casa quase nua.
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A poesia quase secreta do Recife: Mauro Mota, Itinerário". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: O Estado de São Paulo 31-05-1975, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario</a>
+    RIBEIRO, Leo Gilson. "A poesia quase secreta do Recife: Mauro Mota, Itinerário". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: O Estado de São Paulo 31-05-1975, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario</a>
 
 === "BibTeX"
     ```latex
@@ -311,9 +314,9 @@ para casa quase nua.
     title = {'A poesia quase secreta do Recife: Mauro Mota, Itinerário'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario},
     orig_publisher = {'O Estado de São Paulo 31-05-1975'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -327,7 +330,7 @@ para casa quase nua.
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'O Estado de São Paulo 31-05-1975'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario
     ER  - 
     ```

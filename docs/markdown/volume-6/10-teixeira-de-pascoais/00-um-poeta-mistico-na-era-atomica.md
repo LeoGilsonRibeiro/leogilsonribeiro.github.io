@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica
+view_url: https://www.leogilsonribeiro.com.br/volume-6/10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Diário de Notícias 11-10-1959'
 orig_date: Sem data
 ---
@@ -87,7 +90,7 @@ Capítulo onze
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Um poeta místico na era atômica". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Diário de Notícias 11-10-1959, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica</a>
+    RIBEIRO, Leo Gilson. "Um poeta místico na era atômica". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Diário de Notícias 11-10-1959, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica</a>
 
 === "BibTeX"
     ```latex
@@ -97,9 +100,9 @@ Capítulo onze
     title = {'Um poeta místico na era atômica'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica},
     orig_publisher = {'Diário de Notícias 11-10-1959'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -113,7 +116,7 @@ Capítulo onze
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Diário de Notícias 11-10-1959'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica
     ER  - 
     ```

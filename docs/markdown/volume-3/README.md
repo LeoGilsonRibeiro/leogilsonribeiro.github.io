@@ -4,7 +4,10 @@ author: Fernando Rey Puente
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/
+view_url: https://www.leogilsonribeiro.com.br/volume-3/
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/readme.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/readme.md
+status: 
 orig_date: 2022
 ---
 
@@ -24,7 +27,7 @@ Apesar de tantas décadas terem se passado desde quando esse curso foi pela prim
 
 
 === "ABNT"
-    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/</a>
+    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/</a>
 
 === "BibTeX"
     ```latex
@@ -34,7 +37,7 @@ Apesar de tantas décadas terem se passado desde quando esse curso foi pela prim
     title = {Introdução},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-3/}
+    url = {https://www.leogilsonribeiro.com.br/volume-3/}
     }
     ```
 
@@ -47,6 +50,6 @@ Apesar de tantas décadas terem se passado desde quando esse curso foi pela prim
     TI  - Introdução
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
-    UR  - www.leogilsonribeiro.com.br/volume-3/
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/
     ER  - 
     ```

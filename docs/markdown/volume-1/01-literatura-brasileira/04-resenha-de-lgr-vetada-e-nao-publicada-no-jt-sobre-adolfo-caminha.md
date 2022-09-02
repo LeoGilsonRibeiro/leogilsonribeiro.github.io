@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha
+view_url: https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'In "O Bom Crioulo"'
 orig_date: 1983
 ---
@@ -77,7 +80,7 @@ As questões complexíssimas que *O Bom-Crioulo* suscita fazem deste livro uma r
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Resenha de LGR vetada e não publicada no JT sobre Adolfo Caminha". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: In "O Bom Crioulo", 1983. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha</a>
+    RIBEIRO, Leo Gilson. "Resenha de LGR vetada e não publicada no JT sobre Adolfo Caminha". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: In "O Bom Crioulo", 1983. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha</a>
 
 === "BibTeX"
     ```latex
@@ -88,9 +91,9 @@ As questões complexíssimas que *O Bom-Crioulo* suscita fazem deste livro uma r
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
     annote = {Por ocasião da reedição de sua obra},,
-    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha},
     orig_publisher = {'In "O Bom Crioulo"'},
-    orig_date = {orig_date: 1983}
+    orig_date = {1983}
     }
     ```
 
@@ -104,8 +107,8 @@ As questões complexíssimas que *O Bom-Crioulo* suscita fazem deste livro uma r
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'In "O Bom Crioulo"'
-    Y1  - orig_date: 1983
+    Y1  - 1983
     N1  - Por ocasião da reedição de sua obra
-    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/04-resenha-de-lgr-vetada-e-nao-publicada-no-jt-sobre-adolfo-caminha
     ER  - 
     ```

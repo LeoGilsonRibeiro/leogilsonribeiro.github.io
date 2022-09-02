@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta
+view_url: https://www.leogilsonribeiro.com.br/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 28-1-1978'
 orig_date: Sem data
 ---
@@ -145,7 +148,7 @@ Menotti del Picchia - O que mais me orgulha, o que me deixa mais satisfeito é t
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Menotti del Picchia: "nada me orgulha mais do que ter sido poeta"". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 28-1-1978, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta</a>
+    RIBEIRO, Leo Gilson. "Menotti del Picchia: "nada me orgulha mais do que ter sido poeta"". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 28-1-1978, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta</a>
 
 === "BibTeX"
     ```latex
@@ -155,9 +158,9 @@ Menotti del Picchia - O que mais me orgulha, o que me deixa mais satisfeito é t
     title = {'Menotti del Picchia: "nada me orgulha mais do que ter sido poeta"'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta},
+    url = {https://www.leogilsonribeiro.com.br/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta},
     orig_publisher = {'Jornal da Tarde 28-1-1978'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -171,7 +174,7 @@ Menotti del Picchia - O que mais me orgulha, o que me deixa mais satisfeito é t
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios
     PY  - 2022
     PB  - 'Jornal da Tarde 28-1-1978'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta
     ER  - 
     ```

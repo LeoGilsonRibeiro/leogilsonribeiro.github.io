@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade
+view_url: https://www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 26-10-1984'
 orig_date: Sem data
 ---
@@ -35,7 +38,7 @@ Capítulo II
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Um encontro de Portugal e Brasil. Sobre a liberdade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 26-10-1984, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade</a>
+    RIBEIRO, Leo Gilson. "Um encontro de Portugal e Brasil. Sobre a liberdade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 26-10-1984, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade</a>
 
 === "BibTeX"
     ```latex
@@ -45,9 +48,9 @@ Capítulo II
     title = {'Um encontro de Portugal e Brasil. Sobre a liberdade'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade},
     orig_publisher = {'Jornal da Tarde 26-10-1984'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -61,7 +64,7 @@ Capítulo II
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 26-10-1984'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade
     ER  - 
     ```

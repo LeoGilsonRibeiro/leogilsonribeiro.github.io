@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo
+view_url: https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1976/01/24
 ---
@@ -47,7 +50,7 @@ A escritora Hilda de Almeida Prado Hilst cansou-se prematuramente de ser entendi
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Hilda Hilst. Em prosa ou poesia, a raridade de uma obra à frente de seu tempo". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 1976/01/24. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo</a>
+    RIBEIRO, Leo Gilson. "Hilda Hilst. Em prosa ou poesia, a raridade de uma obra à frente de seu tempo". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 1976/01/24. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo</a>
 
 === "BibTeX"
     ```latex
@@ -57,9 +60,9 @@ A escritora Hilda de Almeida Prado Hilst cansou-se prematuramente de ser entendi
     title = {'Hilda Hilst. Em prosa ou poesia, a raridade de uma obra à frente de seu tempo'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1976/01/24}
+    orig_date = {1976/01/24}
     }
     ```
 
@@ -73,7 +76,7 @@ A escritora Hilda de Almeida Prado Hilst cansou-se prematuramente de ser entendi
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1976/01/24
-    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo
+    Y1  - 1976/01/24
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/04-hilda-hilst-em-prosa-ou-poesia-a-raridade-de-uma-obra-a-frente-de-seu-tempo
     ER  - 
     ```

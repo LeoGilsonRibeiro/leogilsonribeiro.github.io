@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/09-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo
+view_url: https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/09-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/03-literatura-africana/09-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/03-literatura-africana/09-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1977/11/5
 ---
@@ -31,7 +34,7 @@ Não: eu danço, portanto eu me irmano com o próximo, retruca a África alegre.
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. ""A poesia não deve morrer. Senão, que esperança restaria ao mundo?"". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1977/11/5. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/09-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo</a>
+    RIBEIRO, Leo Gilson. ""A poesia não deve morrer. Senão, que esperança restaria ao mundo?"". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1977/11/5. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/09-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo</a>
 
 === "BibTeX"
     ```latex
@@ -41,9 +44,9 @@ Não: eu danço, portanto eu me irmano com o próximo, retruca a África alegre.
     title = {'"A poesia não deve morrer. Senão, que esperança restaria ao mundo?"'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/09-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/09-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1977/11/5}
+    orig_date = {1977/11/5}
     }
     ```
 
@@ -57,7 +60,7 @@ Não: eu danço, portanto eu me irmano com o próximo, retruca a África alegre.
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1977/11/5
-    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/09-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo
+    Y1  - 1977/11/5
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/09-a-poesia-nao-deve-morrer-senao-que-esperanca-restaria-ao-mundo
     ER  - 
     ```

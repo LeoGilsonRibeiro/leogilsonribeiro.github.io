@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano
+view_url: https://www.leogilsonribeiro.com.br/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 12-04-1985'
 orig_date: Sem data
 ---
@@ -39,7 +42,7 @@ Sem dúvida, merecedora do troféu que o Conselho Municipal de Lazer lhe entrego
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Cora Coralina. A morte da poetisa. E de um grande ser humano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 12-04-1985, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano</a>
+    RIBEIRO, Leo Gilson. "Cora Coralina. A morte da poetisa. E de um grande ser humano". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 12-04-1985, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano</a>
 
 === "BibTeX"
     ```latex
@@ -49,9 +52,9 @@ Sem dúvida, merecedora do troféu que o Conselho Municipal de Lazer lhe entrego
     title = {'Cora Coralina. A morte da poetisa. E de um grande ser humano'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano},
     orig_publisher = {'Jornal da Tarde 12-04-1985'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -65,7 +68,7 @@ Sem dúvida, merecedora do troféu que o Conselho Municipal de Lazer lhe entrego
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde 12-04-1985'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano
     ER  - 
     ```

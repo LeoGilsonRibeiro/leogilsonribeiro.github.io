@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva
+view_url: https://www.leogilsonribeiro.com.br/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 29-10-1977'
 orig_date: Sem data
 ---
@@ -43,7 +46,7 @@ Nas estruturas do totalitarismo de Esquerda, como a União Soviética, os movime
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Entrevista com Antônio José Saraiva". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-10-1977, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva</a>
+    RIBEIRO, Leo Gilson. "Entrevista com Antônio José Saraiva". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 29-10-1977, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva</a>
 
 === "BibTeX"
     ```latex
@@ -53,9 +56,9 @@ Nas estruturas do totalitarismo de Esquerda, como a União Soviética, os movime
     title = {'Entrevista com Antônio José Saraiva'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva},
     orig_publisher = {'Jornal da Tarde 29-10-1977'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -69,7 +72,7 @@ Nas estruturas do totalitarismo de Esquerda, como a União Soviética, os movime
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 29-10-1977'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva
     ER  - 
     ```

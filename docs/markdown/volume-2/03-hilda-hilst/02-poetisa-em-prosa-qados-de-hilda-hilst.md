@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst
+view_url: https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja'
 orig_date: 1973/07/11
 ---
@@ -23,7 +26,7 @@ Como soma final, *Qadós* enfeitiça pela beleza rítimica e pelo lirismo de sua
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Poetisa em prosa. Qadós de Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja, 1973/07/11. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst</a>
+    RIBEIRO, Leo Gilson. "Poetisa em prosa. Qadós de Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja, 1973/07/11. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst</a>
 
 === "BibTeX"
     ```latex
@@ -33,9 +36,9 @@ Como soma final, *Qadós* enfeitiça pela beleza rítimica e pelo lirismo de sua
     title = {'Poetisa em prosa. Qadós de Hilda Hilst'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst},
     orig_publisher = {'Veja'},
-    orig_date = {orig_date: 1973/07/11}
+    orig_date = {1973/07/11}
     }
     ```
 
@@ -49,7 +52,7 @@ Como soma final, *Qadós* enfeitiça pela beleza rítimica e pelo lirismo de sua
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Veja'
-    Y1  - orig_date: 1973/07/11
-    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst
+    Y1  - 1973/07/11
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/02-poetisa-em-prosa-qados-de-hilda-hilst
     ER  - 
     ```

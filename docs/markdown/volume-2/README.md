@@ -4,7 +4,10 @@ author: Fernando Rey Puente
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/
+view_url: https://www.leogilsonribeiro.com.br/volume-2/
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/readme.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/readme.md
+status: 
 orig_date: 2022
 ---
 
@@ -16,7 +19,7 @@ Que essas palavras finais tão otimistas e esperançosas de Leo Gilson Ribeiro p
 
 
 === "ABNT"
-    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/</a>
+    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/</a>
 
 === "BibTeX"
     ```latex
@@ -26,7 +29,7 @@ Que essas palavras finais tão otimistas e esperançosas de Leo Gilson Ribeiro p
     title = {Introdução},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/}
+    url = {https://www.leogilsonribeiro.com.br/volume-2/}
     }
     ```
 
@@ -39,6 +42,6 @@ Que essas palavras finais tão otimistas e esperançosas de Leo Gilson Ribeiro p
     TI  - Introdução
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
-    UR  - www.leogilsonribeiro.com.br/volume-2/
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/
     ER  - 
     ```

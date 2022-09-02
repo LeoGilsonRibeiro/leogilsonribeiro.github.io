@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala
+view_url: https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja'
 orig_date: 1974/09/11
 ---
@@ -33,7 +36,7 @@ A literatura não se faz apenas com "cor local e pitoresco". Nem, como Emmanuel 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Resenha do livro - Um fuzil na mão um poema no bolso de Emmanuel Dongala". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, 1974/09/11. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala</a>
+    RIBEIRO, Leo Gilson. "Resenha do livro - Um fuzil na mão um poema no bolso de Emmanuel Dongala". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, 1974/09/11. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala</a>
 
 === "BibTeX"
     ```latex
@@ -43,9 +46,9 @@ A literatura não se faz apenas com "cor local e pitoresco". Nem, como Emmanuel 
     title = {'Resenha do livro - Um fuzil na mão um poema no bolso de Emmanuel Dongala'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala},
     orig_publisher = {'Veja'},
-    orig_date = {orig_date: 1974/09/11}
+    orig_date = {1974/09/11}
     }
     ```
 
@@ -59,7 +62,7 @@ A literatura não se faz apenas com "cor local e pitoresco". Nem, como Emmanuel 
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Veja'
-    Y1  - orig_date: 1974/09/11
-    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala
+    Y1  - 1974/09/11
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala
     ER  - 
     ```

@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros
+view_url: https://www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Diário de Notícias 02-08-1964'
 orig_date: Sem data
 ---
@@ -27,7 +30,7 @@ Saibamos apreciar esteticamente uma acomodação que pode ferir o nosso gosto po
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Tese e Antítese de Eça de Queirós". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Diário de Notícias 02-08-1964, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros</a>
+    RIBEIRO, Leo Gilson. "Tese e Antítese de Eça de Queirós". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Diário de Notícias 02-08-1964, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros</a>
 
 === "BibTeX"
     ```latex
@@ -37,9 +40,9 @@ Saibamos apreciar esteticamente uma acomodação que pode ferir o nosso gosto po
     title = {'Tese e Antítese de Eça de Queirós'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros},
     orig_publisher = {'Diário de Notícias 02-08-1964'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -53,7 +56,7 @@ Saibamos apreciar esteticamente uma acomodação que pode ferir o nosso gosto po
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Diário de Notícias 02-08-1964'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros
     ER  - 
     ```

@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i
+view_url: https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Diário de Notícias'
 orig_date: 1960/02/24
 ---
@@ -23,7 +26,7 @@ A sua investigação "daquilo que jaz por detrás da *mise-em-scène*\... da vid
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A redescoberta de Henry James I". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Diário de Notícias, 1960/02/24. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i</a>
+    RIBEIRO, Leo Gilson. "A redescoberta de Henry James I". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Diário de Notícias, 1960/02/24. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i</a>
 
 === "BibTeX"
     ```latex
@@ -33,9 +36,9 @@ A sua investigação "daquilo que jaz por detrás da *mise-em-scène*\... da vid
     title = {'A redescoberta de Henry James I'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i},
     orig_publisher = {'Diário de Notícias'},
-    orig_date = {orig_date: 1960/02/24}
+    orig_date = {1960/02/24}
     }
     ```
 
@@ -49,7 +52,7 @@ A sua investigação "daquilo que jaz por detrás da *mise-em-scène*\... da vid
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'Diário de Notícias'
-    Y1  - orig_date: 1960/02/24
-    UR  - www.leogilsonribeiro.com.br/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i
+    Y1  - 1960/02/24
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i
     ER  - 
     ```

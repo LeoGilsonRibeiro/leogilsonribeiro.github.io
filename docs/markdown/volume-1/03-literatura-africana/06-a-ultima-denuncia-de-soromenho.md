@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho
+view_url: https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1971/02/24
 ---
@@ -55,7 +58,7 @@ Como para Castro Soromenho, será, como para a consciência do próprio homem, a
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A última denúncia de Soromenho". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1971/02/24. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho</a>
+    RIBEIRO, Leo Gilson. "A última denúncia de Soromenho". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1971/02/24. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho</a>
 
 === "BibTeX"
     ```latex
@@ -65,9 +68,9 @@ Como para Castro Soromenho, será, como para a consciência do próprio homem, a
     title = {'A última denúncia de Soromenho'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1971/02/24}
+    orig_date = {1971/02/24}
     }
     ```
 
@@ -81,7 +84,7 @@ Como para Castro Soromenho, será, como para a consciência do próprio homem, a
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1971/02/24
-    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho
+    Y1  - 1971/02/24
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/06-a-ultima-denuncia-de-soromenho
     ER  - 
     ```

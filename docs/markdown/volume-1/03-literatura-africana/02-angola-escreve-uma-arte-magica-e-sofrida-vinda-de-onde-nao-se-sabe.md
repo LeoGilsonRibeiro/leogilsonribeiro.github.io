@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe
+view_url: https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1981/07/04
 ---
@@ -85,7 +88,7 @@ Até o coro que se ergue na prisão, paralelo ao sangue que se esvai:
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/07/04. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe</a>
+    RIBEIRO, Leo Gilson. "Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1981/07/04. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe</a>
 
 === "BibTeX"
     ```latex
@@ -95,9 +98,9 @@ Até o coro que se ergue na prisão, paralelo ao sangue que se esvai:
     title = {'Angola escreve. Uma arte mágica e sofrida vinda de onde não se sabe'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1981/07/04}
+    orig_date = {1981/07/04}
     }
     ```
 
@@ -111,7 +114,7 @@ Até o coro que se ergue na prisão, paralelo ao sangue que se esvai:
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1981/07/04
-    UR  - www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe
+    Y1  - 1981/07/04
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/02-angola-escreve-uma-arte-magica-e-sofrida-vinda-de-onde-nao-se-sabe
     ER  - 
     ```

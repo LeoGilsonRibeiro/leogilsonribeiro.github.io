@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves
+view_url: https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja'
 orig_date: 1971/07/14
 ---
@@ -27,7 +30,7 @@ Ao formular sua poesia social -- em parte deslocada no tempo, pois alude ao trá
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Invenções e algemas de Castro Alves". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, 1971/07/14. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves</a>
+    RIBEIRO, Leo Gilson. "Invenções e algemas de Castro Alves". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Veja, 1971/07/14. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves</a>
 
 === "BibTeX"
     ```latex
@@ -37,9 +40,9 @@ Ao formular sua poesia social -- em parte deslocada no tempo, pois alude ao trá
     title = {'Invenções e algemas de Castro Alves'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves},
     orig_publisher = {'Veja'},
-    orig_date = {orig_date: 1971/07/14}
+    orig_date = {1971/07/14}
     }
     ```
 
@@ -53,7 +56,7 @@ Ao formular sua poesia social -- em parte deslocada no tempo, pois alude ao trá
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Veja'
-    Y1  - orig_date: 1971/07/14
-    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves
+    Y1  - 1971/07/14
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/02-invencoes-e-algemas-de-castro-alves
     ER  - 
     ```

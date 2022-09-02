@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/01-cecilia-meireles
+view_url: https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/01-cecilia-meireles
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/05-cecilia-meireles/01-cecilia-meireles.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/05-cecilia-meireles/01-cecilia-meireles.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Inédito'
 orig_date: Sem data (provavelmente meados dos anos 60)
 ---
@@ -59,7 +62,7 @@ Sob esse clima de opressão e luxo, com poetas e músicos, escultores como Aleij
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Cecília Meireles". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Inédito, Sem data (provavelmente meados dos anos 60). URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/01-cecilia-meireles</a>
+    RIBEIRO, Leo Gilson. "Cecília Meireles". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Inédito, Sem data (provavelmente meados dos anos 60). URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/01-cecilia-meireles</a>
 
 === "BibTeX"
     ```latex
@@ -70,9 +73,9 @@ Sob esse clima de opressão e luxo, com poetas e músicos, escultores como Aleij
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
     annote = {7 páginas datilografadas},,
-    url = {www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/01-cecilia-meireles},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/01-cecilia-meireles},
     orig_publisher = {'Inédito'},
-    orig_date = {orig_date: Sem data (provavelmente meados dos anos 60)}
+    orig_date = {Sem data (provavelmente meados dos anos 60)}
     }
     ```
 
@@ -86,8 +89,8 @@ Sob esse clima de opressão e luxo, com poetas e músicos, escultores como Aleij
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Inédito'
-    Y1  - orig_date: Sem data (provavelmente meados dos anos 60)
+    Y1  - Sem data (provavelmente meados dos anos 60)
     N1  - 7 páginas datilografadas
-    UR  - www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/01-cecilia-meireles
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/01-cecilia-meireles
     ER  - 
     ```

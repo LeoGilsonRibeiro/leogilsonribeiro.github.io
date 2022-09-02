@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/00-kafka-(curso)
+view_url: https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/00-kafka-(curso)
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/04-franz-kafka/00-kafka-(curso).md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/04-franz-kafka/00-kafka-(curso).md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Inédito'
 orig_date: Sem data
 ---
@@ -45,7 +48,7 @@ Porque para nós o clima irrepetível da angústia que Kafka passou a evocar, ma
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Kafka (Curso)\". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/00-kafka-(curso)</a>
+    RIBEIRO, Leo Gilson. "Kafka (Curso)\". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/00-kafka-(curso)</a>
 
 === "BibTeX"
     ```latex
@@ -56,9 +59,9 @@ Porque para nós o clima irrepetível da angústia que Kafka passou a evocar, ma
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
     annote = {3 das 13 páginas datilografadas para o curso},,
-    url = {www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/00-kafka-(curso)},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/00-kafka-(curso)},
     orig_publisher = {'Inédito'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -72,8 +75,8 @@ Porque para nós o clima irrepetível da angústia que Kafka passou a evocar, ma
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'Inédito'
-    Y1  - orig_date: Sem data
+    Y1  - Sem data
     N1  - 3 das 13 páginas datilografadas para o curso
-    UR  - www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/00-kafka-(curso)
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/00-kafka-(curso)
     ER  - 
     ```

@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson)
+view_url: https://www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson)
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/03-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson).md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson).md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Isto é-Senhor'
 orig_date: 1989/11/08
 ---
@@ -29,7 +32,7 @@ Não se atirou ao chão e uma bomba explodiu, ferindo-o mortalmente. Era o dia 1
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Trágica melancolia (nota sobre a biografia de Ian Gibson)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Isto é-Senhor, 1989/11/08. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson)</a>
+    RIBEIRO, Leo Gilson. "Trágica melancolia (nota sobre a biografia de Ian Gibson)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Isto é-Senhor, 1989/11/08. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson)</a>
 
 === "BibTeX"
     ```latex
@@ -39,9 +42,9 @@ Não se atirou ao chão e uma bomba explodiu, ferindo-o mortalmente. Era o dia 1
     title = {'Trágica melancolia (nota sobre a biografia de Ian Gibson)'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson)},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson)},
     orig_publisher = {'Isto é-Senhor'},
-    orig_date = {orig_date: 1989/11/08}
+    orig_date = {1989/11/08}
     }
     ```
 
@@ -55,7 +58,7 @@ Não se atirou ao chão e uma bomba explodiu, ferindo-o mortalmente. Era o dia 1
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'Isto é-Senhor'
-    Y1  - orig_date: 1989/11/08
-    UR  - www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson)
+    Y1  - 1989/11/08
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson)
     ER  - 
     ```

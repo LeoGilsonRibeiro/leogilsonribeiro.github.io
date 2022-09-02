@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus
+view_url: https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: '> Jornal da Tarde'
 orig_date: 17 de janeiro de 1987
 ---
@@ -69,7 +72,7 @@ Acercar-se de seus textos é aceitar o riso de um impiedoso esquartejamento de t
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Hilda Hilst, cósmica e atemporal. Em busca de Deus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: > Jornal da Tarde, 17 de janeiro de 1987. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus</a>
+    RIBEIRO, Leo Gilson. "Hilda Hilst, cósmica e atemporal. Em busca de Deus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: > Jornal da Tarde, 17 de janeiro de 1987. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus</a>
 
 === "BibTeX"
     ```latex
@@ -79,9 +82,9 @@ Acercar-se de seus textos é aceitar o riso de um impiedoso esquartejamento de t
     title = {'Hilda Hilst, cósmica e atemporal. Em busca de Deus'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus},
     orig_publisher = {'> Jornal da Tarde'},
-    orig_date = {orig_date: 17 de janeiro de 1987}
+    orig_date = {17 de janeiro de 1987}
     }
     ```
 
@@ -95,7 +98,7 @@ Acercar-se de seus textos é aceitar o riso de um impiedoso esquartejamento de t
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - '> Jornal da Tarde'
-    Y1  - orig_date: 17 de janeiro de 1987
-    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus
+    Y1  - 17 de janeiro de 1987
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/14-hilda-hilst-cosmica-e-atemporal-em-busca-de-deus
     ER  - 
     ```

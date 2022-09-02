@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro)
+view_url: https://www.leogilsonribeiro.com.br/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro)
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro).md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro).md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Diário de Notícias 22-01-1961'
 orig_date: Sem data
 ---
@@ -25,7 +28,7 @@ Capítulo dez
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "As novas dimensões do realismo literário (A Selva de Ferreira de Castro)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Diário de Notícias 22-01-1961, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro)</a>
+    RIBEIRO, Leo Gilson. "As novas dimensões do realismo literário (A Selva de Ferreira de Castro)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Diário de Notícias 22-01-1961, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro)</a>
 
 === "BibTeX"
     ```latex
@@ -35,9 +38,9 @@ Capítulo dez
     title = {'As novas dimensões do realismo literário (A Selva de Ferreira de Castro)'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro)},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro)},
     orig_publisher = {'Diário de Notícias 22-01-1961'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -51,7 +54,7 @@ Capítulo dez
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Diário de Notícias 22-01-1961'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro)
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro)
     ER  - 
     ```

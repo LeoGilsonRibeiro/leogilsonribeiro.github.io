@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector
+view_url: https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1969/02/05
 ---
@@ -101,7 +104,7 @@ Recentemente, em uma de suas crônicas num jornal carioca, Clarice Lispector def
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Que mistérios tem Clarice Lispector?". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 1969/02/05. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector</a>
+    RIBEIRO, Leo Gilson. "Que mistérios tem Clarice Lispector?". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 1969/02/05. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector</a>
 
 === "BibTeX"
     ```latex
@@ -111,9 +114,9 @@ Recentemente, em uma de suas crônicas num jornal carioca, Clarice Lispector def
     title = {'Que mistérios tem Clarice Lispector?'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1969/02/05}
+    orig_date = {1969/02/05}
     }
     ```
 
@@ -127,7 +130,7 @@ Recentemente, em uma de suas crônicas num jornal carioca, Clarice Lispector def
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1969/02/05
-    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector
+    Y1  - 1969/02/05
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/01-que-misterios-tem-clarice-lispector
     ER  - 
     ```

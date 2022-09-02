@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos
+view_url: https://www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 5-07-1980'
 orig_date: Sem data
 ---
@@ -333,7 +336,7 @@ Porém, como a poesia contida neste volume comprova de maneira esplêndida, os v
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Vinte anos de poesia, à procura de novos caminhos". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 5-07-1980, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos</a>
+    RIBEIRO, Leo Gilson. "Vinte anos de poesia, à procura de novos caminhos". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 5-07-1980, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos</a>
 
 === "BibTeX"
     ```latex
@@ -343,9 +346,9 @@ Porém, como a poesia contida neste volume comprova de maneira esplêndida, os v
     title = {'Vinte anos de poesia, à procura de novos caminhos'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos},
     orig_publisher = {'Jornal da Tarde 5-07-1980'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -359,7 +362,7 @@ Porém, como a poesia contida neste volume comprova de maneira esplêndida, os v
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde 5-07-1980'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos
     ER  - 
     ```

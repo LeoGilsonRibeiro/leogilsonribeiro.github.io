@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst
+view_url: https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 18 de outubro de 1980
 ---
@@ -173,7 +176,7 @@ Nesta bela e cuidada edição de Massao Ohno e Roswitha Kempf, os que não conhe
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A morte, saudada em versos iluminados. Por Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 18 de outubro de 1980. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst</a>
+    RIBEIRO, Leo Gilson. "A morte, saudada em versos iluminados. Por Hilda Hilst". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 18 de outubro de 1980. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst</a>
 
 === "BibTeX"
     ```latex
@@ -183,9 +186,9 @@ Nesta bela e cuidada edição de Massao Ohno e Roswitha Kempf, os que não conhe
     title = {'A morte, saudada em versos iluminados. Por Hilda Hilst'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 18 de outubro de 1980}
+    orig_date = {18 de outubro de 1980}
     }
     ```
 
@@ -199,7 +202,7 @@ Nesta bela e cuidada edição de Massao Ohno e Roswitha Kempf, os que não conhe
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 18 de outubro de 1980
-    UR  - www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst
+    Y1  - 18 de outubro de 1980
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/08-a-morte-saudada-em-versos-iluminados-por-hilda-hilst
     ER  - 
     ```

@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade
+view_url: https://www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 16-09-1989'
 orig_date: Sem data
 ---
@@ -191,7 +194,7 @@ Haveria reparos a fazer, sobre a desigualdade das coletâneas aqui enfeixadas ("
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Um presente para a sensibilidade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 16-09-1989, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade</a>
+    RIBEIRO, Leo Gilson. "Um presente para a sensibilidade". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 16-09-1989, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade</a>
 
 === "BibTeX"
     ```latex
@@ -201,9 +204,9 @@ Haveria reparos a fazer, sobre a desigualdade das coletâneas aqui enfeixadas ("
     title = {'Um presente para a sensibilidade'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade},
     orig_publisher = {'Jornal da Tarde 16-09-1989'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -217,7 +220,7 @@ Haveria reparos a fazer, sobre a desigualdade das coletâneas aqui enfeixadas ("
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde 16-09-1989'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/03-um-presente-para-a-sensibilidade
     ER  - 
     ```

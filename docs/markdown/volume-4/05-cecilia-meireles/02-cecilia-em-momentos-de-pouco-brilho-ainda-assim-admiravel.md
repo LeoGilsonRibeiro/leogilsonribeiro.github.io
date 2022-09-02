@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel
+view_url: https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 14/3/1981
 ---
@@ -95,7 +98,7 @@ Cecília Meireles, olimpicamente, paira acima da miuçalha do tempo das indignid
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Cecília em momentos de pouco brilho. Ainda assim, admirável". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 14/3/1981. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel</a>
+    RIBEIRO, Leo Gilson. "Cecília em momentos de pouco brilho. Ainda assim, admirável". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 14/3/1981. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel</a>
 
 === "BibTeX"
     ```latex
@@ -105,9 +108,9 @@ Cecília Meireles, olimpicamente, paira acima da miuçalha do tempo das indignid
     title = {'Cecília em momentos de pouco brilho. Ainda assim, admirável'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 14/3/1981}
+    orig_date = {14/3/1981}
     }
     ```
 
@@ -121,7 +124,7 @@ Cecília Meireles, olimpicamente, paira acima da miuçalha do tempo das indignid
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 14/3/1981
-    UR  - www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel
+    Y1  - 14/3/1981
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel
     ER  - 
     ```

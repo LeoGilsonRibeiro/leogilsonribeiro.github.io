@@ -4,7 +4,10 @@ author: Fernando Rey Puente
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/
+view_url: https://www.leogilsonribeiro.com.br/volume-1/
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/readme.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/readme.md
+status: 
 orig_date: 2022
 ---
 
@@ -34,7 +37,7 @@ Um sinal interessante e ao mesmo tempo triste de nossa memória cultural é que 
 
 
 === "ABNT"
-    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/</a>
+    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/</a>
 
 === "BibTeX"
     ```latex
@@ -44,7 +47,7 @@ Um sinal interessante e ao mesmo tempo triste de nossa memória cultural é que 
     title = {Introdução},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/}
+    url = {https://www.leogilsonribeiro.com.br/volume-1/}
     }
     ```
 
@@ -57,6 +60,6 @@ Um sinal interessante e ao mesmo tempo triste de nossa memória cultural é que 
     TI  - Introdução
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
-    UR  - www.leogilsonribeiro.com.br/volume-1/
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/
     ER  - 
     ```

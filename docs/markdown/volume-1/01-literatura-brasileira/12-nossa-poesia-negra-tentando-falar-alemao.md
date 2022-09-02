@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/12-nossa-poesia-negra-tentando-falar-alemao
+view_url: https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/12-nossa-poesia-negra-tentando-falar-alemao
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/01-literatura-brasileira/12-nossa-poesia-negra-tentando-falar-alemao.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/01-literatura-brasileira/12-nossa-poesia-negra-tentando-falar-alemao.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1990/03/17
 ---
@@ -189,7 +192,7 @@ Houvesse mais vagar, não cometeríamos a injustiça de não focalizar outros po
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Nossa poesia negra, tentando falar alemão". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1990/03/17. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/12-nossa-poesia-negra-tentando-falar-alemao</a>
+    RIBEIRO, Leo Gilson. "Nossa poesia negra, tentando falar alemão". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1990/03/17. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/12-nossa-poesia-negra-tentando-falar-alemao</a>
 
 === "BibTeX"
     ```latex
@@ -199,9 +202,9 @@ Houvesse mais vagar, não cometeríamos a injustiça de não focalizar outros po
     title = {'Nossa poesia negra, tentando falar alemão'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/12-nossa-poesia-negra-tentando-falar-alemao},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/12-nossa-poesia-negra-tentando-falar-alemao},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1990/03/17}
+    orig_date = {1990/03/17}
     }
     ```
 
@@ -215,7 +218,7 @@ Houvesse mais vagar, não cometeríamos a injustiça de não focalizar outros po
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1990/03/17
-    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/12-nossa-poesia-negra-tentando-falar-alemao
+    Y1  - 1990/03/17
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/12-nossa-poesia-negra-tentando-falar-alemao
     ER  - 
     ```

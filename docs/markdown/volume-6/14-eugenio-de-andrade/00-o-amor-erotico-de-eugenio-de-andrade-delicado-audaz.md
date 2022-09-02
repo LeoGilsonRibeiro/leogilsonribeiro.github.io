@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz
+view_url: https://www.leogilsonribeiro.com.br/volume-6/14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 15-10-1983'
 orig_date: Sem data
 ---
@@ -109,7 +112,7 @@ Capítulo quinze
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "O amor erótico de Eugênio de Andrade. Delicado, audaz". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 15-10-1983, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz</a>
+    RIBEIRO, Leo Gilson. "O amor erótico de Eugênio de Andrade. Delicado, audaz". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 15-10-1983, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz</a>
 
 === "BibTeX"
     ```latex
@@ -119,9 +122,9 @@ Capítulo quinze
     title = {'O amor erótico de Eugênio de Andrade. Delicado, audaz'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz},
     orig_publisher = {'Jornal da Tarde 15-10-1983'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -135,7 +138,7 @@ Capítulo quinze
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 15-10-1983'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz
     ER  - 
     ```

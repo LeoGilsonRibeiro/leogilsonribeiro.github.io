@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/09-vaqueiro-de-roma
+view_url: https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/09-vaqueiro-de-roma
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/01-guimaraes-rosa/09-vaqueiro-de-roma.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/09-vaqueiro-de-roma.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja'
 orig_date: 17/2/1971
 ---
@@ -17,7 +20,7 @@ Guimarães Rosa é para ele um profeta que anuncia a coisificação do homem pel
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Vaqueiro de Roma". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja, 17/2/1971. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/09-vaqueiro-de-roma</a>
+    RIBEIRO, Leo Gilson. "Vaqueiro de Roma". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Veja, 17/2/1971. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/09-vaqueiro-de-roma</a>
 
 === "BibTeX"
     ```latex
@@ -27,9 +30,9 @@ Guimarães Rosa é para ele um profeta que anuncia a coisificação do homem pel
     title = {'Vaqueiro de Roma'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/09-vaqueiro-de-roma},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/09-vaqueiro-de-roma},
     orig_publisher = {'Veja'},
-    orig_date = {orig_date: 17/2/1971}
+    orig_date = {17/2/1971}
     }
     ```
 
@@ -43,7 +46,7 @@ Guimarães Rosa é para ele um profeta que anuncia a coisificação do homem pel
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Veja'
-    Y1  - orig_date: 17/2/1971
-    UR  - www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/09-vaqueiro-de-roma
+    Y1  - 17/2/1971
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/01-guimaraes-rosa/09-vaqueiro-de-roma
     ER  - 
     ```

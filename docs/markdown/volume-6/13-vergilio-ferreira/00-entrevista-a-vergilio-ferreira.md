@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira
+view_url: https://www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 18-06-1983'
 orig_date: Sem data
 ---
@@ -109,7 +112,7 @@ De cristalização?
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Entrevista a Vergílio Ferreira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 18-06-1983, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira</a>
+    RIBEIRO, Leo Gilson. "Entrevista a Vergílio Ferreira". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 18-06-1983, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira</a>
 
 === "BibTeX"
     ```latex
@@ -119,9 +122,9 @@ De cristalização?
     title = {'Entrevista a Vergílio Ferreira'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira},
     orig_publisher = {'Jornal da Tarde 18-06-1983'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -135,7 +138,7 @@ De cristalização?
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 18-06-1983'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira
     ER  - 
     ```

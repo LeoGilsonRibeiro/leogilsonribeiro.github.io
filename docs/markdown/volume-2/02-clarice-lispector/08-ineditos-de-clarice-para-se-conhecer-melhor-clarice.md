@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice
+view_url: https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 30/05/1981
 ---
@@ -191,7 +194,7 @@ Ela escorregou para os pés da cama, alongou-se em agonia e rompeu num grito pri
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Inéditos de Clarice, para se conhecer melhor Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 30/05/1981. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice</a>
+    RIBEIRO, Leo Gilson. "Inéditos de Clarice, para se conhecer melhor Clarice". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 30/05/1981. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice</a>
 
 === "BibTeX"
     ```latex
@@ -201,9 +204,9 @@ Ela escorregou para os pés da cama, alongou-se em agonia e rompeu num grito pri
     title = {'Inéditos de Clarice, para se conhecer melhor Clarice'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 30/05/1981}
+    orig_date = {30/05/1981}
     }
     ```
 
@@ -217,7 +220,7 @@ Ela escorregou para os pés da cama, alongou-se em agonia e rompeu num grito pri
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 30/05/1981
-    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice
+    Y1  - 30/05/1981
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/08-ineditos-de-clarice-para-se-conhecer-melhor-clarice
     ER  - 
     ```

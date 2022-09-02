@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro
+view_url: https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 20/01/1972
 ---
@@ -45,7 +48,7 @@ Quando outros se empolgam com realizações técnicas, eu me exalto com todos es
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Carta de agradecimento a Clarice, por um novo livro". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 20/01/1972. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro</a>
+    RIBEIRO, Leo Gilson. "Carta de agradecimento a Clarice, por um novo livro". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. Publicação original: Jornal da Tarde, 20/01/1972. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro</a>
 
 === "BibTeX"
     ```latex
@@ -55,9 +58,9 @@ Quando outros se empolgam com realizações técnicas, eu me exalto com todos es
     title = {'Carta de agradecimento a Clarice, por um novo livro'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro},
+    url = {https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 20/01/1972}
+    orig_date = {20/01/1972}
     }
     ```
 
@@ -71,7 +74,7 @@ Quando outros se empolgam com realizações técnicas, eu me exalto com todos es
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 20/01/1972
-    UR  - www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro
+    Y1  - 20/01/1972
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro
     ER  - 
     ```

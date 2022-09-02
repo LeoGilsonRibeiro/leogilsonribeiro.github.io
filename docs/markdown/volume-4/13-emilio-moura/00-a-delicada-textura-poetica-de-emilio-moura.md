@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura
+view_url: https://www.leogilsonribeiro.com.br/volume-4/13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1991
 ---
@@ -21,7 +24,7 @@ Em meio à rica e variada tradição mineira de poesia desde os primórdios do B
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A delicada textura poética de Emílio Moura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 1991. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura</a>
+    RIBEIRO, Leo Gilson. "A delicada textura poética de Emílio Moura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 1991. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura</a>
 
 === "BibTeX"
     ```latex
@@ -31,9 +34,9 @@ Em meio à rica e variada tradição mineira de poesia desde os primórdios do B
     title = {'A delicada textura poética de Emílio Moura'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 1991}
+    orig_date = {1991}
     }
     ```
 
@@ -47,7 +50,7 @@ Em meio à rica e variada tradição mineira de poesia desde os primórdios do B
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 1991
-    UR  - www.leogilsonribeiro.com.br/volume-4/13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura
+    Y1  - 1991
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura
     ER  - 
     ```

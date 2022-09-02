@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/09-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura
+view_url: https://www.leogilsonribeiro.com.br/volume-4/09-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/09-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/09-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 6-12-1975'
 orig_date: Sem data
 ---
@@ -535,7 +538,7 @@ cada dia".
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "João Cabral rega com poesia a aridez de nossa literatura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 6-12-1975, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/09-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura</a>
+    RIBEIRO, Leo Gilson. "João Cabral rega com poesia a aridez de nossa literatura". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 6-12-1975, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/09-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura</a>
 
 === "BibTeX"
     ```latex
@@ -545,9 +548,9 @@ cada dia".
     title = {'João Cabral rega com poesia a aridez de nossa literatura'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/09-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/09-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura},
     orig_publisher = {'Jornal da Tarde 6-12-1975'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -561,7 +564,7 @@ cada dia".
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde 6-12-1975'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-4/09-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/09-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura
     ER  - 
     ```

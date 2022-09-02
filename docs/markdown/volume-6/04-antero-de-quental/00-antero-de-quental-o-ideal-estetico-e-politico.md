@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico
+view_url: https://www.leogilsonribeiro.com.br/volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 28-01-1991'
 orig_date: Sem data
 ---
@@ -27,7 +30,7 @@ Ele, que lutava por um ideal, quando na realidade era um introvertido, um contem
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Antero de Quental: o ideal estético e político". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 28-01-1991, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico</a>
+    RIBEIRO, Leo Gilson. "Antero de Quental: o ideal estético e político". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 28-01-1991, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico</a>
 
 === "BibTeX"
     ```latex
@@ -37,9 +40,9 @@ Ele, que lutava por um ideal, quando na realidade era um introvertido, um contem
     title = {'Antero de Quental: o ideal estético e político'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico},
     orig_publisher = {'Jornal da Tarde 28-01-1991'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -53,7 +56,7 @@ Ele, que lutava por um ideal, quando na realidade era um introvertido, um contem
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 28-01-1991'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico
     ER  - 
     ```

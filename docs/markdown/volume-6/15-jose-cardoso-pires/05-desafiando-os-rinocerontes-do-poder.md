@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder
+view_url: https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 24-09-1988'
 orig_date: Sem data
 ---
@@ -65,7 +68,7 @@ Capítulo dezesseis
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Desafiando os rinocerontes do poder". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 24-09-1988, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder</a>
+    RIBEIRO, Leo Gilson. "Desafiando os rinocerontes do poder". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 24-09-1988, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder</a>
 
 === "BibTeX"
     ```latex
@@ -75,9 +78,9 @@ Capítulo dezesseis
     title = {'Desafiando os rinocerontes do poder'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder},
     orig_publisher = {'Jornal da Tarde 24-09-1988'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -91,7 +94,7 @@ Capítulo dezesseis
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 24-09-1988'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder
     ER  - 
     ```

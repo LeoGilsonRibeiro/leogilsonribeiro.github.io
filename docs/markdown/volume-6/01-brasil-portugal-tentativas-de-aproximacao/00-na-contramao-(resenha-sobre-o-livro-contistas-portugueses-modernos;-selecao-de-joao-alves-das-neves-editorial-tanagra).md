@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)
+view_url: https://www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra).md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra).md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja 26-06-1971'
 orig_date: Sem data
 ---
@@ -25,7 +28,7 @@ Evidentemente, entre os 28 contistas, emergem sempre ilhas de talento num mar ma
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Na contramão (resenha sobre o livro Contistas Portuguêses Modernos; seleção de João Alves das Neves - Editorial Tanagra)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 26-06-1971, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)</a>
+    RIBEIRO, Leo Gilson. "Na contramão (resenha sobre o livro Contistas Portuguêses Modernos; seleção de João Alves das Neves - Editorial Tanagra)". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Veja 26-06-1971, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)</a>
 
 === "BibTeX"
     ```latex
@@ -35,9 +38,9 @@ Evidentemente, entre os 28 contistas, emergem sempre ilhas de talento num mar ma
     title = {'Na contramão (resenha sobre o livro Contistas Portuguêses Modernos; seleção de João Alves das Neves - Editorial Tanagra)'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)},
     orig_publisher = {'Veja 26-06-1971'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -51,7 +54,7 @@ Evidentemente, entre os 28 contistas, emergem sempre ilhas de talento num mar ma
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Veja 26-06-1971'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)
     ER  - 
     ```

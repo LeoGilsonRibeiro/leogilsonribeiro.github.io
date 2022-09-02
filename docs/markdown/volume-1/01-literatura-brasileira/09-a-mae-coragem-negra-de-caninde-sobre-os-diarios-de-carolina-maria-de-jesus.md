@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus
+view_url: https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Christ und Welt, n.28, ano XV'
 orig_date: 1962/07/13
 ---
@@ -51,7 +54,7 @@ O livro da brasileira testemunha similarmente uma crença absoluta na transcend�
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Christ und Welt, n.28, ano XV, 1962/07/13. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus</a>
+    RIBEIRO, Leo Gilson. "A Mãe Coragem negra de Canindé. Sobre os diários de Carolina Maria de Jesus". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Christ und Welt, n.28, ano XV, 1962/07/13. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus</a>
 
 === "BibTeX"
     ```latex
@@ -62,9 +65,9 @@ O livro da brasileira testemunha similarmente uma crença absoluta na transcend�
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
     annote = {Publicado originalmente em alemão. Traduzido por Fernando Rey Puente},,
-    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus},
     orig_publisher = {'Christ und Welt, n.28, ano XV'},
-    orig_date = {orig_date: 1962/07/13}
+    orig_date = {1962/07/13}
     }
     ```
 
@@ -78,8 +81,8 @@ O livro da brasileira testemunha similarmente uma crença absoluta na transcend�
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Christ und Welt, n.28, ano XV'
-    Y1  - orig_date: 1962/07/13
+    Y1  - 1962/07/13
     N1  - Publicado originalmente em alemão. Traduzido por Fernando Rey Puente
-    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus
     ER  - 
     ```

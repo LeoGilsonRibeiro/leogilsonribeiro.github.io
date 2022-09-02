@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/06-henry-james/00-a-musa-tragica
+view_url: https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/00-a-musa-tragica
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/06-henry-james/00-a-musa-tragica.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/06-henry-james/00-a-musa-tragica.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Inédito'
 orig_date: Sem data
 ---
@@ -129,7 +132,7 @@ Como ele próprio declarou, as suas obras não foram escritas com o propósito d
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A musa trágica". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/06-henry-james/00-a-musa-tragica</a>
+    RIBEIRO, Leo Gilson. "A musa trágica". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/00-a-musa-tragica</a>
 
 === "BibTeX"
     ```latex
@@ -140,9 +143,9 @@ Como ele próprio declarou, as suas obras não foram escritas com o propósito d
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
     annote = {12 páginas datilografadas para o curso},,
-    url = {www.leogilsonribeiro.com.br/volume-3/06-henry-james/00-a-musa-tragica},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/00-a-musa-tragica},
     orig_publisher = {'Inédito'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -156,8 +159,8 @@ Como ele próprio declarou, as suas obras não foram escritas com o propósito d
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'Inédito'
-    Y1  - orig_date: Sem data
+    Y1  - Sem data
     N1  - 12 páginas datilografadas para o curso
-    UR  - www.leogilsonribeiro.com.br/volume-3/06-henry-james/00-a-musa-tragica
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/00-a-musa-tragica
     ER  - 
     ```

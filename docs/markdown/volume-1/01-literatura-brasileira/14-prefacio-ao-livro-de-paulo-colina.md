@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina
+view_url: https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores'
 orig_date: 1987
 ---
@@ -57,7 +60,7 @@ Mais elevada e menos efêmera é esta poesia que começa da constatação da qua
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Prefácio ao livro de Paulo Colina". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores, 1987. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina</a>
+    RIBEIRO, Leo Gilson. "Prefácio ao livro de Paulo Colina". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores, 1987. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina</a>
 
 === "BibTeX"
     ```latex
@@ -67,9 +70,9 @@ Mais elevada e menos efêmera é esta poesia que começa da constatação da qua
     title = {'Prefácio ao livro de Paulo Colina'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina},
     orig_publisher = {'In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores'},
-    orig_date = {orig_date: 1987}
+    orig_date = {1987}
     }
     ```
 
@@ -83,7 +86,7 @@ Mais elevada e menos efêmera é esta poesia que começa da constatação da qua
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores'
-    Y1  - orig_date: 1987
-    UR  - www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina
+    Y1  - 1987
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/14-prefacio-ao-livro-de-paulo-colina
     ER  - 
     ```

@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato
+view_url: https://www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 4/11/1978
 ---
@@ -1455,7 +1458,7 @@ A morte ronda muito de seus escritos. Sem morbidez. Até com a originalidade de 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Drummond: comovido, feroz. Exato". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 4/11/1978. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato</a>
+    RIBEIRO, Leo Gilson. "Drummond: comovido, feroz. Exato". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde, 4/11/1978. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato</a>
 
 === "BibTeX"
     ```latex
@@ -1465,9 +1468,9 @@ A morte ronda muito de seus escritos. Sem morbidez. Até com a originalidade de 
     title = {'Drummond: comovido, feroz. Exato'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {orig_date: 4/11/1978}
+    orig_date = {4/11/1978}
     }
     ```
 
@@ -1481,7 +1484,7 @@ A morte ronda muito de seus escritos. Sem morbidez. Até com a originalidade de 
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - orig_date: 4/11/1978
-    UR  - www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato
+    Y1  - 4/11/1978
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato
     ER  - 
     ```

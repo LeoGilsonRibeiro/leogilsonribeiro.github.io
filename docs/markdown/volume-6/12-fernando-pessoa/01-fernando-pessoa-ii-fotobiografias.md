@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias
+view_url: https://www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 09-01-1982'
 orig_date: Sem data
 ---
@@ -329,7 +332,7 @@ Tens só teu corpo, que és tu."
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Fernando Pessoa II: Fotobiografias". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 09-01-1982, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias</a>
+    RIBEIRO, Leo Gilson. "Fernando Pessoa II: Fotobiografias". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. Publicação original: Jornal da Tarde 09-01-1982, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias</a>
 
 === "BibTeX"
     ```latex
@@ -339,9 +342,9 @@ Tens só teu corpo, que és tu."
     title = {'Fernando Pessoa II: Fotobiografias'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias},
+    url = {https://www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias},
     orig_publisher = {'Jornal da Tarde 09-01-1982'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -355,7 +358,7 @@ Tens só teu corpo, que és tu."
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
     PB  - 'Jornal da Tarde 09-01-1982'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias
     ER  - 
     ```

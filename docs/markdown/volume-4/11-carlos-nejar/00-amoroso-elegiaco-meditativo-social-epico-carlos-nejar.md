@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar
+view_url: https://www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 8-07-1978'
 orig_date: Sem data
 ---
@@ -251,7 +254,7 @@ Carlos Nejar se alaç, com sua produção poética extensa e agora em seu apogeu
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Amoroso, elegíaco, meditativo, social, épico: Carlos Nejar". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 8-07-1978, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar</a>
+    RIBEIRO, Leo Gilson. "Amoroso, elegíaco, meditativo, social, épico: Carlos Nejar". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. Publicação original: Jornal da Tarde 8-07-1978, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar</a>
 
 === "BibTeX"
     ```latex
@@ -261,9 +264,9 @@ Carlos Nejar se alaç, com sua produção poética extensa e agora em seu apogeu
     title = {'Amoroso, elegíaco, meditativo, social, épico: Carlos Nejar'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar},
+    url = {https://www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar},
     orig_publisher = {'Jornal da Tarde 8-07-1978'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -277,7 +280,7 @@ Carlos Nejar se alaç, com sua produção poética extensa e agora em seu apogeu
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
     PB  - 'Jornal da Tarde 8-07-1978'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar
     ER  - 
     ```

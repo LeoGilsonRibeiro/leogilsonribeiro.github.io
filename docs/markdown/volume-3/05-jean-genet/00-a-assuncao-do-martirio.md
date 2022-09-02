@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-3/05-jean-genet/00-a-assuncao-do-martirio
+view_url: https://www.leogilsonribeiro.com.br/volume-3/05-jean-genet/00-a-assuncao-do-martirio
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/05-jean-genet/00-a-assuncao-do-martirio.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/05-jean-genet/00-a-assuncao-do-martirio.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Inédito'
 orig_date: Sem data
 ---
@@ -89,7 +92,7 @@ Tendo evocado *o mito* Genet como um sacerdote que terminou de oficiar uma missa
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "A assunção do martírio". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-3/05-jean-genet/00-a-assuncao-do-martirio</a>
+    RIBEIRO, Leo Gilson. "A assunção do martírio". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX</em>, 2022. Publicação original: Inédito, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-3/05-jean-genet/00-a-assuncao-do-martirio</a>
 
 === "BibTeX"
     ```latex
@@ -100,9 +103,9 @@ Tendo evocado *o mito* Genet como um sacerdote que terminou de oficiar uma missa
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX},
     date = {2022},
     annote = {9 páginas datilografadas para o curso},,
-    url = {www.leogilsonribeiro.com.br/volume-3/05-jean-genet/00-a-assuncao-do-martirio},
+    url = {https://www.leogilsonribeiro.com.br/volume-3/05-jean-genet/00-a-assuncao-do-martirio},
     orig_publisher = {'Inédito'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -116,8 +119,8 @@ Tendo evocado *o mito* Genet como um sacerdote que terminou de oficiar uma missa
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 3: Testemunhos Literários do século XX
     PY  - 2022
     PB  - 'Inédito'
-    Y1  - orig_date: Sem data
+    Y1  - Sem data
     N1  - 9 páginas datilografadas para o curso
-    UR  - www.leogilsonribeiro.com.br/volume-3/05-jean-genet/00-a-assuncao-do-martirio
+    UR  - https://www.leogilsonribeiro.com.br/volume-3/05-jean-genet/00-a-assuncao-do-martirio
     ER  - 
     ```

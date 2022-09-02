@@ -4,7 +4,10 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
 date: 2022
-view_url: www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral
+view_url: https://www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral
+edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral.md
+commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral.md
+status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 22-7-1978'
 orig_date: Sem data
 ---
@@ -49,7 +52,7 @@ No final, poeticamente, como em lendas gregas ou amazônicas, Macunaíma perde a
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Astuto ou generoso. Mas sempre amoral". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 22-7-1978, Sem data. URL: <a href="yml_view_url">www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral</a>
+    RIBEIRO, Leo Gilson. "Astuto ou generoso. Mas sempre amoral". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios</em>, 2022. Publicação original: Jornal da Tarde 22-7-1978, Sem data. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral</a>
 
 === "BibTeX"
     ```latex
@@ -59,9 +62,9 @@ No final, poeticamente, como em lendas gregas ou amazônicas, Macunaíma perde a
     title = {'Astuto ou generoso. Mas sempre amoral'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios},
     date = {2022},
-    url = {www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral},
+    url = {https://www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral},
     orig_publisher = {'Jornal da Tarde 22-7-1978'},
-    orig_date = {orig_date: Sem data}
+    orig_date = {Sem data}
     }
     ```
 
@@ -75,7 +78,7 @@ No final, poeticamente, como em lendas gregas ou amazônicas, Macunaíma perde a
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 5: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios
     PY  - 2022
     PB  - 'Jornal da Tarde 22-7-1978'
-    Y1  - orig_date: Sem data
-    UR  - www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral
+    Y1  - Sem data
+    UR  - https://www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral
     ER  - 
     ```
