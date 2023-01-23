@@ -12,7 +12,7 @@ orig_date: Sem data
 
 ---
 
-*Cadernos Brasileiros* em julho de 1965 (12 páginas datilografadas/artigo não publicado)
+Entrevista exclusiva concedida a LGR especialmente para *Cadernos Brasileiros* em julho de 1965 (12 páginas datilografadas/artigo não publicado)
 
 "Dos Gerais, dos campos claros, vinham as boiadas e as lembranças" Guimarães Rosa
 
