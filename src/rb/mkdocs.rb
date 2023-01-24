@@ -4,7 +4,8 @@
 start_time = Time.now
 test_mode = false
 # Converte arquivos em docx em um site utilizando mkdocs
-
+deploy = false
+# deploy? = true
 # Ruby static code analyzer & formatter configurations
 # https://rubocop.github.io/rubocop/
 # rubocop:disable Metrics/BlockLength
@@ -207,6 +208,7 @@ logger.info "Finished creating #{Dir["#{docs_markdown}/**/*.md"].count} markdown
 logger.info "Copying assets from \"#{markdown_stable}\" ..."
 Dir["#{markdown_stable}/*.md"].each do |page_file|
   FileUtils.cp(page_file, docs_markdown) unless dry_run
+  FileUtils.cp(Dir["#{markdown_stable}/CNAME"], docs_markdown) unless dry_run
   logger.debug "Copied #{page_file} to #{docs_markdown}"
 end
 logger.info "Finished copying #{Dir["#{markdown_stable}/**/*.md"].count} assets to \"#{docs_markdown}\""
@@ -245,3 +247,11 @@ logger.info 'Finished'
 logger.info "Script took #{Time.now - start_time}s to complete."
 
 logger.info "#{Dir["#{markdown_auto}/**/*.md"].count} docx files converted, #{Dir["#{docx_dir}/**/*.docx"].count - Dir["#{markdown_auto}/**/*.md"].count} docx files skipped, #{Dir["#{docs_markdown}/**/*.md"].count} markdown files created, #{Dir["#{markdown_stable}/**/*.md"].count} assets copied, #{Dir["#{yml_files}/**/*.yml"].count} yml files transfered"
+
+
+if deploy
+  logger.info 'Deploying to GitHub Pages...'
+  `cd #{BLOG_FOLDER} && git add . && git commit -m "Deployed to GitHub Pages" && git push origin master`
+  `cd #{BLOG_FOLDER} && mkdocs gh-deploy`
+  logger.info 'Finished deploying to GitHub Pages'
+end

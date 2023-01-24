@@ -5,8 +5,8 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 12-04-1985'
 orig_date: Sem data

@@ -4,12 +4,14 @@ author: Fernando Rey Puente
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
-view_url: https://www.leogilsonribeiro.com.br/volume-2/
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/readme.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/readme.md
-status: 
+view_url: https://www.leogilsonribeiro.com.br/volume-2/README
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-2/README.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/README.md
+status: Transcrição completa. Aguardando revisão.
 orig_date: 2022
 ---
+
+Encontrei a frase "os escritores aquém e além da literatura" para designar os três escritores aqui reunidos em um artigo do próprio Leo Gilson Ribeiro sobre Clarice Lispector presente nesta antologia e me pareceu conveniente adotá-lo para nomear a coletânea de textos aqui reunidos.
 
 Ao longo de minha amizade de duas décadas com ele, recordo-me sempre de suas lembranças de episódios relativos a encontros e conversas que havia tido com Guimarães Rosa e com a Clarice Lispector. Quanto a Hilda Hilst, bem, essa foi a razão mesma de eu ter conhecido Leo Gilson Ribeiro, pois fiquei muito impactado ao ler *A Obscena Senhora D.* - obviamente em função de ter lido à época uma resenha do LGR no *Jornal da Tarde* sobre esse livro -- e eu queria conhecer a escritora que o criara. Uma amiga me deu como presente de aniversário o suposto telefone da escritora, hoje tornada célebre, mas logo descobri que esse número não era o correto. Mais uma vez, essa amiga me forneceu um número de telefone, mas desta vez do LGR, pois eu lhe havia dito que foi por intermédio de uma resenha dele que eu havia chegado ao livro de Hilda Hilst comprado na saudosa livraria Duas Cidades. Foi assim então que, a fim de saber como eu poderia entrar em contacto com a escritora, que eu acabei telefonando para o LGR e acabamos falando por quase duas horas ao telefone sobre o Zen Budismo e sobre textos sagrados da Índia. Ao final dessa longa conversa telefônica, ele se ofereceu para irmos um dia à Casa do Sol, o que fizemos algumas semanas depois. A partir daí conheci HH, que revi diversas vezes e acabei com o passar dos anos me tornando amigo de LGR. Em nossas tertúlias literárias ao longo dos anos de nossa amizade era constante ele evocar os dois primeiros escritores aqui enfeixados, bem como a Hilda Hilst, a única dos três que ainda estava viva naquele momento, com incontida admiração por suas obras, de modo que essa recolha de textos sobre esses três escritores de quem LGR foi amigo pessoal e cujas obras ele julgava transcender a propósitos meramente estéticos e literários me parece plenamente justificada.
 
@@ -19,7 +21,7 @@ Que essas palavras finais tão otimistas e esperançosas de Leo Gilson Ribeiro p
 
 
 === "ABNT"
-    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/</a>
+    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-2/README</a>
 
 === "BibTeX"
     ```latex
@@ -29,7 +31,7 @@ Que essas palavras finais tão otimistas e esperançosas de Leo Gilson Ribeiro p
     title = {Introdução},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst},
     date = {2022},
-    url = {https://www.leogilsonribeiro.com.br/volume-2/}
+    url = {https://www.leogilsonribeiro.com.br/volume-2/README}
     }
     ```
 
@@ -42,6 +44,6 @@ Que essas palavras finais tão otimistas e esperançosas de Leo Gilson Ribeiro p
     TI  - Introdução
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 2: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst
     PY  - 2022
-    UR  - https://www.leogilsonribeiro.com.br/volume-2/
+    UR  - https://www.leogilsonribeiro.com.br/volume-2/README
     ER  - 
     ```

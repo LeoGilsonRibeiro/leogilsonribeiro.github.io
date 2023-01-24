@@ -5,8 +5,8 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 24-2-1972'
 orig_date: Sem data

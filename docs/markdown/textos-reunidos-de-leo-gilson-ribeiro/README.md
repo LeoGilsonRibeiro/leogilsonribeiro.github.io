@@ -4,12 +4,14 @@ author: Fernando Rey Puente
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro'
 date: 2022
-view_url: https://www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/textos-reunidos-de-leo-gilson-ribeiro/readme.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/textos-reunidos-de-leo-gilson-ribeiro/readme.md
-status: 
+view_url: https://www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/README
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/textos-reunidos-de-leo-gilson-ribeiro/README.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/textos-reunidos-de-leo-gilson-ribeiro/README.md
+status: Transcrição completa. Aguardando revisão.
 orig_date: 2022
 ---
+
+# Apresentação aos textos reunidos de Leo Gilson Ribeiro
 
 Há muitos anos eu estava guardando um material que eu obtive de Leo Gilson Ribeiro. Tratava-se de inúmeros recortes de jornal e de revistas, bem como um bom número de textos datilografados que ele preservava, mas de modo bastante desordenado, amontoados em prateleiras em um pequeno quarto nos fundos de sua casa. Nestes últimos anos de colapso cultural que estamos vivendo com recorrentes ataques do governo às universidades e aos centros de pesquisa, nada mais importante para um professor universitário do que procurar resgatar parte de nosso passado cultural do esquecimento e torná-lo público.
 
@@ -43,7 +45,7 @@ Boa leitura.
 
 
 === "ABNT"
-    PUENTE, Fernando Rey. "Apresentação aos textos reunidos de Leo Gilson Ribeiro". In <em>Textos Reunidos de Leo Gilson Ribeiro</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/</a>
+    PUENTE, Fernando Rey. "Apresentação aos textos reunidos de Leo Gilson Ribeiro". In <em>Textos Reunidos de Leo Gilson Ribeiro</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/README</a>
 
 === "BibTeX"
     ```latex
@@ -53,7 +55,7 @@ Boa leitura.
     title = {'Apresentação aos textos reunidos de Leo Gilson Ribeiro'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro},
     date = {2022},
-    url = {https://www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/}
+    url = {https://www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/README}
     }
     ```
 
@@ -66,6 +68,6 @@ Boa leitura.
     TI  - 'Apresentação aos textos reunidos de Leo Gilson Ribeiro'
     T2  - Textos Reunidos de Leo Gilson Ribeiro
     PY  - 2022
-    UR  - https://www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/
+    UR  - https://www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/README
     ER  - 
     ```

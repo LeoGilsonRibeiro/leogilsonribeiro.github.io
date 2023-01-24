@@ -4,9 +4,9 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: https://www.leogilsonribeiro.com.br/volume-1/00-introducao/01-perfil-da-literatura-negra
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/00-introducao/01-perfil-da-literatura-negra.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/00-introducao/01-perfil-da-literatura-negra.md
+view_url: https://www.leogilsonribeiro.com.br/volume-1/00-Introducao/01-perfil-da-literatura-negra
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-1/00-Introducao/01-perfil-da-literatura-negra.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/00-Introducao/01-perfil-da-literatura-negra.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Mostra Internacional de São Paulo'
 orig_date: 1985/05/20-26
@@ -166,7 +166,7 @@ O esplêndido escritor irlandês George Bernard Shaw exprimiu esse mesmo anseio 
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Perfil da Literatura Negra". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Mostra Internacional de São Paulo, 1985/05/20-26. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/00-introducao/01-perfil-da-literatura-negra</a>
+    RIBEIRO, Leo Gilson. "Perfil da Literatura Negra". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Mostra Internacional de São Paulo, 1985/05/20-26. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/00-Introducao/01-perfil-da-literatura-negra</a>
 
 === "BibTeX"
     ```latex
@@ -176,7 +176,7 @@ O esplêndido escritor irlandês George Bernard Shaw exprimiu esse mesmo anseio 
     title = {'Perfil da Literatura Negra'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {https://www.leogilsonribeiro.com.br/volume-1/00-introducao/01-perfil-da-literatura-negra},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/00-Introducao/01-perfil-da-literatura-negra},
     orig_publisher = {'Mostra Internacional de São Paulo'},
     orig_date = {1985/05/20-26}
     }
@@ -193,6 +193,6 @@ O esplêndido escritor irlandês George Bernard Shaw exprimiu esse mesmo anseio 
     PY  - 2022
     PB  - 'Mostra Internacional de São Paulo'
     Y1  - 1985/05/20-26
-    UR  - https://www.leogilsonribeiro.com.br/volume-1/00-introducao/01-perfil-da-literatura-negra
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/00-Introducao/01-perfil-da-literatura-negra
     ER  - 
     ```

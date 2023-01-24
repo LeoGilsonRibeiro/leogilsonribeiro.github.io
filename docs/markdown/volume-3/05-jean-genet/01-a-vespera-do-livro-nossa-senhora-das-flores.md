@@ -5,8 +5,8 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/05-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Correio da Manhã'
 orig_date: 1965/07/31

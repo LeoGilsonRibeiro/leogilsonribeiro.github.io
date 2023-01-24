@@ -5,8 +5,8 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969)
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969).md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969).md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969).md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/04-resenha-do-livro-o-mensageiro-de-charles-wright-(editora-nova-critica-1969).md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1969

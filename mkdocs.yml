@@ -53,10 +53,10 @@ theme:
 # MkDocs Plugins
 # https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins
 plugins:
-#  - git-revision-date-localized:
-#      type: iso_date
-#      locale: pt
-#      timezone: America/Sao_Paulo
+ - git-revision-date-localized:
+     type: iso_date
+     locale: pt
+     timezone: America/Sao_Paulo
   - minify:
      minify_html: true
   - search:
@@ -286,6 +286,7 @@ nav:
       - Carlos Nejar:
         - 'Amoroso, elegíaco, meditativo, social, épico - Carlos Nejar': volume-4/11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar.md
         - 'Vinte anos de poesia, à procura de novos caminhos': volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos.md
+        - 'Carlos Nejar, o poeta': volume-4/11-carlos-nejar/02-carlos-nejar-o-poeta.md
       - Mauro Mota:
         - 'A poesia quase secreta do Recife - Mauro Mota, Itinerário': volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario.md
       - Emílio Moura:
@@ -387,3 +388,104 @@ nav:
         - 'Casais Monteiro': volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/00-casais-monteiro.md
         - 'de Maria Isabel Barreno, Maria Teresa Horta e Maria Velho da Costa': volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa.md
         - 'Os novos tempos de Portugal': volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal.md
+    - 'Introdução':
+      - 'Introdução': introducao/README.md
+      - Virginia Woolf:
+        - 'Arte-amor-morte': introducao/01-virginia-woolf/00-arte-amor-morte.md
+        - 'Ela foi muito mal-recebida no Brasil. Pelo tradutor': introducao/01-virginia-woolf/01-ela-foi-muito-mal-recebida-no-brasil-pelo-tradutor.md
+        - 'O retrato de Virginia Woolf. A luta de uma escritora angustiada com o efêmero': introducao/01-virginia-woolf/02-o-retrato-de-virginia-woolf-a-luta-de-uma-escritora-angustiada-com-o-efemero.md
+        - 'Virginia Woolf. Pensamentos ainda brilhantes, 40 anos depois': introducao/01-virginia-woolf/03-virginia-woolf-pensamentos-ainda-brilhantes-40-anos-depois.md
+        - 'Woolf, ainda um enigma (a outra metade do artigo sobre Yourcenar será transcrito na próxima seção consagrada à escritora belga)': introducao/01-virginia-woolf/04-woolf-ainda-um-enigma-(a-outra-metade-do-artigo-sobre-yourcenar-sera-transcrito-na-proxima-secao-consagrada-a-escritora-belga).md
+        - 'Virginia Woolf. Anotações vívidas de uma estilista perfeita': introducao/01-virginia-woolf/05-virginia-woolf-anotacoes-vividas-de-uma-estilista-perfeita.md
+      - Marguerite Yourcenar:
+        - 'Yourcenar na Academia. Um prêmio para a mulher': introducao/02-marguerite-yourcenar/00-yourcenar-na-academia-um-premio-para-a-mulher.md
+        - 'A agonia trágica e solene de Adriano. Num livro deslumbrante': introducao/02-marguerite-yourcenar/01-a-agonia-tragica-e-solene-de-adriano-num-livro-deslumbrante.md
+        - 'Uma viagem ao reino da dor, do amor, do poder, da morte': introducao/02-marguerite-yourcenar/02-uma-viagem-ao-reino-da-dor-do-amor-do-poder-da-morte.md
+        - 'Yourcenar, sempre pioneira. (segunda metade do artigo cuja primeira parte inserimos na seção acima consagrada a Virgínia Woolf)': introducao/02-marguerite-yourcenar/03-yourcenar-sempre-pioneira-(segunda-metade-do-artigo-cuja-primeira-parte-inserimos-na-secao-acima-consagrada-a-virginia-woolf).md
+        - 'E fica o brilho de Marguerite Yourcenar': introducao/02-marguerite-yourcenar/04-e-fica-o-brilho-de-marguerite-yourcenar.md
+      - Doris Lessing:
+        - 'Doris Lessing, brilhante. Apesar da má tradução': introducao/03-doris-lessing/00-doris-lessing-brilhante-apesar-da-ma-traducao.md
+        - 'Trágica, lúcida, renovadora. Doris Lessing': introducao/03-doris-lessing/01-tragica-lucida-renovadora-doris-lessing.md
+        - 'Múltipla Doris Lessing': introducao/03-doris-lessing/02-multipla-doris-lessing.md
+        - 'O teorema espacial de Doris Lessing. Longo e belo': introducao/03-doris-lessing/03-o-teorema-espacial-de-doris-lessing-longo-e-belo.md
+        - 'Doris Lessing de 1952 - apenas uma lembrança arqueológica?': introducao/03-doris-lessing/04-doris-lessing-de-1952-apenas-uma-lembranca-arqueologica.md
+        - 'Doris Lessing, derrubando mitos': introducao/03-doris-lessing/05-doris-lessing-derrubando-mitos.md
+        - 'Doris Lessing, grandiosa. Vital': introducao/03-doris-lessing/06-doris-lessing-grandiosa-vital.md
+        - 'Doris Lessing. Uma rapsódia esplêndida, prisma da condição humana': introducao/03-doris-lessing/07-doris-lessing-uma-rapsodia-esplendida-prisma-da-condicao-humana.md
+        - 'Doris Lessing, a dama de ferro da literatura inglesa': introducao/03-doris-lessing/08-doris-lessing-a-dama-de-ferro-da-literatura-inglesa.md
+        - 'Doris Lessing, a solitária grendeza de uma estilista': introducao/03-doris-lessing/09-doris-lessing-a-solitaria-grendeza-de-uma-estilista.md
+        - 'Doris Lessing. Mais uma vez, fascinante': introducao/03-doris-lessing/10-doris-lessing-mais-uma-vez-fascinante.md
+        - 'Doris Lessing': introducao/03-doris-lessing/11-doris-lessing.md
+        - 'A visita da majestosa senhora': introducao/03-doris-lessing/12-a-visita-da-majestosa-senhora.md
+        - 'Entrevista a Doris Lessing - O triunfo da inteligência. Sem dogmas': introducao/03-doris-lessing/13-entrevista-a-doris-lessing-o-triunfo-da-inteligencia-sem-dogmas.md
+        - 'Lessing, na trilha do horror': introducao/03-doris-lessing/14-lessing-na-trilha-do-horror.md
+    - 'Introdução':
+      - 'Introdução': introducao/README.md
+      - Italo Svevo:
+        - 'Um Romance de Ítalo Svevo': introducao/01-italo-svevo/00-um-romance-de-italo-svevo.md
+        - 'Svevo. Incompreendido, revolucionário. E sem sucessores na Itália': introducao/01-italo-svevo/01-svevo-incompreendido-revolucionario-e-sem-sucessores-na-italia.md
+      - Giuseppe Ungaretti:
+        - 'Ungaretti. Memórias de um poeta maior. Vidente como Rimbaud': introducao/02-giuseppe-ungaretti/00-ungaretti-memorias-de-um-poeta-maior-vidente-como-rimbaud.md
+      - Carlo Emilio Gadda:
+        - 'Gadda (1893-1973)': introducao/03-carlo-emilio-gadda/00-gadda-(1893-1973).md
+        - 'A amargura humana, em linguagem culta': introducao/03-carlo-emilio-gadda/01-a-amargura-humana-em-linguagem-culta.md
+        - 'O mestre Gadda': introducao/03-carlo-emilio-gadda/02-o-mestre-gadda.md
+      - Eugenio Montale:
+        - 'O poeta do amor, da solidão, do Mediterrâneo': introducao/04-eugenio-montale/00-o-poeta-do-amor-da-solidao-do-mediterraneo.md
+        - 'A Borboleta de Dinard. Este livro não foi apenas traduzido. Foi destruído': introducao/04-eugenio-montale/01-a-borboleta-de-dinard-este-livro-nao-foi-apenas-traduzido-foi-destruido.md
+      - Ignazio Silone:
+        - 'Entrevista com Ignazio Silone - ideias, literatura e artes várias': introducao/05-ignazio-silone/00-entrevista-com-ignazio-silone-ideias-literatura-e-artes-varias.md
+      - Carlo Levi:
+        - 'Carlo Levi e a outra Itália': introducao/06-carlo-levi/00-carlo-levi-e-a-outra-italia.md
+        - 'O despertar da consciência (a respeito de um livro de Carlo Levi)': introducao/06-carlo-levi/01-o-despertar-da-consciencia-(a-respeito-de-um-livro-de-carlo-levi).md
+      - Alberto Moravia:
+        - 'Alberto Moravia e os Estudantes': introducao/07-alberto-moravia/00-alberto-moravia-e-os-estudantes.md
+        - 'Alberto Moravia e Elsa Morante - entrevista a Leo Gilson Ribeiro': introducao/07-alberto-moravia/01-alberto-moravia-e-elsa-morante-entrevista-a-leo-gilson-ribeiro.md
+        - 'O mundo exposto de Moravia': introducao/07-alberto-moravia/02-o-mundo-exposto-de-moravia.md
+      - Cesare Pavese:
+        - 'A literatura e o Homem': introducao/08-cesare-pavese/00-a-literatura-e-o-homem.md
+        - 'Tradução de LGR do artigo de Cesare Pavese "Regresso ao Homem"': introducao/08-cesare-pavese/01-traducao-de-lgr-do-artigo-de-cesare-pavese-regresso-ao-homem.md
+        - 'Tradução de LGR do artigo de Cesare Pavese "Ler"': introducao/08-cesare-pavese/02-traducao-de-lgr-do-artigo-de-cesare-pavese-ler.md
+        - 'A literatura como ofício': introducao/08-cesare-pavese/03-a-literatura-como-oficio.md
+        - 'De uma nova literatura': introducao/08-cesare-pavese/04-de-uma-nova-literatura.md
+      - Giorgio Bassani:
+        - 'Giorgio Bassani e o Conto Moderno Italiano': introducao/09-giorgio-bassani/00-giorgio-bassani-e-o-conto-moderno-italiano.md
+      - Primo Levi:
+        - 'Inferno em Auschwitz - resenha sobre o livro Isto é um homem? de Primo Levi': introducao/10-primo-levi/00-inferno-em-auschwitz-resenha-sobre-o-livro-isto-e-um-homem-de-primo-levi.md
+      - Leonardo Sciascia:
+        - 'Caça às bruxas. O caso de Caterina Medici, uma mulher acusada de feitiçaria no século XVII - resenha do livro A Bruxa e o Capitão de Leonardo Sciascia': introducao/11-leonardo-sciascia/00-caca-as-bruxas-o-caso-de-caterina-medici-uma-mulher-acusada-de-feiticaria-no-seculo-xvii-resenha-do-livro-a-bruxa-e-o-capitao-de-leonardo-sciascia.md
+        - 'Sciascia. A palavra radical': introducao/11-leonardo-sciascia/01-sciascia-a-palavra-radical.md
+        - 'Trecho do ensaio La Corda Pazza de L. Sciascia na tradução de Leo Gilson Ribeiro': introducao/11-leonardo-sciascia/02-trecho-do-ensaio-la-corda-pazza-de-l-sciascia-na-traducao-de-leo-gilson-ribeiro.md
+      - Italo Calvino:
+        - 'Italo Calvino': introducao/12-italo-calvino/00-italo-calvino.md
+      - Carlo Castellaneta:
+        - 'Nem arauto nem bobo da corte. O escritor, segundo Caltellaneta': introducao/13-carlo-castellaneta/00-nem-arauto-nem-bobo-da-corte-o-escritor-segundo-caltellaneta.md
+        - 'Tradução do conto de Carlo Castellaneta "Uma mulher invisível) por Leo Gilson Ribeiro': introducao/13-carlo-castellaneta/01-traducao-do-conto-de-carlo-castellaneta-uma-mulher-invisivel)-por-leo-gilson-ribeiro.md
+      - Umberto Eco:
+        - 'Mais um pastel de vento (resenha ao livro de U. Eco O Pêndulo de Foucault)': introducao/14-umberto-eco/00-mais-um-pastel-de-vento-(resenha-ao-livro-de-u-eco-o-pendulo-de-foucault).md
+    - 'Introdução':
+      - 'Introdução': introducao/README.md
+      - Caminhos e encontros:
+        - Caminhos e encontros: introducao/01-caminhos-e-encontros/README.md
+      - Ensaio de Hugo von Hofmannsthal (tradução de Leo Gilson Ribeiro):
+        - Ensaio de Hugo von Hofmannsthal (tradução de Leo Gilson Ribeiro): introducao/02-ensaio-de-hugo-von-hofmannsthal-(traducao-de-leo-gilson-ribeiro)/README.md
+      - As interrelações da pintura, da música e da literatura no período barroco:
+        - As interrelações da pintura, da música e da literatura no período barroco: introducao/03-as-interrelacoes-da-pintura-da-musica-e-da-literatura-no-periodo-barroco/README.md
+      - O Barroco e a literatura:
+        - O Barroco e a literatura: introducao/04-o-barroco-e-a-literatura/README.md
+      - Especificidade da literatura brasileira:
+        - Especificidade da literatura brasileira: introducao/05-especificidade-da-literatura-brasileira/README.md
+      - Psicologia e literatura. As boas e as más relações.:
+        - Psicologia e literatura. As boas e as más relações.: introducao/06-psicologia-e-literatura-as-boas-e-as-mas-relacoes/README.md
+      - Três vezes Toynbee:
+        - 'Toynbee e a sua história': introducao/07-tres-vezes-toynbee/00-toynbee-e-a-sua-historia.md
+        - 'Arnold Toynbee, uma opção para o fim do mundo': introducao/07-tres-vezes-toynbee/01-arnold-toynbee-uma-opcao-para-o-fim-do-mundo.md
+        - 'Toynbee e seu panorama de esperanças e pessimismo': introducao/07-tres-vezes-toynbee/02-toynbee-e-seu-panorama-de-esperancas-e-pessimismo.md
+      - De Selene à Apollo:
+        - De Selene à Apollo: introducao/08-de-selene-a-apollo/README.md
+      - Os autores do grito radical - Ginsberg, Genet, Gadda e Borges:
+        - Os autores do grito radical - Ginsberg, Genet, Gadda e Borges: introducao/09-os-autores-do-grito-radical-ginsberg-genet-gadda-e-borges/README.md
+      - Genet, um homem à margem:
+        - Genet, um homem à margem: introducao/10-genet-um-homem-a-margem/README.md
+      - Um produto que a Alalc não negocia - cultura:
+        - Um produto que a Alalc não negocia - cultura: introducao/11-um-produto-que-a-alalc-nao-negocia-cultura/README.md

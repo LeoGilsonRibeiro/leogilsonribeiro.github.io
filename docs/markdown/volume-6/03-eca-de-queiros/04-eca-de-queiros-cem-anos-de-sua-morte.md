@@ -5,8 +5,8 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Caros Amigos - outubro de 2000'
 orig_date: Sem data

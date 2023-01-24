@@ -5,8 +5,8 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/06-henry-james/01-a-redescoberta-de-henry-james-i.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Diário de Notícias'
 orig_date: 1960/02/24

@@ -5,8 +5,8 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra)
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra).md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra).md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra).md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao-(resenha-sobre-o-livro-contistas-portugueses-modernos;-selecao-de-joao-alves-das-neves-editorial-tanagra).md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja 26-06-1971'
 orig_date: Sem data

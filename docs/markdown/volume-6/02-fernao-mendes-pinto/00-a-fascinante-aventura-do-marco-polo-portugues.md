@@ -5,8 +5,8 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 06-08-1983'
 orig_date: Sem data

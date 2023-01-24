@@ -4,12 +4,14 @@ author: Fernando Rey Puente
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
-view_url: https://www.leogilsonribeiro.com.br/volume-4/
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/readme.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/readme.md
-status: 
+view_url: https://www.leogilsonribeiro.com.br/volume-4/README
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-4/README.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/README.md
+status: Transcrição completa. Aguardando revisão.
 orig_date: 2022
 ---
+
+Nosso intuito com essa antologia de resenhas, artigos, entrevistas e ensaios de Leo Gilson Ribeiro sobre diversas/os poetas brasileiros é o de evidenciar como o crítico literário ao longo de sua longa e produtiva carreira em importantes jornais e revistas de nosso país analisou, valorizou e procurou difundir a produção poética nacional a partir de meados dos anos 60 do século passado.
 
 Duas ausências são notórias nesta recolha: Mário de Andrade e Hilda Hilst. A justificativa para isso é que ambos esses poetas serão abordados em publicações à parte. Textos sobre a quase totalidade da produção de Hilda Hilst (inclusive das suas poesias) serão publicados juntamente com os estudos sobre Guimarães Rosa e Clarice Lispector em um livro específico e um longo ensaio sobre Mário de Andrade, escrito por ocasião de um curso sobre o movimento modernista de 1922 que nosso crítico ministrou em diversas unidades do Sesc no Estado de São Paulo (capital e interior) no ano de 1992 será publicado em um volume especial dedicado à algumas figuras representativas da Semana de Arte Moderna de 1922 de São Paulo.
 
@@ -21,7 +23,7 @@ Esperemos que todo esse material aqui reunido sirva como uma prova inconteste da
 
 
 === "ABNT"
-    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/</a>
+    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-4/README</a>
 
 === "BibTeX"
     ```latex
@@ -31,7 +33,7 @@ Esperemos que todo esse material aqui reunido sirva como uma prova inconteste da
     title = {Introdução},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos},
     date = {2022},
-    url = {https://www.leogilsonribeiro.com.br/volume-4/}
+    url = {https://www.leogilsonribeiro.com.br/volume-4/README}
     }
     ```
 
@@ -44,6 +46,6 @@ Esperemos que todo esse material aqui reunido sirva como uma prova inconteste da
     TI  - Introdução
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 4: Poetas brasileiros contemporâneos
     PY  - 2022
-    UR  - https://www.leogilsonribeiro.com.br/volume-4/
+    UR  - https://www.leogilsonribeiro.com.br/volume-4/README
     ER  - 
     ```

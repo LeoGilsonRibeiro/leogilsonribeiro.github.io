@@ -5,11 +5,11 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 1986\*
+orig_date: 1986\
 ---
 
 *A Razão da Chama* (Edições GRD), apesar de cuidadosamente organizada pela competência do poeta Oswaldo de Camargo, deixa uma impressão estranha de já lida, já percorrida. São vários poetas negros brasileiros, de Caldas Domingos Barbosa a Luís Gonzaga Pinto da Gama, de Cruz e Souza e Lino Pinto Guedes a Solano Trindade, até chegar aos novos poetas contemporâneos: Cuti, Paulo Colina, Abelardo Rodrigues, Éle Semog e outros mais. A impressão que se tem é a de uma releitura, ampliada, da coletânea *Axé*: a temática é estreita e se reduz à constelação de que a epiderme escura é discriminada monstruosamente no Brasil. Dessa verificação inicial se passa à gama inteira de sentimentos que ela causa: revolta pela discriminação, ódio e vingança, orgulho e autenticidade étnica e reconciliação e perdão pela invenção e exercício do racismo pelos brancos e pelos que se consideram brancos no Brasil etc.
@@ -96,7 +96,7 @@ Com exceção de Abelardo Rodrigues e de Éle Semog, os demais poetas não apres
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Poesia. Uma obra reunindo poetas negros de várias épocas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1986\*. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas</a>
+    RIBEIRO, Leo Gilson. "Poesia. Uma obra reunindo poetas negros de várias épocas". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1986\. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas</a>
 
 === "BibTeX"
     ```latex
@@ -108,7 +108,7 @@ Com exceção de Abelardo Rodrigues e de Éle Semog, os demais poetas não apres
     date = {2022},
     url = {https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas},
     orig_publisher = {'Jornal da Tarde'},
-    orig_date = {1986\*}
+    orig_date = {1986\}
     }
     ```
 
@@ -122,7 +122,7 @@ Com exceção de Abelardo Rodrigues e de Éle Semog, os demais poetas não apres
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
     PB  - 'Jornal da Tarde'
-    Y1  - 1986\*
+    Y1  - 1986\
     UR  - https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/11-poesia-uma-obra-reunindo-poetas-negros-de-varias-epocas
     ER  - 
     ```

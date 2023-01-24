@@ -5,8 +5,8 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/03-literatura-africana/12-o-negro-e-a-cultura-de-mocambique-nao-merecem-romance-tao-ruim-quanto-este.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1982/02/27

@@ -5,8 +5,8 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/03-literatura-africana/13-resenha-do-livro-um-fuzil-na-mao-um-poema-no-bolso-de-emmanuel-dongala.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja'
 orig_date: 1974/09/11

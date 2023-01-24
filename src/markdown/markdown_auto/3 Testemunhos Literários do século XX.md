@@ -20,7 +20,7 @@ Apesar de tantas décadas terem se passado desde quando esse curso foi pela prim
 
 # Revolução Estética da Arte Moderna
 
-*Correio da Manhã*; 1965/11/09
+Correio da Manhã; 1965/11/09
 
 ### A dicotomia do mundo contemporâneo
 

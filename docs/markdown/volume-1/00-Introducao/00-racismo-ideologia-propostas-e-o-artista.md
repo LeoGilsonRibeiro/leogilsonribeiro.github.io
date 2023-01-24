@@ -4,9 +4,9 @@ author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: https://www.leogilsonribeiro.com.br/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista.md
+view_url: https://www.leogilsonribeiro.com.br/volume-1/00-Introducao/00-racismo-ideologia-propostas-e-o-artista
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-1/00-Introducao/00-racismo-ideologia-propostas-e-o-artista.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/00-Introducao/00-racismo-ideologia-propostas-e-o-artista.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
 orig_date: 1990/03/16
@@ -34,7 +34,7 @@ E nesse *maelstrom* de ideias em conflito, o poeta, o artista, o escritor de ra�
 
 
 === "ABNT"
-    RIBEIRO, Leo Gilson. "Racismo, ideologia, propostas. E o artista?". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1990/03/16. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista</a>
+    RIBEIRO, Leo Gilson. "Racismo, ideologia, propostas. E o artista?". In PUENTE, Fernando Rey (org.) <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. Publicação original: Jornal da Tarde, 1990/03/16. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/00-Introducao/00-racismo-ideologia-propostas-e-o-artista</a>
 
 === "BibTeX"
     ```latex
@@ -44,7 +44,7 @@ E nesse *maelstrom* de ideias em conflito, o poeta, o artista, o escritor de ra�
     title = {'Racismo, ideologia, propostas. E o artista?'},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {https://www.leogilsonribeiro.com.br/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista},
+    url = {https://www.leogilsonribeiro.com.br/volume-1/00-Introducao/00-racismo-ideologia-propostas-e-o-artista},
     orig_publisher = {'Jornal da Tarde'},
     orig_date = {1990/03/16}
     }
@@ -61,6 +61,6 @@ E nesse *maelstrom* de ideias em conflito, o poeta, o artista, o escritor de ra�
     PY  - 2022
     PB  - 'Jornal da Tarde'
     Y1  - 1990/03/16
-    UR  - https://www.leogilsonribeiro.com.br/volume-1/00-introducao/00-racismo-ideologia-propostas-e-o-artista
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/00-Introducao/00-racismo-ideologia-propostas-e-o-artista
     ER  - 
     ```

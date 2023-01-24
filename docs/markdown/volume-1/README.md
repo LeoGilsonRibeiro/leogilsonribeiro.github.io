@@ -4,12 +4,13 @@ author: Fernando Rey Puente
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
-view_url: https://www.leogilsonribeiro.com.br/volume-1/
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/readme.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/readme.md
-status: 
+view_url: https://www.leogilsonribeiro.com.br/volume-1/README
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-1/README.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/README.md
+status: Transcrição completa. Aguardando revisão.
 orig_date: 2022
 ---
+
 
 Leo Gilson Ribeiro foi certamente um dos intelectuais e críticos de literatura mais engajados em denunciar o racismo, bem como especialmente em divulgar a literatura negra - do Brasil, da América Latina, dos EUA e da África - em nosso país, mas cuja memória, infelizmente, foi acometida da mesma invisibilidade denunciada pelo personagem central de Ralph Ellison em sua importante novela *The Invisible Man*, relato este utilizado sagazmente pelo próprio Leo Gilson Ribeiro no início de uma conferência sobre a literatura negra em 1985 proferida no Centro Cultural São Paulo.
 
@@ -17,7 +18,7 @@ Assim, tanto no que diz respeito à literatura brasileira, quanto em relação �
 
 Desde 1959, isto é, logo após retornar de sua formação acadêmica na Europa (1953-1958 nas universidades de Hamburgo e de Heidelberg), o jovem professor (pois antes mesmo de concluir seu doutorado na Universidade de Hamburgo sobre Teixeira de Pascoaes (*Die* Saudade *als Form des Pantheismus veranchaulicht am Werke von Teixeira de Pascoaes/ A saudade como forma do panteísmo exemplificada na obra de Teixeira e Pascoaes*) Leo Gilson Ribeiro já atuava em Heidelberg como *Lektor* de Literatura Brasileira (o que fez de 1956 até 1958) quando então teve de regressar à primeira universidade na qual havia iniciado seus estudos na Alemanha - a Universidade de Hamburgo - para realizar a defesa de sua tese de Doutorado. No Brasil, contudo, ele não pôde ingressar na vida acadêmica nacional porque para isso ele teria de ter enviado para Brasília o seu diploma original de Doutorado obtido em fevereiro de 1958 junto à Universidade de Hamburgo com a possibilidade, segundo relato pessoal do próprio autor, de perdê-lo, algo que ocorria com frequência naquela época.
 
-O retorno ao Brasil, dada à dificuldade enfrentada para o reconhecimento de seu diploma de Doutorado, leva então o jovem professor a atuar no campo do jornalismo cultural. Isso se deu inicialmente no Rio de Janeiro, onde ele residia, por meio de sua contribuição a diversos jornais (*Diário de Notícias*, *Jornal de Letras* e *Jornal do Brasil*), periódicos (*Comentário* e *Chuvisco*) e revistas (*Manchete* e *Cruzeiro Internacional*), mas especialmente, cabe destacar aqui, a sua atuação junto ao jornal *Correio da Manhã*, veículo no qual criou uma importante coluna cultural intitulada *Caminhos da Cultura*.
+O retorno ao Brasil, dada à dificuldade enfrentada para o reconhecimento de seu diploma de Doutorado, leva então o jovem professor a atuar no campo do jornalismo cultural. Isso se deu inicialmente no Rio de Janeiro, onde ele residia, por meio de sua contribuição a diversos jornais (*Diário de Notícias*, *Jornal de Letras* e *Jornal do Brasil*), periódicos (*Comentário* e *Chuvisco*) e revistas (*Manchete* e *Cruzeiro Internacional*), mas especialmente, cabe destacar aqui, a sua atuação junto ao jornal *Diário de NotíciasDiário de Notícias*, veículo no qual criou uma importante coluna cultural intitulada *Caminhos da Cultura*.
 
 Precisamente neste veículo, onde trabalhou de 1960 a 1966, publica de julho a setembro de 1965 uma série de cinco reportagens voltadas ao tema do racismo e da literatura negra sob o título geral de "Discriminação racial" ("O problema crucial do século XX", "O que significa ser negro", "*Apartheid* - a legalização da paranóia", "África do Sul -- um vasto campo de *Displaced Persons*" e "A África do Sul -- a conivência adia a solução"). Em anotações pessoais datadas de 1966, encontramos um plano exposto pelo autor de lançar um livro ainda naquele ano que seria denominado "Três desafios do século XX" e que seria subdividido em três partes, a primeira focada no tema da opressão cultural do artista na União Soviética, a segunda na discriminação racial nos EUA e na África do Sul e a última dedicada à explosão demográfica nos países subdesenvolvidos. Nessas notas manuscritas, Leo Gilson Ribeiro menciona que já havia escrito sobre vários tópicos relacionados ao racismo, tais como: origens da discriminação racial, Gabineau e a deformação do darwinismo, origens psicológicas do preconceito racial, a vulnerabilidade do Sul e a Guerra Civil, a Ku Klux Klan, dentre vários outros. De fato, encontramos entre seus papéis setenta páginas datilografadas e inéditas que discutem esses e outros temas relativos ao racismo dentro de uma pasta contendo na sua capa o título do livro que pretendia publicar "Três desafios do século XX".
 
@@ -36,8 +37,10 @@ Outro aspecto que chama a atenção e que evidencia a formação acadêmica do a
 Um sinal interessante e ao mesmo tempo triste de nossa memória cultural é que muitos dos livros comentados por Leo Gilson Ribeiro de autores africanos, e que mais recentemente foram reeditados ou traduzidos pela primeira vez, infelizmente, não fazem nenhuma menção ao nosso crítico em suas respectivas introduções. Por outro lado, muitos autores por ele citados, ainda continuam inéditos esperando alguma editora que os disponibilize em boas traduções para o público ledor brasileiro.
 
 
+
+
 === "ABNT"
-    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/</a>
+    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-1/README</a>
 
 === "BibTeX"
     ```latex
@@ -47,7 +50,7 @@ Um sinal interessante e ao mesmo tempo triste de nossa memória cultural é que 
     title = {Introdução},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra},
     date = {2022},
-    url = {https://www.leogilsonribeiro.com.br/volume-1/}
+    url = {https://www.leogilsonribeiro.com.br/volume-1/README}
     }
     ```
 
@@ -60,6 +63,6 @@ Um sinal interessante e ao mesmo tempo triste de nossa memória cultural é que 
     TI  - Introdução
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 1: Racismo e literatura negra
     PY  - 2022
-    UR  - https://www.leogilsonribeiro.com.br/volume-1/
+    UR  - https://www.leogilsonribeiro.com.br/volume-1/README
     ER  - 
     ```

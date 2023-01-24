@@ -5,8 +5,8 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/01-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/07-henriqueta-lisboa/01-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/07-henriqueta-lisboa/01-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-4/07-henriqueta-lisboa/01-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/07-henriqueta-lisboa/01-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 8-9-1979'
 orig_date: Sem data

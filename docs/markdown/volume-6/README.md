@@ -4,12 +4,14 @@ author: Fernando Rey Puente
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
-view_url: https://www.leogilsonribeiro.com.br/volume-6/
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/readme.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/readme.md
-status: 
+view_url: https://www.leogilsonribeiro.com.br/volume-6/README
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-6/README.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/README.md
+status: Transcrição completa. Aguardando revisão.
 orig_date: 2022
 ---
+
+Circunstâncias do seu trabalho na imprensa impediram LGR de escrever (casos de Mário de Sá-Carneiro e de Aquilino Ribeiro) ou de escrever mais extensamente (casos de Fernando Pessoa, de Eugênio de Andrade e de Agustina Bessa-Luís) de alguns autores portugueses que ele tanto admirava. Fica claro, portanto, que a ênfase com que ao longo dos anos foi acolhendo a obra de José Cardoso Pires, deveria corresponder a uma igual produção de textos para os dois autores portugueses contemporâneos, Agustina Bessa-Luís e Eugênio de Andrade, que, segundo nosso crítico escreveu em um artigo de 1988 sobre o romance *Alexandra Alpha* de José Cardoso Pires, constituíam, em suas próprias palavras, "a tríade perfeita da Literatura com L maiúsculo escrita em português". Infelizmente isso não ocorreu pelas contingências das publicações, das efemêrides (relacionadas ao nascimento ou morte desses autores) ou ainda em função das viagens de escritoras ou escritores portugueses ao Brasil.
 
 Apesar disso, acreditamos que o conjunto de autores portugueses entrevistados e cujos livros foram resenhados por LGR oferece aos seus leitores não só um aliciador estímulo para as/os jovens leitores conhecerem grandes obras da multisecular tradição literária de Portugal, com a imensa vantagem de poderem lê-las sem a mediação de uma tradução, mas também um bom apanhado da intensa preocupação do nosso crítico com o resgate que nós temos de fazer da nossa relação literária e cultural com Portugal. Como LGR sumariza no mesmo texto que eu mencionei pouco acima, nós, brasileiras e brasileiros "linguisticamente estamos delimitados pelas fronteiras autênticas: as que têm ao Norte, Portugal, em torno, as literaturas hispano-americanas e, atravessando o oceano Atlântico, a Literatura africana de expressão portuguesa". Em relação a todas essas fronteiras linguísticas nosso crítico dedicou especial atenção como o demonstra em relação à literatura hispano-americana o seu livro publicado em 1988, *O Continente Submerso*: perfis e depoimentos de grandes escritores de *nuestra* América, e este tríptico parece então se completar com este presente livro sobre a literatura portuguesa e outro, por nós também organizado, sobre o racismo e a literatura negra, ainda que neste caso, o livro que organizamos retrata muito mais do que o interesse de nosso crítico apenas pela literatura africana escrita em português a que mais acima ele próprio faz alusão.
 
@@ -19,7 +21,7 @@ Por fim, caberia chamar a atenção da/o leitor/a que em algumas das discussões
 
 
 === "ABNT"
-    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/</a>
+    PUENTE, Fernando Rey. "Introdução". In <em>Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses</em>, 2022. URL: <a href="stable_url">https://www.leogilsonribeiro.com.br/volume-6/README</a>
 
 === "BibTeX"
     ```latex
@@ -29,7 +31,7 @@ Por fim, caberia chamar a atenção da/o leitor/a que em algumas das discussões
     title = {Introdução},
     booktitle = {Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses},
     date = {2022},
-    url = {https://www.leogilsonribeiro.com.br/volume-6/}
+    url = {https://www.leogilsonribeiro.com.br/volume-6/README}
     }
     ```
 
@@ -42,6 +44,6 @@ Por fim, caberia chamar a atenção da/o leitor/a que em algumas das discussões
     TI  - Introdução
     T2  - Textos Reunidos de Leo Gilson Ribeiro, Volume 6: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses
     PY  - 2022
-    UR  - https://www.leogilsonribeiro.com.br/volume-6/
+    UR  - https://www.leogilsonribeiro.com.br/volume-6/README
     ER  - 
     ```

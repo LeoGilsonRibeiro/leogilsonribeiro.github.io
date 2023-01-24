@@ -2,8 +2,9 @@
 def add_metadata(author, editor, title, text, vol_title, path) # rubocop:disable Metrics/AbcSize
 
   begin
-    metadata = text.split(/\n/)[0].split(/\**;\h*\**/).map(&:strip)
-    p metadata
+    metadata = text.split(/\n/)[0].gsub(/\*/, '').split(/;/).map(&:strip)
+    text = text.lines[1..-1].join.strip unless author == AUTHOR1
+    # p metadata
   rescue StandardError
     return text
   end
@@ -23,9 +24,9 @@ def add_metadata(author, editor, title, text, vol_title, path) # rubocop:disable
   publisher = metadata[0] || 'Desconhecido'
   orig_date = metadata[1] || 'Sem data'
   relative_path = path.gsub(BLOG_FOLDER, '')
-  commits_url = "#{MKDOCS_REPO_URL}/commits/main#{relative_path.gsub("", "")}".downcase
-  edit_url = "#{MKDOCS_REPO_URL}/edit/main#{relative_path.gsub("", "")}".downcase
-  stable_url = "https://www.leogilsonribeiro.com.br#{relative_path.gsub(%r{(/docs/markdown|.md)}, "")}".downcase.gsub(%r{(readme|/$)}, '')
+  commits_url = "#{MKDOCS_REPO_URL}/commits/main#{relative_path.gsub("", "")}"
+  edit_url = "#{MKDOCS_REPO_URL}/edit/main/#{relative_path.gsub("", "")}"
+  stable_url = "https://www.leogilsonribeiro.com.br#{relative_path.gsub(%r{(/docs/markdown|.md)}, "")}".gsub(%r{(readme|/$)}, '')
   stable_url_bibtex = "url = {#{stable_url}}"
   stable_url_ris = "UR  - #{stable_url}"
 
@@ -58,7 +59,7 @@ def add_metadata(author, editor, title, text, vol_title, path) # rubocop:disable
 
   if author == 'Fernando Rey Puente'
     publisher = 'leogilsonribeiro.com.br'
-    status = ''
+    status = 'Transcrição completa. Aguardando revisão.'
     date = '2022'
     orig_pub = ''
     orig_pub_bibtex = ''
@@ -112,7 +113,7 @@ def add_metadata(author, editor, title, text, vol_title, path) # rubocop:disable
 
   # yml_header = (partial_yml_header + orig_pub_bibtex + [bibtex.chomp] + [yml_delimiter]).join("\n")
   yml_header = (partial_yml_header + [orig_pub, orig_date] + [yml_delimiter]).reject(&:empty?).join("\n")
-  "#{yml_header}\n\n#{text.lines[1..-1].join.strip}\n\n#{bib_ref}"
+  "#{yml_header}\n\n#{text}\n\n#{bib_ref}"
 end
 
 # 'print_bib: true',

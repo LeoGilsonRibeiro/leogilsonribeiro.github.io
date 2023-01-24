@@ -5342,9 +5342,9 @@ Seria enfadonho repetir *ad nauseuam* exemplos alternados da grandeza e da perda
 
 Permanecem, portanto, tanto *Invocação de Orpheu* como *Um País o Coração* como exercicios poéticos e uma já fecunda lição rumo a um domínio mais pleno do seu estro lírico
 
-Carlos Nejar, o poeta
+## Carlos Nejar, o poeta
 
-Apresentação ao livro *Melhores Poemas de Carlos Nejar* cuja seleção esteve a cargo do próprio Leo Gilson Ribeiro (Editora Global, São Paulo, 1997)
+Melhores Poemas de Carlos Nejar, São Paulo: Editora Global; 1997; Apresentação ao livro *Melhores Poemas de Carlos Nejar* cuja seleção esteve a cargo do próprio Leo Gilson Ribeiro (Editora Global, São Paulo, 1997)
 
 Nejar em árabe quer dizer carpinteiro e Carlos tem sido o carpinteiro de magníficos poemas ao longo de trinta e cinco anos - uma vida adulta inteira de fidelidade à poesia.
 

@@ -5,8 +5,8 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-4/10-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade
-edit_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/10-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade.md
-commits_url: https://github.com/leogilsonribeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/10-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-4/10-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade.md
+commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/10-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 12-04-1986'
 orig_date: Sem data
