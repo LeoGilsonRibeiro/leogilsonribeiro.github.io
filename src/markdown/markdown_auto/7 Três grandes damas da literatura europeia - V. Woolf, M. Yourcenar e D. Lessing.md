@@ -1,3 +1,5 @@
+Volume 7: As três grandes damas da literatura europeia: Virginia Woolf, Marguerite Yourcenar e Doris Lessing
+
 # Introdução
 
 Sem sombra de dúvida, a paixão de Leo Gilson Ribeira pela língua inglesa era total e isso ficava evidente pelos elogios que sempre fazia em nossas conversas para "a maior estilista da língua inglesa" como ele não cansava de repetir. É uma pena que ele nunca teve tempo de escrever um livro inteiro sobre Virginia Woolf ou sobre Doris Lessing, outra de suas grandes paixões literárias. Ambas, conjuntamente com a escritora de língua francesa Marguerite Yourcenar, primeira mulher a entrar na Academia Francesa de Letras, representam uma tríade de autoras muito prestigiadas por nosso crítico e que focalizaram em suas obras questões sobre a mulher para as quais nosso crítico sempre estave muito atento.

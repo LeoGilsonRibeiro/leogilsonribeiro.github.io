@@ -1,3 +1,5 @@
+Volume 9: Conferências, ensaios e alguns artigos especiais
+
 # Introdução
 
 Dentre os papéis e documentos de Leo Gilson Ribeiro encontrei duas conferências datilografadas que nunca foram publicadas. Ambas foram concebidas no âmbito de uma série. No primeiro caso, não sei dizer quantas outras conferências integralizariam o curso sobre a literatura alemã. A primeira é intitulada "Caminhos e encontros" e tem por tema precisamente o encontro de LGR com a literatura alemã; no segundo caso, o próprio autor confirma que se trata da primeira de uma sequência de três conferências que foram por ele pronunciadas na Escola de Teatro da Universidade da Bahia em julho de 1959 e que tinham por escopo investigar a literatura dramatúrgica em três momentos históricos: o período barroco (analisando a Espanha e a Alemanha -- este o conteúdo da primeira e única palestra deste ciclo que aqui publicamos), o período romântico (investigando a Alemanha e a Inglaterra) e, por fim, o período expressionista (ocupando-se da Alemanha e da França). O título da série das três conferências era "As interrelações da pintura, da música e da literatura".

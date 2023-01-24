@@ -1,3 +1,5 @@
+Volume 8: Perscrutando a alma humana: a literatura italiana do pós-guerra
+
 # Introdução
 
 Leo Gilson Ribeiro tinha um interesse muito especial pela literatura italiana e particularmente pela literatura italiana do pós-guerra e por isso resolvemos reunir neste volume os textos que ele pôde escrever ao longo dos anos sobre alguns de seus principais representantes. Optamos por agrupar os escritores aqui enfeixados a partir de um critério cronológico (a data de nascimento de cada um deles) a fim de possibilitar ao leitor uma visão minimamente histórica desse apanhado de artigos escritos sempre por razões circunstanciais: falecimentos, visitas ao Brasil, premiações obtidas ou publicações de traduções de obras de um ou outro desses autores.
