@@ -48,6 +48,11 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
+    - content.action.edit
+    - content.action.view
+    - navigation.footer
+    - announce.dismiss
+
 
 
 # MkDocs Plugins
