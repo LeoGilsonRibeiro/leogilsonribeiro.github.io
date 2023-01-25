@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/05-cecilia-meireles/00-recordando-cecilia-meireles.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Diário de Notícias'
-orig_date: 06/12/1964
+orig_date: 1964-12-06
 ---
 
 A casa no Cosme Velho que eu revia agora eu não percebera bem na noite em que lá estivera, com a poetisa Marly de Oliveira. Uma escada cercada de flores subia em suave labirinto até o andar principal, emoldurando pelas montanhas que culminavam na estátua do Cristo Redentor. Praticamente diante do portão da entrada, a estação do trenzinho que conduz ao topo abrigava turistas platinos na tarde radiosa.

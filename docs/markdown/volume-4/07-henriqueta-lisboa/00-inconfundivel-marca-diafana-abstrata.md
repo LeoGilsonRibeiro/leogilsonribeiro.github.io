@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/07-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tardel'
-orig_date: 18/12/1976
+orig_date: 1976-12-18
 ---
 
 Como que em surdina a poesia de Henriqueta Lisboa ressoa como um cêmbalo em um concerto barroco, a sua rarefeita beleza só audível para quem estiver atento à sua sonoridade propositalmente menor.

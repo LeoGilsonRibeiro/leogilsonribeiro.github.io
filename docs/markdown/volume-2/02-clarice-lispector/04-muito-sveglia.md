@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/04-muito-sveglia.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja'
-orig_date: 24/04/1974
+orig_date: 1974-04-24
 ---
 
 O fantástico sempre foi um dos componentes mais importantes da magistral contista pernambucana Clarice Lispector. E, nesta última coletânea de seus contos (*Onde Estivestes de Noite*?), o surrealismo de situações alucinantes é a tônica dominante. Por exemplo: uma mulher quer ter um filho com seu despertador, outra se perde nos labirintos do Estádio do Maracanã, sem saber como sair nem como entrou lá. Ao mesmo tempo, reaparecem os temas e protagonistas-chave de seus livros anteriores (*Laços de Família* e *A Legião Estrangeira*): a equiparação constante entre o ser humano desamparado e um animal ("De pé no banheiro era tão anônima quanto uma galinha") ou a aguda percepção dos velhos como sucata humana imprestável na atual sociedade tecnológica de consumo ("Dona Maria Rita pensava: depois de velha começara a desaparecer para os outros, só a viam de relance").

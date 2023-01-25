@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/01-breve-roteiro-da-obra-de-guimaraes-rosa.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 15/10/1966
+orig_date: 1966-10-15
 ---
 
 Toda a radical revolução que Guimarães Rosa trouxe à literatura brasileira corresponde, na realidade, a inaugurar o romance brasileiro de validez universal. É claro que o Brasil já tivera em Machado de Assis o seu grande cronista urbano, mas o amargo e cético retratista do desencanto e da desilusão amorosa equivale, como tom e como temática, a um Henry James ou um Eça de Queiroz menor.

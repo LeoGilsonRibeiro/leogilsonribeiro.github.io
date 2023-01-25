@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 11/9/1970
+orig_date: 1970-9-11
 ---
 
 Transplantado para o Rio de Janeiro, o itabirita Carlos Drummond de Andrade levou na sua bagagem imaterial um segundo eu mineiro. Ao lado de sua grande poesia - meditação para orgão, que engloba todos os instrumentos - ele viu desabrochar sa crônica quase diária da cidade - um cravo modernizado, dotado de notas agudas para a ironia e graves para um humor auto-ironizante.

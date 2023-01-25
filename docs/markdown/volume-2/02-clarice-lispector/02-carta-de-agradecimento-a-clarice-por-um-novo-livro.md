@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/02-carta-de-agradecimento-a-clarice-por-um-novo-livro.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 20/01/1972
+orig_date: 1972-01-20
 ---
 
 Clarice Lispector,

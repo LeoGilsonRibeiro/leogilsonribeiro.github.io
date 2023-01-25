@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/05-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 14/3/1981
+orig_date: 1981-3-14
 ---
 
 A incursão do político, administrador, escritor e editor Carlos Lacerda, falecido há pouco, deixou além de marcas profundas nos rumos da vida política, social e cultural brasileira, um vácuo até hoje não preenchido pela sua personalidade polêmica, combativa, lúcida. A Editora Nova Fronteira, empreendimento extraordinário do qual foi fundador e animador decisivo, frutifica até hoje e tem (teve?) como paralelo uma ramificação rarificada para consumo de poucos, denominada "Confraria dos Amigos do Livro". Baseada em modelos franceses e de outros países de tradição editorial multi-seccular, a *Confraria* apresenta grandes nomes ilustrados por artistas plásticos insignes, um pouco à feição das editoras que, nos EUA ou na Europa, se dedicam a restritos clubes de consumidores de livros ou bibliófilos.

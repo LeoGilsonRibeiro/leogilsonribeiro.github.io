@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/09-clarice-uma-mulher-que-morreu-pela-vontade-de-escrever.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 9/12/1982
+orig_date: 1982-12-9
 ---
 
 No plano utilitarista da vida, Clarice Lispector foi uma grande escritora de alcance internacional que morreu vítima de seu maravilhoso talento, no dia 9 de dezembro de 1977, há cinco anos. Morreu vilmente explorada por editoras que lhe roubavam direitos autorais, por jornais que subitamente "dispensavam" as suas inigualáveis crônicas escritas duas, três vezes por semana. Dizer que Clarice morreu pobre, internada de favor, com câncer, num hospital da Previdência Social, é pouco. Em seu depoimento comovente ao *Coojornal* de Porto Alegre, ela relatou a miséria (a fome também?) que passara ludibriada por editores, jornais, pela ausência de uma estrutura industrial brasileira que lhe desse o sustento para seu extraordinário talento. Ela literalmente morreu vítima da compulsão que a tornava quase uma mendiga altiva: a vontade indetível, inútil de escrever.

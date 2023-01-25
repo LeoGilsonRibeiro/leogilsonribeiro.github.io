@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/06-a-hora-das-estrelas.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 19/11/1977
+orig_date: 1977-11-19
 ---
 
 Para muita gente que pensa que lê, a literatura é como as prateleiras de uma farmácia: os autores sociais, "engajados", não se misturam com os "herméticos", que falam de metafísica, assim como o mertiolate está longe dos psicotrópicos.

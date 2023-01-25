@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/07-clarice-num-derradeiro-espelho-diante-de-si-mesma.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 23/12/1978
+orig_date: 1978-12-23
 ---
 
 A morte recente de Clarice Lispector dá à publicação póstuma de seu último livro, *Um Sopro de Vida*, um alcance arqueológico. São frases desenterradas, lascas de uma intenção fronteiriça que a depauperação orgânica impediu de realizar melhor. É um rascunho, um esboço que retrataria globalmente as suas mais fundas preocupações finais. Para quem conhece, no entanto, o inimitável sortilégio que se desprende de *A Paixão Segundo G. H.*, *Laços de Família*, *Felicidade Clandestina* e outras criações suas, permanece a insatisfação diante da obra a ser revista, podada, enxertada para alcançar a perfeição altíssima dos momentos anteriores. Para o leitor que não conhecer nem o nome de Clarice Lispector, esses círculos concêntricos de tensão em torno de si mesma parecerão indecifráveis e talvez sustem a leitura.

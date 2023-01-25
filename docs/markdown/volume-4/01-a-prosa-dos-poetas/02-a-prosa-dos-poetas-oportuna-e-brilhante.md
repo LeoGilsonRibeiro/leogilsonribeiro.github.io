@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 26/5/1984
+orig_date: 1984-5-26
 ---
 
 Último jardineiro a cultivar as flores caboclas deste jardim brasileiro - a crônica - Carlos Drummond de Andrade, involuntariamente, mostra que a arte da crônica - a não ser em suas escalavradas e mágicas mãos - morreu.

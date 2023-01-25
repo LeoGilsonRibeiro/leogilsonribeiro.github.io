@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/11-guimaraes-rosa-novas-luzes-sobre-um-fascinante-enigma.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 6/10/1984
+orig_date: 1984-10-6
 ---
 
 Sem exagero, pode-se afirmar que a literatura brasileira se rasga de alto a baixo, em *dois modos de ser*: antes de 1956 e depois desta data, a da publicação de *Grande Sertão: Veredas* de Guimarães Rosa. Comprovadamente, qualquer pessoa que folhear um razoável manual da nossa literatura deparará com nomes e obras em grande profusão. Uns e outras, forçosamente menores, noutros casos já se delineiam perfis assombrosos de uma genialidade pouco a pouco reconhecida -- nenhum, porém, com a altivez desafiadora e novíssima, irrepetível, dessa imensa cordilheira mineira até hoje indecifrada. Esfinge de enigmas nunca traduzidos para o linguajar prosaico e a compreensão reles do dia-a-dia, Guimarães Rosa, continua a formular interrogações. Mesmo os nossos melhores críticos lhe respondem apenas com fragmentos, por vezes argutos, de uma sua possível exegese, nunca, porém, com um estudo abrangente e marcante da sua ciclópica obra. Nada que se compare, por exemplo, à *Vida e Obra de Fernando Pessoa*, de João Gaspar Simões, em Portugal.

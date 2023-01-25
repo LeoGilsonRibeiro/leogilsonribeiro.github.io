@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/05-tutameia-um-atomo-explode.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 19/8/1967
+orig_date: 1967-8-19
 ---
 
 De todas as obras magistrais já publicadas pelo maior escritor que o Brasil possui, no sentido universal do termo, esta *Tutaméia* é, sem dúvida, a mais moderna, diríamos mesmo a mais atual no plano da linguagem. T. S. Eliot já revelara, no plano da poesia, a característica fundamental da lírica moderna: ela exige a participação plena do leitor. Este não recebe mais, toda pronta, a obra elaborada pelo artista: ao contrário, o leitor é chamado a cooperar na decifração das imagens e ideias que o poeta esboça, tornando-se ele próprio co-autor do poema, pelo quinhão de compreensão e esforço de complementação que traz à página que tem diante dos olhos.

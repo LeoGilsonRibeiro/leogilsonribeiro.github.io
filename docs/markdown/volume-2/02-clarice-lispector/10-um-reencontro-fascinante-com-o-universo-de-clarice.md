@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/10-um-reencontro-fascinante-com-o-universo-de-clarice.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 27/08/1983
+orig_date: 1983-08-27
 ---
 
 A oportuna 12a edição dos contos de Clarice Lispector reunidos em *Laços de Família* (Editora Nova Fronteira) renova a quase que uma geração inteira a importância e o fascínio perenes da revolução literária que ela trouxe à vida cultural brasileira. Deslocando-se do Nordeste intensamente voltado para os problemas sociais da seca, da decadência dos engenhos de açúcar e a perda de sua hegemonia para as economias do Sul do País, antes de Clarice Lispector a sensibilidade e a inventividade brasileiras estavam suspensas. O ato de escrever esgotara-se na denúncia das injustiças sociais e na evocação de uma camada aristocrática já passada? José Américo e José Lins do Rego, Rachel de Queiroz e o exemplo maior - Graciliano Ramos - tinham delimitado num painel gigantesco as fronteiras da prosa? A alternativa seria o romance baiano cheio de tempero local de um Jorge Amado, com sua antecipação de um "socialismo moreno" e sensual?

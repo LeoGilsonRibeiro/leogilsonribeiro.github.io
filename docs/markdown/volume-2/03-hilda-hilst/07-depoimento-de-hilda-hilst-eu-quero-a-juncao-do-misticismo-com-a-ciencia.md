@@ -8,8 +8,8 @@ view_url: https://www.leogilsonribeiro.com.br/volume-2/03-hilda-hilst/07-depoime
 edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/03-hilda-hilst/07-depoimento-de-hilda-hilst-eu-quero-a-juncao-do-misticismo-com-a-ciencia.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/03-hilda-hilst/07-depoimento-de-hilda-hilst-eu-quero-a-juncao-do-misticismo-com-a-ciencia.md
 status: Transcrição completa. Aguardando revisão.
-orig_publisher: 'Jornal da Tarde'
-orig_date: 15/3/1980 e O Estado de São Paulo 16/3/1980
+orig_publisher: 'Jornal da Tarde / O Estado de São Paulo'
+orig_date: 1980-3-15 / 1980-3-16
 ---
 
 Em seu mais recente livro, *Tu não te moves de Ti* (Editora Cultura, SP), a ser lançado amanhã, a escritora paulista Hilda Hilst elabora uma narrativa tripla, três personagens, da Razão (Tadeu), Matamoros (da Fantasia) e Axelrod (da Proporção), que reproduzem aquela confluência einsteiniana de que, vistos à distância, o presente, o passado e o futuro coincidem como uma só ponta no infinito.

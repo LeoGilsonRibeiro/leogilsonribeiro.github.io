@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/01-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 10/5/1966
+orig_date: 1966-5-10
 ---
 
 A crônica é um gênero literário peculiar ao Brasil. Cultivada com grande maestria por Rachel de Queiroz e Rubem Braga, nobilitada pela adesão de grandes poetas como Cecília Meirelles e Carlos Drummond de Andrade, constitui o registro sensível da fisionomia de uma grande cidade ou de momentos cruciais da vida de um povo. As colaborações de Manuel Bandeira a este filão menor, embora contínuas, estavam dispersas em vários jornais e revistas, Carlos Drummond de Andrade coligiu-as no propósito de salvar "um acervo de ideias, reflexões e anotações características de um poeta que nunca deixou de ser prosador seguro e gracioso, e jamais se eximiu de participar da vida de seu tempo e de seu país, pelo exercício simultâneo do lirismo e da razão empenhada em criar, aferir e difundir valores. Poeta prosador que fez de sua própria vida espelho de desinteresse pessoal e da dedicação ao melhor do homem".

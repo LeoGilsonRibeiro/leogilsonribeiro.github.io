@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/05-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 10/11/1984
+orig_date: 1984-11-10
 ---
 
 "Além disso, o universo não poderia deter-se num limite extremo, já que a natureza não o permitiria: ela quer que a matéria seja limitada pelo vazio e o vazio pela matéria e por meio dessas alternâncias tudo seja infinito"

@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/11-clarice-doando-um-fragmento-iluminado-de-si-mesma-nestas-cronicas.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 16/11/1984
+orig_date: 1984-11-16
 ---
 
 *A Descoberta do Mundo*, um grosso volume de quase 800 páginas, reúne, pela Editora Nova Fronteira, as crônicas publicadas de Clarice Lispector na imprensa carioca de 1967 a 1973. Não fossem as indispensáveis reimpressões de cronistas insignes como Rubem Braga, Carlos Drummond de Andrade, Cecília Meireles e outros, a grande maioria dos leitores não teria acesso a esse trabalho miniaturesco, mas nem por isso menos perfeito de alguns dos nossos maiores escritores.

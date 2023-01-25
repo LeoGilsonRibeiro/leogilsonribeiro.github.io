@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/02-manuel-bandeira/01-manuel-bandeira.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 19/04/1986
+orig_date: 1986-04-19
 ---
 
 Há cem anos (em 19/4/1886) nascia no Pernambuco o poeta que usou os versos para vencer a doença e a morte iminente. Conseguiu muito mais que isso: com sua grandeza, modernizou nossa poesia.

@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 7/05/1975
+orig_date: 1975-05-7
 ---
 
 *A Maçã no Escuro*, Clarice Lispector (Editora Paz e Terra, 4a edição)

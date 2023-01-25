@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/01-guimaraes-rosa/08-guimaraes-rosa-25-anos-de-veredas.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 13/6/1981
+orig_date: 1981-6-13
 ---
 
 Nunca, no Brasil, ninguém ousara tanto. Pois não é que naquele calmo ano de 1946, apeado o ditador Getúlio Vargas de seu trono absolutista e vencidos os nazi-fascistas na Europa e no Pacífico, um desconhecido ousava começar um livro de título já complicado, *Sagarana*, com a descrição minuciosa de uma carga de bois no interior de Minas Gerais sendo embarcados nos trens rumo aos matadouros?

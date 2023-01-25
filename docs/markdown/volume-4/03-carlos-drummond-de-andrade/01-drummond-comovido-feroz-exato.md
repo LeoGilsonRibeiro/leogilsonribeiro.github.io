@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/03-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 4/11/1978
+orig_date: 1978-11-4
 ---
 
 Em seu último livro de poemas, *Discurso de Primavera e Algumas Sombras*, Carlos Drummond de Andrade continua imune à erosão do Tempo. Supremo poeta vivo do Ocidente - posição que os maiores intelectuais norte-americanos lhe reconhecem de forma crescente e justa -, um dos três poetas mais perfeitos do idioma, mesmo em um livro de circunstância como este, ele consegue ser o Orfeu brasileiro a resgatar a sua Eurídice, a mediocridade, da ausência de talento, descobrindo todo um universo poético insuspeitado mesmo nos acontecimentos mais cotidianos. Sua lira profunda paralisa as feras da estupidez e do marasmo, da leviandade que se engalana com plumas pseudo-literárias e sua poesia encanta pelo enlevo da sua melodia. Na lírica do Brasil, ele é o primeiro clarividente, aquele Baudelaire precoce, *voyant* como o definia lucidamente Rimbaud.

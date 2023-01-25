@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/03-carlos-drummond-de-andrade/00-o-universo-mineiro-de-drummond.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'
-orig_date: 18/06/1969
+orig_date: 1969-06-18
 ---
 
 O grande público só conhece os poemas-sensação de Carlos Drummond de Andrade. Espantando a classe média pelo seu tom de enigma, ou de galhofa, seu primeiro livro *Alguma Poesia*, publicado na Belo Horizonte de 1930, parecia uma zombaria para o público acostumado só com o soneto parnasiano que falava de "formas ebúrneas" ou como delírio verboso-carnal J. G. de Araújo Jorge. Pois podia ser poesia um poema que em certo trecho dizia:

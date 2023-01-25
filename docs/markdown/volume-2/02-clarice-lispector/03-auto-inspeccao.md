@@ -9,7 +9,7 @@ edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/ma
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/03-auto-inspeccao.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Veja'
-orig_date: 19/09/1973
+orig_date: 1973-09-19
 ---
 
 Não contente em ser a mais admirável contista da América Latina, Clarice Lispector conseguiu superar o seu maior desafio pessoal. *Água Viva* - a meio caminho entre o conto e o romance - conserva da história curta a concisão que condensa no mínimo de palavras o máximo de impacto, reticência e profundidade de percepção sensível. E do romance guarda a continuidade do clima narrativo, gênero em que Clarice Lispector criou uma expressão própria e pioneira na literatura em português, mas por vezes de um hermetismo subjetivo que cansava o leitor um pouco menos paciente.
