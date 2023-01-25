@@ -1,5 +1,5 @@
 ---
-title: 'Guimarães Rosa: o sertão, o mundo e a travessia. Entrevista inédita com G. Rosa'
+title: 'Guimarães Rosa: o sertão, o mundo e a travessia. Depoimentos e conversas de LGR com Guimarães Rosa'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
@@ -12,7 +12,7 @@ orig_publisher: 'Inédito'
 orig_date: 1965/07
 ---
 
-Entrevista exclusiva concedida a LGR especialmente para *Cadernos Brasileiros* em julho de 1965 (12 páginas datilografadas/texto não publicado)
+Síntese elaborada por LGR especialmente para *Cadernos Brasileiros* em julho de 1965 de muitos depoimentos e conversas que ele teve com Guimarães Rosa (12 páginas datilografadas/texto não publicado)
 
 "Dos Gerais, dos campos claros, vinham as boiadas e as lembranças" Guimarães Rosa
 
