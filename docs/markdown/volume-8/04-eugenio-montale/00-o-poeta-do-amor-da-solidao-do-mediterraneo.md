@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VIII: Perscrutando a alma humana: a literatura italiana do pós-guerra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-8/04-eugenio-montale/00-o-poeta-do-amor-da-solidao-do-mediterraneo
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-8/04-eugenio-montale/00-o-poeta-do-amor-da-solidao-do-mediterraneo.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-8/04-eugenio-montale/00-o-poeta-do-amor-da-solidao-do-mediterraneo.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-8/04-eugenio-montale/00-o-poeta-do-amor-da-solidao-do-mediterraneo.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'E da linguagem áspera e difícil'

@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'O Estado de São Paulo 31-05-1975'

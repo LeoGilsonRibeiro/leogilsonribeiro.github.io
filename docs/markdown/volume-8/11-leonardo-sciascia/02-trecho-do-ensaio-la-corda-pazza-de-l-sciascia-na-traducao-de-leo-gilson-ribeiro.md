@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VIII: Perscrutando a alma humana: a literatura italiana do pós-guerra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-8/11-leonardo-sciascia/02-trecho-do-ensaio-la-corda-pazza-de-l-sciascia-na-traducao-de-leo-gilson-ribeiro
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-8/11-leonardo-sciascia/02-trecho-do-ensaio-la-corda-pazza-de-l-sciascia-na-traducao-de-leo-gilson-ribeiro.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-8/11-leonardo-sciascia/02-trecho-do-ensaio-la-corda-pazza-de-l-sciascia-na-traducao-de-leo-gilson-ribeiro.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-8/11-leonardo-sciascia/02-trecho-do-ensaio-la-corda-pazza-de-l-sciascia-na-traducao-de-leo-gilson-ribeiro.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: '"Os sicilianos - diz Scipio Di Castro, de Messina - geralmente são mais astutos do que prudentes, mais agudos do que sinceros, adoram as novidades, são briguentos, aduladores e de natureza invejosa'

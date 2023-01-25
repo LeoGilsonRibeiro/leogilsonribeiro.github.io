@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VIII: Perscrutando a alma humana: a literatura italiana do pós-guerra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-8/09-giorgio-bassani/00-giorgio-bassani-e-o-conto-moderno-italiano
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-8/09-giorgio-bassani/00-giorgio-bassani-e-o-conto-moderno-italiano.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-8/09-giorgio-bassani/00-giorgio-bassani-e-o-conto-moderno-italiano.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-8/09-giorgio-bassani/00-giorgio-bassani-e-o-conto-moderno-italiano.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Diário de Notícias'

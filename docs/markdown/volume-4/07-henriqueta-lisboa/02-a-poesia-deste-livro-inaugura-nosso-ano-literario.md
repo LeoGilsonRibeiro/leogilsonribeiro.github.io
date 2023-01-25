@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-4/07-henriqueta-lisboa/02-a-poesia-deste-livro-inaugura-nosso-ano-literario
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-4/07-henriqueta-lisboa/02-a-poesia-deste-livro-inaugura-nosso-ano-literario.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/07-henriqueta-lisboa/02-a-poesia-deste-livro-inaugura-nosso-ano-literario.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/07-henriqueta-lisboa/02-a-poesia-deste-livro-inaugura-nosso-ano-literario.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 9-08-1975'

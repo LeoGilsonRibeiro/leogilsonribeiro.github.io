@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/15-nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordimer
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-1/03-literatura-africana/15-nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordimer.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/03-literatura-africana/15-nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordimer.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/03-literatura-africana/15-nota-sobre-o-livro-a-arma-da-casa-de-nadine-gordimer.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Caros Amigos, n.39'

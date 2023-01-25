@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VIII: Perscrutando a alma humana: a literatura italiana do pós-guerra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-8/07-alberto-moravia/00-alberto-moravia-e-os-estudantes
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-8/07-alberto-moravia/00-alberto-moravia-e-os-estudantes.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-8/07-alberto-moravia/00-alberto-moravia-e-os-estudantes.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-8/07-alberto-moravia/00-alberto-moravia-e-os-estudantes.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Diário de Notícias'

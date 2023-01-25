@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/01-literatura-brasileira/09-a-mae-coragem-negra-de-caninde-sobre-os-diarios-de-carolina-maria-de-jesus.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Christ und Welt, n.28, ano XV'

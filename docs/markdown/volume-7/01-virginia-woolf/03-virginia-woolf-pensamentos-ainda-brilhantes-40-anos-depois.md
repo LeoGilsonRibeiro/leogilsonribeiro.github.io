@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VII: As três grandes damas da literatura europeia: Virginia Woolf, Marguerite Yourcenar e Doris Lessing'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-7/01-virginia-woolf/03-virginia-woolf-pensamentos-ainda-brilhantes-40-anos-depois
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-7/01-virginia-woolf/03-virginia-woolf-pensamentos-ainda-brilhantes-40-anos-depois.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-7/01-virginia-woolf/03-virginia-woolf-pensamentos-ainda-brilhantes-40-anos-depois.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-7/01-virginia-woolf/03-virginia-woolf-pensamentos-ainda-brilhantes-40-anos-depois.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'

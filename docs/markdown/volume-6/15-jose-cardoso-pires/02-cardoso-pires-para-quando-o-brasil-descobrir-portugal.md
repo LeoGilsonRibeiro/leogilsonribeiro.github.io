@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 01-10-1983'

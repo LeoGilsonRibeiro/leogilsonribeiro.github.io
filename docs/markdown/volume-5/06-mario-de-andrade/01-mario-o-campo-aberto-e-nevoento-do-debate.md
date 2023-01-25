@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/01-mario-o-campo-aberto-e-nevoento-do-debate
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-5/06-mario-de-andrade/01-mario-o-campo-aberto-e-nevoento-do-debate.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-5/06-mario-de-andrade/01-mario-o-campo-aberto-e-nevoento-do-debate.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-5/06-mario-de-andrade/01-mario-o-campo-aberto-e-nevoento-do-debate.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 8-10-1983'

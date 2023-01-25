@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VIII: Perscrutando a alma humana: a literatura italiana do pós-guerra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-8/13-carlo-castellaneta/01-traducao-do-conto-de-carlo-castellaneta-uma-mulher-invisivel)-por-leo-gilson-ribeiro
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-8/13-carlo-castellaneta/01-traducao-do-conto-de-carlo-castellaneta-uma-mulher-invisivel)-por-leo-gilson-ribeiro.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-8/13-carlo-castellaneta/01-traducao-do-conto-de-carlo-castellaneta-uma-mulher-invisivel)-por-leo-gilson-ribeiro.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-8/13-carlo-castellaneta/01-traducao-do-conto-de-carlo-castellaneta-uma-mulher-invisivel)-por-leo-gilson-ribeiro.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'O dia que a encontrei me lembro que chovia, ruas e fachadas da mesma cor de chumbo, o olho úmido do semáforo, eu caminhava na galeria em meio à multidão, um olhar distraído às vitrines, e de repente a vi. Pensei várias vezes depois na sensação que senti naquele momento: um movimento de curiosidade que crescia, ao fixá-la, até a comoção. Certamente eu não podia imaginar que a sua presença fosse obcecar-me durante um ano inteiro'

@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IX: Conferências, ensaios e alguns artigos especiais'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-9/03-as-interrelacoes-da-pintura-da-musica-e-da-literatura-no-periodo-barroco/README
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-9/03-as-interrelacoes-da-pintura-da-musica-e-da-literatura-no-periodo-barroco/README.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-9/03-as-interrelacoes-da-pintura-da-musica-e-da-literatura-no-periodo-barroco/README.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-9/03-as-interrelacoes-da-pintura-da-musica-e-da-literatura-no-periodo-barroco/README.md
 ---
 

@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VII: As três grandes damas da literatura europeia: Virginia Woolf, Marguerite Yourcenar e Doris Lessing'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-7/03-doris-lessing/10-doris-lessing-mais-uma-vez-fascinante
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-7/03-doris-lessing/10-doris-lessing-mais-uma-vez-fascinante.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-7/03-doris-lessing/10-doris-lessing-mais-uma-vez-fascinante.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-7/03-doris-lessing/10-doris-lessing-mais-uma-vez-fascinante.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'

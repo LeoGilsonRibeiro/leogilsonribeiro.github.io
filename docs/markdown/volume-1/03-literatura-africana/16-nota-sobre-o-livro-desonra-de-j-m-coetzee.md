@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-1/03-literatura-africana/16-nota-sobre-o-livro-desonra-de-j-m-coetzee
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-1/03-literatura-africana/16-nota-sobre-o-livro-desonra-de-j-m-coetzee.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/03-literatura-africana/16-nota-sobre-o-livro-desonra-de-j-m-coetzee.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/03-literatura-africana/16-nota-sobre-o-livro-desonra-de-j-m-coetzee.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Caros Amigos, n.46'

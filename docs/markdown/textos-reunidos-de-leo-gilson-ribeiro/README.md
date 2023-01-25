@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/textos-reunidos-de-leo-gilson-ribeiro/README
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/textos-reunidos-de-leo-gilson-ribeiro/README.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/textos-reunidos-de-leo-gilson-ribeiro/README.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/textos-reunidos-de-leo-gilson-ribeiro/README.md
 orig_date: 2022
 ---

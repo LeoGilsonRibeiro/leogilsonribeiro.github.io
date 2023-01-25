@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VIII: Perscrutando a alma humana: a literatura italiana do pós-guerra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-8/08-cesare-pavese/02-traducao-de-lgr-do-artigo-de-cesare-pavese-ler
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-8/08-cesare-pavese/02-traducao-de-lgr-do-artigo-de-cesare-pavese-ler.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-8/08-cesare-pavese/02-traducao-de-lgr-do-artigo-de-cesare-pavese-ler.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-8/08-cesare-pavese/02-traducao-de-lgr-do-artigo-de-cesare-pavese-ler.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'É verdade que se deve reclamar incansavelmente dos escritores claridade, simplicidade, deferência para com as massas que não escrevem, mas de vez em quando assalta-nos a dúvida e que nem todos saibam ler. Ler é muito fácil, dizem aqueles que devido a seu longo contato com livros perderam todo respeito pela palavra escrita: mas quem, ao contrário, trata mais do que com livros com seres humanos e as coisas e tem que sair de madrugada e voltar de noite embotado, se por casualidade se concentra sobre uma página, compreende que tem diante dos olhos algo áspero e estranho, evanescente e ao mesmo tempo forte, que o agride e o desencoraja. É inútil dizer que este último está mais próximo da verdadeira leitura do que o outro leitor'

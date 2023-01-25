@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-2/02-clarice-lispector/05-so-os-mais-atentos-conseguem-encontrar-esta-maca-no-escuro.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'

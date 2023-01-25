@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-6/12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 30-11-1985'

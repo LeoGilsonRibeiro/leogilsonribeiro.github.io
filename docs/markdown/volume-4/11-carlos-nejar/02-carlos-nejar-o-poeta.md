@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/02-carlos-nejar-o-poeta
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-4/11-carlos-nejar/02-carlos-nejar-o-poeta.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/11-carlos-nejar/02-carlos-nejar-o-poeta.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/11-carlos-nejar/02-carlos-nejar-o-poeta.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Melhores Poemas de Carlos Nejar, São Paulo: Editora Global'

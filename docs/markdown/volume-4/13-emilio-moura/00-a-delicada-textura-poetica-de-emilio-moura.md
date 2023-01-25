@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-4/13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-4/13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'

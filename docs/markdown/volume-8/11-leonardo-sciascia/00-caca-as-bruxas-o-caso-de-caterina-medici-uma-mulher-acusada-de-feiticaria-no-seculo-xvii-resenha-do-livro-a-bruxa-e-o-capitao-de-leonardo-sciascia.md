@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VIII: Perscrutando a alma humana: a literatura italiana do pós-guerra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-8/11-leonardo-sciascia/00-caca-as-bruxas-o-caso-de-caterina-medici-uma-mulher-acusada-de-feiticaria-no-seculo-xvii-resenha-do-livro-a-bruxa-e-o-capitao-de-leonardo-sciascia
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-8/11-leonardo-sciascia/00-caca-as-bruxas-o-caso-de-caterina-medici-uma-mulher-acusada-de-feiticaria-no-seculo-xvii-resenha-do-livro-a-bruxa-e-o-capitao-de-leonardo-sciascia.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-8/11-leonardo-sciascia/00-caca-as-bruxas-o-caso-de-caterina-medici-uma-mulher-acusada-de-feiticaria-no-seculo-xvii-resenha-do-livro-a-bruxa-e-o-capitao-de-leonardo-sciascia.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-8/11-leonardo-sciascia/00-caca-as-bruxas-o-caso-de-caterina-medici-uma-mulher-acusada-de-feiticaria-no-seculo-xvii-resenha-do-livro-a-bruxa-e-o-capitao-de-leonardo-sciascia.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Isto é-Senhor'

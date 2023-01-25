@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-3/03-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson)
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-3/03-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson).md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/03-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson).md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/03-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson).md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Isto é-Senhor'

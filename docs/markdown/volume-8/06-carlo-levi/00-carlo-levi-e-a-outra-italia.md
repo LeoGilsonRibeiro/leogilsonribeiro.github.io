@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VIII: Perscrutando a alma humana: a literatura italiana do pós-guerra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-8/06-carlo-levi/00-carlo-levi-e-a-outra-italia
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-8/06-carlo-levi/00-carlo-levi-e-a-outra-italia.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-8/06-carlo-levi/00-carlo-levi-e-a-outra-italia.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-8/06-carlo-levi/00-carlo-levi-e-a-outra-italia.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Diário de Notícias'

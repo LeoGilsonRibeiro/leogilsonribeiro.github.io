@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 22-7-1978'

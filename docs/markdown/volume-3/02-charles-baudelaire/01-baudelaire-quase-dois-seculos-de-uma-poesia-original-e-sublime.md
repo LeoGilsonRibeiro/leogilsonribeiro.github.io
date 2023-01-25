@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-3/02-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/02-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/02-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'

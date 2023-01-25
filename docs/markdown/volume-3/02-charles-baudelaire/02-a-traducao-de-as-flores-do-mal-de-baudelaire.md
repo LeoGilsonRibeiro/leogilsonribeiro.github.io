@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume III: Testemunhos Literários do século XX'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/02-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'

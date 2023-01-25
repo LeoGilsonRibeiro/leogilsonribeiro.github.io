@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IX: Conferências, ensaios e alguns artigos especiais'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-9/07-tres-vezes-toynbee/02-toynbee-e-seu-panorama-de-esperancas-e-pessimismo
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-9/07-tres-vezes-toynbee/02-toynbee-e-seu-panorama-de-esperancas-e-pessimismo.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-9/07-tres-vezes-toynbee/02-toynbee-e-seu-panorama-de-esperancas-e-pessimismo.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-9/07-tres-vezes-toynbee/02-toynbee-e-seu-panorama-de-esperancas-e-pessimismo.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'

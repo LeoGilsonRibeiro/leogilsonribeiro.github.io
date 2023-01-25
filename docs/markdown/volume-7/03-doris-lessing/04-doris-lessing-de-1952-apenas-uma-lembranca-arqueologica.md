@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VII: As três grandes damas da literatura europeia: Virginia Woolf, Marguerite Yourcenar e Doris Lessing'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-7/03-doris-lessing/04-doris-lessing-de-1952-apenas-uma-lembranca-arqueologica
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-7/03-doris-lessing/04-doris-lessing-de-1952-apenas-uma-lembranca-arqueologica.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-7/03-doris-lessing/04-doris-lessing-de-1952-apenas-uma-lembranca-arqueologica.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-7/03-doris-lessing/04-doris-lessing-de-1952-apenas-uma-lembranca-arqueologica.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'

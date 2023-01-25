@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 29-06-1985'

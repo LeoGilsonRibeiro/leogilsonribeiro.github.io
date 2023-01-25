@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VIII: Perscrutando a alma humana: a literatura italiana do pós-guerra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-8/02-giuseppe-ungaretti/00-ungaretti-memorias-de-um-poeta-maior-vidente-como-rimbaud
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-8/02-giuseppe-ungaretti/00-ungaretti-memorias-de-um-poeta-maior-vidente-como-rimbaud.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-8/02-giuseppe-ungaretti/00-ungaretti-memorias-de-um-poeta-maior-vidente-como-rimbaud.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-8/02-giuseppe-ungaretti/00-ungaretti-memorias-de-um-poeta-maior-vidente-como-rimbaud.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'

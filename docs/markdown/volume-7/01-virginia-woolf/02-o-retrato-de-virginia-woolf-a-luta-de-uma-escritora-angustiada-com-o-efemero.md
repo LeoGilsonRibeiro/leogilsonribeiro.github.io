@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VII: As três grandes damas da literatura europeia: Virginia Woolf, Marguerite Yourcenar e Doris Lessing'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-7/01-virginia-woolf/02-o-retrato-de-virginia-woolf-a-luta-de-uma-escritora-angustiada-com-o-efemero
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-7/01-virginia-woolf/02-o-retrato-de-virginia-woolf-a-luta-de-uma-escritora-angustiada-com-o-efemero.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-7/01-virginia-woolf/02-o-retrato-de-virginia-woolf-a-luta-de-uma-escritora-angustiada-com-o-efemero.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-7/01-virginia-woolf/02-o-retrato-de-virginia-woolf-a-luta-de-uma-escritora-angustiada-com-o-efemero.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde'

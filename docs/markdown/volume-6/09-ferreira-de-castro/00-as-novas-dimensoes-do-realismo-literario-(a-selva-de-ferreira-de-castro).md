@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro)
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro).md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro).md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro).md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Diário de Notícias 22-01-1961'

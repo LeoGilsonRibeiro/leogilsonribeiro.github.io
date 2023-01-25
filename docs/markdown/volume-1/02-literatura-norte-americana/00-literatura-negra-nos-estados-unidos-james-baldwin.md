@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume I: Racismo e literatura negra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/02-literatura-norte-americana/00-literatura-negra-nos-estados-unidos-james-baldwin.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Correio da Manhã'

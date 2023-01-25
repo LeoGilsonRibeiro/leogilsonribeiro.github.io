@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 1991'

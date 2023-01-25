@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-6/05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-6/05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 1984'

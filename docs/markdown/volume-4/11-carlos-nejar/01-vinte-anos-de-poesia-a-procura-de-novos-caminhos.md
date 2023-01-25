@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume IV: Poetas brasileiros contemporâneos'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-4/11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 5-07-1980'

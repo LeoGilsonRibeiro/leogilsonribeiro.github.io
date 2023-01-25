@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Corrio do Povo, Caderno de Sábado 30-10-1976'

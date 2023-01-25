@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VIII: Perscrutando a alma humana: a literatura italiana do pós-guerra'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-8/06-carlo-levi/01-o-despertar-da-consciencia-(a-respeito-de-um-livro-de-carlo-levi)
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-8/06-carlo-levi/01-o-despertar-da-consciencia-(a-respeito-de-um-livro-de-carlo-levi).md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-8/06-carlo-levi/01-o-despertar-da-consciencia-(a-respeito-de-um-livro-de-carlo-levi).md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-8/06-carlo-levi/01-o-despertar-da-consciencia-(a-respeito-de-um-livro-de-carlo-levi).md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Diário de Notícias'

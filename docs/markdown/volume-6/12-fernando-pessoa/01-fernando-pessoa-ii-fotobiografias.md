@@ -5,7 +5,7 @@ editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume VI: Redescobrindo Portugal: perfis e depoimentos de alguns escritores portugueses'
 date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias
-edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias.md
+edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-6/12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias.md
 status: Transcrição completa. Aguardando revisão.
 orig_publisher: 'Jornal da Tarde 09-01-1982'
