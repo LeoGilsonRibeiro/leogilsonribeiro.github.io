@@ -7,7 +7,6 @@ date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-9/05-especificidade-da-literatura-brasileira/README
 edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-9/05-especificidade-da-literatura-brasileira/README.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-9/05-especificidade-da-literatura-brasileira/README.md
-status: Transcrição completa. Aguardando revisão.
 ---
 
 São Paulo;1977/09/25 a 30;Atas do Primeiro Encontro com a Literatura Brasileira (pp. 17-20)

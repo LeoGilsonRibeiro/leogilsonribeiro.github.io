@@ -7,7 +7,6 @@ date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-9/08-de-selene-a-apollo/README
 edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-9/08-de-selene-a-apollo/README.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-9/08-de-selene-a-apollo/README.md
-status: Transcrição completa. Aguardando revisão.
 ---
 
 *Veja* 1969/7/23

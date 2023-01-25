@@ -7,7 +7,6 @@ date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-9/11-um-produto-que-a-alalc-nao-negocia-cultura/README
 edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-9/11-um-produto-que-a-alalc-nao-negocia-cultura/README.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-9/11-um-produto-que-a-alalc-nao-negocia-cultura/README.md
-status: Transcrição completa. Aguardando revisão.
 ---
 
 *Jornal da Tarde;*1980/2/9

@@ -7,7 +7,6 @@ date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-9/09-os-autores-do-grito-radical-ginsberg-genet-gadda-e-borges/README
 edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-9/09-os-autores-do-grito-radical-ginsberg-genet-gadda-e-borges/README.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-9/09-os-autores-do-grito-radical-ginsberg-genet-gadda-e-borges/README.md
-status: Transcrição completa. Aguardando revisão.
 ---
 
 *Jornal da Tarde;*1966/10/1

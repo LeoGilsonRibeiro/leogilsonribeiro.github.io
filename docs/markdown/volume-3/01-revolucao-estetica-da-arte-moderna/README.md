@@ -7,7 +7,6 @@ date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-3/01-revolucao-estetica-da-arte-moderna/README
 edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main//docs/markdown/volume-3/01-revolucao-estetica-da-arte-moderna/README.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/01-revolucao-estetica-da-arte-moderna/README.md
-status: Transcrição completa. Aguardando revisão.
 ---
 
 Correio da Manhã; 1965/11/09
