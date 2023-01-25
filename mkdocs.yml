@@ -53,7 +53,7 @@ theme:
 # MkDocs Plugins
 # https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins
 plugins:
- - git-revision-date-localized:
+  - git-revision-date-localized:
      type: iso_date
      locale: pt
      timezone: America/Sao_Paulo
@@ -298,24 +298,6 @@ nav:
       - A nova poesia brasileira é mais que uma promessa:
         - 'Jovem, cínica, desesperada, terna': volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna.md
         - 'Nossos poetas de hoje, ousando rir dos dogmas. Com versos doídos e ternos': volume-4/16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/01-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos.md
-    - 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios':
-      - 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios': volume-5/README.md
-      - Semana de Arte Moderna de 1922:
-        - 'Foi nosso primeiro happening urbano': volume-5/01-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano.md
-        - 'E foi assim que nasceu o Brasil de hoje, com Drummond e o romance social': volume-5/01-semana-de-arte-moderna-de-1922/01-e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummond-e-o-romance-social.md
-      - Emílio Di Cavalcanti:
-        - 'O adeus do mestre - Para a pintura brasileira, ficam as mulatas, o morro, o mar e a Semana de Arte Moderna': volume-5/02-emilio-di-cavalcanti/00-o-adeus-do-mestre-para-a-pintura-brasileira-ficam-as-mulatas-o-morro-o-mar-e-a-semana-de-arte-moderna.md
-        - 'Di, para quem viver era um círculo mágico': volume-5/02-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico.md
-      - Tarsila do Amaral:
-        - 'Tarsila do Amaral - A última entrevista': volume-5/03-tarsila-do-amaral/00-tarsila-do-amaral-a-ultima-entrevista.md
-      - Menotti del Picchia:
-        - 'Menotti del Picchia - "nada me orgulha mais do que ter sido poeta"': volume-5/04-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta.md
-      - Oswald de Andrade:
-        - 'Oswald de Andrade, o incoerente': volume-5/05-oswald-de-andrade/00-oswald-de-andrade-o-incoerente.md
-      - Mário de Andrade:
-        - 'Astuto ou generoso. Mas sempre amoral': volume-5/06-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral.md
-        - 'Mário, o campo aberto e nevoento do debate': volume-5/06-mario-de-andrade/01-mario-o-campo-aberto-e-nevoento-do-debate.md
-        - 'Curso sobre o movimento modernista - Mário de Andrade': volume-5/06-mario-de-andrade/02-curso-sobre-o-movimento-modernista-mario-de-andrade.md
     - 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios':
       - 'Volume V: Alguns artistas da Semana de Arte Moderna de 1922: entrevistas, depoimentos e ensaios': volume-5/README.md
       - Semana de Arte Moderna de 1922:

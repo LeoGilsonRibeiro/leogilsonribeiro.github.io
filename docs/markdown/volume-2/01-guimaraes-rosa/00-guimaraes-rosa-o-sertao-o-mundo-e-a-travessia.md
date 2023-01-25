@@ -1,5 +1,5 @@
 ---
-title: 'Guimarães Rosa: o sertão, o mundo e a travessia'. Entrevista inédita com G. Rosa
+title: 'Guimarães Rosa: o sertão, o mundo e a travessia. Entrevista inédita com G. Rosa'
 author: Leo Gilson Ribeiro
 editor: Fernando Rey Puente
 vol_title: 'Textos Reunidos de Leo Gilson Ribeiro, Volume II: Os escritores aquém e além da literatura: Guimarães Rosa, Clarice Lispector e Hilda Hilst'

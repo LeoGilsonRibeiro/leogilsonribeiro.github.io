@@ -53,7 +53,7 @@ theme:
 # MkDocs Plugins
 # https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins
 plugins:
- - git-revision-date-localized:
+  - git-revision-date-localized:
      type: iso_date
      locale: pt
      timezone: America/Sao_Paulo
