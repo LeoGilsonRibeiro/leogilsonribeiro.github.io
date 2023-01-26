@@ -20,12 +20,7 @@ Sou-lhe reconhecido pelo que nos traz: uma informação sob nítida luz e uma in
 Ass. **Guimarães Rosa** – Rio, 4 de julho de 1964.  
 In: Orelha do livro *Cronistas do Absurdo. Kafka, Büchner, Brecht, Ionesco.*
 
-<br>
-
 ---
-
-<br>
-
 
 Para navegar pelo projeto, utilize a barra superior e a barra lateral à esquerda. Para navegar pelo texto em exibição, utilize a barra lateral direita. Para alternar entre os modos de exibição claro e escuro, clique no ícone no cabeçalho. Pressione `/`   para iniciar uma *busca textual* ou utilize o sistema de *tags*.  
 
