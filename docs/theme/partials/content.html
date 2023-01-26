@@ -7,6 +7,16 @@
 {% if page.edit_url %}
   {% set edit = "https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit" %}
   {% set view = "https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io" %}
+  {% set slug = edit_url | replace("https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/","")  %}
+  {% set issue = "https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/issues/new?labels=revisão&title=Problema+em&body=Descreva+o+problema+e+inclua+um+link+para+a+página+afetada" %}
+
+  <a
+    href="{{ issue }}"
+    title="Informe um problema"
+    class="md-content__button md-icon"
+  >
+    {% include "icons/material/message-processing-outline.svg" %}
+
   <a
     href="{{ page.meta.edit_url }}"
     title="{{ lang.t('edit.link.title') }}"
@@ -108,3 +118,4 @@
 ) %}
   {% include "partials/source-file.html" %}
 {% endif %}
+

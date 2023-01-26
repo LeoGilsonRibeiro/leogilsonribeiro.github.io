@@ -22,7 +22,7 @@ theme:
   favicon: assets/favicon.png
   icon:
     logo: material/book-open-page-variant
-    repo: fontawesome/brands/git-alt
+#     repo: fontawesome/brands/git-alt
 
   # Color palette
   # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#color-palette
@@ -74,6 +74,7 @@ plugins:
 # https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/
 # https://facelessuser.github.io/pymdown-extensions/
 markdown_extensions:
+  - attr_list
   - markdown.extensions.abbr:
   - markdown.extensions.footnotes:
   - markdown.extensions.md_in_html:
@@ -375,7 +376,7 @@ nav:
         - 'Casais Monteiro': volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/00-casais-monteiro.md
         - 'de Maria Isabel Barreno, Maria Teresa Horta e Maria Velho da Costa': volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa.md
         - 'Os novos tempos de Portugal': volume-6/17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal.md
-    - 'Volume VII: As três grandes damas da literatura europeia: Virginia Woolf, Marguerite Yourcenar e Doris Lessing':
+    - '🆕 Volume VII: As três grandes damas da literatura europeia: Virginia Woolf, Marguerite Yourcenar e Doris Lessing':
       - 'Volume VII: As três grandes damas da literatura europeia: Virginia Woolf, Marguerite Yourcenar e Doris Lessing': volume-7/README.md
       - Virginia Woolf:
         - 'Arte-amor-morte': volume-7/01-virginia-woolf/00-arte-amor-morte.md
@@ -406,7 +407,7 @@ nav:
         - 'A visita da majestosa senhora': volume-7/03-doris-lessing/12-a-visita-da-majestosa-senhora.md
         - 'Entrevista a Doris Lessing - O triunfo da inteligência. Sem dogmas': volume-7/03-doris-lessing/13-entrevista-a-doris-lessing-o-triunfo-da-inteligencia-sem-dogmas.md
         - 'Lessing, na trilha do horror': volume-7/03-doris-lessing/14-lessing-na-trilha-do-horror.md
-    - 'Volume VIII: Perscrutando a alma humana: a literatura italiana do pós-guerra':
+    - '🆕 Volume VIII: Perscrutando a alma humana: a literatura italiana do pós-guerra':
       - 'Volume VIII: Perscrutando a alma humana: a literatura italiana do pós-guerra': volume-8/README.md
       - Italo Svevo:
         - 'Um Romance de Ítalo Svevo': volume-8/01-italo-svevo/00-um-romance-de-italo-svevo.md
@@ -450,7 +451,7 @@ nav:
         - 'Tradução do conto de Carlo Castellaneta "Uma mulher invisível) por Leo Gilson Ribeiro': volume-8/13-carlo-castellaneta/01-traducao-do-conto-de-carlo-castellaneta-uma-mulher-invisivel)-por-leo-gilson-ribeiro.md
       - Umberto Eco:
         - 'Mais um pastel de vento (resenha ao livro de U. Eco O Pêndulo de Foucault)': volume-8/14-umberto-eco/00-mais-um-pastel-de-vento-(resenha-ao-livro-de-u-eco-o-pendulo-de-foucault).md
-    - 'Volume IX: Conferências, ensaios e alguns artigos especiais':
+    - '🆕 Volume IX: Conferências, ensaios e alguns artigos especiais':
       - 'Volume IX: Conferências, ensaios e alguns artigos especiais': volume-9/README.md
       - Caminhos e encontros:
         - Caminhos e encontros: volume-9/01-caminhos-e-encontros/README.md
