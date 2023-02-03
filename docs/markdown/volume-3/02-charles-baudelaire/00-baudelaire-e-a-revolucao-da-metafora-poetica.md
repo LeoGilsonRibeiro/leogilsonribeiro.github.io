@@ -7,7 +7,7 @@ date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica
 edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/02-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica.md
-status: Transcrição completa. Aguardando revisão.
+status: Transcrição completa.
 orig_publisher: 'Correio da Manhã'
 orig_date: 1965/12/02
 ---
