@@ -7,12 +7,12 @@ date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-3/04-franz-kafka/00-kafka-(curso)
 edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-3/04-franz-kafka/00-kafka-(curso).md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-3/04-franz-kafka/00-kafka-(curso).md
-status: Transcrição completa. Aguardando revisão.
+status: Transcrição completa. 
 orig_publisher: 'Inédito'
 orig_date: Sem data
 ---
 
-Paralelamente aos acontecimentos de repercussão mundial da sua época, a vida de Kafka traça uma parábola simbólica: de 1883 coincidindo com a publicação de *Assim Falava Zaratustra* de Nietzsche até 1924 quando Hitler termina a redação de *Minha Luta*. No meio, dilacerando a Europa em duas frentes de batalha, a Prmeira Guerra de 1914. Em 1917 a revolução bolchevista na Rússia.
+Paralelamente aos acontecimentos de repercussão mundial da sua época, a vida de Kafka traça uma parábola simbólica: de 1883 coincidindo com a publicação de *Assim Falava Zaratustra* de Nietzsche até 1924 quando Hitler termina a redação de *Minha Luta*. No meio, dilacerando a Europa em duas frentes de batalha, a Primeira Guerra de 1914. Em 1917 a revolução bolchevista na Rússia.
 
 E à medida que Kafka se distancia mais e mais do mundo seu contemporâneo, devorado pela tuberculose que o arrebataria à criação solitária de sua longa muralha da China aos 41 anos de idade, agita-se simultaneamente a Europa do seu tempo: em 1922 ele se isola num sanatório na Thecoslováquia.
 
@@ -20,7 +20,7 @@ Cessando sua breve correspondência com Milena, a amada ideal que se aliara como
 
 Encerrava-se todo um capítulo definitivamente da história da humanidade. Gasset diagnosticara a ascensão das massas sufocando os valores individuais. O colonialismo ruia na África e na Ásia. A Espanha servia de ensaio geral para a Segunda Guerra Mundial.
 
-As reivindicações sociais e políticas dos oprimidos por oligarquias internacionais afirmavam-se na libertação da Argélia da tutela francesa, na cncretização da fundação de Israel, na independência da Índia obtida graças à doutrina do *ahimsa*, não-violência de Gandhi e nos Estados Unidos os negros liderados por Martin Luther King e os poetas da negritude chefiados na África por Léopold Senghor, afirmavam em nossa época a autonomia de minorias em busca de sua identidade social e humana.
+As reivindicações sociais e políticas dos oprimidos por oligarquias internacionais afirmavam-se na libertação da Argélia da tutela francesa, na concretização da fundação de Israel, na independência da Índia obtida graças à doutrina do *ahimsa*, não-violência de Gandhi e nos Estados Unidos os negros liderados por Martin Luther King e os poetas da negritude chefiados na África por Léopold Senghor, afirmavam em nossa época a autonomia das minorias em busca de sua identidade social e humana.
 
 Kafka deteve-se no umbral da era atômica como ele próprio declarava: "Eu não tive ingresso na vida, como Kierkegaard, pela mão do Cristianismo, nem, como os Sionistas, pude agarrar a última fímbria do manto sacerdotal que se afastava celeremente dos judeus. Sou um fim ou um princípio".
 
@@ -36,9 +36,9 @@ Por si só a justaposição desses fatores contraditórios ilustra a fragmentari
 
 Incapaz de integrar-se na sociedade da região boêmia que constituia parte do império Austro-Húngaro, uma sociedade cristã, católica, eslava que já ambicionava sua identidade nacional divorciada da tutela austríaca.
 
-E elaborando a sua obra -- que constitui, à par das novelas de Thomas Mann a mais esplêndida contribuição da literatura de expressão alemã à literatura contenporânea -- Kafka passaria a assumir, a encarnar a angústia atual do século que substituiu a fé medieval pelo niilismo esterelizante e/ou pela crença no progresso puramente mateiral apoiado pelo absolutismo do Estado e uma "mística" de esquerda.
+E elaborando a sua obra -- que constitui, à par das novelas de Thomas Mann a mais esplêndida contribuição da literatura de expressão alemã à literatura contenporânea -- Kafka passaria a assumir, a encarnar a angústia atual do século que substituiu a fé medieval pelo niilismo esterelizante e/ou pela crença no progresso puramente material apoiado pelo absolutismo do Estado e uma "mística" de esquerda.
 
-Seus relatos passa a ser sintomáticos, proféticos anunciando o advento de uma era em que a humanidade estaria encerrada, enferma, entre campos de concentração e explosões atômicas, na imensa faixa de terror que une Dachau a Hiroshima.
+Seus relatos passam a ser sintomáticos, proféticos anunciando o advento de uma era em que a humanidade estaria encerrada, enferma, entre campos de concentração e explosões atômicas, na imensa faixa de terror que une Dachau a Hiroshima.
 
 Num período histórico em que parte da literatura conduziu à filosofia do primado do absurdo, do existencialismo, a sua é como que uma "vasta invocação do milagre", como o autor que como ressalta o poeta inglês Auden, mantém com o século XX a mesma relação que Dante com a época medieval e Shakespeare com o período elisabetano do renascimento inglês.
 
