@@ -7,7 +7,7 @@ date: 2022
 view_url: https://www.leogilsonribeiro.com.br/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira
 edit_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/edit/main/docs/markdown/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira.md
 commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-1/01-literatura-brasileira/00-o-negro-na-literatura-brasileira.md
-status: Transcrição completa. Aguardando revisão.
+status: Transcrição completa.
 orig_publisher: 'Anais do Seminários de Literatura brasileira: ensaios'
 orig_date: 1990
 ---
