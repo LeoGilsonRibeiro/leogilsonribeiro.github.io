@@ -7,9 +7,19 @@ project:
     navigate: true
   # resources:
     # - "_extensions/lgr/*"
-# execute:
-  # freeze: true
-  # cache: true
+execute:
+  freeze: true
+  cache: true
+
+filters:
+  - fontawesome
+
+language:
+  pt-BR:
+    repo-action-links-issue: "Reportar um problema"
+    repo-action-links-edit: "Editar essa página"
+lang: pt-BR
+
 format:
   html:
     theme:
@@ -44,12 +54,7 @@ format:
     # template-partials:
       # - "partials/html/title-block.html"
       # - "partials/html/title-metadata.html"
-filters:
-  - fontawesome
 
-language:
-  pt-BR:
-    repo-action-links-issue: Reportar um problema
 website:
   site-url: "https://www.leogilsonribeiro.com.br"
   repo-url: "https://github.com/bcdavasconcelos/LGR"

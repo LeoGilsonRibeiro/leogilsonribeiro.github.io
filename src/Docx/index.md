@@ -1,5 +1,5 @@
 ---
-date: 2023
+date: "2023"
 subtitle: |
   Volume 10: []{#_Hlk146632184 .anchor}Grandes contistas brasileiros do século XX
 
