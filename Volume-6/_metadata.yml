@@ -1,0 +1,14 @@
+cover:
+  title: Redescobrindo Portugal
+  subtitle: Perfis e depoimentos de alguns escritores portugueses
+  label-color: "yellow!30"
+citation:
+  citation-key: LGRVol6
+  type: book
+  volume: 6
+  container-title: "Redescobrindo Portugal: Perfis e depoimentos de alguns escritores portugueses"
+  collection-title: "Textos Reunidos de Leo Gilson Ribeiro"
+  issued: 2022
+  editor: "Fernando Rey Puente"
+  doi: 10.5281/zenodo.8368806
+version: 2023-09-24-13-53

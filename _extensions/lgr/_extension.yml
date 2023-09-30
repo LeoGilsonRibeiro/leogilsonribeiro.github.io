@@ -1,0 +1,52 @@
+title: Lgr
+author: BCDAV
+version: 1.0.0
+quarto-required: ">=1.4.0"
+contributes:
+  formats:
+#   html:
+#     template-partials:
+#       - _extension/lgr/
+    pdf:
+      papersize: a4
+#       fontsize: 13pt
+      keep-tex: false
+      pdf-engine: lualatex
+      has-frontmatter: false
+      documentclass: scrbook
+      # template: template.tex
+      include-in-header: header.tex
+      template-partials:
+        - before-body.tex
+        # - after-body.tex
+      classoption:
+        - oneside
+        # - twoside
+      toc: true
+      toc-depth: 1
+      top-level-division: chapter
+      number-sections: true
+      number-depth: 2
+      lang: pt-BR
+      babel-lang: brazilian
+      fontfamilyoptions:
+        - osf
+        - p
+      monofontoptions:
+        - Scale=0.92
+#       mainfont: Alegreya
+#       font-family: Alegreya
+#       sansfont: Alegreya Sans
+      mainfont: QT Garomand
+      font-family: QT Garomand
+      sansfont: Alegreya Sans
+      # geometry:
+        # - a4paper
+        # - textheight=60em
+        # - textwidth=40em
+      # mainfont: Libertinus
+      # fontfamily: libertinus
+      # font-family: libertinus
+      # mainfontoptions:
+      # - Numbers=Lowercase
+      # - Numbers=Proportional

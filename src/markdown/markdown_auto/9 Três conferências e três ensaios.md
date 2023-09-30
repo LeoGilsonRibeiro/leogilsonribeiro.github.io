@@ -310,7 +310,7 @@ Como rápido exemplo, o Sermão eloquentíssimo em que ele roga a Deus, quase qu
 
 O Barroco brasileiro, portanto, não se distingue por obras tênues, facilmente esquecíveis como a estulta *Música do Parnaso* de Botelho de Oliveira, nem os toscos *Diálogos das Grandezas do Brasil* deixados por um tal de Ambrósio Fernandes Brandão. Todos são meras imitações canhestras de modelos portugueses renascentistas aos quais se mostram ridicularmente inferiores. O Brasil se afirmou, primeiro, com a sátira contundente e a Fé exultante, em nossa Literatura. Logo depois, viriam os poetas das Academias esquecidas, em Minas e na Bahia, e os mártires da Inconfidência Mineira. Mas desde 1600 o Brasil, com Aleijadinho e sua arquitetura e escultura e uma literatura do alto valor de Gregório de Matos Guerra e do flamejante Padre Vieira, o Brasil respondia pelas três Américas como altíssimo padrão de qualidade e de permanência através dos séculos vindouros.
 
-Discurso feito no lançamento do 1º Concurso Nacional de Contos
+# Discurso feito no lançamento do 1º Concurso Nacional de Contos 
 
 Curitiba 1967/11/21
 

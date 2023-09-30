@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: false
 
+BLOG_FOLDER = '/Users/bcdav/Dropbox/Projetos/Blogs/LGR'.freeze
 start_time = Time.now
 test_mode = false
 # Converte arquivos em docx em um site utilizando mkdocs
@@ -46,7 +47,6 @@ Dir["#{__dir__}/lib/**/*.rb"].sort.each do |helper|
 end
 
 # Variáveis globais
-BLOG_FOLDER = '/Users/bcdav/Dropbox/Blog/LGR'.freeze
 MKDOCS_REPO_URL = 'https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io'.freeze
 AUTHOR1 = 'Fernando Rey Puente'.freeze
 AUTHOR2 = 'Leo Gilson Ribeiro'.freeze
@@ -70,6 +70,7 @@ if File.exist?(docs_markdown)
   FileUtils.rm_rf(docs_markdown)
   logger.warn "Erasing \"#{docs_markdown}\" ..."
 end
+p docs_markdown
 Dir.mkdir(docs_markdown)
 
 logger.info "Initializing docs folder at \"#{docs_markdown}\" ..."
