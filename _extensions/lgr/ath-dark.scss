@@ -1,6 +1,6 @@
 /*-- scss:defaults --*/
 
-$theme: "ath" !default;
+$theme: "ath-dark" !default;
 
 //
 // Color system
@@ -58,7 +58,7 @@ $footer-font-family: "Jost" !default;
 
 
 // Body
-$body-color: $gray-900 !default;
+$body-color: white !default;
 
 // Links
 $link-color: $orange !default;
@@ -78,12 +78,12 @@ $toc-color: $orange;
 $toc-font-size: 1em;
 
 // Navbar
-$navbar-bg: $purple !default;
+$navbar-bg: green !default;
 $navbar-fg: $white !default;
 $navbar-hl: $light-orange !default;
 
 // Footer
-$footer-bg: $gray-900 !default;
+$footer-bg: #14151A !default;
 $footer-fg: $gray-300 !default;
 
 /*-- scss:rules --*/
@@ -209,7 +209,7 @@ pre.text, pre.sourceCode, .cell-output pre {
         font-size: 0.8em;
     }
 
-    // In the default Quarto template, .nav-footer-center has position: absolute 
+    // In the default Quarto template, .nav-footer-center has position: absolute
     // turned on, which makes the div not be a flex item
     // This changes that so that it *is* a flex item
     .nav-footer-center {
@@ -223,7 +223,7 @@ pre.text, pre.sourceCode, .cell-output pre {
         }
     }
 
-    // When the screen is medium or smaller, make each footer chunk be 100% width 
+    // When the screen is medium or smaller, make each footer chunk be 100% width
     // and centered; otherwise make them be 33% width and left/right/centerd
     .nav-footer-left,
     .nav-footer-right,
@@ -253,7 +253,7 @@ pre.text, pre.sourceCode, .cell-output pre {
 #title-block-header {
     .quarto-title-banner {
         font-family: $headings-font-family;
-        
+
         .description {
             font-size: 1.1em;
             margin-top: 1em !important;
@@ -393,7 +393,7 @@ pre.text, pre.sourceCode, .cell-output pre {
     .back-nav a {
         color: shift-color($red, -50%);
     }
-    
+
     .quarto-title .quarto-categories .quarto-category {
         background-color: shift-color($red, -75%);
         color: $red;
@@ -517,7 +517,7 @@ pre.text, pre.sourceCode, .cell-output pre {
             font-size: 1.25em;
             margin-bottom: 0.2em;
         }
-        
+
         .course-details {
             font-weight: 300;
             font-size: 0.9em;
@@ -636,3 +636,5 @@ pre.text, pre.sourceCode, .cell-output pre {
         left: 0;
     }
 }
+
+
