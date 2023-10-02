@@ -74,6 +74,9 @@ website:
     reader-mode: true
     page-navigation: true
     tools:
+    - text: "GitHub"
+      icon: github
+      href: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io
     - text: PDF
       icon: file-pdf
       menu:
@@ -97,9 +100,6 @@ website:
           href: _pdf/volume-9.pdf
         - text: Volume 10
           href: _pdf/volume-10.pdf
-    - text: "GitHub"
-      icon: github
-      href: https://www.github.com/bcdavasconcelos/LGR
     # - text: "Contact"
     #   icon: envelope
     #   href: contact.html
