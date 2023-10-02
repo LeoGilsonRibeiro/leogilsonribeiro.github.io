@@ -19,3 +19,5 @@ yarn-error.log*
 *~$*.docx
 
 /.quarto/
+
+/.luarc.json

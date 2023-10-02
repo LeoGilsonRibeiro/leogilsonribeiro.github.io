@@ -58,17 +58,23 @@ $footer-font-family: "Jost" !default;
 
 
 // Body
-$body-color: white !default;
+$body-color: $white !default;
+$body-bg: #1F2128 !default;
+
+$body-color: #222 !default;
+$text-muted: lighten($body-color, 30%) !default;
+
+// border colors
+$border-color: lighten($body-color, 30%) !default;
+$table-border-color: $border-color !default;
+$border-width: 1px !default;
+$border-radius: 4px !default;
 
 // Links
 $link-color: $orange !default;
 $link-decoration: none !default;
 $link-hover-color: $red !default;
 $link-hover-decoration: underline !default;
-
-// Inline code
-$code-bg: $gray-200 !default;
-$code-color: $gray-900 !default;
 
 // Code copy
 $btn-code-copy-color-active: $orange !default;
@@ -78,7 +84,7 @@ $toc-color: $orange;
 $toc-font-size: 1em;
 
 // Navbar
-$navbar-bg: green !default;
+$navbar-bg: $purple !default;
 $navbar-fg: $white !default;
 $navbar-hl: $light-orange !default;
 
@@ -636,5 +642,3 @@ pre.text, pre.sourceCode, .cell-output pre {
         left: 0;
     }
 }
-
-
