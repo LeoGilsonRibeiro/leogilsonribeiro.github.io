@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.315">
+<meta name="generator" content="quarto-1.4.398">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -49,12 +49,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "start",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
   "keyboard-shortcut": [
     "f",
     "/",
     "s"
   ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "Nenhum resultado",
     "search-matching-documents-text": "documentos correspondentes",
@@ -70,7 +71,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
-  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
 </style>
 
 
@@ -3070,6 +3070,7 @@ ul.task-list li input[type="checkbox"] {
   
   </div></header>
 
+
 <p>Dentre os papéis e documentos de Leo Gilson Ribeiro encontrei duas conferências datilografadas que nunca foram publicadas. Ambas foram concebidas no âmbito de uma série. No primeiro caso, não consegui aferir quantas outras conferências integralizariam o curso sobre a literatura alemã. A primeira é intitulada “Caminhos e encontros” e foi inspirada em um ensaio homônimo do escritor austríaco Hugo von Hofmannsthal que nosso crítico traduz ao final desta primeira conferência (a única que encontramos), a qual é especialmente interessante por ser um testemunho em primeira pessoa das memórias juvenis de Leo Gilson Ribeiro e da sua experiência na Alemanha do pós-guerra onde estudou em Hamburgo e Heidelberg. No segundo caso, o próprio autor confirma que se trata da primeira de uma sequência de três conferências que foram por ele pronunciadas na Escola de Teatro da Universidade da Bahia em julho de 1959 e que tinham por escopo investigar a literatura dramatúrgica em três momentos históricos: o período barroco (analisando a Espanha e a Alemanha – este o conteúdo da primeira e única palestra deste ciclo que aqui publicamos), o período romântico (investigando a Alemanha e a Inglaterra) e, por fim, o período expressionista (ocupando-se da Alemanha e da França). O título da série das três conferências era “As interrelações da pintura, da música e da literatura”.</p>
 <p>Julgo as duas conferências muito reveladoras do modo de pensar a literatura comparativamente, o que obviamente Leo Gilson Ribeiro apreendeu na sua formação em <em>Vergleichende Literaturawissenschaft</em> (Literatura Comparada) nas universidades de Hamburgo e Heidelberg na Alemanha, mas esse modelo comparatista que foi adotado por nosso crítico também parece ter sofrido a inspiração das ideias do grande historiador inglês Toynbee, que ele tanto admirava, e que procurava entrecruzar as histórias nacionais dos diversos países para poder obter um panorama histórico mais amplo. Por essa razão, aliás, resolvemos inserir aqui três breves textos dele sobre Toynbee.</p>
 <p>Essas comparações são feitas quer com outros literaturas (como ocorre no caso das duas conferências aqui reproduzidas), quer com outras artes, por exemplo, com a pintura e a música, duas áreas de grande interesse de nosso autor e que frequentemente são evocadas para melhor ilustrar as particularidades de um texto literário. O texto da primeira conferência não tem nenhuma data, mas tudo indica pelo desgaste do papel no qual ela estava datilografada e pelo estilo de escrita adotada pelo autor que ela deve ter sido concebida no início dos anos 60 do século passado quando nosso crítico ainda morava na cidade do Rio de Janeiro, logo após retornar da Alemanha para o Brasil em 1959.</p>
@@ -3084,11 +3085,12 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuso</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.pt_br">https://creativecommons.org/licenses/by/4.0/deed.pt_br</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citação</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@book{rey puente2022,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuso</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.pt_br">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citação</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@book{rey puente2022,
   author = {Rey Puente, Fernando},
   editor = {Rey Puente, Fernando},
   series = {Textos Reunidos de Leo Gilson Ribeiro},
   volume = {9},
+  pages = {undefined},
   date = {2022},
   url = {https://www.leogilsonribeiro.com.br/volume-9},
   doi = {10.5281/zenodo.8368806},
@@ -3371,15 +3373,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    if (id.startsWith('sec-')) {
+    const typesetMath = (el) => {
+      if (window.MathJax) {
+        // MathJax Typeset
+        window.MathJax.typeset([el]);
+      } else if (window.katex) {
+        // KaTeX Render
+        var mathElements = el.getElementsByClassName("math");
+        var macros = [];
+        for (var i = 0; i < mathElements.length; i++) {
+          var texText = mathElements[i].firstChild;
+          if (mathElements[i].tagName == "SPAN") {
+            window.katex.render(texText.data, mathElements[i], {
+              displayMode: mathElements[i].classList.contains('display'),
+              throwOnError: false,
+              macros: macros,
+              fleqn: false
+            });
+          }
+        }
+      }
+    }
+    if (id === null || id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
         for (let i = 0; i < 2; i++) {
           container.appendChild(note.children[i].cloneNode(true));
         }
+        typesetMath(container);
         return container.innerHTML
       } else {
+        typesetMath(note);
         return note.innerHTML;
       }
     } else {
@@ -3388,6 +3413,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (anchorLink) {
         anchorLink.remove();
       }
+      typesetMath(note);
       return note.innerHTML;
     }
   }
@@ -3430,6 +3456,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
       }
     }, function(instance) {
     });
@@ -3505,7 +3554,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     window.addEventListener(
       "resize",
       throttle(() => {
-        console.log("RESIZE");
         elRect = undefined;
         if (selectedAnnoteEl) {
           selectCodeLines(selectedAnnoteEl);
@@ -3586,12 +3634,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("https:\/\/www\.leogilsonribeiro\.com\.br");
     var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
