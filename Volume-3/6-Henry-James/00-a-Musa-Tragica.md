@@ -1,6 +1,5 @@
 ---
-title: |
-  A musa trágica
+title: "A musa trágica"
 author: "Leo Gilson Ribeiro"
 citation:
   issued: "2022"
@@ -129,5 +128,3 @@ Disposta a enfrentar a ameça terrível e sobrenatural ela interroga o menino a 
 A investigação de Henry James "daquilo que jaz por detrás da *mise em scène* da vida" termina não com uma afirmação niilista, mas com a denuncia de uma sociedade putrefata oculta sob a aparência de beleza e de magia num vaticínio semelhante ao de Proust no final da sua caleidoscópica "em busca do tempo perdido".
 
 Como ele próprio declarou, as suas obras não foram escritas com o propósito de "deixar uma impressão agradável nos leitores". Ele se referia com insistência à frustração da vida inerente a toda existência humana. Na vida de qualquer ser humano há sempre qualquer coisa importante que ele perdeu ou não conseguiu realizar. A vida é deprimente e a arte inspiradora. Muito do seu mundo demoníaco de histórias de fantasmas que produzem o *frisson calvanique* exigido por Baudelaire está profundamente impregnado de simbolismo e do duelo entre o Mal e a Pureza, a Inocência e a Experiência. A afirmação crescente e indetível da obra de Henry James hoje examinada pela crítica é considerada uma das supremas contribuiões à novelística ocidental -- impõe-se com a serenidade inerente às coisas perfeitas. É possível que como os seus personagens que sucumbiram a frustrações impostas pelas circunstâncias a sua vitória final tenha sido póstuma, à medida que descobrirmos sob os escombros de sua frustração individual o tesouro inestimável da sua Arte.
-
-

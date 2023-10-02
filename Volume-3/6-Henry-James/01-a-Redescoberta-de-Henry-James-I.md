@@ -1,6 +1,5 @@
 ---
-title: |
-  A redescoberta de Henry James I
+title: "A redescoberta de Henry James I"
 author: "Leo Gilson Ribeiro"
 citation:
   issued: "2022"
