@@ -1,0 +1,61 @@
+format:
+  lgr-pdf
+
+project:
+  type: book
+  output-dir: ../_pdf/
+
+book:
+  chapters:
+    - index.qmd
+    - part: "Guimarães Rosa"
+      chapters:
+        - 1-Guimarães-Rosa/00-Guimaraes-Rosa-o-Sertao-o-Mundo-e-a-Travessia.md
+        - 1-Guimarães-Rosa/01-Breve-Roteiro-Da-Obra-de-Guimaraes-Rosa.md
+        - 1-Guimarães-Rosa/02-Um-Velho-Castelo-Macico-Uma-Nova-Flor-Poetica.md
+        - 1-Guimarães-Rosa/03-Guimaraes-Rosa.md
+        - 1-Guimarães-Rosa/04-Sobre-o-Conto-a-Hora-e-a-Vez-de-Augusto-Matraga.md
+        - 1-Guimarães-Rosa/05-Tutameia-Um-Atomo-Explode.md
+        - 1-Guimarães-Rosa/06-Orelha-Para-a-Primeira-Edicao-Do-Livro-Estas-Estorias-(1969).md
+        - 1-Guimarães-Rosa/07-Adeus-a-Palavra-(Nota-Sobre-Ave-Palavra-de-G-Rosa).md
+        - 1-Guimarães-Rosa/08-Guimaraes-Rosa-25-Anos-de-Veredas.md
+        - 1-Guimarães-Rosa/09-Vaqueiro-de-Roma.md
+        - 1-Guimarães-Rosa/10-Entrevista-Com-Edoardo-Bizzarri.md
+        - 1-Guimarães-Rosa/11-Guimaraes-Rosa-Novas-Luzes-Sobre-Um-Fascinante-Enigma.md
+    - part: "Clarice Lispector"
+      chapters:
+        - 2-Clarice-Lispector/00-Tentativa-de-Explicacao.md
+        - 2-Clarice-Lispector/01-Que-Misterios-tem-Clarice-Lispector.md
+        - 2-Clarice-Lispector/02-Carta-de-Agradecimento-a-Clarice-por-um-Novo-Livro.md
+        - 2-Clarice-Lispector/03-Auto-Inspeccao.md
+        - 2-Clarice-Lispector/04-Muito-Sveglia.md
+        - 2-Clarice-Lispector/05-So-os-Mais-Atentos-Conseguem-Encontrar-esta-Maca-no-Escuro.md
+        - 2-Clarice-Lispector/06-A-Hora-das-Estrelas.md
+        - 2-Clarice-Lispector/07-Clarice-num-Derradeiro-Espelho-diante-de-si-mesma.md
+        - 2-Clarice-Lispector/08-Ineditos-de-Clarice-para-se-Conhecer-Melhor-Clarice.md
+        - 2-Clarice-Lispector/09-Clarice-uma-Mulher-que-Morreu-pela-Vontade-de-Escrever.md
+        - 2-Clarice-Lispector/10-Um-Reencontro-Fascinante-com-o-Universo-de-Clarice.md
+        - 2-Clarice-Lispector/11-Clarice-doando-um-Fragmento-Iluminado-de-si-Mesma-nestas-Cronicas.md
+        - 2-Clarice-Lispector/12-A-Silenciosa-Revolucao-de-Clarice.md
+        - 2-Clarice-Lispector/13-Evocacao-de-Clarice.md
+    - part: "Hilda Hilst"
+      chapters:
+        - 3-Hilda-Hilst/00-Nota-Sobre-o-Livro-Poesia-1959-1967-(Livraria-Sal)-de-Hilda-Hilst.md
+        - 3-Hilda-Hilst/01-Esperando-Haydum.md
+        - 3-Hilda-Hilst/02-Poetisa-Em-Prosa-Qados-de-Hilda-Hilst.md
+        - 3-Hilda-Hilst/03-o-Vermelho-Da-Vida-Jubilo-Memoria-Noviciado-Da-Paixao-de-Hilda-Hilst.md
+        - 3-Hilda-Hilst/04-Hilda-Hilst-Em-Prosa-Ou-Poesia-a-Raridade-de-Uma-Obra-a-Frente-de-Seu-Tempo.md
+        - 3-Hilda-Hilst/05-Hilda-Hilst-Ficcoes-(Sao-Paulo-Edicoes-Quiron-Limitada-1977)-Pp-Vii-Xii.md
+        - 3-Hilda-Hilst/06-As-Multiplas-Seducoes-de-Hilda-Hilst-Entrevista.md
+        - 3-Hilda-Hilst/07-Depoimento-de-Hilda-Hilst-Eu-Quero-a-Juncao-Do-Misticismo-Com-a-Ciencia.md
+        - 3-Hilda-Hilst/08-a-Morte-Saudada-Em-Versos-Iluminados-Por-Hilda-Hilst.md
+        - 3-Hilda-Hilst/09-Quem-Tem-Medo-de-Hilda-Hist.md
+        - 3-Hilda-Hilst/10-Os-Versos-de-Hilda-Hilst-Integrando-a-Nossa-Realidade.md
+        - 3-Hilda-Hilst/11-Mais-Uma-Obra-de-Hilda-Hilst-Com-Todos-Os-Superlativos.md
+        - 3-Hilda-Hilst/12-Hilda-Encantamento-Mistico-Inigualavel.md
+        - 3-Hilda-Hilst/13-a-Esperanca-de-Chegar-Um-Dia-a-Ter-Esperanca-Hilda-Hilst-Esta-e-a-Literatura-Que-Eu-Escrevo.md
+        - 3-Hilda-Hilst/14-Hilda-Hilst-Cosmica-e-Atemporal-Em-Busca-de-Deus.md
+        - 3-Hilda-Hilst/15-Punhal-Destemido-Nota-Sobre-Com-Os-Meus-Olhos-de-Cao-de-Hilda-Hilst.md
+        - 3-Hilda-Hilst/16-Hilda-Hilst.md
+        - 3-Hilda-Hilst/17-a-Luminosa-Despedida-Seguida-de-Um-Longo-Depoimento-de-Hilda-Hilst.md
+        - 3-Hilda-Hilst/18-Da-Ficcao.md

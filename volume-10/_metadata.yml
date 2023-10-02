@@ -1,0 +1,13 @@
+cover:
+  title: Grandes contistas brasileiros do século XX
+  label-color: "magenta!40"
+citation:
+  citation-key: LGRVol10
+  type: book
+  volume: 10
+  container-title: "Grandes contistas brasileiros do século XX"
+  collection-title: "Textos Reunidos de Leo Gilson Ribeiro"
+  issued: 2022
+  editor: "Fernando Rey Puente"
+  doi: 10.5281/zenodo.8368806
+version: 2023-09-24-13-53

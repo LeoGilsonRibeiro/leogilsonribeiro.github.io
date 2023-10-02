@@ -1,0 +1,32 @@
+format:
+  lgr-pdf
+
+project:
+  type: book
+  output-dir: ../_pdf/
+
+book:
+  chapters:
+    - index.qmd
+    - part: "Semana de Arte Moderna de 1922"
+      chapters:
+        - 1-Semana-de-Arte-Moderna-de-1922/00-Foi-Nosso-Primeiro-Happening-Urbano.md
+        - 1-Semana-de-Arte-Moderna-de-1922/01-e-Foi-Assim-Que-Nasceu-o-Brasil-de-Hoje-Com-Drummond-e-o-Romance-Social.md
+    - part: "Emílio Di Cavalcanti"
+      chapters:
+        - 2-Emílio-Di-Cavalcanti/00-O-Adeus-Do-Mestre-Para-a-Pintura-Brasileira-Ficam-As-Mulatas-o-Morro-o-Mar-e-a-Semana-de-Arte-Moderna.md
+        - 2-Emílio-Di-Cavalcanti/01-Di-Para-Quem-Viver-Era-Um-Circulo-Magico.md
+    - part: "Tarsila do Amaral"
+      chapters:
+        - 3-Tarsila-Do-Amaral/00-Tarsila-Do-Amaral-a-Ultima-Entrevista.md
+    - part: "Menotti del Picchia"
+      chapters:
+        - 4-Menotti-Del-Picchia/00-Menotti-Del-Picchia-Nada-Me-Orgulha-Mais-Do-Que-Ter-Sido-Poeta.md
+    - part: "Oswald de Andrade"
+      chapters:
+        - 5-Oswald-de-Andrade/00-Oswald-de-Andrade-o-Incoerente.md
+    - part: "Mário de Andrade"
+      chapters:
+        - 6-Mário-de-Andrade/00-Astuto-Ou-Generoso-Mas-Sempre-Amoral.md
+        - 6-Mário-de-Andrade/01-Mario-o-Campo-Aberto-e-Nevoento-Do-Debate.md
+        - 6-Mário-de-Andrade/02-Curso-Sobre-o-Movimento-Modernista-Mario-de-Andrade.md

@@ -1,0 +1,66 @@
+format:
+  lgr-pdf
+
+project:
+  type: book
+  output-dir: ../_pdf/
+
+book:
+  chapters:
+    - index.qmd
+    - part: "Italo Svevo"
+      chapters:
+        - 01-Ítalo-Svevo/00-Um-Romance-de-Italo-Svevo.md
+        - 01-Ítalo-Svevo/01-Svevo-Incompreendido-Revolucionario-e-Sem-Sucessores-Na-Italia.md
+    - part: "Giuseppe Ungaretti"
+      chapters:
+        - 02-Giuseppe-Ungaretti/00-Ungaretti-Memorias-de-Um-Poeta-Maior-Vidente-Como-Rimbaud.md
+    - part: "Carlo Emilio Gadda"
+      chapters:
+        - 03-Carlo-Emilio-Gadda/00-Gadda-(1893-1973).md
+        - 03-Carlo-Emilio-Gadda/01-A-Amargura-Humana-Em-Linguagem-Culta.md
+        - 03-Carlo-Emilio-Gadda/02-O-Mestre-Gadda.md
+    - part: "Eugenio Montale"
+      chapters:
+        - 04-Eugenio-Montale/00-o-Poeta-Do-Amor-Da-Solidao-Do-Mediterraneo.md
+        - 04-Eugenio-Montale/01-a-Borboleta-de-Dinard-Este-Livro-Nao-Foi-Apenas-Traduzido-Foi-Destruido.md
+    - part: "Ignazio Silone"
+      chapters:
+        - 05-Ignazio-Silone/00-Entrevista-Com-Ignazio-Silone-Ideias-Literatura-e-Artes-Varias.md
+    - part: "Carlo Levi"
+      chapters:
+        - 06-Carlo-Levi/00-Carlo-Levi-e-a-Outra-Italia.md
+        - 06-Carlo-Levi/01-o-Despertar-Da-Consciencia-(A-Respeito-de-Um-Livro-de-Carlo-Levi).md
+    - part: "Alberto Moravia"
+      chapters:
+        - 07-Alberto-Moravia/00-Alberto-Moravia-e-Os-Estudantes.md
+        - 07-Alberto-Moravia/01-Alberto-Moravia-e-Elsa-Morante-Entrevista-a-Leo-Gilson-Ribeiro.md
+        - 07-Alberto-Moravia/02-o-Mundo-Exposto-de-Moravia.md
+    - part: "Cesare Pavese"
+      chapters:
+        - 08-Cesare-Pavese/00-a-Literatura-e-o-Homem.md
+        - 08-Cesare-Pavese/01-Traducao-de-Lgr-Do-Artigo-de-Cesare-Pavese-Regresso-Ao-Homem.md
+        - 08-Cesare-Pavese/02-Traducao-de-Lgr-Do-Artigo-de-Cesare-Pavese-Ler.md
+        - 08-Cesare-Pavese/03-a-Literatura-Como-Oficio.md
+        - 08-Cesare-Pavese/04-de-Uma-Nova-Literatura.md
+    - part: "Giorgio Bassani"
+      chapters:
+        - 09-Giorgio-Bassani/00-Giorgio-Bassani-e-o-Conto-Moderno-Italiano.md
+    - part: "Primo Levi"
+      chapters:
+        - 10-Primo-Levi/00-Inferno-Em-Auschwitz-Resenha-Sobre-o-Livro-Isto-e-Um-Homem-de-Primo-Levi.md
+    - part: "Leonardo Sciascia"
+      chapters:
+        - 11-Leonardo-Sciascia/00-Caca-As-Bruxas-o-Caso-de-Caterina-Medici-Uma-Mulher-Acusada-de-Feiticaria-No-Seculo-Xvii-Resenha-Do-Livro-a-Bruxa-e-o-Capitao-de-Leonardo-Sciascia.md
+        - 11-Leonardo-Sciascia/01-Sciascia-a-Palavra-Radical.md
+        - 11-Leonardo-Sciascia/02-Trecho-Do-Ensaio-La-Corda-Pazza-de-L-Sciascia-Na-Traducao-de-Leo-Gilson-Ribeiro.md
+    - part: "Italo Calvino"
+      chapters:
+        - 12-Ítalo-Calvino/00-Italo-Calvino.md
+    - part: "Carlo Castellaneta"
+      chapters:
+        - 13-Carlo-Castellaneta/00-Nem-Arauto-Nem-Bobo-Da-Corte-o-Escritor-Segundo-Caltellaneta.md
+        - 13-Carlo-Castellaneta/01-Traducao-Do-Conto-de-Carlo-Castellaneta-Uma-Mulher-Invisivel)-Por-Leo-Gilson-Ribeiro.md
+    - part: "Umberto Eco"
+      chapters:
+        - 14-Umberto-Eco/00-Mais-Um-Pastel-de-Vento-(Resenha-Ao-Livro-de-U-Eco-o-Pendulo-de-Foucault).md

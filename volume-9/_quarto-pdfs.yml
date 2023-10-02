@@ -1,0 +1,45 @@
+format:
+  lgr-pdf
+
+project:
+  type: book
+  output-dir: ../_pdf/
+
+book:
+  chapters:
+    - index.qmd
+    - part: "Caminhos e encontros"
+      chapters:
+        - 01-Caminhos-e-Encontros/index.qmd
+    - part: "Ensaio de Hugo von Hofmannsthal (tradução de Leo Gilson Ribeiro)"
+      chapters:
+        - 02-Ensaio-de-Hugo-Von-Hofmannsthal/index.qmd
+    - part: "As interrelações da pintura, da música e da literatura no período barroco"
+      chapters:
+        - 03-As-Interrelacoes-Da-Pintura-Da-Musica-e-Da-Literatura-No-Periodo-Barroco/index.qmd
+    - part: "O Barroco e a literatura"
+      chapters:
+        - 04-O-Barroco-e-a-Literatura/index.qmd
+    - part: "Especificidade da literatura brasileira"
+      chapters:
+        - 05-Especificidade-da-Literatura-Brasileira/index.qmd
+    - part: "Psicologia e literatura. As boas e as más relações."
+      chapters:
+        - 06-Psicologia-e-Literatura-As-Boas-e-As-Mas-Relacoes/index.qmd
+    - part: "Três vezes Toynbee"
+      chapters:
+        - 07-Tres-Vezes-Toynbee/00-Toynbee-e-a-Sua-Historia.md
+        - 07-Tres-Vezes-Toynbee/01-Arnold-Toynbee-Uma-Opcao-Para-o-Fim-Do-Mundo.md
+        - 07-Tres-Vezes-Toynbee/02-Toynbee-e-Seu-Panorama-de-Esperancas-e-Pessimismo.md
+    - part: "De Selene à Apollo"
+      chapters:
+        - 08-De-Selene-a-Apollo/index.qmd
+    - part: "Os autores do grito radical - Ginsberg, Genet, Gadda e Borges"
+      chapters:
+        - 09-Os-Autores-Do-Grito-Radical-Ginsberg-Genet-Gadda-e-Borges/index.qmd
+    - part: "Genet, um homem à margem"
+      chapters:
+        - 10-Genet-Um-Homem-a-Margem/index.qmd
+    - part: "Um produto que a Alalc não negocia - cultura"
+      chapters:
+        - 11-Um-Produto-Que-a-Alalc-Nao-Negocia-Cultura/index.qmd

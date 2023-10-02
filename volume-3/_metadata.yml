@@ -1,0 +1,13 @@
+cover:
+  title: Testemunhos Literários do século XX
+  label-color: "blue!30"
+citation:
+  citation-key: LGRVol3
+  type: book
+  volume: 3
+  container-title: "Testemunhos Literários do século XX"
+  collection-title: "Textos Reunidos de Leo Gilson Ribeiro"
+  issued: 2022
+  editor: "Fernando Rey Puente"
+  doi: 10.5281/zenodo.8368806
+version: 2023-09-24-13-53
