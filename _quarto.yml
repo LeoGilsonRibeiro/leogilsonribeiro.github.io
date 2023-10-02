@@ -356,19 +356,19 @@ website:
         contents:
           - section: "Brasil-Portugal - tentativas de aproximação"
             contents:
-              - volume-6/01-brasil-portugal-tentativas-de-aproximaçao/00-na-contramao.md
-              - volume-6/01-brasil-portugal-tentativas-de-aproximaçao/01-poetas-portugueses-versos-e-duas-culturas-reencontram-seu-ponto-de-uniao.md
-              - volume-6/01-brasil-portugal-tentativas-de-aproximaçao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade.md
+              - volume-6/01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao.md
+              - volume-6/01-brasil-portugal-tentativas-de-aproximacao/01-poetas-portugueses-versos-e-duas-culturas-reencontram-seu-ponto-de-uniao.md
+              - volume-6/01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade.md
           - section: "Fernão Mendes Pinto"
             contents:
               - volume-6/02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues.md
           - section: "Eça de Queirós"
             contents:
-              - volume-6/03-eça-de-queiros/00-tese-e-antitese-de-eca-de-queiros.md
-              - volume-6/03-eça-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso.md
-              - volume-6/03-eça-de-queiros/02-depois-dele-portugal-nao-foi-mais-o-mesmo-nem-o-portugues.md
-              - volume-6/03-eça-de-queiros/03-uma-obra-prima-inacabada-com-a-marca-da-grandeza-olimpica-de-eca.md
-              - volume-6/03-eça-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte.md
+              - volume-6/03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros.md
+              - volume-6/03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso.md
+              - volume-6/03-eca-de-queiros/02-depois-dele-portugal-nao-foi-mais-o-mesmo-nem-o-portugues.md
+              - volume-6/03-eca-de-queiros/03-uma-obra-prima-inacabada-com-a-marca-da-grandeza-olimpica-de-eca.md
+              - volume-6/03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte.md
           - section: "Antero de Quental"
             contents:
               - volume-6/04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico.md
@@ -465,8 +465,8 @@ website:
         contents:
           - section: "Italo Svevo"
             contents:
-              - volume-8/01-ítalo-svevo/00-um-romance-de-italo-svevo.md
-              - volume-8/01-ítalo-svevo/01-svevo-incompreendido-revolucionario-e-sem-sucessores-na-italia.md
+              - volume-8/01-italo-svevo/00-um-romance-de-italo-svevo.md
+              - volume-8/01-italo-svevo/01-svevo-incompreendido-revolucionario-e-sem-sucessores-na-italia.md
           - section: "Giuseppe Ungaretti"
             contents:
               - volume-8/02-giuseppe-ungaretti/00-ungaretti-memorias-de-um-poeta-maior-vidente-como-rimbaud.md
@@ -511,7 +511,7 @@ website:
               - volume-8/11-leonardo-sciascia/02-trecho-do-ensaio-la-corda-pazza-de-l-sciascia-na-traducao-de-leo-gilson-ribeiro.md
           - section: "Italo Calvino"
             contents:
-              - volume-8/12-ítalo-calvino/00-italo-calvino.md
+              - volume-8/12-italo-calvino/00-italo-calvino.md
           - section: "Carlo Castellaneta"
             contents:
               - volume-8/13-carlo-castellaneta/00-nem-arauto-nem-bobo-da-corte-o-escritor-segundo-caltellaneta.md
@@ -582,13 +582,13 @@ website:
               - volume-10/02-dalton-trevisan/05-dalton-trevisan.md
               - volume-10/02-dalton-trevisan/06-dalton-trevisan-traz-mais-historias.md
               - volume-10/02-dalton-trevisan/07-abismo-de-rosas.md
-              - volume-10/02-dalton-trevisan/08-um-ensaio-para-a-conscientizaçao-e-que-chega-a-grande-estreia.md
-              - volume-10/02-dalton-trevisan/09-a-perfeiçao-contundente-e-sublime-dos-contos-de-trevisan.md
+              - volume-10/02-dalton-trevisan/08-um-ensaio-para-a-conscientizacao-e-que-chega-a-grande-estreia.md
+              - volume-10/02-dalton-trevisan/09-a-perfeicao-contundente-e-sublime-dos-contos-de-trevisan.md
               - volume-10/02-dalton-trevisan/10-o-kama-sutra-de-trevisan-sem-ceu-inferno-ou-purgatorio.md
               - volume-10/02-dalton-trevisan/11-a-tragicomedia-de-trevisan-em-renovada-e-envolvente-concisao-telegrafica.md
               - volume-10/02-dalton-trevisan/12-em-busca-da-libido-perdida.md
-              - volume-10/02-dalton-trevisan/13-a-reafirmaçao-feminista-de-dalton-trevisan.md
-              - volume-10/02-dalton-trevisan/14-dalton-trevisan-no-20º-livro-um-texto-arejado-e-a-competencia-de-sempre.md
+              - volume-10/02-dalton-trevisan/13-a-reafirmacao-feminista-de-dalton-trevisan.md
+              - volume-10/02-dalton-trevisan/14-dalton-trevisan-no-20-livro-um-texto-arejado-e-a-competencia-de-sempre.md
               - volume-10/02-dalton-trevisan/15-dalton-trevisan-mais-uma-obra-prima-tragica-hilariante-patetica.md
               - volume-10/02-dalton-trevisan/16-a-humanidade-alucinada-de-dalton-trevisan.md
               - volume-10/02-dalton-trevisan/17-resenha-ao-livro-arara-bebada.md
@@ -613,7 +613,7 @@ website:
           - section: "Luís Vilela e a hostilidade cotidiana nas metrópoles"
             contents:
               - volume-10/07-luis-vilela/00-ler-vilela-indispensavel.md
-              - volume-10/07-luis-vilela/01-este-nao-e-um-romance-é-uma-vingança-pessoal-cheia-de-chavoes.md
+              - volume-10/07-luis-vilela/01-este-nao-e-um-romance-é-uma-vinganca-pessoal-cheia-de-chavoes.md
           - section: "João Gilberto Noll e a complexidade plural das relações humanas"
             contents:
               - volume-10/08-joao-gilberto-noll/00-joao-gilberto-noll-um-clarao-de-lucidez-em-anos-de-treva.md
