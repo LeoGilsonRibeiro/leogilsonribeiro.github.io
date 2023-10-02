@@ -1,7 +1,10 @@
 ---
 title: |
   Leo Gilson Ribeiro
-view_url: https://leogilsonribeiro.com.br
+citation:
+  citation-key: "LGR2023"
+  type: chapter
+  container-title: "Textos Reunidos de Leo Gilson Ribeiro"
 ---
 
 > Que é mesmo para valer, já o título o diz. Mas vale por grata madrugada este livro de ensaios, e consola bem à gente haver um Leo Gilson.
@@ -14,7 +17,7 @@ view_url: https://leogilsonribeiro.com.br
 In: Orelha do livro *Cronistas do Absurdo. Kafka, Büchner, Brecht, Ionesco.*
 
 
-
+ 
 ---
 
 ### Outubro de 2023
