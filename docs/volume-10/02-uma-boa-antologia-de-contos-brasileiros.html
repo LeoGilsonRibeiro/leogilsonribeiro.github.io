@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.315">
+<meta name="generator" content="quarto-1.4.395">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -56,6 +56,7 @@ ul.task-list li input[type="checkbox"] {
     "/",
     "s"
   ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "Nenhum resultado",
     "search-matching-documents-text": "documentos correspondentes",
@@ -3058,6 +3059,7 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+
 <p>O Éden, brasileiro, ainda, deslumbrou todos os viajantes estrangeiros que chegaram ao Brasil, desde a era colonial. Humboldt, Hans Staden, Debret, Rugendas fixaram da nossa imagem colonial, a par da selva ou do sonolento centro urbano, os animais. O exotismo das lendas sobre o Eldorado estendeu-se desde o início, à fauna fabulosa de animais que misturavam vários reinos ao mesmo tempo: plantas carnívoras, com cabeças humanas, aves maravilhosas com semitroncos povoariam o Brasil desconhecido.</p>
 <p>Esse sentido do maravilhoso – reforçado pela mitologia e pela cultura do africano trazido para cá e pela tradição indígena, em que a Yara surge como uma serpente ou como um boto para atrair os homens para o rio Amazonas – transplantou-se para a nossa literatura.</p>
 <p>Desde o sóbrio espanto de Pedro Vaz de Caminha (diante das índias nuas e dos papagaios de cores vivas) que os animais integram não só a nossa paisagem narrativa como a nossa poesia, o nosso teatro e a nossa vida diária. Sem chegar à idolatria zoológica britânica – que quase equipara cães e gatos aos súditos de Sua Majestade – os nossos escritores, particularmente, testemunham uma ternura especial para com os animais domésticos. Comuns na zona rural do interior, as cachorrinhas vira-latas como a Baleia de <em>Vidas Secas</em> de Graciliano Ramos ou o zoológico doméstico do taubateano Monteiro Lobato – com seus porcos, burros, vacas que se transformarão no Marquês de Rabicó, no Burro Mágico e na Vaca Môcha, além dos fantásticos como Rinoceronte Quindim – os animais perdem seu aspecto pacífico em certos contos e romances contemporâneos.</p>
@@ -3070,7 +3072,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuso</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.pt_br">https://creativecommons.org/licenses/by/4.0/deed.pt_br</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citação</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@incollection{gilson ribeiro2022,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuso</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.pt_br">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citação</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@incollection{gilson ribeiro2022,
   author = {Gilson Ribeiro, Leo},
   editor = {Rey Puente, Fernando},
   title = {Uma boa antologia de contos brasileiros, onde os bichos são
@@ -3079,6 +3081,7 @@ ul.task-list li input[type="checkbox"] {
   booktitle = {Grandes contistas brasileiros do século XX},
   series = {Textos Reunidos de Leo Gilson Ribeiro},
   volume = {10},
+  pages = {undefined},
   date = {2023},
   url = {https://www.leogilsonribeiro.com.br/volume-10/02-uma-boa-antologia-de-contos-brasileiros.html},
   doi = {10.5281/zenodo.8368806},
@@ -3090,7 +3093,7 @@ Gilson Ribeiro, Leo. (1970) 2023. <span>“Uma boa antologia de contos
 brasileiros, onde os bichos são sempre os personagens principais
 (Resenha sobre Antologia de Contos Brasileiros de Bichos).”</span> In
 <em>Grandes contistas brasileiros do século XX</em>, edited by Fernando
-Rey Puente. Vol. 10. Textos Reunidos de Leo Gilson Ribeiro. <a href="https://doi.org/10.5281/zenodo.8368806">https://doi.org/10.5281/zenodo.8368806</a>.
+Rey Puente, 10:undefined. Textos Reunidos de Leo Gilson Ribeiro. <a href="https://doi.org/10.5281/zenodo.8368806">https://doi.org/10.5281/zenodo.8368806</a>.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
@@ -3364,15 +3367,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    if (id.startsWith('sec-')) {
+    const typesetMath = (el) => {
+      if (window.MathJax) {
+        // MathJax Typeset
+        window.MathJax.typeset([el]);
+      } else if (window.katex) {
+        // KaTeX Render
+        var mathElements = el.getElementsByClassName("math");
+        var macros = [];
+        for (var i = 0; i < mathElements.length; i++) {
+          var texText = mathElements[i].firstChild;
+          if (mathElements[i].tagName == "SPAN") {
+            window.katex.render(texText.data, mathElements[i], {
+              displayMode: mathElements[i].classList.contains('display'),
+              throwOnError: false,
+              macros: macros,
+              fleqn: false
+            });
+          }
+        }
+      }
+    }
+    if (id === null || id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
         for (let i = 0; i < 2; i++) {
           container.appendChild(note.children[i].cloneNode(true));
         }
+        typesetMath(container);
         return container.innerHTML
       } else {
+        typesetMath(note);
         return note.innerHTML;
       }
     } else {
@@ -3381,6 +3407,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (anchorLink) {
         anchorLink.remove();
       }
+      typesetMath(note);
       return note.innerHTML;
     }
   }
@@ -3423,6 +3450,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
       }
     }, function(instance) {
     });
@@ -3498,7 +3548,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     window.addEventListener(
       "resize",
       throttle(() => {
-        console.log("RESIZE");
         elRect = undefined;
         if (selectedAnnoteEl) {
           selectCodeLines(selectedAnnoteEl);
@@ -3579,19 +3628,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("https:\/\/www\.leogilsonribeiro\.com\.br");
     var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
-          // default icon
-          link.classList.add("external");
       }
     }
 });
