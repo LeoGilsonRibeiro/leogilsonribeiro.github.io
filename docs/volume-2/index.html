@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.398">
+<meta name="generator" content="quarto-1.4.315">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -49,13 +49,12 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "start",
   "type": "textbox",
-  "limit": 50,
+  "limit": 20,
   "keyboard-shortcut": [
     "f",
     "/",
     "s"
   ],
-  "show-item-context": false,
   "language": {
     "search-no-results-text": "Nenhum resultado",
     "search-matching-documents-text": "documentos correspondentes",
@@ -3037,7 +3036,7 @@ ul.task-list li input[type="checkbox"] {
                 </p></div>
   </div>
 
-                    
+  
   <div class="quarto-title-meta">
       <div>
       <div class="quarto-title-meta-heading">Autor</div>
@@ -3045,12 +3044,12 @@ ul.task-list li input[type="checkbox"] {
                 <p>Fernando Rey Puente </p>
                 </div>
     </div>
-                              
     
-                               
-                                                          
-      
-                  
+    
+    
+
+    
+    
     
   <div class="quarto-title-meta">
       <div class="quarto-title-meta-heading">Download do Volume <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewbox="0 0 16 16">
@@ -3063,14 +3062,12 @@ ul.task-list li input[type="checkbox"] {
               </a>
           </p>
       </div>
-  </div>    
+  </div>
 
 
-                                                
   
   
   </div></header>
-
 
 <p>Encontrei a frase “os escritores aquém e além da literatura” para designar os três escritores aqui reunidos em um artigo do próprio Leo Gilson Ribeiro sobre Clarice Lispector presente nesta antologia e me pareceu conveniente adotá-lo para nomear a coletânea de textos aqui reunidos.</p>
 <p>Ao longo de minha amizade de duas décadas com ele, recordo-me sempre de suas lembranças de episódios relativos a encontros e conversas que havia tido com Guimarães Rosa e com a Clarice Lispector. Quanto a Hilda Hilst, bem, essa foi a razão mesma de eu ter conhecido Leo Gilson Ribeiro, pois fiquei muito impactado ao ler <em>A Obscena Senhora D.</em> - obviamente em função de ter lido à época uma resenha do LGR no <em>Jornal da Tarde</em> sobre esse livro – e eu queria conhecer a escritora que o criara. Uma amiga me deu como presente de aniversário o suposto telefone da escritora, hoje tornada célebre, mas logo descobri que esse número não era o correto. Mais uma vez, essa amiga me forneceu um número de telefone, mas desta vez do LGR, pois eu lhe havia dito que foi por intermédio de uma resenha dele que eu havia chegado ao livro de Hilda Hilst comprado na saudosa livraria Duas Cidades. Foi assim então que, a fim de saber como eu poderia entrar em contacto com a escritora, que eu acabei telefonando para o LGR e acabamos falando por quase duas horas ao telefone sobre o Zen Budismo e sobre textos sagrados da Índia. Ao final dessa longa conversa telefônica, ele se ofereceu para irmos um dia à Casa do Sol, o que fizemos algumas semanas depois. A partir daí conheci HH, que revi diversas vezes e acabei com o passar dos anos me tornando amigo de LGR. Em nossas tertúlias literárias ao longo dos anos de nossa amizade era constante ele evocar os dois primeiros escritores aqui enfeixados, bem como a Hilda Hilst, a única dos três que ainda estava viva naquele momento, com incontida admiração por suas obras, de modo que essa recolha de textos sobre esses três escritores de quem LGR foi amigo pessoal e cujas obras ele julgava transcender a propósitos meramente estéticos e literários me parece plenamente justificada.</p>
@@ -3082,12 +3079,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuso</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.pt_br">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citação</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@book{rey puente2022,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuso</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.pt_br">https://creativecommons.org/licenses/by/4.0/deed.pt_br</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citação</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@book{rey puente2022,
   author = {Rey Puente, Fernando},
   editor = {Rey Puente, Fernando},
   series = {Textos Reunidos de Leo Gilson Ribeiro},
   volume = {2},
-  pages = {undefined},
   date = {2022},
   url = {https://www.leogilsonribeiro.com.br/volume-2},
   doi = {10.5281/zenodo.8368806},
@@ -3370,38 +3366,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    const typesetMath = (el) => {
-      if (window.MathJax) {
-        // MathJax Typeset
-        window.MathJax.typeset([el]);
-      } else if (window.katex) {
-        // KaTeX Render
-        var mathElements = el.getElementsByClassName("math");
-        var macros = [];
-        for (var i = 0; i < mathElements.length; i++) {
-          var texText = mathElements[i].firstChild;
-          if (mathElements[i].tagName == "SPAN") {
-            window.katex.render(texText.data, mathElements[i], {
-              displayMode: mathElements[i].classList.contains('display'),
-              throwOnError: false,
-              macros: macros,
-              fleqn: false
-            });
-          }
-        }
-      }
-    }
-    if (id === null || id.startsWith('sec-')) {
+    if (id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
         for (let i = 0; i < 2; i++) {
           container.appendChild(note.children[i].cloneNode(true));
         }
-        typesetMath(container);
         return container.innerHTML
       } else {
-        typesetMath(note);
         return note.innerHTML;
       }
     } else {
@@ -3410,7 +3383,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (anchorLink) {
         anchorLink.remove();
       }
-      typesetMath(note);
       return note.innerHTML;
     }
   }
@@ -3453,29 +3425,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
       }
     }, function(instance) {
     });
@@ -3551,6 +3500,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     window.addEventListener(
       "resize",
       throttle(() => {
+        console.log("RESIZE");
         elRect = undefined;
         if (selectedAnnoteEl) {
           selectCodeLines(selectedAnnoteEl);
@@ -3631,13 +3581,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("https:\/\/www\.leogilsonribeiro\.com\.br");
     var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        return filterRegex.test(href) || localhostRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):(.quarto-navigation-tool)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

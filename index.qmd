@@ -25,14 +25,21 @@ In: Orelha do livro *Cronistas do Absurdo. Kafka, Büchner, Brecht, Ionesco.*
 
 ::: {.content-visible when-format="html"}
 
-::: {#fig-pdfvol1 .column-page-right}
+::: {#fig-vol .column-page-right}
+[![](img/Volume-1.pdf){#fig-vol1 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-1.pdf)
+[![](img/Volume-2.pdf){#fig-vol2 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-2.pdf)
+[![](img/Volume-3.pdf){#fig-vol3 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-3.pdf)
+[![](img/Volume-4.pdf){#fig-vol4 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-4.pdf)
+[![](img/Volume-5.pdf){#fig-vol5 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-5.pdf)
+[![](img/Volume-6.pdf){#fig-vol6 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-6.pdf)
+[![](img/Volume-7.pdf){#fig-vol7 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-7.pdf)
+[![](img/Volume-8.pdf){#fig-vol8 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-8.pdf)
+[![](img/Volume-9.pdf){#fig-vol9 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-9.pdf)
+[![](img/Volume-10.pdf){#fig-vol10 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-10.pdf)
 
-:::: {#fig-pdfvol1a}
-<iframe width="25%" height="300" src="https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-1.pdf"></iframe>
-<iframe width="25%" height="300" src="https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-2.pdf"></iframe>
+Volumes 1-10 da Coleção.
 :::::
 
-Volumes 1-2 da Coleção.
 :::::
 
-:::
+
