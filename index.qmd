@@ -14,3 +14,30 @@ view_url: https://leogilsonribeiro.com.br
 In: Orelha do livro *Cronistas do Absurdo. Kafka, Büchner, Brecht, Ionesco.*
 
 
+
+---
+
+### Outubro de 2023
+
+- Confira os novos volumes em PDF!
+
+
+
+::: {.content-visible when-format="html"}
+
+::: {#fig-pdfvol1 .column-page-right}
+
+:::: {#fig-pdfvol1a}
+<iframe width="25%" height="300" src="/_pdf/Volume-1.pdf"></iframe>
+<iframe width="25%" height="300" src="/_pdf/Volume-2.pdf"></iframe>
+:::::
+
+:::: {#fig-pdfvol3}
+<iframe width="25%" height="300" src="/_pdf/Volume-3.pdf"></iframe>
+<iframe width="25%" height="300" src="/_pdf/Volume-4.pdf"></iframe>
+::::
+
+Volumes 1-4 da Coleção.
+:::::
+
+:::
