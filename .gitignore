@@ -17,7 +17,7 @@ yarn-debug.log*
 yarn-error.log*
 *Icon*
 *~$*.docx
-
+src/
 /.quarto/
 
 /.luarc.json
