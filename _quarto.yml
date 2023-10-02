@@ -60,6 +60,7 @@ website:
     right: "Site feito por Bernardo CDA Vasconcelos <a href=https://orcid.org/0000-0002-3357-1710><img src=https://orcid.org/sites/default/files/images/orcid_16x16.png></a> com <a href=https://quarto.org/><img src=https://quarto.org/quarto.png height=16></a>"
   # body-header:
   # date: last-modified
+  page-navigation: true
   sidebar:
     logo: "img/LGR_0001.jpg"
 #     style: docked
@@ -72,11 +73,7 @@ website:
     # search: true
     search: true
     reader-mode: true
-    page-navigation: true
     tools:
-    - text: "GitHub"
-      icon: github
-      href: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io
     - text: PDF
       icon: file-pdf
       menu:
@@ -100,6 +97,9 @@ website:
           href: _pdf/volume-9.pdf
         - text: Volume 10
           href: _pdf/volume-10.pdf
+    - text: "GitHub"
+      icon: github
+      href: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io
     # - text: "Contact"
     #   icon: envelope
     #   href: contact.html
