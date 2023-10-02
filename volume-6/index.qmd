@@ -1,7 +1,9 @@
 ---
 author: "Fernando Rey Puente"
+published: true
 template-partials:
   - _extensions/lgr/empty/title-block.html
+  - _extensions/lgr/empty/title-metadata.html
 ---
 
 ::: {.content-hidden when-format="html"}

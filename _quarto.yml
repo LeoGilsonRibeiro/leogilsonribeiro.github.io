@@ -6,22 +6,22 @@ project:
     browser: true
     watch-inputs: true
     navigate: true
-  resources:
-    - "_pdfs/*.pdf"
+  # resources:
+  #   - "_pdfs/*.pdf"
 # execute:
   # freeze: true
   # cache: true
 format:
   html:
     theme:
-      light: [_extensions/lgr/ath.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
-      # light: [pandoc] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      # light: [_extensions/lgr/ath.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      light: [pandoc] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
       dark: [_extensions/lgr/ath-dark.scss]
     code-copy: true
     toc: true
-    mainfont: EB Garamond
-    font-family: EB Garamond
-    sansfont: EB Garamond
+    mainfont: Alegreya
+    font-family: Alegreya
+    sansfont: Alegreya Sans
     # mainfont: Cormorant Garamond
     # font-family: Cormorant Garamond
     # sansfont: Cormorant Garamond
@@ -32,12 +32,13 @@ format:
     hover-citations: true
     hover-footnotes: true
     anchor-sections: true
-    link-external-icon: true
+    # link-external-icon: true
     link-external-newwindow: true
     license: "CC BY"
     # title-block-banner: "#BB3333"
     header-includes: |
       <style>
+        @import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
       </style>
     # code-overflow: wrap
@@ -225,8 +226,7 @@ website:
       - section: "3 Testemunhos Literários do século XX"
         href: volume-3/index.qmd
         contents:
-          - text: "Revolução Estética da Arte Moderna"
-            file: volume-3/1-revoluçao-estetica-da-arte-moderna/index.qmd
+          - volume-3/1-revoluçao-estetica-da-arte-moderna/index.qmd
           - section: "Charles Baudelaire"
             contents:
               - volume-3/2-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica.md
@@ -564,7 +564,7 @@ website:
         href: volume-10/index.qmd
         contents:
           - volume-10/00-uma-nova-antologia.md
-          - volume-10/01-uma-coletanea-de contos.md
+          - volume-10/01-uma-coletanea-de-contos.md
           - volume-10/02-uma-boa-antologia-de-contos-brasileiros.md
           - volume-10/03-nota-sobre-contos-tradicionais-do-brasil.md
           - section: "João Antônio e seu submundo visceral"

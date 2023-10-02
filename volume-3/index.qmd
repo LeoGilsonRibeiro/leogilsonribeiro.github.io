@@ -1,7 +1,9 @@
 ---
 author: "Fernando Rey Puente"
+published: true
 template-partials:
   - _extensions/lgr/empty/title-block.html
+  - _extensions/lgr/empty/title-metadata.html
 ---
 
 ::: {.content-hidden when-format="html"}
@@ -9,6 +11,7 @@ template-partials:
 # {{< meta cover.title >}} {.unnumbered}
 
 :::
+
 
 O livro que o/a leitor/a tem em mãos foi, na verdade, concebido por Leo Gilson Ribeiro como um curso que teve início no dia 12 de agosto de 1965 no Estúdio Raquel Levi em Copacabana e com duração prevista de dois meses. Como relata um/a jornalista de *O Globo* em um breve artigo datado do dia 11 de agosto do mesmo ano: "o interesse pelo curso foi tão grande que, 48 horas depois de anunciado na imprensa, só restavam 10 vagas para inscrição, preenchidas logo depois". Vários jornais do Rio de Janeiro escreveram sobre o curso, mas me aterei aqui ao artigo que acabei de mencionar de *O Globo* que possui um longo título "Curso de Literatura Nova Vai Aproximar o Público do Vanguardismo Artístico" e à coluna "Escritores e Livros" do jornal *Correio da Manhã* na qual o jornalista e escritor José Condé, na véspera do início do curso, dado que ambos colherem brevíssimos depoimentos de Leo Gilson Ribeiro.
 
