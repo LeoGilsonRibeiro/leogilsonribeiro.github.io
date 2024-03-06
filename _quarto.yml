@@ -14,8 +14,8 @@ project:
 format:
   html:
     theme:
-      # light: [_extensions/lgr/ath.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
-      light: [pandoc] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      light: [_extensions/lgr/ath.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      # light: [pandoc] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
       dark: [_extensions/lgr/ath-dark.scss]
     code-copy: true
     toc: true
@@ -51,6 +51,7 @@ language:
   pt-BR:
     repo-action-links-issue: Reportar um problema
 website:
+  google-analytics: "G-48DLL2T5RC"
   site-url: "https://www.leogilsonribeiro.com.br"
   repo-url: "https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io"
   repo-actions: [edit, issue]
