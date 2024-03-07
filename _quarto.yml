@@ -44,14 +44,15 @@ format:
     # template-partials:
       # - "partials/html/title-block.html"
       # - "partials/html/title-metadata.html"
-filters:
-  - fontawesome
+# filters:
+#   - fontawesome
 
 language:
   pt-BR:
     repo-action-links-issue: Reportar um problema
 website:
   google-analytics: "G-48DLL2T5RC"
+  bread-crumbs: false
   site-url: "https://www.leogilsonribeiro.com.br"
   repo-url: "https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io"
   repo-actions: [edit, issue]
@@ -300,6 +301,7 @@ website:
           - section: "João Cabral de Melo Neto"
             contents:
               - volume-4/9-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura.md
+              - volume-4/9-joao-cabral-de-melo-neto/01-poesia-de-joão-cabral-de-melo.md
           - section: "Mário Chamie"
             contents:
               - volume-4/10-mario-chamie/00-um-poeta-como-os-gregos-queriam-profetizando-o-futuro-observando-o-presente.md

@@ -43,18 +43,19 @@ $dark:      $black !default;
 
 // Fonts
 
+$font-family-serif: Alegreya Sans !default;
+$font-family-sans-serif:  Alegreya Sans, Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
 
-$font-family-sans-serif: "Libre Franklin" !default;
-
-$headings-font-family: "Jost" !default;
+$headings-font-family: $font-family-sans-serif !default;
 $headings-font-weight: 600 !default;
 
-$navbar-font-family: "Jost" !default;
-$toc-font-family: "Jost" !default;
-$footer-font-family: "Jost" !default;
+$navbar-font-family: $font-family-sans-serif !default;
+$toc-font-family: $font-family-sans-serif !default;
+$footer-font-family: $font-family-sans-serif !default;
 
 // $font-size-base: 1.1rem !default; // Assumes the browser default, typically `16px`
 // $font-size-sm: $font-size-base * .875 !default;
+
 
 
 // Body
@@ -76,6 +77,10 @@ $link-decoration: none !default;
 $link-hover-color: $red !default;
 $link-hover-decoration: underline !default;
 
+// Inline code
+$code-bg: $blue !default;
+$code-color:$blue !default;
+
 // Code copy
 $btn-code-copy-color-active: $orange !default;
 
@@ -94,7 +99,7 @@ $footer-fg: $gray-300 !default;
 
 /*-- scss:rules --*/
 
-$web-font-path: "https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap" !default;
+$web-font-path: "https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&family=Alegreya:ital,wght@0,400..900;1,400..900&family=Jost:ital,wght@0,400..900;1,400..900&display=swap" !default;
 
 @if $web-font-path {
     @import url($web-font-path);
@@ -102,6 +107,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..
 
 body {
     -webkit-font-smoothing: antialiased;
+    font-family: $font-family-serif;
 }
 
 .rtl {
@@ -134,9 +140,14 @@ body {
 // Shrink blocks of code
 pre.text, pre.sourceCode, .cell-output pre {
     font-size: 0.775em;
+    color: inherit;
 }
 
 .navbar {
+    font-family: $navbar-font-family;
+}
+
+.sidebar {
     font-family: $navbar-font-family;
 }
 
@@ -642,3 +653,10 @@ pre.text, pre.sourceCode, .cell-output pre {
         left: 0;
     }
 }
+
+
+    .quarto-title-meta,
+    .abstract {
+        font-family: $navbar-font-family;
+        font-size: 0.92em;
+    }
