@@ -36,10 +36,6 @@ format:
     link-external-newwindow: true
     license: "CC BY"
     # title-block-banner: "#BB3333"
-    header-includes: |
-      <style>
-        @import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
-      </style>
     # code-overflow: wrap
     # template-partials:
       # - "partials/html/title-block.html"
@@ -50,6 +46,7 @@ format:
 language:
   pt-BR:
     repo-action-links-issue: Reportar um problema
+
 website:
   google-analytics: "G-48DLL2T5RC"
   bread-crumbs: false
