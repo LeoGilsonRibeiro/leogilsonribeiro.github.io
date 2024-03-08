@@ -37,13 +37,13 @@ Tudo em Alphonsus de Guimaraens é contido, musical, abstrato, sutil. Seu mundo 
 
 A musicalidade é espontânea, doce, como uma sonatina de Mozart:
 
-"Rosas que já vos fôstes, desfolhadas
-
-Por mãos também que já se foram, rosas
-
-Suaves e tristes! rosas que as amadas,
-
-Mortas também, beijaram suspirosas..."
+> "Rosas que já vos fôstes, desfolhadas
+> 
+> Por mãos também que já se foram, rosas
+> 
+> Suaves e tristes! rosas que as amadas,
+> 
+> Mortas também, beijaram suspirosas..."
 
 Para o leitor que no ginásio só estudou os versos obrigatórios de "Ismália" (Quando Ismália enlouqueceu, /Pôs-se na tôrre a sonhar.../Viu uma lua no céu, /Viu outra lua no mar...), Alphonsus de Guimaraens tem ângulos novos, até hoje nunca estudados em profundidade por críticos sensíveis. Ecos de Verlaine, quando começa a estrofe inicial de "Serenada":
 
@@ -53,11 +53,11 @@ Choram violões".
 
 Uma simultaneidade de sensações - audição, visão, olfato - que lembra as metáforas de Baudelaire, como no terceto final de "Sonetos":
 
-"Nasce a manhã, a luz tem cheiro... Ei-la, que assoma
-
-Pelo ar sutil... Tem cheiro a luz, a manhã nasce...
-
-Oh sonora audição colorida do aroma!"
+> "Nasce a manhã, a luz tem cheiro... Ei-la, que assoma
+> 
+> Pelo ar sutil... Tem cheiro a luz, a manhã nasce...
+> 
+> Oh sonora audição colorida do aroma!"
 
 Sua poesia não exclama, não brada, não emite interjeições. Não há lugar nela para pieguismos à la J. G. de Araújo Jorge, nem para facilidades vocabulares que a tornem imediatamente acessível a todos. Não: seu mistério pede certa cumplicidade do leitor, que deve desvendar termos raros, preciosos - como *hialino* (que tem a transparência e a textura frágil do vidro), ou arcaizantes como *arneses* (peças de armadura), ou a forma antiga de rouxinol: *ruscinol*.
 
@@ -67,158 +67,158 @@ Para quem estiver disposto a desligar a guitarra elétrica da nossa época *rock
 
 A seguir LGR seleciona para seus leitores cinco poemas de Alphonsus de Guimaraens:
 
-"O mistério imortal das olheiras de opala,
-
-Onde vagueia a dor dos seus olhos proibidos,
-
-Manda que venham terra e céu para adorá-la...
-
-Morre no seu olhar a vida dos sentidos.
-
-Mesmo calada, quem a vê julga escutá-la,
-
-Pois canta o seu olhar pelos nossos ouvidos.
-
-De que estrela lhe desce a voz? Quando se cala,
-
-Que rumor de orações nos olhos doloridos!
-
-Não existe cá embaixo uma expressão humana
-
-Capaz de definir-lhe o grande olhar tristonho;
-
-E quem a vê, ou sonha uma estátua romana,
-
-Marmoreamente branca, imaculada e fria,
-
-Ou tem por entre o nimbo estrelado do sonho
-
-A áurea Revelação de outra Virgem Maria...
-
-(*Sonetos*)
-
-"Nem luz de astro, nem luz de flor somente: um misto
-
-De astro e flor.
-
-Que olhos tais e que tais lábios, certo,
-
-(E só por serem seus) são muito mais do que isto...
-
-Ela é a tulipa azul do meu sonho deserto.
-
-Onde existe, não sei, mas quero crer que existo
-
-No mesmo nicho astral entre luares aberto,
-
-Em que branca de luz sublime a tenho visto,
-
-Longe daqui talvez, talvez do céu bem perto...
-
-... Nasce a manhã, a luz tem cheiro... Ei-la que assoma
-
-Pelo ar sutil... Tem cheiro a luz, a manhã nasce
-
-Oh sonora audição colorida do aroma!
-
-(*Sonetos*)
-
-"Por essas noites, brancas telas,
-
-Cheias de esperanças de estrelas,
-
-O luar é o sonho das donzelas.
-
-Tem cabalísticos poderes
-
-Como os olhares das mulheres:
-
-Melancoliza e enerva os seres.
-
-Afunda na água o alvo cabelo,
-
-E brilha logo, algente e belo,
-
-Em cada lago um setestrelo.
-
-Cantos de amor, salmos de prece,
-
-Gemidos tudo anda por esse
-
-Olhar que Deus à terra desce...
-
-(*Ária do Luar*)
-
-"Hão de chorar por elas os cinamomos,
-
-Murchando as flores ao tombar do dia.
-
-Dos laranjais hão de cair os pomos,
-
-Lembrando-se daquela que os colhia.
-
-As estrelas dirão: - "Ai, nada somos,
-
-Pois ela se morreu silente e fria..."
-
-E pondo os olhos nela como pomos,
-
-Hão de chorar a irmã que lhes sorria.
-
-A lua, que lhe foi mãe carinhosa,
-
-Que a viu nascer e amar, há de envolvê-la
-
-Entre lírios e pétalas de rosa.
-
-Os meus sonhos de amor serão defuntos...
-
-E os arcanjos dirão no azul ao vê-la,
-
-Pensado em mim: - "Por que não vieram juntos"?
-
-(*Sonetos*)
-
-"De noite pelos ermos
-
-Choram violões.
-
-São como enfermos
-
-Corações.
-
-Dorme cidade inteira
-
-Em agonia...
-
-A lua é uma caveira
-
-Que nos espia.
-
-Todo o céu se recama
-
-De argêntea luz...
-
-Uma voz clama
-
-Por Jesus...
-
-Toda a triste cidade
-
-É um cemitério...
-
-Há um rumor de saudade
-
-E de mistério...
-
-E em meio da cidade
-
-O rio corre,
-
-Conduzindo a saudade
-
-De alguém que morre...
-
-(*Serenada*)
+> "O mistério imortal das olheiras de opala,
+> 
+> Onde vagueia a dor dos seus olhos proibidos,
+> 
+> Manda que venham terra e céu para adorá-la...
+> 
+> Morre no seu olhar a vida dos sentidos.
+> 
+> Mesmo calada, quem a vê julga escutá-la,
+> 
+> Pois canta o seu olhar pelos nossos ouvidos.
+> 
+> De que estrela lhe desce a voz? Quando se cala,
+> 
+> Que rumor de orações nos olhos doloridos!
+> 
+> Não existe cá embaixo uma expressão humana
+> 
+> Capaz de definir-lhe o grande olhar tristonho;
+> 
+> E quem a vê, ou sonha uma estátua romana,
+> 
+> Marmoreamente branca, imaculada e fria,
+> 
+> Ou tem por entre o nimbo estrelado do sonho
+> 
+> A áurea Revelação de outra Virgem Maria...
+> 
+> (*Sonetos*)
+> 
+> "Nem luz de astro, nem luz de flor somente: um misto
+> 
+> De astro e flor.
+> 
+> Que olhos tais e que tais lábios, certo,
+> 
+> (E só por serem seus) são muito mais do que isto...
+> 
+> Ela é a tulipa azul do meu sonho deserto.
+> 
+> Onde existe, não sei, mas quero crer que existo
+> 
+> No mesmo nicho astral entre luares aberto,
+> 
+> Em que branca de luz sublime a tenho visto,
+> 
+> Longe daqui talvez, talvez do céu bem perto...
+> 
+> ... Nasce a manhã, a luz tem cheiro... Ei-la que assoma
+> 
+> Pelo ar sutil... Tem cheiro a luz, a manhã nasce
+> 
+> Oh sonora audição colorida do aroma!
+> 
+> (*Sonetos*)
+> 
+> "Por essas noites, brancas telas,
+> 
+> Cheias de esperanças de estrelas,
+> 
+> O luar é o sonho das donzelas.
+> 
+> Tem cabalísticos poderes
+> 
+> Como os olhares das mulheres:
+> 
+> Melancoliza e enerva os seres.
+> 
+> Afunda na água o alvo cabelo,
+> 
+> E brilha logo, algente e belo,
+> 
+> Em cada lago um setestrelo.
+> 
+> Cantos de amor, salmos de prece,
+> 
+> Gemidos tudo anda por esse
+> 
+> Olhar que Deus à terra desce...
+> 
+> (*Ária do Luar*)
+> 
+> "Hão de chorar por elas os cinamomos,
+> 
+> Murchando as flores ao tombar do dia.
+> 
+> Dos laranjais hão de cair os pomos,
+> 
+> Lembrando-se daquela que os colhia.
+> 
+> As estrelas dirão: - "Ai, nada somos,
+> 
+> Pois ela se morreu silente e fria..."
+> 
+> E pondo os olhos nela como pomos,
+> 
+> Hão de chorar a irmã que lhes sorria.
+> 
+> A lua, que lhe foi mãe carinhosa,
+> 
+> Que a viu nascer e amar, há de envolvê-la
+> 
+> Entre lírios e pétalas de rosa.
+> 
+> Os meus sonhos de amor serão defuntos...
+> 
+> E os arcanjos dirão no azul ao vê-la,
+> 
+> Pensado em mim: - "Por que não vieram juntos"?
+> 
+> (*Sonetos*)
+> 
+> "De noite pelos ermos
+> 
+> Choram violões.
+> 
+> São como enfermos
+> 
+> Corações.
+> 
+> Dorme cidade inteira
+> 
+> Em agonia...
+> 
+> A lua é uma caveira
+> 
+> Que nos espia.
+> 
+> Todo o céu se recama
+> 
+> De argêntea luz...
+> 
+> Uma voz clama
+> 
+> Por Jesus...
+> 
+> Toda a triste cidade
+> 
+> É um cemitério...
+> 
+> Há um rumor de saudade
+> 
+> E de mistério...
+> 
+> E em meio da cidade
+> 
+> O rio corre,
+> 
+> Conduzindo a saudade
+> 
+> De alguém que morre...
+> 
+> (*Serenada*)
 
 
