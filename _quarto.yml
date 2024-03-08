@@ -40,8 +40,9 @@ format:
     # template-partials:
       # - "partials/html/title-block.html"
       # - "partials/html/title-metadata.html"
-# filters:
-#   - fontawesome
+filters:
+  - fontawesome
+  - lgr
 
 language:
   pt-BR:
