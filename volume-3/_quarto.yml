@@ -1,0 +1,47 @@
+format:
+  lgr-pdf
+
+project:
+  type: book
+  output-dir: ../_pdf/
+
+filters:
+  - fontawesome
+  - lgr
+
+book:
+  chapters:
+    - index.qmd
+    - part: "Revolução Estética da Arte Moderna"
+      chapters:
+        - 1-revoluçao-estetica-da-arte-moderna/index.qmd
+    - part: "Charles Baudelaire"
+      chapters:
+        - 2-charles-baudelaire/00-baudelaire-e-a-revolucao-da-metafora-poetica.md
+        - 2-charles-baudelaire/01-baudelaire-quase-dois-seculos-de-uma-poesia-original-e-sublime.md
+        - 2-charles-baudelaire/02-a-traducao-de-as-flores-do-mal-de-baudelaire.md
+    - part: "Federico García Lorca"
+      chapters:
+        - 3-federico-garcia-lorca/00-de-sangue-de-amor-e-morte-falou-lorca.md
+        - 3-federico-garcia-lorca/01-garcia-lorca-e-o-romancero-gitano.md
+        - 3-federico-garcia-lorca/02-tragica-melancolia-(nota-sobre-a-biografia-de-ian-gibson).md
+    - part: "Franz Kafka"
+      chapters:
+        - 4-franz-kafka/00-kafka-(curso).md
+        - 4-franz-kafka/01-as-cartas-a-milena-como-documento-literario-e-da-angustia-de-kafka.md
+        - 4-franz-kafka/02-kafka-revive-em-praga.md
+        - 4-franz-kafka/03-kafka-em-praga.md
+        - 4-franz-kafka/04-kafka-(1983).md
+    - part: "Jean Genet"
+      chapters:
+        - 5-jean-genet/00-a-assuncao-do-martirio.md
+        - 5-jean-genet/01-a-vespera-do-livro-nossa-senhora-das-flores.md
+    - part: "Henry James"
+      chapters:
+        - 6-henry-james/00-a-musa-tragica.md
+        - 6-henry-james/01-a-redescoberta-de-henry-james-i.md
+        - 6-henry-james/02-a-redescoberta-de-henry-james-ii.md
+        - 6-henry-james/03-a-tragedia-e-a-vitoria-de-henry-james.md
+    - part: "Guimarães Rosa"
+      chapters:
+        - 7-guimaraes-rosa/00-miguilim-e-o-conhecimento-da-dor.md

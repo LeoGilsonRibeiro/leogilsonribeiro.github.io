@@ -7,9 +7,8 @@ citation:
   editor: "Fernando Rey Puente"
   original-publisher: "Veja"
   original-date: "1969/7/23"
-  URL: https://www.leogilsonribeiro.com.br/volume-9/08-de-selene-a-apollo/README
-view_url: https://www.leogilsonribeiro.com.br/volume-9/08-de-selene-a-apollo/README
-status: "Transcrição concluída. Aguardando revisão"
+abstract: "Veja, 1969/7/23. Aguardando revisão."
+order: 090801
 ---
 
 Desde as cavernas pré-históricas, inscrita como uma esfera menor ao lado do círculo maior do Sol, a Lua fascina o homem e reflete sua imagem nas artes, principalmente na literatura. As primeiras menções escritas da Lua estão solidamente ligadas à religião, aos deuses e à magia. É no Antigo Oriente que ela surge primeiro: em Nínive, 3200 anos antes de Cristo, um tijolo de argila da biblioteca do Rei Assurbanípal relata uma viagem à Lua do monarca Etam, "que subiu tão alto no céu que os mares e as terras lhe pareciam pãezinhos dentro de um cesto". Deusa na mitologia dos indígenas brasileiros (Jaci), dos gregos (Selene ou Ártemis) e dos romanos antigos (Diana), a Lua está indissociavelmente ligada à divindade, surgindo até em textos católicos como símbolo da Virgem Maria e da própria Igreja.

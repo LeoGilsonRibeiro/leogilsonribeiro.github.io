@@ -1,0 +1,73 @@
+format:
+  lgr-pdf
+
+project:
+  type: book
+  output-dir: ../_pdf/
+
+filters:
+  - fontawesome
+  - lgr
+
+book:
+  chapters:
+    - index.qmd
+    - 00-uma-nova-antologia.md
+    - 01-uma-coletanea-de-contos.md
+    - 02-uma-boa-antologia-de-contos-brasileiros.md
+    - 03-nota-sobre-contos-tradicionais-do-brasil.md
+    - part: "João Antônio e seu submundo visceral"
+      chapters:
+        - 01-joao-antonio/00-um-classico-velhaco.md
+        - 01-joao-antonio/01-o-livro-que-deu-um-soco-em-nosso-critico.md
+        - 01-joao-antonio/02-o-mendigo-o-moleque-e-o-malandro-de-joao-antonio.md
+        - 01-joao-antonio/03-joao-antonio-fascinado-pelas-palavras-é-um-perigo.md
+    - part: "Dalton Trevisan e a sua tragicomédia conjugal"
+      chapters:
+        - 02-dalton-trevisan/00-leia-esse-otimo-livro-de-contos.md
+        - 02-dalton-trevisan/01-resenha-do-livro-a-guerra-conjugal.md
+        - 02-dalton-trevisan/02-a-guerra-de-joao-e-maria.md
+        - 02-dalton-trevisan/03-o-triste-cemiterio-de-dalton-trevisan.md
+        - 02-dalton-trevisan/04-a-metamorfose.md
+        - 02-dalton-trevisan/05-dalton-trevisan.md
+        - 02-dalton-trevisan/06-dalton-trevisan-traz-mais-historias.md
+        - 02-dalton-trevisan/07-abismo-de-rosas.md
+        - 02-dalton-trevisan/08-um-ensaio-para-a-conscientizacao-e-que-chega-a-grande-estreia.md
+        - 02-dalton-trevisan/09-a-perfeicao-contundente-e-sublime-dos-contos-de-trevisan.md
+        - 02-dalton-trevisan/10-o-kama-sutra-de-trevisan-sem-ceu-inferno-ou-purgatorio.md
+        - 02-dalton-trevisan/11-a-tragicomedia-de-trevisan-em-renovada-e-envolvente-concisao-telegrafica.md
+        - 02-dalton-trevisan/12-em-busca-da-libido-perdida.md
+        - 02-dalton-trevisan/13-a-reafirmacao-feminista-de-dalton-trevisan.md
+        - 02-dalton-trevisan/14-dalton-trevisan-no-20-livro-um-texto-arejado-e-a-competencia-de-sempre.md
+        - 02-dalton-trevisan/15-dalton-trevisan-mais-uma-obra-prima-tragica-hilariante-patetica.md
+        - 02-dalton-trevisan/16-a-humanidade-alucinada-de-dalton-trevisan.md
+        - 02-dalton-trevisan/17-resenha-ao-livro-arara-bebada.md
+    - part: "José J. Veiga e o seu mundo fantástico e absurdo"
+      chapters:
+        - 03-jose-j-veiga/00-uma-viagem-ao-absurdo.md
+        - 03-jose-j-veiga/01-e-nos-seremos-uma-tribo-de-selvagens.md
+        - 03-jose-j-veiga/02-uma-historia-fantastica-contada-por-um-mestre.md
+    - part: "Rubem Fonseca e a renovação do conto brasileiro"
+      chapters:
+        - 04-rubem-fonseca/00-nao-deixe-de-ler-ele-inova-o-conto-brasileiro.md
+        - 04-rubem-fonseca/01-o-resto-e-lixo.md
+        - 04-rubem-fonseca/02-um-rubem-fonseca-ofendido-e-humilhado.md
+        - 04-rubem-fonseca/03-fonseca-em-nova-e-amarga-obra-prima.md
+    - part: "Otto Lara Resende e o baú mágico de Minas Gerais"
+      chapters:
+        - 05-otto-lara-resende/00-otto-lara-resende-do-fundo-do-bau-magico-da-memoria-de-minas-gerais.md
+        - 05-otto-lara-resende/01-entrevista-com-otto-lara-resende.md
+    - part: "Ricardo Ramos"
+      chapters:
+        - 06-ricardo-ramos/00-o-talento-de-dois-senhores-contistas.md
+    - part: "Luís Vilela e a hostilidade cotidiana nas metrópoles"
+      chapters:
+        - 07-luis-vilela/00-ler-vilela-indispensavel.md
+        - 07-luis-vilela/01-este-nao-e-um-romance-e-uma-vinganca-pessoal-cheia-de-chavoes.md
+    - part: "João Gilberto Noll e a complexidade plural das relações humanas"
+      chapters:
+        - 08-joao-gilberto-noll/00-joao-gilberto-noll-um-clarao-de-lucidez-em-anos-de-treva.md
+    - part: "Guilherme Scalzilli"
+      chapters:
+        - 09-guilherme-scalzilli/00-um-genio-anonimo.md
+        - 09-guilherme-scalzilli/01-guilherme-scalzilli.md

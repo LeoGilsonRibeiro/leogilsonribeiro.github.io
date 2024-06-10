@@ -9,7 +9,6 @@ citation:
   original-date: "1978/5/20"
 abstract: "Jornal da Tarde, 1978/5/20. Aguardando revisão."
 order: 090702
-commits_url: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/commits/main/docs/markdown/volume-9/07-tres-vezes-toynbee/02-toynbee-e-seu-panorama-de-esperancas-e-pessimismo.md
 ---
 
 Uma frágil película de terra, água e ar: são os ingredientes indispensáveis para a vida e cujo conjunto forma a biosfera, neologismo criado pelo filósofo e paleontólogo Teilhard de Chardin. A biosfera, porém, foi invadida por um de seus filhos -- o ser humano -- armado de uma sanha destrutiva potencialmente mortal. Através de um apavorante arsenal letal o homem vem acumulando perigos em todas as áreas da vida: consumindo reservas minerais que se estinguem sem retorno, como o petróleo, o carvão, o minério de ferro; poluindo com os gases mortíferos os rios, o oxigênio respirado por pulmões humanos em uma metrópole como São Paulo ou Tóquio; tornando o mar um depósito cumulativo de lixo onde a vida desaparece. Pior do que tudo: o homem não se contenta em destroçar a própria mãe, como Nero e penetrando o segredo da fissão nuclear despeja sobre Nagasaki e Hiroshima o genocídio político-científico-militar deliberado. Esse membro entre outros membros de todas as espécies vivas da flora e fauna mantidas pela biosfera detém agora o poder sobre-humano de assassinar toda a humanidade e levar de roldão, com o suicídio da espécie humana, o colapso final do próprio planeta Terra, a Mãe originária de cujo ventre ele emergiu.

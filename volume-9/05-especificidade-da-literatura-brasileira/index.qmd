@@ -6,11 +6,10 @@ citation:
   issued: "2022"
   editor: "Fernando Rey Puente"
   original-publisher: "Atas do Primeiro Encontro com a Literatura Brasileira (pp. 17-20)"
-  original-date: "1977/09/25 a 30"
+  original-date: "1977/09/25-30"
   original-publisher-place: "São Paulo"
-  URL: https://www.leogilsonribeiro.com.br/volume-9/05-especificidade-da-literatura-brasileira/README
-view_url: https://www.leogilsonribeiro.com.br/volume-9/05-especificidade-da-literatura-brasileira/README
-status: "Transcrição concluída. Aguardando revisão"
+abstract: "Atas do Primeiro Encontro com a Literatura Brasileira (pp. 17-20), 1977/09/25-30. Aguardando revisão."
+order: 090501
 ---
 
 A literatura brasileira tem uma semelhança teológica com as discussões sobre Deus: é descrita melhor pelos atributos que não tem. Assim, ela não se distingue pela fantasia deslumbrante da literatura inglesa. Não é de uma pesquisa metafísica e psicológica da conduta e da condição humana como a literatura russa. Não apela para o racionalismo rigoroso de grande parte da literatura francesa. Então, o que a diferencia das demais? Em parte, a literatura brasileira é a Cinderela das literaturas, relegada artificialmente a um plano inferior por irmãs mais poderosas, as divulgadas literaturas hispano-americanas.

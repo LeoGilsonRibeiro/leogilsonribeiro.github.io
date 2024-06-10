@@ -7,9 +7,8 @@ citation:
   editor: "Fernando Rey Puente"
   original-publisher: "In: O Universo Mágico do Barroco Brasileiro"
   original-date: "1998"
-  URL: https://www.leogilsonribeiro.com.br/volume-9/04-o-barroco-e-a-literatura/README
-view_url: https://www.leogilsonribeiro.com.br/volume-9/04-o-barroco-e-a-literatura/README
-status: "Transcrição concluída. Aguardando revisão"
+abstract: "In: O Universo Mágico do Barroco Brasileiro, 1998. Aguardando revisão."
+order: 090401
 ---
 
 Catálogo da Exposição - Galeria de Arte do Sesi: 3 de março a 3 de agosto de 1998 (pp.358-361)

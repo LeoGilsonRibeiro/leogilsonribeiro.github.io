@@ -7,7 +7,8 @@ citation:
   type: chapter  
   original-publisher: "Psicologia Atual"
   original-date: "Sem data (revista editada de 1977-86)"
-abstract: "Sem data (revista editada de 1977-86). Aguardando revisão."  
+abstract: "Psicologia Atual, sem data (revista editada de 1977-86). Aguardando revisão." 
+order: 090601
 ---
 
 A crítica literária é, historicamente, um ramo novo da literatura: começou com continuidade há um século apenas. Taine, Sainte-Beuve, depois Baudelaire, Henry James, Virginia Woolf foram seus grandes iniciadores, antes de se estabelecer uma categoria nítida de meditação intelectual sobre um texto literário, definição que prefiro dar à crítica como decodificação, sempre parcial, de uma linguagem e daquilo, não dito, o mistério que lhe está subjacente. (Daí, a linguística ser já filha da crítica, mas isso é outra história).

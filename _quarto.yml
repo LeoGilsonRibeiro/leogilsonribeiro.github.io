@@ -18,7 +18,7 @@ format:
       # light: [pandoc] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
       dark: [_extensions/lgr/ath-dark.scss]
     code-copy: true
-    toc: true
+    toc: false
     mainfont: Alegreya
     font-family: Alegreya
     sansfont: Alegreya Sans
@@ -56,7 +56,7 @@ website:
   repo-actions: [edit, issue]
   page-footer:
     left: "Transcrito, dirigido e organizado por Fernando Rey Puente <a href=https://orcid.org/0000-0001-8862-4077><img src=https://orcid.org/sites/default/files/images/orcid_16x16.png></a>"
-    center: "Textos Reunidos de Leo Gilson Ribeiro, 2023"
+    center: "Textos Reunidos de Leo Gilson Ribeiro, 2024"
     right: "Site feito por Bernardo Vasconcelos <a href=https://orcid.org/0000-0002-3357-1710><img src=https://orcid.org/sites/default/files/images/orcid_16x16.png></a> com <a href=https://quarto.org/><img src=https://quarto.org/quarto.png height=16></a>"
   # body-header:
   # date: last-modified
@@ -553,12 +553,9 @@ website:
           - section: "Os autores do grito radical - Ginsberg, Genet, Gadda e Borges"
             contents:
               - volume-9/09-os-autores-do-grito-radical-ginsberg-genet-gadda-e-borges/index.qmd
-          - section: "Genet, um homem à margem"
-            contents:
-              - volume-9/10-genet-um-homem-a-margem/index.qmd
           - section: "Um produto que a Alalc não negocia - cultura"
             contents:
-              - volume-9/11-um-produto-que-a-alalc-nao-negocia-cultura/index.qmd
+              - volume-9/10-um-produto-que-a-alalc-nao-negocia-cultura/index.qmd
       - "---"
       - section: "10 Grandes contistas brasileiros do século XX"
         href: volume-10/index.qmd
@@ -614,7 +611,7 @@ website:
           - section: "Luís Vilela e a hostilidade cotidiana nas metrópoles"
             contents:
               - volume-10/07-luis-vilela/00-ler-vilela-indispensavel.md
-              - volume-10/07-luis-vilela/01-este-nao-e-um-romance-é-uma-vinganca-pessoal-cheia-de-chavoes.md
+              - volume-10/07-luis-vilela/01-este-nao-e-um-romance-e-uma-vinganca-pessoal-cheia-de-chavoes.md
           - section: "João Gilberto Noll e a complexidade plural das relações humanas"
             contents:
               - volume-10/08-joao-gilberto-noll/00-joao-gilberto-noll-um-clarao-de-lucidez-em-anos-de-treva.md

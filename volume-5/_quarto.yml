@@ -1,0 +1,36 @@
+format:
+  lgr-pdf
+
+project:
+  type: book
+  output-dir: ../_pdf/
+
+filters:
+  - fontawesome
+  - lgr
+
+book:
+  chapters:
+    - index.qmd
+    - part: "Semana de Arte Moderna de 1922"
+      chapters:
+        - 1-semana-de-arte-moderna-de-1922/00-foi-nosso-primeiro-happening-urbano.md
+        - 1-semana-de-arte-moderna-de-1922/01-e-foi-assim-que-nasceu-o-brasil-de-hoje-com-drummond-e-o-romance-social.md
+    - part: "Emílio Di Cavalcanti"
+      chapters:
+        - 2-emilio-di-cavalcanti/00-o-adeus-do-mestre-para-a-pintura-brasileira-ficam-as-mulatas-o-morro-o-mar-e-a-semana-de-arte-moderna.md
+        - 2-emilio-di-cavalcanti/01-di-para-quem-viver-era-um-circulo-magico.md
+    - part: "Tarsila do Amaral"
+      chapters:
+        - 3-tarsila-do-amaral/00-tarsila-do-amaral-a-ultima-entrevista.md
+    - part: "Menotti del Picchia"
+      chapters:
+        - 4-menotti-del-picchia/00-menotti-del-picchia-nada-me-orgulha-mais-do-que-ter-sido-poeta.md
+    - part: "Oswald de Andrade"
+      chapters:
+        - 5-oswald-de-andrade/00-oswald-de-andrade-o-incoerente.md
+    - part: "Mário de Andrade"
+      chapters:
+        - 6-mario-de-andrade/00-astuto-ou-generoso-mas-sempre-amoral.md
+        - 6-mario-de-andrade/01-mario-o-campo-aberto-e-nevoento-do-debate.md
+        - 6-mario-de-andrade/02-curso-sobre-o-movimento-modernista-mario-de-andrade.md

@@ -4,6 +4,8 @@ published: true
 template-partials:
   - _extensions/lgr/empty/title-block.html
   - _extensions/lgr/empty/title-metadata.html
+citation:
+  title: "Introdução"
 ---
 
 ::: {.content-hidden when-format="html"}

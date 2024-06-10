@@ -1,0 +1,83 @@
+format:
+  lgr-pdf
+
+project:
+  type: book
+  output-dir: ../_pdf/
+
+filters:
+  - fontawesome
+  - lgr
+
+book:
+  chapters:
+    - index.qmd
+    - part: "Brasil-Portugal - tentativas de aproximação"
+      chapters:
+        - 01-brasil-portugal-tentativas-de-aproximacao/00-na-contramao.md
+        - 01-brasil-portugal-tentativas-de-aproximacao/01-poetas-portugueses-versos-e-duas-culturas-reencontram-seu-ponto-de-uniao.md
+        - 01-brasil-portugal-tentativas-de-aproximacao/02-um-encontro-de-portugal-e-brasil-sobre-a-liberdade.md
+    - part: "Fernão Mendes Pinto"
+      chapters:
+        - 02-fernao-mendes-pinto/00-a-fascinante-aventura-do-marco-polo-portugues.md
+    - part: "Eça de Queirós"
+      chapters:
+        - 03-eca-de-queiros/00-tese-e-antitese-de-eca-de-queiros.md
+        - 03-eca-de-queiros/01-suave-milagre-no-fim-da-vida-um-eca-religioso.md
+        - 03-eca-de-queiros/02-depois-dele-portugal-nao-foi-mais-o-mesmo-nem-o-portugues.md
+        - 03-eca-de-queiros/03-uma-obra-prima-inacabada-com-a-marca-da-grandeza-olimpica-de-eca.md
+        - 03-eca-de-queiros/04-eca-de-queiros-cem-anos-de-sua-morte.md
+    - part: "Antero de Quental"
+      chapters:
+        - 04-antero-de-quental/00-antero-de-quental-o-ideal-estetico-e-politico.md
+    - part: "Antônio Lobo Antunes"
+      chapters:
+        - 05-antonio-lobo-antunes/00-a-ousadia-deste-irreverente-escritor-portugues.md
+    - part: "Antônio José Saraiva"
+      chapters:
+        - 06-antonio-jose-saraiva/00-entrevista-com-antonio-jose-saraiva.md
+    - part: "Manuel Ferreira"
+      chapters:
+        - 07-manuel-ferreira/00-manuel-ferreira-a-bondade-e-a-opressao.md
+    - part: "Antônio Alçada Baptista"
+      chapters:
+        - 08-antonio-alcada-baptista/00-um-feminismo-sutil-sucesso-em-portugal.md
+    - part: "Ferreira de Castro"
+      chapters:
+        - 09-ferreira-de-castro/00-as-novas-dimensoes-do-realismo-literario-(a-selva-de-ferreira-de-castro).md
+    - part: "Teixeira de Pascoais"
+      chapters:
+        - 10-teixeira-de-pascoais/00-um-poeta-mistico-na-era-atomica.md
+    - part: "Fernando Namora"
+      chapters:
+        - 11-fernando-namora/00-fernando-namora.md
+    - part: "Fernando Pessoa"
+      chapters:
+        - 12-fernando-pessoa/00-fernando-pessoa-i.md
+        - 12-fernando-pessoa/01-fernando-pessoa-ii-fotobiografias.md
+        - 12-fernando-pessoa/02-fernando-pessoa-iii-o-poeta-singular-e-plural-de-joao-alves-das-neves-(editora-expressao).md
+        - 12-fernando-pessoa/03-entrevista-com-joao-gaspar-simoes-o-poeta-e-a-humanidade.md
+    - part: "Vergílio Ferreira"
+      chapters:
+        - 13-vergilio-ferreira/00-entrevista-a-vergilio-ferreira.md
+        - 13-vergilio-ferreira/01-destruindo-a-palavra-para-reencontra-la-mais-bela-e-pura.md
+    - part: "Eugênio de Andrade"
+      chapters:
+        - 14-eugenio-de-andrade/00-o-amor-erotico-de-eugenio-de-andrade-delicado-audaz.md
+    - part: "José Cardoso Pires"
+      chapters:
+        - 15-jose-cardoso-pires/00-eis-um-grande-escritor.md
+        - 15-jose-cardoso-pires/01-uma-entrevista-com-o-maior-escritor-portugues-do-momento.md
+        - 15-jose-cardoso-pires/02-cardoso-pires-para-quando-o-brasil-descobrir-portugal.md
+        - 15-jose-cardoso-pires/03-a-tardia-descoberta-de-um-polemico-escritor-portugues.md
+        - 15-jose-cardoso-pires/04-cardoso-pires-reinventa-portugal.md
+        - 15-jose-cardoso-pires/05-desafiando-os-rinocerontes-do-poder.md
+    - part: "José Saramago"
+      chapters:
+        - 16-jose-saramago/00-saramago.md
+        - 16-jose-saramago/01-um-deus-sadico-martiriza-sua-marionete-jesus.md
+    - part: "Três breves notícias sobre escritores ou livros portugueses"
+      chapters:
+        - 17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/00-casais-monteiro.md
+        - 17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/01-de-maria-isabel-barreno-maria-teresa-horta-e-maria-velho-da-costa.md
+        - 17-tres-breves-noticias-sobre-escritores-ou-livros-portugueses/02-os-novos-tempos-de-portugal.md

@@ -1,6 +1,7 @@
 ---
 title: |
   Leo Gilson Ribeiro
+toc: false
 citation:
   citation-key: "LGR2023"
   type: chapter

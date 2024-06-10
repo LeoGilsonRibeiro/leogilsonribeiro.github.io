@@ -1,0 +1,79 @@
+format:
+  lgr-pdf
+
+project:
+  type: book
+  output-dir: ../_pdf/
+
+filters:
+  - fontawesome
+  - lgr
+
+book:
+  chapters:
+    - index.qmd
+    - part: "A Prosa dos Poetas"
+      chapters:
+        - 1-a-prosa-dos-poetas/00-manuel-nao-esta-falando-a-toa.md
+        - 1-a-prosa-dos-poetas/01-nota-sobre-o-livro-fala-amendoeira.md
+        - 1-a-prosa-dos-poetas/02-a-prosa-dos-poetas-oportuna-e-brilhante.md
+        - 1-a-prosa-dos-poetas/03-drummond.md
+    - part: "Manuel Bandeira"
+      chapters:
+        - 2-manuel-bandeira/00-manuel-bandeira-um-poeta-dez-anos-maior.md
+        - 2-manuel-bandeira/01-manuel-bandeira.md
+    - part: "Carlos Drummond de Andrade"
+      chapters:
+        - 3-carlos-drummond-de-andrade/00-o-universo-mineiro-de-drummond.md
+        - 3-carlos-drummond-de-andrade/01-drummond-comovido-feroz-exato.md
+    - part: "Alphonsus de Guimaraens e Alphonsus de Guimaraens Filho"
+      chapters:
+        - 4-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/00-lirios-luar-rosas-desfolhadas-e-a-poesia-de-alphonsus.md
+        - 4-alphonsus-de-guimaraens-e-alphonsus-de-guimaraens-filho/01-poemas-beleza-e-magia-em-versos-cintilantes.md
+    - part: "Cecília Meireles"
+      chapters:
+        - 5-cecilia-meireles/00-recordando-cecilia-meireles.md
+        - 5-cecilia-meireles/01-cecilia-meireles.md
+        - 5-cecilia-meireles/02-cecilia-em-momentos-de-pouco-brilho-ainda-assim-admiravel.md
+        - 5-cecilia-meireles/03-cecilia-meireles-um-canto-fascinado-e-lucido.md
+    - part: "Murilo Mendes"
+      chapters:
+        - 6-murilo-mendes/00-entrevista.md
+    - part: "Henriqueta Lisboa"
+      chapters:
+        - 7-henriqueta-lisboa/00-inconfundivel-marca-diafana-abstrata.md
+        - 7-henriqueta-lisboa/01-na-singeleza-dos-versos-a-revelacao-de-uma-poetisa-inigualavel.md
+        - 7-henriqueta-lisboa/02-a-poesia-deste-livro-inaugura-nosso-ano-literario.md
+        - 7-henriqueta-lisboa/03-um-presente-para-a-sensibilidade.md
+    - part: "Jorge de Lima"
+      chapters:
+        - 8-jorge-de-lima/00-jorge-de-lima-poeta-maior.md
+    - part: "João Cabral de Melo Neto"
+      chapters:
+        - 9-joao-cabral-de-melo-neto/00-joao-cabral-rega-com-poesia-a-aridez-de-nossa-literatura.md
+        - 9-joao-cabral-de-melo-neto/01-poesia-de-joão-cabral-de-melo.md
+    - part: "Mário Chamie"
+      chapters:
+        - 10-mario-chamie/00-um-poeta-como-os-gregos-queriam-profetizando-o-futuro-observando-o-presente.md
+        - 10-mario-chamie/01-mario-chamie-meditacoes-sobre-a-falta-de-liberdade.md
+    - part: "Carlos Nejar"
+      chapters:
+        - 11-carlos-nejar/00-amoroso-elegiaco-meditativo-social-epico-carlos-nejar.md
+        - 11-carlos-nejar/01-vinte-anos-de-poesia-a-procura-de-novos-caminhos.md
+        - 11-carlos-nejar/02-carlos-nejar-o-poeta.md
+    - part: "Mauro Mota"
+      chapters:
+        - 12-mauro-mota/00-a-poesia-quase-secreta-do-recife-mauro-mota-itinerario.md
+    - part: "Emílio Moura"
+      chapters:
+        - 13-emilio-moura/00-a-delicada-textura-poetica-de-emilio-moura.md
+    - part: "Sérgio Campos"
+      chapters:
+        - 14-sergio-campos/00-fino-sutil-erudito-sergio-campos-mobiles-de-sal.md
+    - part: "Cora Coralina"
+      chapters:
+        - 15-cora-coralina/00-cora-coralina-a-morte-da-poetisa-e-de-um-grande-ser-humano.md
+    - part: "A nova poesia brasileira é mais que uma promessa"
+      chapters:
+        - 16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/00-jovem-cinica-desesperada-terna.md
+        - 16-a-nova-poesia-brasileira-e-mais-que-uma-promessa/01-nossos-poetas-de-hoje-ousando-rir-dos-dogmas-com-versos-doidos-e-ternos.md

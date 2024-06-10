@@ -32,9 +32,9 @@ contributes:
       fontfamilyoptions:
         - osf
         - p
-      monofontoptions:
-        - Scale=0.92
-#       mainfont: Alegreya
+#       monofontoptions:
+#         - Scale=0.92
+#       mainfont: Alegreya Sans
 #       font-family: Alegreya
 #       sansfont: Alegreya Sans
       mainfont: QT Garomand

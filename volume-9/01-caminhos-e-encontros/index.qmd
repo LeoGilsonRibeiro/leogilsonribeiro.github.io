@@ -7,9 +7,8 @@ citation:
   editor: "Fernando Rey Puente"
   original-publisher: "Texto inédito"
   annote: "Data incerta. Provavelmente 1960/1."
-  URL: https://www.leogilsonribeiro.com.br/volume-9/01-caminhos-e-encontros/README
-view_url: https://www.leogilsonribeiro.com.br/volume-9/01-caminhos-e-encontros/README
-status: "Transcrição completa. Aguardando revisão."
+abstract: "Texto inédito, data incerta (provavelmente 1960/1). Aguardando revisão."
+order: 090101
 ---
 
 Eu creio que todos buscamos, durante toda a nossa vida, uma forma de plenitude condizente com o nosso temperamento e com as nossas próprias e imponderáveis carências espirituais. O fato de nos sentirmos atraídos por outra cultura, além da do nosso país, revela a nossa insatisfação, a nossa íntima ânsia de complementação, que muitas vezes só é saciada com as novas dimensões de uma cultura, uma cultura frequentemente oposta, no tempo ou no espaço, à estrutura de valores culturais que forma o nosso clima ambiental. Em páginas brilhantes e de profundo conteúdo, uma das maiores figuras do Brasil -- Joaquim Nabuco -- analisa, de maneira definitiva, esse complexo sentimento de nostalgia cultural que tantos dentre nós, europeus transplantados para a América, sentimos da pátria espiritual, a Europa. Embora desde o surto do movimento modernista as novas gerações de intelectuais brasileiros tenham propugnado -- e com razão -- a libertação da Literatura e Arte do Velho Mundo, e embora a argumentação de Joeaquim Nabuco tenha perdido, um pouco de sua atualidade, persiste o elemento de busca de regiões culturais estruturadas através dos séculos, persiste o sentimento de ausência do *humus* espiritual europeu e a eterna demanda dos arquétipos que presidiram à formação da Cultura Ocidental, que partilhamos com os povos do Novo e do Velho Mundo, perdure perdurará sempre em alguns indivíduos.
