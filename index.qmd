@@ -40,8 +40,10 @@ In: Orelha do livro *Cronistas do Absurdo. Kafka, Büchner, Brecht, Ionesco.*
 [![](img/Volume-8.pdf){#fig-vol8 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-8.pdf)
 [![](img/Volume-9.pdf){#fig-vol9 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-9.pdf)
 [![](img/Volume-10.pdf){#fig-vol10 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-10.pdf)
+[![](img/Volume-11.pdf){#fig-vol11 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-11.pdf)
+[![](img/Volume-12.pdf){#fig-vol12 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/Volume-12.pdf)
 
-Volumes 1-10 da Coleção.
+Volumes 1-12 da Coleção.
 :::::
 
 :::::
