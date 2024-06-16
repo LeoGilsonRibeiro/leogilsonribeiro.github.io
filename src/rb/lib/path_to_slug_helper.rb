@@ -2,5 +2,5 @@
 
 def path_to_slug(str)
   str.strip
-     .gsub('/Users/bcdav/Dropbox/Blog/LGR/docs/markdown/', '')
+     .gsub('/Users/bcdav/Dropbox/Projetos/lgr/docs/markdown/', '')
 end

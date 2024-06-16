@@ -1,6 +1,5 @@
 # Adicionar metadados ao cabeçalho do arquivo markdown
-def add_metadata(author, editor, title, text, vol_title, path) # rubocop:disable Metrics/AbcSize
-
+def add_metadata(author, editor, title, text, vol_title, path)
   begin
     metadata = text.split(/\n/)[0].gsub(/\*/, '').split(/;/).map(&:strip)
     text = text.lines[1..-1].join.strip unless author == AUTHOR1
@@ -34,13 +33,13 @@ def add_metadata(author, editor, title, text, vol_title, path) # rubocop:disable
     orig_pub = orig_pub_bibtex = orig_pub_ris = ''
     orig_date = orig_date_bibtex = orig_date_ris = ''
   else
-    orig_pub = "orig_publisher: #{text_to_title(publisher).strip}"
+    orig_pub = "#{text_to_title(publisher).strip}"
     orig_pub_abnt = " Publicação original: #{text_to_title(publisher).strip}, #{orig_date}."
     orig_pub_bibtex = "orig_publisher = {#{text_to_title(publisher).strip}}"
     orig_pub_ris = "PB  - #{text_to_title(publisher).strip}"
     orig_date_bibtex = "orig_date = {#{orig_date}}"
     orig_date_ris = "Y1  - #{orig_date}"
-    orig_date = "orig_date: #{orig_date}"
+    orig_date = "#{orig_date}"
   end
 
   # orig_date = publisher == 'Desconhecido' && orig_date == 'Sem data' ? '' : "orig_date: #{orig_date}"
@@ -72,7 +71,7 @@ def add_metadata(author, editor, title, text, vol_title, path) # rubocop:disable
     annote_bibtex_field = ''
     annote_ris_field = ''
   else
-    status = 'Transcrição completa. Aguardando revisão.'
+    status = 'Transcrição completa.'
   end
 
   # p stable_url, yml_view_url
@@ -82,40 +81,15 @@ def add_metadata(author, editor, title, text, vol_title, path) # rubocop:disable
 
   ris = ['TY  - WEB', id_ris, author_name_ris, editor_name_ris, title_ris, vol_title_ris, date_ris, orig_pub_ris, orig_date_ris, annote_ris_field, stable_url_ris, 'ER  - '].reject(&:empty?).join("\n    ")
 
+  citation = "citation:\n  type: chapter\n  original-publisher: \"#{orig_pub}\"\n  original-date: \"#{orig_date}\""
+  abstract = "abstract: \"#{orig_pub}, #{orig_date}. Aguardando revisão.\""
   partial_yml_header = [yml_delimiter,
-                        "title: #{text_to_title(title)}",
-                        "author: #{author}",
-                        "editor: #{editor}",
-                        "vol_title: #{text_to_title(vol_title)}",
-                        "date: #{date}",
-                        "view_url: #{stable_url}",
-                        "edit_url: #{edit_url}",
-                        "commits_url: #{commits_url}",
+                        "title: |\n  #{text_to_title(title).gsub(/'/,'')}",
+                        "author: \"#{author}\"",
+                        "date: \"#{date}\"",
+                        citation,
+                        abstract,
                         "status: #{status}"]
 
 
   bib_ref = %(
-=== "ABNT"
-    #{abnt_ref}
-
-=== "BibTeX"
-    ```latex
-    @misc{#{id},
-    #{bibtex}
-    }
-    ```
-
-=== "RIS"
-    ```ris
-    #{ris}
-    ```
-)
-
-  # yml_header = (partial_yml_header + orig_pub_bibtex + [bibtex.chomp] + [yml_delimiter]).join("\n")
-  yml_header = (partial_yml_header + [orig_pub, orig_date] + [yml_delimiter]).reject(&:empty?).join("\n")
-  "#{yml_header}\n\n#{text}\n\n#{bib_ref}"
-end
-
-# 'print_bib: true',
-# "abnt_ref: #{abnt_ref}",
-# "bibtex_ref: |\n#{bibtex}",

@@ -2,9 +2,9 @@
 title: |
   Kafka (Curso)
 author: "Leo Gilson Ribeiro"
-date: "2022"
 citation:
   type: chapter
+  issued: "2024"
   original-publisher: "Inédito"
   original-date: "Sem data"
 abstract: "Inédito, Sem data. Aguardando revisão."

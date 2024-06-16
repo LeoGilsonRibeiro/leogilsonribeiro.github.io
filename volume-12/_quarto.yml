@@ -1,0 +1,57 @@
+format:
+  lgr-pdf
+
+project:
+  type: book
+  output-dir: ../_pdf/
+
+filters:
+  - fontawesome
+  - lgr
+
+book:
+  chapters:
+    - index.qmd
+    - 01-introducao/00-em-qualquer-lugar-o-artista-sofre.md
+    - 01-introducao/01-literatura-o-alvo-comum-de-todos-os-despotismos.md
+    - 01-introducao/02-nadine-a-arte-da-denuncia.md
+    - part: "América Latina"
+      chapters:
+        - 02-america-latina/00-o-modo-autentico-de-ser-entrevista-a-augusto-roa-bastos.md
+        - 02-america-latina/01-holocausto-de-um-pais-o-paraguai.md
+        - 02-america-latina/02-alem-da-rumba-e-do-cartao-postal.md
+    - part: "Europa"
+      chapters:
+        - 03-europa/00-a-literatura-espanhola-universal.md
+        - 03-europa/01-juan-goytisolo-o-guerrilheiro-das-palavras-e-como-um-goya-que-pintasse-e-gravasse-com-verbos-adjetivos-e-proverbios.md
+        - 03-europa/02-um-marco-na-literatura-politica-do-seculo.md
+        - 03-europa/03-sobre-carrillo-o-espectro-de-stalin.md
+        - 03-europa/04-semprun-destruindo-mitos.md
+        - 03-europa/05-as-desordens-se-espalhavam-por-toda-paris-resenha-do-livro-de-maurice-grimaud-en-mai-fais-ce-quil-te-plait.md
+        - 03-europa/06-a-missao-do-escritor-o-discurso-de-camus-em-estocolmo-(trad-leo-gilson-ribeiro).md
+        - 03-europa/07-resenha-de-albert-camus-herbert-r-lottman-editions-du-seuil-paris-1978.md
+        - 03-europa/08-para-que-ler-camus-a-grandeza-crescente-do-mais-vivo-pensador-de-nossa-epoca.md
+        - 03-europa/09-andre-malraux-so-se-descobre-uma-vez-a-morte-mas-descobre-se-varias-vezes-a-vida.md
+    - part: "URSS"
+      chapters:
+        - 04-urss/00-revolucao.md
+        - 04-urss/01-a-rebeliao-cultural-da-juventude-russa-i-a-heranca-de-kruchev.md
+        - 04-urss/02-como-vai-a-liberdade-na-urss-zinoviev-responde.md
+        - 04-urss/03-esta-obra-nasceu-numa-prisao-uma-obra-realista-sua-base-11-anos-de-exilio.md
+        - 04-urss/04-o-nobel-para-a-luta-contra-a-tirania.md
+        - 04-urss/05-uma-viagem-ao-monstruoso-arquipelago-que-a-russia-omite-dos-seus-mapas.md
+        - 04-urss/06-o-gulag.md
+        - 04-urss/07-o-novo-livro-de-solzhenitsyn-lenin-em-zurique.md
+        - 04-urss/08-fome-escuridao-tempestades-de-neve-arame-farpado-chicote-sadismo.md
+        - 04-urss/09-um-caminho-para-a-liberdade-comecando-pelo-horror.md
+        - 04-urss/10-a-dor-da-liberdade.md
+    - part: "Países do antigo Leste europeu"
+      chapters:
+        - 05-paises-do-antigo-leste-europeu/00-a-cadeia-e-o-lugar-da-liberdade-de-mihailov.md
+        - 05-paises-do-antigo-leste-europeu/01-milovan-djilas-a-denuncia-da-nova-classe.md
+        - 05-paises-do-antigo-leste-europeu/02-uma-brecha-no-silencio-do-terror.md
+        - 05-paises-do-antigo-leste-europeu/03-havel-testemunha-de-acusacao.md
+    - part: "EUA"
+      chapters:
+        - 06-eua/00-gore-vidal-um-gay-peso-pesado.md
+        - 06-eua/01-gore-vidal-um-escriba-impiedoso.md

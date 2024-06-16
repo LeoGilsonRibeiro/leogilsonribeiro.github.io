@@ -7,5 +7,5 @@ def text_to_title(str)
      .gsub(/--/, '-')
      .gsub('/', '-')
      .gsub(/'/, '')
-     .gsub(/(^|$)/, "'")
+#      .gsub(/(^|$)/, "'")
 end

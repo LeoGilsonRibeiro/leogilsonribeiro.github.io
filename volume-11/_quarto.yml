@@ -1,0 +1,76 @@
+format:
+  lgr-pdf
+
+project:
+  type: book
+  output-dir: ../_pdf/
+
+filters:
+  - fontawesome
+  - lgr
+
+book:
+  chapters:
+    - index.qmd
+    - 01-introducao/00-o-teatro-no-seculo-xx.md
+    - part: "O Teatro doutrinário Marxista na Alemanha - precursores e sucessores"
+      chapters:
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/00-buchner-revolucionador-da-dramaturgia-moderna.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/01-wozzeck.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/02-wedekind-um-moralista-do-expressionismo.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/03-o-teatro-politico-de-piscator.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/04-a-atualidade-de-brecht.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/05-a-opera-de-tres-vintens.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/06-o-galileo-de-brecht.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/07-parecer-pormenorizado-sobre-o-livro-brecht-de-john-fuegi-ny-grove-press.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/08-o-teatro-de-friedrich-durremmatt.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/09-a-vocacao-teatral-de-gunter-grass.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/10-muller-de-bom-humor-desmente-seu-proprio-mito.md
+    - part: "O Teatro doutrinário Marxista na Alemanha - precursores e sucessores"
+      chapters:
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/00-buchner-revolucionador-da-dramaturgia-moderna.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/01-wozzeck.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/02-wedekind-um-moralista-do-expressionismo.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/03-o-teatro-politico-de-piscator.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/04-a-atualidade-de-brecht.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/05-a-opera-de-tres-vintens.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/06-o-galileo-de-brecht.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/07-parecer-pormenorizado-sobre-o-livro-brecht-de-john-fuegi-ny-grove-press.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/08-o-teatro-de-friedrich-durremmatt.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/09-a-vocacao-teatral-de-gunter-grass.md
+        - 02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/10-muller-de-bom-humor-desmente-seu-proprio-mito.md
+    - part: "O Teatro da Angústia Ocidental - Ionesco e Beckett"
+      chapters:
+        - 03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/00-o-teatro-de-vanguarda-na-franca.md
+        - 03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/01-entrevista-com-ionesco.md
+        - 03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/02-ionesco-e-a-expressao-da-angustia.md
+        - 03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/03-esperando-godot.md
+        - 03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/04-o-nobel-ao-absurdo.md
+        - 03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/05-beckett-o-exercicio-antes-das-obras-primas.md
+        - 03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/06-beckett-a-palavra-como-limite.md
+        - 03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/07-cavaleiro-da-blasfemia.md
+    - part: "O Teatro da Decadência e da Revolta nos Países Anglo-Saxônicos"
+      chapters:
+        - 04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/00-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos.md
+        - 04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/01-o-teatro-americano-do-inconformismo.md
+        - 04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/02-a-margem-de-uma-traducao.md
+        - 04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/03-a-catastrofe-do-sucesso-artigo-de-tennessee-williams-traducao-de-lgr.md
+        - 04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/04-a-morte-de-tennessee-williams-um-retratista-da-irremediavel-condicao-humana.md
+        - 04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/05-oneill-o-homem-atravessando-o-abismo-entrevista-com-george-c-white.md
+        - 04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/06-o-genio-desigual-de-eugene-oneill.md
+        - 04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/07-uma-anotacao-sobre-harold-pinter.md
+        - 04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/08-este-fala-umas-verdades.md
+        - 04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/09-a-linguagem-como-veiculo-de-nao-comunicacao-um-aspecto-da-dramaturgia-de-harol-pinter.md
+    - part: "A realidade brasileira - Nelson Rodrigues e dois outros"
+      chapters:
+        - 05-a-realidade-brasileira-nelson-rodrigues-e-dois-outros/00-conheca-este-novo-escritor-do-seculo-passado.md
+        - 05-a-realidade-brasileira-nelson-rodrigues-e-dois-outros/01-o-fim-da-jornada.md
+        - 05-a-realidade-brasileira-nelson-rodrigues-e-dois-outros/02-o-sol-sobre-o-pantano-nelson-rodrigues-um-expressionista-brasileiro.md
+        - 05-a-realidade-brasileira-nelson-rodrigues-e-dois-outros/03-dialogo-franco-com-o-dramaturgo-entrevista-a-nelson-rodrigues.md
+        - 05-a-realidade-brasileira-nelson-rodrigues-e-dois-outros/04-o-reacionario.md
+    - part: "Shakespeare"
+      chapters:
+        - 06-shakespeare/00-conversando-sobre-shakespeare-entrevista-com-j-macmanaway.md
+        - 06-shakespeare/01-a-modernidade-de-shakespeare.md
+        - 06-shakespeare/02-shakespeare-uma-interpretacao-pessoal.md
+        - 06-shakespeare/03-o-professor-patrick-e-seu-autor-favorito-shakespeare-entrevista-a-p-swinden.md

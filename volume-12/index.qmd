@@ -1,0 +1,25 @@
+---
+author: "Fernando Rey Puente"
+published: true
+template-partials:
+  - _extensions/lgr/empty/title-block.html
+  - _extensions/lgr/empty/title-metadata.html
+---
+
+::: {.content-hidden when-format="html"}
+
+# {{< meta cover.title >}} {.unnumbered}
+
+:::
+
+
+O título dado a essa compilação de artigos que tratam particularmente de escritoras e escritores que por meio de seus livros confrontaram déspotas e desafiaram Estados totalitários é do próprio Leo Gilson Ribeiro, pois tem a sua origem em um pequeno caderno de notas a que tive acesso no qual nosso crítico listava diversos títulos prováveis para reunir esse gênero de textos, mas o título "Vocação para a liberdade" me pareceu o que melhor resume essa ideia muito cara para LGR, qual seja, a ideia de que a literatura não deve nunca ser um mero manifesto político panfletário, mas que tampouco a dimensão ética e política pode ser ignorada pela/o escritor/a. Ela/e deve se posicionar politicamente e deve fazê-lo emprestando sua voz àqueles que não sabem e/ou que não são capazes de escrever sobre as duras realidades que o/a cercam e nas quais estão inescapavelmente inseridos/as.
+
+O passado século XX e o nosso atual propiciam como que um laboratório particularmente fértil para esse tipo de texto-denúncia. Leo Gilson Ribeiro desde que regressou ao Brasil em 1959, retornando de sua longa estada na Alemanha, assumiu uma posição liberal que o levou a ser um crítico bastante contumaz de uma certa esquerda dogmática, que se recusava a ver o que de fato havia acontecido politicamente com a URSS e com outros países, satélites de Moscou. Essa posição política por ele adotada valeu-lhe muitos inimigos e até mesmo um duro patrulhamento ideológico em relação aos seus textos que eram publicados na imprensa, algo sobre o qual ele mesmo escreveu muitas vezes. Cabe citar o testemunho de Janer Cristaldo o qual em um artigo de seu blog homônimo publicou em 23/11/2007 um texto intitulado "O pálido aspargo de Pablo", em que comentava dentre outros o livro de Jurema Finamour, secretária de Pablo Neruda, e afirmava: "Rindo por dentro deve estar Leo Gilson Ribeiro, um dos raros ensaístas corajosos a militar na crítica brasileira. Em ***O Continente Submerso***, livro que recomendo a todo leitor que queira dar um passeio pelas letras latino-americanas, Leo Gilson, comemorando o livro de Finamour, o define como 'um processo póstumo às mentiras que criaram o culto dessa personalidade -- isto é: Pablo Neruda -- que ela revela, traço por traço, ser mesquinha, narcisista, medíocre, covarde, egoísta, avarenta, calculista, superficial'. Por esta - e por outras - tanto Leo Gilson como Jurema Finamour tiveram suas mortes civis decretadas nas letras tupiniquins. Pois da manutenção de certos mitos dependem muitas carreiras jornalísticas e universitárias.". O trecho é longo, mas dá uma boa ideia de como o exercício da crítica literária valeu a LGR inúmeros desafetos. Em um testemunho anterior, "Memórias de um ex-escritor (XX)", publicado em 13/07/2004, o mesmo Cristaldo já havia declarado a condição de anátema que LGR assumira para muitos ao ousar criticar certos ídolos da esquerda: "Em 1962, Osvaldo Peralva, ex-*apparatchik* do *Kominform* em Bucareste, lança ***O Retrato***. Peralva conhecia por dentro a máquina de mentiras do PCUS e a revelou tal como era. Ninguém acreditou. Mais recentemente, dois escritores não pouparam o malho nos comunistas. Na área do ensaísmo, Leo Gilson Ribeiro, com ***O Continente Submerso***, anatematizado pela *intelligentsia* nacional. No jornalismo quotidiano, o genial Nelson Rodrigues."
+
+Um exemplo, dentre muitos, desse "silêncio" e "esquecimento" da pessoa e da obra de Leo Gilson Ribeiro, fica evidente ao se consultar o festejado livro de Ferdinando Casagrande (Ed. Record, Rio de Janeiro/São Paulo, 2019), *Jornal da Tarde: Uma ousadia que reinventou a imprensa brasileira*. Assim, ao compulsamos o seu índice onomástico nos deparamos com a inexplicável ausência do nome de Leo Gilson Ribeiro que trabalhou no *JT* por quase quatro décadas. Em diversas entrevistas que concedeu ao longo dos anos ele mesmo sempre aludia a essa situação anômala e difícil de ter sido ignorado ou mesmo silenciado por razões ideológicas seja pela censura militar seja pelo patrulhamento ideológico de uma certa esquerda radical.
+
+O testemunho de uma escritora ou de um escritor incorporado a uma obra de ficção de excelência são os ingredientes ideais desse gênero de literatura, mas evidentemente esse sóbrio equilíbrio entre um estilo esmerado e uma inventividade ficcional, por um lado, e o brio e a coragem, de outro, são difíceis de encontrar. Nos textos que aqui foram compilados teremos ocasião de encontrar alguns desses raros e exemplares casos nos quais a estética e a ética caminham lado a lado na composição de uma obra literária.
+
+
+{{< include _extensions/lgr/_mainmatter.qmd >}}

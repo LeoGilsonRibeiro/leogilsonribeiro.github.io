@@ -1,0 +1,28 @@
+---
+author: "Fernando Rey Puente"
+published: true
+template-partials:
+  - _extensions/lgr/empty/title-block.html
+  - _extensions/lgr/empty/title-metadata.html
+---
+
+::: {.content-hidden when-format="html"}
+
+# {{< meta cover.title >}} {.unnumbered}
+
+:::
+
+
+A organização da presente coletânea de artigos aqui reunidos está baseada na estrutura de um curso chamado precisamente "Aspectos do Teatro Contemporâneo" e que ocorreu no ano de 1961 no Teatro Santa Rosa no Rio de Janeiro. Leo Gilson Ribeiro ministrou quatro conferências nesse curso divididas em quatro grandes áreas, a saber: 1) O Teatro Doutrinário Marxista (Brecht, Piscator e Arbusov); 2) O Teatro da Angústia Ocidental (Beckett, Ionesco e Genet); 3) O Teatro da Decadência e da Revolta nos Países Anglo-Saxônicos (Tennessee Williams, Arthur Miller, John Osborne e Shelagh Delaney) e 4) A Realidade Brasileira de Nelson Rodrigues, o Teatro Regional de Ariano Suassuna e Osman Lins e o Teatro Marxista do Teatro de Arena.
+
+Os artigos de jornais, bem como algumas páginas datilografadas que encontrei nos papéis de LGR e que suponho deveriam compor parte do material do referido curso serão organizados de acordo com essa estrutura quadripartite mencionada no parágrafo anterior. Claro que às vezes alguns nomes mencionados no curso não estarão presentes em artigos dedicados aos quatro tópicos ou, ao contrário, artigos escritos pelo Leo Gilson Ribeiro que não constam na descrição do curso foram por mim encontrados e estarão presentes na nossa recolha.
+
+A introdução a esse material será constituída de um texto datilografado de 12 páginas sem título e sem data, mas tudo indica que ele deveria compor o material da primeira conferência, pois começa se perguntando se o teatro ainda teria uma função no século XX.
+
+Os capítulos sucessivos constituídos pelos artigos que encontrei serão então organizados segundo a divisão quadripartite que nosso crítico concebeu e que está acima descrita.
+
+Cabe dizer, ainda, que Leo Gilson Ribeiro, quando voltou da Alemanha para o Brasil em 1959, escreveu bastante sobre teatro. O que se evidencia pelo fato de que grande número dos artigos aqui transcritos terem sido publicados em 1959 e nos primeiros anos da década de 60 na coluna que ele fundou no *Diário de Notícias* "Caminhos da Cultura". Além disso, é importante mencionar que o próprio LGR chegou a escrever algumas peças de teatro. Uma delas, a *Balada de Manhattan* foi encenada em 1968 em São Paulo pela Escola de Arte Dramática (EAD) sob direção de Paulo Hesse. Cessou de escrever peças de teatro, mas continuou até o final de sua vida, traduzindo peças de teatros para amigos e colegas da classe teatral que conheceu principalmente no Rio de Janeiro e em São Paulo. Dentre essas traduções podemos citar as seguintes: *Peer Gynt* de H. Ibsen (encenada em 1971 no Teatro Itália em São Paulo sob direção de Antunes Filho), *Abelardo e Heloísa* de R. Millar (encenada em 1971 no Teatro Paiol em São Paulo sob direção de Rangel Filho e sob mesma direção no Teatro Copacabana em 1972), *À Margem da Vida* de T. Williams (encenada em 1971 no Rio de Janeiro sob direção de Lionel Linhares) e *Caixa de Sombras* de M. Cristofer (encenada em 1978 em São Paulo sob direção de Emílio Di Biasi. Traduziu também no ano de 1999 para seu amigo Emilio Di Biasi os 45 poemas de *Calamus* de Walt Whitman escritos em 1860, tradução que encontrei em uma pasta em meio aos papéis de LGR, mas que até onde pude investigar nunca chegou a ser transformado em um espetáculo cênico.
+
+Por fim, devo confessar que não resisti e criei um apêndice para este livro constituído de quatro textos sobre Shakespeare, dois artigos autorais de LGR Shakespeare e duas entrevistas que ele fez com especialistas em Shakespeare e que tinham sido convidados para o Brasil. Shakespeare era um dos autores de predileção de Leo Gilson Ribeiro, senão o seu autor preferido dentre todos. Fica aqui então uma pequena amostra do que ele pensava sobre o inigualável bardo inglês. Infelizmente, Leo Gilson Ribeiro que tanto o amava não pode dedicar seu tempo para pesquisar e escrever mais extensa e profundamente sobre Shakespeare.
+
+{{< include _extensions/lgr/_mainmatter.qmd >}}

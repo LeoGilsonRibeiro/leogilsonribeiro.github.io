@@ -619,3 +619,116 @@ website:
             contents:
               - volume-10/09-guilherme-scalzilli/00-um-genio-anonimo.md
               - volume-10/09-guilherme-scalzilli/01-guilherme-scalzilli.md
+      - "---"
+      - section: "11 Aspectos do Teatro Contemporâneo"
+        href: volume-11/index.qmd
+        contents:
+          - volume-11/01-introducao/00-o-teatro-no-seculo-xx.md
+          - section: "O Teatro doutrinário Marxista na Alemanha - precursores e sucessores"
+            contents:
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/00-buchner-revolucionador-da-dramaturgia-moderna.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/01-wozzeck.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/02-wedekind-um-moralista-do-expressionismo.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/03-o-teatro-politico-de-piscator.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/04-a-atualidade-de-brecht.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/05-a-opera-de-tres-vintens.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/06-o-galileo-de-brecht.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/07-parecer-pormenorizado-sobre-o-livro-brecht-de-john-fuegi-ny-grove-press.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/08-o-teatro-de-friedrich-durremmatt.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/09-a-vocacao-teatral-de-gunter-grass.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/10-muller-de-bom-humor-desmente-seu-proprio-mito.md
+          - section: "O Teatro doutrinário Marxista na Alemanha - precursores e sucessores"
+            contents:
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/00-buchner-revolucionador-da-dramaturgia-moderna.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/01-wozzeck.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/02-wedekind-um-moralista-do-expressionismo.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/03-o-teatro-politico-de-piscator.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/04-a-atualidade-de-brecht.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/05-a-opera-de-tres-vintens.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/06-o-galileo-de-brecht.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/07-parecer-pormenorizado-sobre-o-livro-brecht-de-john-fuegi-ny-grove-press.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/08-o-teatro-de-friedrich-durremmatt.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/09-a-vocacao-teatral-de-gunter-grass.md
+              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/10-muller-de-bom-humor-desmente-seu-proprio-mito.md
+          - section: "O Teatro da Angústia Ocidental - Ionesco e Beckett"
+            contents:
+              - volume-11/03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/00-o-teatro-de-vanguarda-na-franca.md
+              - volume-11/03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/01-entrevista-com-ionesco.md
+              - volume-11/03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/02-ionesco-e-a-expressao-da-angustia.md
+              - volume-11/03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/03-esperando-godot.md
+              - volume-11/03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/04-o-nobel-ao-absurdo.md
+              - volume-11/03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/05-beckett-o-exercicio-antes-das-obras-primas.md
+              - volume-11/03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/06-beckett-a-palavra-como-limite.md
+              - volume-11/03-o-teatro-da-angustia-ocidental-ionesco-e-beckett/07-cavaleiro-da-blasfemia.md
+          - section: "O Teatro da Decadência e da Revolta nos Países Anglo-Saxônicos"
+            contents:
+              - volume-11/04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/00-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos.md
+              - volume-11/04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/01-o-teatro-americano-do-inconformismo.md
+              - volume-11/04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/02-a-margem-de-uma-traducao.md
+              - volume-11/04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/03-a-catastrofe-do-sucesso-artigo-de-tennessee-williams-traducao-de-lgr.md
+              - volume-11/04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/04-a-morte-de-tennessee-williams-um-retratista-da-irremediavel-condicao-humana.md
+              - volume-11/04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/05-oneill-o-homem-atravessando-o-abismo-entrevista-com-george-c-white.md
+              - volume-11/04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/06-o-genio-desigual-de-eugene-oneill.md
+              - volume-11/04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/07-uma-anotacao-sobre-harold-pinter.md
+              - volume-11/04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/08-este-fala-umas-verdades.md
+              - volume-11/04-o-teatro-da-decadencia-e-da-revolta-nos-paises-anglo-saxonicos/09-a-linguagem-como-veiculo-de-nao-comunicacao-um-aspecto-da-dramaturgia-de-harol-pinter.md
+          - section: "A realidade brasileira - Nelson Rodrigues e dois outros"
+            contents:
+              - volume-11/05-a-realidade-brasileira-nelson-rodrigues-e-dois-outros/00-conheca-este-novo-escritor-do-seculo-passado.md
+              - volume-11/05-a-realidade-brasileira-nelson-rodrigues-e-dois-outros/01-o-fim-da-jornada.md
+              - volume-11/05-a-realidade-brasileira-nelson-rodrigues-e-dois-outros/02-o-sol-sobre-o-pantano-nelson-rodrigues-um-expressionista-brasileiro.md
+              - volume-11/05-a-realidade-brasileira-nelson-rodrigues-e-dois-outros/03-dialogo-franco-com-o-dramaturgo-entrevista-a-nelson-rodrigues.md
+              - volume-11/05-a-realidade-brasileira-nelson-rodrigues-e-dois-outros/04-o-reacionario.md
+          - section: "Shakespeare"
+            contents:
+              - volume-11/06-shakespeare/00-conversando-sobre-shakespeare-entrevista-com-j-macmanaway.md
+              - volume-11/06-shakespeare/01-a-modernidade-de-shakespeare.md
+              - volume-11/06-shakespeare/02-shakespeare-uma-interpretacao-pessoal.md
+              - volume-11/06-shakespeare/03-o-professor-patrick-e-seu-autor-favorito-shakespeare-entrevista-a-p-swinden.md
+      - "---"
+      - section: "12 Vocação para a liberdade - Escritoras e escritores contra os despotismos e os totalitarismos"
+        href: volume-12/index.qmd
+        contents:
+          - volume-12/01-introducao/00-em-qualquer-lugar-o-artista-sofre.md
+          - volume-12/01-introducao/01-literatura-o-alvo-comum-de-todos-os-despotismos.md
+          - volume-12/01-introducao/02-nadine-a-arte-da-denuncia.md
+          - section: "América Latina"
+            contents:
+              - volume-12/02-america-latina/00-o-modo-autentico-de-ser-entrevista-a-augusto-roa-bastos.md
+              - volume-12/02-america-latina/01-holocausto-de-um-pais-o-paraguai.md
+              - volume-12/02-america-latina/02-alem-da-rumba-e-do-cartao-postal.md
+          - section: "Europa"
+            contents:
+              - volume-12/03-europa/00-a-literatura-espanhola-universal.md
+              - volume-12/03-europa/01-juan-goytisolo-o-guerrilheiro-das-palavras-e-como-um-goya-que-pintasse-e-gravasse-com-verbos-adjetivos-e-proverbios.md
+              - volume-12/03-europa/02-um-marco-na-literatura-politica-do-seculo.md
+              - volume-12/03-europa/03-sobre-carrillo-o-espectro-de-stalin.md
+              - volume-12/03-europa/04-semprun-destruindo-mitos.md
+              - volume-12/03-europa/05-as-desordens-se-espalhavam-por-toda-paris-resenha-do-livro-de-maurice-grimaud-en-mai-fais-ce-quil-te-plait.md
+              - volume-12/03-europa/06-a-missao-do-escritor-o-discurso-de-camus-em-estocolmo-(trad-leo-gilson-ribeiro).md
+              - volume-12/03-europa/07-resenha-de-albert-camus-herbert-r-lottman-editions-du-seuil-paris-1978.md
+              - volume-12/03-europa/08-para-que-ler-camus-a-grandeza-crescente-do-mais-vivo-pensador-de-nossa-epoca.md
+              - volume-12/03-europa/09-andre-malraux-so-se-descobre-uma-vez-a-morte-mas-descobre-se-varias-vezes-a-vida.md
+          - section: "URSS"
+            contents:
+              - volume-12/04-urss/00-revolucao.md
+              - volume-12/04-urss/01-a-rebeliao-cultural-da-juventude-russa-i-a-heranca-de-kruchev.md
+              - volume-12/04-urss/02-como-vai-a-liberdade-na-urss-zinoviev-responde.md
+              - volume-12/04-urss/03-esta-obra-nasceu-numa-prisao-uma-obra-realista-sua-base-11-anos-de-exilio.md
+              - volume-12/04-urss/04-o-nobel-para-a-luta-contra-a-tirania.md
+              - volume-12/04-urss/05-uma-viagem-ao-monstruoso-arquipelago-que-a-russia-omite-dos-seus-mapas.md
+              - volume-12/04-urss/06-o-gulag.md
+              - volume-12/04-urss/07-o-novo-livro-de-solzhenitsyn-lenin-em-zurique.md
+              - volume-12/04-urss/08-fome-escuridao-tempestades-de-neve-arame-farpado-chicote-sadismo.md
+              - volume-12/04-urss/09-um-caminho-para-a-liberdade-comecando-pelo-horror.md
+              - volume-12/04-urss/10-a-dor-da-liberdade.md
+          - section: "Países do antigo Leste europeu"
+            contents:
+              - volume-12/05-paises-do-antigo-leste-europeu/00-a-cadeia-e-o-lugar-da-liberdade-de-mihailov.md
+              - volume-12/05-paises-do-antigo-leste-europeu/01-milovan-djilas-a-denuncia-da-nova-classe.md
+              - volume-12/05-paises-do-antigo-leste-europeu/02-uma-brecha-no-silencio-do-terror.md
+              - volume-12/05-paises-do-antigo-leste-europeu/03-havel-testemunha-de-acusacao.md
+          - section: "EUA"
+            contents:
+              - volume-12/06-eua/00-gore-vidal-um-gay-peso-pesado.md
+              - volume-12/06-eua/01-gore-vidal-um-escriba-impiedoso.md

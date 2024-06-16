@@ -2,9 +2,9 @@
 title: |
   Entrevista a Doris Lessing: O triunfo da inteligência. Sem dogmas
 author: "Leo Gilson Ribeiro"
-date: "2022"
 citation:
   type: chapter
+  issued: "2024"
   original-publisher: "Jornal da Tarde"
   original-date: "1987/05/02"
 abstract: "Jornal da Tarde, 1987/05/02. Aguardando revisão."
