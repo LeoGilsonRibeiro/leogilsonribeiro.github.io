@@ -97,6 +97,10 @@ website:
           href: _pdf/volume-9.pdf
         - text: Volume 10
           href: _pdf/volume-10.pdf
+        - text: Volume 11
+          href: _pdf/volume-11.pdf
+        - text: Volume 12
+          href: _pdf/volume-12.pdf
     - text: "GitHub"
       icon: github
       href: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io
@@ -624,19 +628,6 @@ website:
         href: volume-11/index.qmd
         contents:
           - volume-11/01-introducao/00-o-teatro-no-seculo-xx.md
-          - section: "O Teatro doutrinário Marxista na Alemanha - precursores e sucessores"
-            contents:
-              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/00-buchner-revolucionador-da-dramaturgia-moderna.md
-              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/01-wozzeck.md
-              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/02-wedekind-um-moralista-do-expressionismo.md
-              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/03-o-teatro-politico-de-piscator.md
-              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/04-a-atualidade-de-brecht.md
-              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/05-a-opera-de-tres-vintens.md
-              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/06-o-galileo-de-brecht.md
-              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/07-parecer-pormenorizado-sobre-o-livro-brecht-de-john-fuegi-ny-grove-press.md
-              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/08-o-teatro-de-friedrich-durremmatt.md
-              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/09-a-vocacao-teatral-de-gunter-grass.md
-              - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/10-muller-de-bom-humor-desmente-seu-proprio-mito.md
           - section: "O Teatro doutrinário Marxista na Alemanha - precursores e sucessores"
             contents:
               - volume-11/02-o-teatro-doutrinario-marxista-na-alemanha-precursores-e-sucessores/00-buchner-revolucionador-da-dramaturgia-moderna.md
