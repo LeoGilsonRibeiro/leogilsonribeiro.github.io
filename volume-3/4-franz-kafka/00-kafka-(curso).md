@@ -14,7 +14,7 @@ status: Transcrição completa.
 
 Paralelamente aos acontecimentos de repercussão mundial da sua época, a vida de Kafka traça uma parábola simbólica: de 1883 coincidindo com a publicação de *Assim Falava Zaratustra* de Nietzsche até 1924 quando Hitler termina a redação de *Minha Luta*. No meio, dilacerando a Europa em duas frentes de batalha, a Primeira Guerra de 1914. Em 1917 a revolução bolchevista na Rússia.
 
-E à medida que Kafka se distancia mais e mais do mundo seu contemporâneo, devorado pela tuberculose que o arrebataria à criação solitária de sua longa muralha da China aos 41 anos de idade, agita-se simultaneamente a Europa do seu tempo: em 1922 ele se isola num sanatório na Thecoslováquia.
+E à medida que Kafka se distancia mais e mais do mundo seu contemporâneo, devorado pela tuberculose que o arrebataria à criação solitária de sua longa muralha da China aos 41 anos de idade, agita-se simultaneamente a Europa do seu tempo: em 1922 ele se isola num sanatório na Tchecoslováquia.
 
 Cessando sua breve correspondência com Milena, a amada ideal que se aliara como católica e democrata ardente aos judeus de Praga sendo enviada pelas tropas nazistas invasoras ao campo de concentração de Ravensbrück onde vem a falecer depois de quatro anos de inferno. Em 1922 Mossolini marchava sobre Roma e atiçava o apetite territorial do fascismo em expansão militar na África. Stálin ascendia na hierarquia da União Soviética como secretário geral do Partido Comunista.
 
@@ -36,7 +36,7 @@ Por si só a justaposição desses fatores contraditórios ilustra a fragmentari
 
 Incapaz de integrar-se na sociedade da região boêmia que constituia parte do império Austro-Húngaro, uma sociedade cristã, católica, eslava que já ambicionava sua identidade nacional divorciada da tutela austríaca.
 
-E elaborando a sua obra -- que constitui, à par das novelas de Thomas Mann a mais esplêndida contribuição da literatura de expressão alemã à literatura contenporânea -- Kafka passaria a assumir, a encarnar a angústia atual do século que substituiu a fé medieval pelo niilismo esterelizante e/ou pela crença no progresso puramente material apoiado pelo absolutismo do Estado e uma "mística" de esquerda.
+E elaborando a sua obra -- que constitui, à par das novelas de Thomas Mann a mais esplêndida contribuição da literatura de expressão alemã à literatura contemporânea -- Kafka passaria a assumir, a encarnar a angústia atual do século que substituiu a fé medieval pelo niilismo esterelizante e/ou pela crença no progresso puramente material apoiado pelo absolutismo do Estado e uma "mística" de esquerda.
 
 Seus relatos passam a ser sintomáticos, proféticos anunciando o advento de uma era em que a humanidade estaria encerrada, enferma, entre campos de concentração e explosões atômicas, na imensa faixa de terror que une Dachau a Hiroshima.
 

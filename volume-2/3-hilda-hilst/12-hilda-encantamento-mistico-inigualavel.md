@@ -31,7 +31,7 @@ E a Eternidade numa hora"
 
 William Blake ("Auguries of Innocence")
 
-O amor. A carne. O júbilo. A perda. A morte. Como fios entrelaçados, a poesia de Hilda Hilst sempre deixa entrever uma forma imprecisa: uma pirâmide? Uma espiral? O viver-a-vida é um tecido áspero ou brilhante em seus poemas que transformam o prosaísmo no transcendente, o banal numa magia abrangente e indelével de beleza e pensamento. As coisas da terra, mesmo as mais mesquinhas, contêm um lampejo que as liberta da vã mortalidade: a espera amorosa desenhada no azul abstrato do Tempo que passa sutilmemte entrevista no céu de nuvens e cores cambiantes; a morte entranhada nos alfinetes ou calada nas águas frias debaixo de uma ponte.
+O amor. A carne. O júbilo. A perda. A morte. Como fios entrelaçados, a poesia de Hilda Hilst sempre deixa entrever uma forma imprecisa: uma pirâmide? Uma espiral? O viver-a-vida é um tecido áspero ou brilhante em seus poemas que transformam o prosaísmo no transcendente, o banal numa magia abrangente e indelével de beleza e pensamento. As coisas da terra, mesmo as mais mesquinhas, contêm um lampejo que as liberta da vã mortalidade: a espera amorosa desenhada no azul abstrato do Tempo que passa sutilmente entrevista no céu de nuvens e cores cambiantes; a morte entranhada nos alfinetes ou calada nas águas frias debaixo de uma ponte.
 
 Em seu último livro, *Poemas Malditos, Gozosos e Devotos* (editora Massao Ohno), atinge-se um vértice ou um delta em que desemboca um encantamento místico inigualável na poesia brasileira desde os poemas religiosos de Jorge de Lima. Não se trata de um exagero. A poesia de Hilda Hilst agora tateia no caminho percorrido por Kierkegaard, o assombroso místico e filósofo dinamarquês: a fé não tem base em nenhuma certeza objetiva, comprovável, portanto é rotulada de absurda, de paradoxal, improvável. No entanto, a magnifica poeta paulista -- uma das grandes vozes universais de poesia deste século de apenas quatro ou cinco poetas -- se debate entre o finito da poeira humana e o infinito talvez incognoscível de Deus. O início se inspira da contemplação cristã tradicional da mística espanhola:
 
@@ -159,9 +159,9 @@ Não há reconciliação lógica, não há axioma, nem teorema, nem dogma na per
 
 "Vou pelos atalhos te sentindo à frente.
 
-Volto poque penso que voltaste.
+Volto porque penso que voltaste.
 
-Alguns me dissem que passaste
+Alguns me disseram que passaste
 
 Rente a alguém que gritava:
 

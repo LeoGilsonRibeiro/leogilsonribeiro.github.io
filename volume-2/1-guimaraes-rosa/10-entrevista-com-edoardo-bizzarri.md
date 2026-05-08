@@ -21,7 +21,7 @@ O Sr. utilizou formas dialetais na tradução de *Campo Geral* (Miguilim)?
 
 Em italiano, *Corpo de Baile* foi o primeiro livro de Guimarães?
 
-"Outro livro de Guimarães, contendo dois contos de *Sagarana*, já havia aparecido na Itália. Um dos contos fora trduzido por mim. O outro fora traduzido por Jannini. Também este livro alcançou mais de uma edição, teve três edições seguidas."
+"Outro livro de Guimarães, contendo dois contos de *Sagarana*, já havia aparecido na Itália. Um dos contos fora traduzido por mim. O outro fora traduzido por Jannini. Também este livro alcançou mais de uma edição, teve três edições seguidas."
 
 Guimarães Rosa gostou da tradução italiana?
 
@@ -41,6 +41,6 @@ De que forma o Sr. enquadra *Corpo de Baile* no contexto da obra de Guimarães R
 >
 > O Sr. concorda que Guimarães Rosa é comparável a Joyce ou, pelo menos, que podemos compará-lo com os grandes novelistas que reestruturam a linguagem de seus respectivos países e idiomas?
 >
-> "Vamos ficar apenas com Joyce. A comparação com Joyce é um pouco imprópria. Em Joyce, a meu ver, o problema linguístico é de natureza totalmente diferente. Em Joyce há um fundo e uma exigência de caráter intelectual na modificação e na deformação da lingugem, na tentativa de criar uma linguagem nova. Em Guimarães Rosa há uma exigência poética de exprssão. Ele cria a linguagem por uma necessidade de expressar as várias nuanças de seu mundo poético."
+> "Vamos ficar apenas com Joyce. A comparação com Joyce é um pouco imprópria. Em Joyce, a meu ver, o problema linguístico é de natureza totalmente diferente. Em Joyce há um fundo e uma exigência de caráter intelectual na modificação e na deformação da lingugem, na tentativa de criar uma linguagem nova. Em Guimarães Rosa há uma exigência poética de expressão. Ele cria a linguagem por uma necessidade de expressar as várias nuanças de seu mundo poético."
 
 

@@ -27,7 +27,7 @@ ele decifra na desolação cinzenta da cidade-acampamento à beira do dividendo,
 >
 > nos ombros largos da noite
 
-ecoa como volta obsessiva do passado retido em gravuras de Rugendas e Debret, até que o corte lancinante de um avião que possa "fabrica" as manchetes dos jornais:
+ecoa como volta obsessiva do passado retido em gravuras de Rugendas e Debret, até que o corte lancinante de um avião que passa a "fabricar" as manchetes dos jornais:
 
 > o jato leva e traz o dia seguinte
 >

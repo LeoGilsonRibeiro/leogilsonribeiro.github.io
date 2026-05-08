@@ -69,7 +69,7 @@ Uma dor que se espraia pelos poemas de Oswaldo de Camargo -- "Estou no meio de v
 
 > "Treze de maio traição 
 >
-> iberdade sem asas 
+> liberdade sem asas 
 >
 > e fome sem pão 
 >

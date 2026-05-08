@@ -101,7 +101,7 @@ Ninguém poderia emitir *um juízo de valor*, sociológico ou político, abusivo
 >
 > para a casa-grande.
 
-*Com o poema* "Charqueada" a noção irônica, estoica, épica, só sofrimento atinge um alto nível emotivo com um destacamento, um distanciamento de si mesmo similar ao de atores que sigam esse alheamento proposital ensinado por Bertold Brecht:
+*Com o poema* "Charqueada" a noção irônica, estoica, épica, só sofrimento atinge um alto nível emotivo com um destacamento, um distanciamento de si mesmo similar ao de atores que sigam esse alheamento proposital ensinado por Bertolt Brecht:
 
 > - Os negros estão despidos 
 >
@@ -119,7 +119,7 @@ Ninguém poderia emitir *um juízo de valor*, sociológico ou político, abusivo
 >
 > de campos tão distantes 
 >
-> repontados pela estrad 
+> repontados pela estrada 
 >
 > com seus mugidos fundos 
 >

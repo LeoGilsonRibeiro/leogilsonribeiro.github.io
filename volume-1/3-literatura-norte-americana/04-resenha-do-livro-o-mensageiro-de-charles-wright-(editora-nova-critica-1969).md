@@ -11,7 +11,7 @@ abstract: "Jornal da Tarde, 1969. Aguardando revisão."
 order: 010204
 ---
 
-Quando surgem nos jornais manchetes sobre conflitos raciais ou marchas de protesto dos negros nos Estados Unidos, lutando pela defesa de seus direitos covis, faltam sempre exemplos claros daquilo que a população de cor reivindica.
+Quando surgem nos jornais manchetes sobre conflitos raciais ou marchas de protesto dos negros nos Estados Unidos, lutando pela defesa de seus direitos civis, faltam sempre exemplos claros daquilo que a população de cor reivindica.
 
 *O Mensageiro* é um romance lírico, cômico, trágico na denúncia da falta de perspectivas de um jovem negro sensível, sufocado pela favela de cimento armado em que mora em Nova York, com um emprego que não o satisfaz -- e o que é pior: sem as perspectivas de melhoras no futuro que estão reservadas aos colegas brancos de sua idade;
 

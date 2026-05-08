@@ -69,7 +69,7 @@ Estas observações não querem dizer que o poeta deva se limitar, forçosamente
 >
 > ajudou a construir."
 
-Mas uma força que adquiri um ritmo e uma expressão próprias, quando o poeta não interfere *intelectualmente* na sua confecção, mas, como queria Rimbaud, deixa que seu canto flua instintivamente:
+Mas uma força que adquiriu um ritmo e uma expressão próprias, quando o poeta não interfere *intelectualmente* na sua confecção, mas, como queria Rimbaud, deixa que seu canto flua instintivamente:
 
 > "Bocas negras 
 >

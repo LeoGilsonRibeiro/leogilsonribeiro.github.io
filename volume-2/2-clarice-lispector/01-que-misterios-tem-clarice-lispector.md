@@ -21,13 +21,13 @@ Suando muito por causa do calor forte, a escritora fala do *Mistério do Coelho 
 
 "- Pauluca tinha três anos, morávamos em Washington. Uma tarde pediu-me para escrever uma história para ele. Pensei muito e cheguei a achar que não teria condições. Aí me lembrei de um fato ocorrido em casa."
 
-Clarice quando fala agita constantemente as mãos, ajeita o cabelo, limpa o suor da testa. Seu vestido estampado parece indomodá-la. Ela engordou muito.
+Clarice quando fala agita constantemente as mãos, ajeita o cabelo, limpa o suor da testa. Seu vestido estampado parece incomodá-la. Ela engordou muito.
 
 "- Nos fundos de nossa casa tínhamos um casal de coelhos brancos dentro de uma jaula de grades pequenas, com uma tábua pesada cobrindo. Uma manhã, quando fomos dar comida a eles, ficamos sem saber o que havia acontecido. Os coelhos tinham sumido. Ninguém de casa sabia o que tinha acontecido, era um mistério."
 
 Daí, *O Mistério do Coelho Pensante*, escrito inicialmente em inglês e traduzido depois para o português. Quando o livro foi colocado à venda, Clarice recebeu dezenas de cartas de crianças sugerindo soluções para o "mistério".
 
-"- As cartas das crianças continhas as mais variadas soluções. Algumas que me recordo: acusavam os "grandes" de terem matado os coelhinhos e "depois virem com a desculpa de que eles haviam sumido". Outras diziam que os coelhinhos eram tão fortes que haviam separado as grades e fugido. Outras ainda afirmavam que de noite um coelho grande e poderoso os havia libertado do cativeiro".
+"- As cartas das crianças continham as mais variadas soluções. Algumas que me recordo: acusavam os "grandes" de terem matado os coelhinhos e "depois virem com a desculpa de que eles haviam sumido". Outras diziam que os coelhinhos eram tão fortes que haviam separado as grades e fugido. Outras ainda afirmavam que de noite um coelho grande e poderoso os havia libertado do cativeiro".
 
 Clarice, quando fala das crianças, parece transportar-se para sua infância em Recife, onde seus pais, imigrantes russos, encontravam uma série de dificuldades financeiras e de comunicação com as pessoas.
 
@@ -85,7 +85,7 @@ Clarice fuma sem parar. Suas mãos tremem ao acender o cigarro mentolado. Faz qu
 
 Logo depois o telefone toca e ela conversa sobre futilidades, rapidamente:
 
-"- Agradeço a gentileza de não ter tocano num assunto óbvio: minhas queimaduras. Como vê o incômodo que sofri há algum tempo destruiu parcialmente minha mão direita. Minhas pernas ficaram marcadas para sempre. O que aconteceu foi muito triste e prefiro não lembrar. Só posso dizer que passei três dias no inferno, aquele que - dizem - espera os maus depois da morte. Eu não me considero má e o conheci ainda viva.
+"- Agradeço a gentileza de não ter tocado num assunto óbvio: minhas queimaduras. Como vê o incômodo que sofri há algum tempo destruiu parcialmente minha mão direita. Minhas pernas ficaram marcadas para sempre. O que aconteceu foi muito triste e prefiro não lembrar. Só posso dizer que passei três dias no inferno, aquele que - dizem - espera os maus depois da morte. Eu não me considero má e o conheci ainda viva.
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 

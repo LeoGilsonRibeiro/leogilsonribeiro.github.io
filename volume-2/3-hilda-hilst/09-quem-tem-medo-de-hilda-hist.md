@@ -1,6 +1,6 @@
 ---
 title: |
-  Quem tem medo de Hilda Hist?
+  Quem tem medo de Hilda Hilst?
 author: "Leo Gilson Ribeiro"
 citation:
   issued: "2022"
@@ -11,13 +11,13 @@ abstract: "Polímica: revista semestral de crítica e criação nº 2, 1980. Agu
 order: 020309
 ---
 
-Macunaíma tantas vezes, o brasileiro se cansa de todo autor que usa mais de 500 palavras usuais, tiradas do vocabulário comum, irmão gêmeo do primevo grunhido das cavernas pré-platonianas. Por isso, muitos leitores em potêncial preferem tirar uma soneca na rede balouçante e achar *a priori* a ficção instigante de Hilda Hilst, por exemplo, a obra de "uma chata, maçante, hermética, indecifrável". Cai o livro das mãos, predomina o império da sonolência aquiescida.
+Macunaíma tantas vezes, o brasileiro se cansa de todo autor que usa mais de 500 palavras usuais, tiradas do vocabulário comum, irmão gêmeo do primevo grunhido das cavernas pré-platonianas. Por isso, muitos leitores em potencial preferem tirar uma soneca na rede balouçante e achar *a priori* a ficção instigante de Hilda Hilst, por exemplo, a obra de "uma chata, maçante, hermética, indecifrável". Cai o livro das mãos, predomina o império da sonolência aquiescida.
 
 Outros têm um empenho político tão fanático que também *a priori* abandonam os livros dessa escritora paulista que mora há mais de uma década voluntariamente isolada do mundo, numa fazenda perto de Campinas, Estado de São Paulo: "É uma alienada! Não se limita a descrever exclusivamente a miséria multissecular do povo brasileiro! Não focaliza a opressão intolerável, palpável que circunda 80% da nossa população e que foi denunciada, na Europa, por Marx. *Ergo* a Hilda não pode ser uma artista importante, Partido Único *dixit*!". E um silêncio sepulcral embalsama, virgem por abrir, as páginas da autora de *Ficções* como se embalsama o cadáver de Lênin na Praça Vermelha em Moscou ao lado do Chase Manhattan Bank dos Rockfeller.
 
 No entanto, quem não estiver preso a esses dois tabus paralisantes da inteligência e se dispuser a lê-la com afinco, descobrirá, encantado, que Hilda Hilst é, cronologicamente, a mais audaz pioneira da literatura brasileira depois de Guimarães Rosa, vencidos esses dois Cérberos temíveis -- a preguiça e o *parti pris* -- que impedem o acesso à sua criação literária.
 
-Sob um enfoque mundial, Hilda Hilst é componente dessa vanguarda feminina que toma de assalto a Bastilha Machista Literária. É da mesma estirpe de Virgínia Woolf, de Elsa Morante, de Marguerite Yourcenar, da multi-esplêndida Doris Lessing, de Katherine Mansfield e de Curson McCullers, Marianne Moore e Isak Dinesen. No Brasil, Hilda Hilst completa a magnífica literatura de uma Clarice Lispector, que revolucionou o conto das 3 Américas (sem exagero), captando o metafísico em tudo que subjaz a essa aura aparente de mediocridade prosaica cotidiana, vendo além da superfície que palpita nos interstícios da vida diária banal e, antes de ela se debruçar sobre o dia-a-dia sem transcendência.
+Sob um enfoque mundial, Hilda Hilst é componente dessa vanguarda feminina que toma de assalto a Bastilha Machista Literária. É da mesma estirpe de Virgínia Woolf, de Elsa Morante, de Marguerite Yourcenar, da multi-esplêndida Doris Lessing, de Katherine Mansfield e de Carson McCullers, Marianne Moore e Isak Dinesen. No Brasil, Hilda Hilst completa a magnífica literatura de uma Clarice Lispector, que revolucionou o conto das 3 Américas (sem exagero), captando o metafísico em tudo que subjaz a essa aura aparente de mediocridade prosaica cotidiana, vendo além da superfície que palpita nos interstícios da vida diária banal e, antes de ela se debruçar sobre o dia-a-dia sem transcendência.
 
 O rótulo "feminista" não se aplica, porém, à escritora paulista. Ela é. Sem adjetivos limitantes. Mas, é lícito perguntar, o que traz de tão nunca dito, de tão audaz para a conquista de um espaço, um tempo e uma profundidade no dizer em prosa em nossa língua, essa estranha ficcionista?
 

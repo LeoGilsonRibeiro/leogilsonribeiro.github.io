@@ -15,7 +15,7 @@ A escritora e animadora das artes, Olga Borelli, amiga de Clarice Lispector, dur
 
 Clarice Lispector, como fica bem claro nestas explanações de Olga Borelli e que eu pessoalmente posso confirmar, tendo sido amigo da maravilhosa escritora pernambucana durante cerca de 20 anos, tinha horror a ser classificada de "mito", de "monstro sagrado", de "hermética". Como relata sua amiga íntima, a escritora Nélida Piñon, em depoimento dado a Olga Borelli, durante um douto seminário universitário organizado com o fito exclusivo de debater a sua obra, Clarice Lispector não resistiu: bebeu avidamente a água mineral dos cultíssimos eruditos e retirou-se deixando-os enrolados em todos os seus "ismos" semióticos, metalinguísticos, fonemas, e labirintos de árdua exegese linguística.
 
-Com essa mesma independência, eu me recordo, Clarice Lispector se recusava peremptoriamente a conceder entrevistas, a "brilhar", a aparecer. Seu magnetismo pessoal era incomparável. Durante um encontro de escritores realizado em Porto Alegre, um ou dois anos antes de sua morte, assistimos estarrecidos, a uma cena inigualável. Em meio à balbúrdia de mais de mil estudantes da Pontifícia Univerdidade Católica de Porto Alegre, ela se manteve imóvel, os braços apoiados na mesa, sem dizer uma palavra sequer. Depois, como que por irresistível magia do seu carisma, uma a uma as filas ruidosas dos jovens foram-se calando espontaneamente, e se fez um silêncio absoluto naquele anfiteatro que continha talvez 2.000 pessoas, todas a olhar fixamente para Clarice Lispector, que se mantinha muda, altiva, levemente enfadada. Quando surgiu a primeira pergunta, relativa à sua relação com o tempo e o espaço para criar, ela respondeu de maneira impetuosa, alegando que não era Einstein e, portanto, não podia responder à questão. Depois, cansada ao ver a pilha de indagações que se acumulavam sobre a mesa e que pediam classificações de gêneros literários, colocações do estruturalismo, da Escola de Praga, do *new criticism* etc., deu vazão à sua impaciência. Passou a mim num gesto impetuoso a tarefa de responder a todas as perguntas, delegando-me a missão de assumir o cérebro dela, pois eu a entenderia melhor como escritora do que ela própria...
+Com essa mesma independência, eu me recordo, Clarice Lispector se recusava peremptoriamente a conceder entrevistas, a "brilhar", a aparecer. Seu magnetismo pessoal era incomparável. Durante um encontro de escritores realizado em Porto Alegre, um ou dois anos antes de sua morte, assistimos estarrecidos, a uma cena inigualável. Em meio à balbúrdia de mais de mil estudantes da Pontifícia Universidade Católica de Porto Alegre, ela se manteve imóvel, os braços apoiados na mesa, sem dizer uma palavra sequer. Depois, como que por irresistível magia do seu carisma, uma a uma as filas ruidosas dos jovens foram-se calando espontaneamente, e se fez um silêncio absoluto naquele anfiteatro que continha talvez 2.000 pessoas, todas a olhar fixamente para Clarice Lispector, que se mantinha muda, altiva, levemente enfadada. Quando surgiu a primeira pergunta, relativa à sua relação com o tempo e o espaço para criar, ela respondeu de maneira impetuosa, alegando que não era Einstein e, portanto, não podia responder à questão. Depois, cansada ao ver a pilha de indagações que se acumulavam sobre a mesa e que pediam classificações de gêneros literários, colocações do estruturalismo, da Escola de Praga, do *new criticism* etc., deu vazão à sua impaciência. Passou a mim num gesto impetuoso a tarefa de responder a todas as perguntas, delegando-me a missão de assumir o cérebro dela, pois eu a entenderia melhor como escritora do que ela própria...
 
 O que terá sobrado desse em tantos momentos belo, revelador e comovente livro de Olga Borelli, nesse tributo tão raro hoje em dia de amigo para amigo? Será preciso aguardar a chegada do livro editado pela Nova Fronteira. Baseado, porém, no rascunho que a autora gentilmente me cedeu, eu preferia não fazer quase comentário algum, limitando-me a transcrever os trechos que mais elucidam a personalidade fascinante de Clarice Lispector, e que falam por si mesmos, sem necessidade de qualquer observação impertinente como adiposidade a seu texto deslumbrante. Só me cabe esperar ardentemente que estes trechos tenham sido incluídos na edição da Nova Fronteira pela visão profunda e extasiante que dão ao leitor da magnífica autora do conto "A Galinha":
 
@@ -29,7 +29,7 @@ O ano está com um sol em ocaso.
 
 No que precede o acontecimento - é lá que eu vivo. Espero viver sempre às vésperas. E não no dia. O presente só existe quando ele é lembrança e só existe quando vai ser.
 
-Estive à beira de comprender o tempo, eu senti que sim. Mas logo em seguida ao leve vislumbre, tive uma espécie de medo de penetrar sem nenhuma lógica na matéria que me pareceu de súbito sagrada.
+Estive à beira de compreender o tempo, eu senti que sim. Mas logo em seguida ao leve vislumbre, tive uma espécie de medo de penetrar sem nenhuma lógica na matéria que me pareceu de súbito sagrada.
 
 Não esquecer: hoje é agora. Ressoam os tambores anunciando o sem-começo e o sem-fim. Abrem-se as cortinas. Eu sinto que a realidade é tridimensional. Por quê? Não consigo explicar. O que sinto é no sem-tempo e no sem-espaço. O tempo no futuro já passou.
 
@@ -39,7 +39,7 @@ Não fazer nada é uma grande ocupação. É como estar no cosmos. O tédio prol
 
 Agora, enfim, eu não adoro. Eu sou o que é e isso não pede adoração.
 
-Nada começou a nada teminará. Inclusive não existe a palavra "sempre", pois ela se refere a "tempo" e "tempo" só existe em nós referindo-se a uma coisa se transformar em outra. (A essa transformação chamamos de "tempo"). Mas o Tempo em si não é. O Tempo é o indefinível. Eu me coloco bem depressa no tempo, antes de morrer. A vida é muito rápida quando se vê chego ao fim. E ainda por cima somos obrigados a amar a Deus".
+Nada começou a nada terminará. Inclusive não existe a palavra "sempre", pois ela se refere a "tempo" e "tempo" só existe em nós referindo-se a uma coisa se transformar em outra. (A essa transformação chamamos de "tempo"). Mas o Tempo em si não é. O Tempo é o indefinível. Eu me coloco bem depressa no tempo, antes de morrer. A vida é muito rápida quando se vê chego ao fim. E ainda por cima somos obrigados a amar a Deus".
 
 Ou:
 
@@ -73,7 +73,7 @@ Voltar atrás, desdizer o que vivi.
 
 Às vezes o que nos salva a alma são os vícios.
 
-No mundo me sinto tonta como se tivesse girado muitas vezes em torno de mim e caísse em vórtice no chão. É por causa do seguinte: que se imagine um grosso dicionário com o significado de todas as palavras, mas que estas não estivessem postas em ordem alfabétca, e de repente no X se encontrasse um "m" ou um "a" e para achar a palavra "ardente" só por acaso. Tudo está ali, bem sei. Mas como procurar e achar? Encontra-se apenas o que se acha e não o que se procura. Agora estou comparando minha vida com esse dicionário-caleidoscópio: só acho nela sentido, se o acaso me der. Sei que há em mim e em torno de mim significados. Mas como achá-los? Como procurá-los? Quero saber o meu sinônimo e nem mesmo a palavra que teria o meu sinônimo e nem mesmo a palavra que teria o meu sinônimo eu não posso procurar. E a vida é curta demais para eu ter todo o grosso dicionário a fim de por acaso descobrir a palavra salvadora.
+No mundo me sinto tonta como se tivesse girado muitas vezes em torno de mim e caísse em vórtice no chão. É por causa do seguinte: que se imagine um grosso dicionário com o significado de todas as palavras, mas que estas não estivessem postas em ordem alfabética, e de repente no X se encontrasse um "m" ou um "a" e para achar a palavra "ardente" só por acaso. Tudo está ali, bem sei. Mas como procurar e achar? Encontra-se apenas o que se acha e não o que se procura. Agora estou comparando minha vida com esse dicionário-caleidoscópio: só acho nela sentido, se o acaso me der. Sei que há em mim e em torno de mim significados. Mas como achá-los? Como procurá-los? Quero saber o meu sinônimo e nem mesmo a palavra que teria o meu sinônimo e nem mesmo a palavra que teria o meu sinônimo eu não posso procurar. E a vida é curta demais para eu ter todo o grosso dicionário a fim de por acaso descobrir a palavra salvadora.
 
 Me justificar mais do que a vida? No mundo das coisas, quando sei que elas vão acabar, começo a frui-las.
 
@@ -119,7 +119,7 @@ Quem reza, reza para si próprio chamando-se de outro nome. A chama da vela. O f
 
 É preciso ter muita coragem para ir ao fundo da vida. Porque no fundo da vida nada acontece ao homem, ele só contempla. Nem sequer pensa no que contempla. Quando eu fico sem nenhuma palavra no pensamento e sem imagem visual interna, eu chamo isso de meditar. O silêncio é tal que nem o pensamento pensa.
 
-Um modo de cair em êxtase. Eu eu leio isso três vezes em seguida caio em êxtase.
+Um modo de cair em êxtase. Se eu leio isso três vezes em seguida caio em êxtase.
 
 Deve-se ter contato com o Desconhecido sem uma palavra, nem sequer a palavra apenas mental, assim como um mudo 'fala' com a intensidade do olhar."
 
@@ -141,7 +141,7 @@ Aquela em que se quer inventar Deus e não se consegue.
 
 Só me enganando que existe Deus é que consigo viver. Se não fosse a fé inexplicável pelo Desconhecido, o desespero me destruiria. Eu finjo que existe "Deus" para aguentar o inexplicável através do inexplicável.
 
-Estou desarmada, frágil, abandonada e - há esperança. Esperança em quê? No encadeamento orgânico de um absurdo se encaixar em outro absurdo, este preso por um elo forte a mais outro absurdo até chegar ao Absurdo: um Deus. Mas não exsitir um Deus seria inventar a hipótese absurda de Sua inexistência. E tudo é causado por outra causa. A primeira - como é que apareceu?
+Estou desarmada, frágil, abandonada e - há esperança. Esperança em quê? No encadeamento orgânico de um absurdo se encaixar em outro absurdo, este preso por um elo forte a mais outro absurdo até chegar ao Absurdo: um Deus. Mas não existir um Deus seria inventar a hipótese absurda de Sua inexistência. E tudo é causado por outra causa. A primeira - como é que apareceu?
 
 De repente eu vi que não estava livre. Engradada e condicionada. Então com veemência disse-me: eu não creio em Deus e não creio nos homens. Senti que os grilhões que me prendiam estavam soltos enfim e toda alegre eu estava só e nua. Era uma solidão gloriosa e de vitória e era uma nudez de última libertação.
 

@@ -25,8 +25,8 @@ Os temas fundamentais que acompanharam todo o roteiro criador de Clarice Lispect
 
 A autora percebe, porém, novas paisagens: o desconhecido cuja ponta de mistério a palavra desvenda ("Então escrever é o modo de quem tem a palavra como isca: a palavra pescando o que não é palavra"); a liberdade da improvisação; e até o reconhecimento do conteúdo místico da linguagem ("Mas a palavra mais importante da língua tem uma única letra: é, É")
 
-Dessa conjunção eclode o recurso de utilizar termos de outra língua, o neutro e indefinível *it* do inglês, para exprimir sua angústia e sua certeza mais abissais: "Mas há também o mistério do impessoal que é o *it*: eu tenho o impessoal dentro de mim... A transcendência dentro de mim é o *it* vivo e mole e tem o pensamento que uma ostra tem. Será que a ostra quando arrancada de sua raiz sente ansiedade? Fica inquieta na sua vida sem olhos? Eu constumava pingar limão em cima da ostra viva e via com horror e fascínio ela contorcer-se toda. E eu estava comendo o *it* vivo. O *it* vivo é o Deus".
+Dessa conjunção eclode o recurso de utilizar termos de outra língua, o neutro e indefinível *it* do inglês, para exprimir sua angústia e sua certeza mais abissais: "Mas há também o mistério do impessoal que é o *it*: eu tenho o impessoal dentro de mim... A transcendência dentro de mim é o *it* vivo e mole e tem o pensamento que uma ostra tem. Será que a ostra quando arrancada de sua raiz sente ansiedade? Fica inquieta na sua vida sem olhos? Eu costumava pingar limão em cima da ostra viva e via com horror e fascínio ela contorcer-se toda. E eu estava comendo o *it* vivo. O *it* vivo é o Deus".
 
-Com esta ficção, Clarice Lispector desperta a literatura que atualmente não se faz no Brasil de uma letargia deprimente e degradante para elevá-la a um nivel de perenidade e perfeição universais.
+Com esta ficção, Clarice Lispector desperta a literatura que atualmente não se faz no Brasil de uma letargia deprimente e degradante para elevá-la a um nível de perenidade e perfeição universais.
 
 
