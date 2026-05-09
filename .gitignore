@@ -22,3 +22,5 @@ src/
 _site/
 /.luarc.json
 .claude/
+
+**/*.quarto_ipynb
