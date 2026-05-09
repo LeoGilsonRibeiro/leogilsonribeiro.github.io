@@ -13,13 +13,13 @@ order: 040702
 
 Finalmente, no oitavo mês, inicia-se o ano literário brasileiro com uma obra nova.
 
-Marly de Oliveira é das raras vocaões poéticas autênticas no Brasil e há sete anos, depois da segunda edição de seu livro de poemas *A Suave Pantera*, não publicava nada. Precoce professora de literatura neolatinas, elogiada por seus versos em italiano pelo grande poeta Ungaretti, sua atmosfera de ensino é a mesma que envolve sua poesia: Garcilaso de la Vega nas antologias espanholas, Guido Cavalcanti, Petrarca - a poesia clássica é o seu clima natural.
+Marly de Oliveira é das raras vocações poéticas autênticas no Brasil e há sete anos, depois da segunda edição de seu livro de poemas *A Suave Pantera*, não publicava nada. Precoce professora de literaturas neolatinas, elogiada por seus versos em italiano pelo grande poeta Ungaretti, sua atmosfera de ensino é a mesma que envolve sua poesia: Garcilaso de la Vega nas antologias espanholas, Guido Cavalcanti, Petrarca - a poesia clássica é o seu clima natural.
 
 Seus versos traduzem esse mesmo objetivo arcádico: o homem sensível diante da natureza, do escooar-se do tempo, da morte. Foi o tema de magníficas reflexões poéticas desed Lucrécio e Virgílio até Fray Luis de León, Quevedo e Bocage. Marly de Oliveira adere a essa tendência nitidamente clássica e suas imagens contrastam com atitudes românticas, de um poeta que falasse só subejtivamente e cantasse suas mágoas ou alegrias como Hoelderlin, um Keats, um Leopardi.
 
 Fato auspicioso e original, a poesia de Marly de Oliveira está imbuída desses espríritos, mas não trai nenhuma influência marcante que fizesse sua poesia meramente caudatária. Ao contrário, na poesia brasileira ela estaria mais integrada, como estilo, no movimento dos árcades mineiros a Inconfidência e sua busca de raízes bucólicas, seus queixumes à natureza de suas desventuras amorosas, seus devaneios e anseios frustrados. Note-se, isto sim, um modelo poético, no máximo: a musicalidade de Cecília Meireles, seu estro clássico diante de temas como a fugacidade da vida humana e de toda matéria animada, a inexorabilidade da morte, a descoberta pagã da natureza na qual o poeta se integra apenas como um elemento a mais nesse rio de mutabilidade incessante que flui independente da observação e da vontade humanas.
 
-Seu livro publicado esta semana, *Contato* (Editora Imago) divide-se claramente em seções de qualidade desigual. Os dois primeiros, "Contato" - que dá o título geral à coletânea - e "A Vida Natural" - são os que obedecem a essa linha voluntariamente arcaica, atemporal do canto poético. E são de longe superiores ao último, "O Sangue na Veia", quanso a poetisa celebra, como já celebrara em livros anteriores, os êxtases da carne.
+Seu livro publicado esta semana, *Contato* (Editora Imago) divide-se claramente em seções de qualidade desigual. Os dois primeiros, "Contato" - que dá o título geral à coletânea - e "A Vida Natural" - são os que obedecem a essa linha voluntariamente arcaica, atemporal do canto poético. E são de longe superiores ao último, "O Sangue na Veia", quando a poetisa celebra, como já celebrara em livros anteriores, os êxtases da carne.
 
 Mais esmiuçadamente e com rigor crítico maior, pode-se apontar "A Vida Natural" como o meio-dia poético da poetisa fluminense. É quando Marly de Oliveira completa poemas de uma beleza transcendente e que unem à meditação filosófica a graça de um estilo espontâneo, inquieto, simples e agudo ao mesmo tempo. Como o esplêndido início do poema singelamente encimado apenas pelo seu número de ordem na coleção, IV:
 
@@ -59,9 +59,9 @@ do silêncio do campo em verdes frondas,
 
 soltando em sombra e cor desenhos nulos."
 
-São momentos altos, vitalizantes de sensibilidade e inteligência da poesia que hoje se faz no Brasil. Nesse afã incontido de entregar-se à deslumbrante descoberta do mundo pelos sentidos, sem interferência do intelecto, o poeta acolhe o calor do sol como a abelha na flor e a ovelha sobre a relva, à sombra da montanha - a vida é para ser fruída e aceita em seu fluxo inevitável, o que existe adquire a onipotência dos caprichosos deuses da Antiguidade clássica - "o divino Real" transforma-se no reconhecimento do "divino imediato": aqui e agora, o *hic et nunc* latino, é tudo que é dado ao homem interpretar da vida, o passar das horas impassível para os deuses ou um Deus incognoscível e que seria inútil interrogar. O poeta acede à "integração nesse absoluto/ que é a direta experiência do que existe", pergunta-se se "o real é o invisível do visível" para finalmente cessar de cogitar e conejcturar sobre uma vida indevassável e enigmática. Talvez em meio à mutabilidade heraclitiana e tudo corresponda como comportamento um gozo deliberado de tudo ditado por uma dúvida lucreciana de um Deus compreensível pela limitação humana ou pelo Nada escancarado no túmulo iminente.
+São momentos altos, vitalizantes de sensibilidade e inteligência da poesia que hoje se faz no Brasil. Nesse afã incontido de entregar-se à deslumbrante descoberta do mundo pelos sentidos, sem interferência do intelecto, o poeta acolhe o calor do sol como a abelha na flor e a ovelha sobre a relva, à sombra da montanha - a vida é para ser fruída e aceita em seu fluxo inevitável, o que existe adquire a onipotência dos caprichosos deuses da Antiguidade clássica - "o divino Real" transforma-se no reconhecimento do "divino imediato": aqui e agora, o *hic et nunc* latino, é tudo que é dado ao homem interpretar da vida, o passar das horas impassível para os deuses ou um Deus incognoscível e que seria inútil interrogar. O poeta acede à "integração nesse absoluto/ que é a direta experiência do que existe", pergunta-se se "o real é o invisível do visível" para finalmente cessar de cogitar e conjecturar sobre uma vida indevassável e enigmática. Talvez em meio à mutabilidade heraclitiana e tudo corresponda como comportamento um gozo deliberado de tudo ditado por uma dúvida lucreciana de um Deus compreensível pela limitação humana ou pelo Nada escancarado no túmulo iminente.
 
-Colocadas e nível irrecusável estas virtudes evidentes da poesia por vezes luminosa de Marly de Oliveira, alguns reparos no entanto empanam sua criação e tornam fragmentária uma perfeição que, se transluz em muitos poemas, decai em outros.
+Colocadas a nível irrecusável estas virtudes evidentes da poesia por vezes luminosa de Marly de Oliveira, alguns reparos no entanto empanam sua criação e tornam fragmentária uma perfeição que, se transluz em muitos poemas, decai em outros.
 
 Sem abordar a série de sonetos de "O Sangue na Veia", o anti-clíma que encerra esta coletânea e que celebra o conhecimento da carne com uma falta de inspiração e densidade poética entristecedoras para o leitor que se entusiasmou com tantos momentos dos 2/3 iniciais de *Contato*, seria legitimo duvidar de certos artifícios a que recorre a autora para rechear de um pedantismo deslocado seus versos tanto melhores quanto mais naturais.
 
@@ -69,9 +69,9 @@ Em primeiro lugar ocorre registrar a riqueza vocabular que confina claramente no
 
 Como estão inseridos nestes poemas, porém, transmitem um gérmen enfraquecedor da força poética de Marly de Oliveira: o gérmen do culteranismo, ou seja uma cultura ou esmero afetado do estilo e que tipifica a época da decadência das literaturas ibéricas, nos séculos XVII e XVIII. É verdade que a poetisa brasileira não chega aos excessos de um Góngora nem a um hermetismo de interpretação múltipla cerceador de uma abordagem mais plebeia. Mas o culteranismo é uma forma de anemia do canto que não se fortalece com vocábulos, mera areia para a construção poética, mas sim com o cimento do pensar-sentir que justamente caracteriza a grande poesia clássica, erudita quando necessária, nunca artificial nem auto-complacente na sua severíssima escolha de palavras, meros vidros que deverão filtrar a luz da inspiração lírica.
 
-Contato*,* descontados estes artificios, é um livro de poesias de magníficas criações poéticas. Só resta esperar que Marly de Oliveira confie mais na espontaneidade do verso do que na sua reconstrução laboriosa e desvitalizada por excrescências que só a debilitam, ao impedir a forçar e o tumulto de sua primeira versão, ampla e natural. Seu talento singular na poesia brasileira bem merece que ela se espelhe mais em um dos 3 grandes mestres a quem cita numa epígrafe que coloca lado a lado Dante, Guido Cavalcanti e o terceiro, carlos Drummond de Andrade. A conteção do poeta mineiro deveria servir de parâmetro para a poetisa que dele transcreve para a poetisa que dele transcreve os versos de sabedoria não seguida por ela própria: "que não macule ou perca sua essência ao contato furioso da existência".
+Contato*,* descontados estes artificios, é um livro de poesias de magníficas criações poéticas. Só resta esperar que Marly de Oliveira confie mais na espontaneidade do verso do que na sua reconstrução laboriosa e desvitalizada por excrescências que só a debilitam, ao impedir a forçar e o tumulto de sua primeira versão, ampla e natural. Seu talento singular na poesia brasileira bem merece que ela se espelhe mais em um dos 3 grandes mestres a quem cita numa epígrafe que coloca lado a lado Dante, Guido Cavalcanti e o terceiro, Carlos Drummond de Andrade. A conteção do poeta mineiro deveria servir de parâmetro para a poetisa que dele transcreve os versos de sabedoria não seguida por ela própria: "que não macule ou perca sua essência ao contato furioso da existência".
 
-Poetisa dos sentidos que confessa aspirar "à desistência do intelecto", poetisa de maravilhosos dotes, Marly de Oliveira não deve deixar-se seduzir pelo altissonante das palavras e si mergulhar no esplendor da vida efêmera que ela, com a mesma inconsicência e a mesma grandeza de uma flor que desabrochasse ou uma estação que passasse.
+Poetisa dos sentidos que confessa aspirar "à desistência do intelecto", poetisa de maravilhosos dotes, Marly de Oliveira não deve deixar-se seduzir pelo altissonante das palavras e sim mergulhar no esplendor da vida efêmera que ela, com a mesma inconsicência e a mesma grandeza de uma flor que desabrochasse ou uma estação que passasse.
 
 **Vinte anos de poesia, à procura de novos caminhos**
 
@@ -111,7 +111,7 @@ menor e implacável.
 
 E vos ensino a glória".
 
-Há interpretações sócio-políticas da poesia de Marly de Oliveira que, no entanto, empobrecem esse rico veio expressivo, tentando dasr à noção de revolta um conceito não contido possivelmente na intenção da autora de dissimular a luta de classes por trás da rebelião, numa confusão que ela jamais estabelece entre Orpheu e Spartacus. A poesia de Marly de Oliveira, será necessário repeti-lo, não está subjugada a manifestos nem a tomadas de posição: ela se enraiza numa inquietante visão lucreciana de que os deuses são uma ficção do desamparo humano ou estão majestosamente surdos às nossas súplicas, e portanto não reivindica nem postula critérios de igualdade social ou melhor distribuição de renda: a sua é uma batalha metafísica com o perecimento, com o conceito clássico do efêmero, do fugidio, do mortal. Demonstração fácil quando se leem os versos estoicos que aludem a
+Há interpretações sócio-políticas da poesia de Marly de Oliveira que, no entanto, empobrecem esse rico veio expressivo, tentando dar à noção de revolta um conceito não contido possivelmente na intenção da autora de dissimular a luta de classes por trás da rebelião, numa confusão que ela jamais estabelece entre Orpheu e Spartacus. A poesia de Marly de Oliveira, será necessário repeti-lo, não está subjugada a manifestos nem a tomadas de posição: ela se enraiza numa inquietante visão lucreciana de que os deuses são uma ficção do desamparo humano ou estão majestosamente surdos às nossas súplicas, e portanto não reivindica nem postula critérios de igualdade social ou melhor distribuição de renda: a sua é uma batalha metafísica com o perecimento, com o conceito clássico do efêmero, do fugidio, do mortal. Demonstração fácil quando se leem os versos estoicos que aludem a
 
 "Aquele vão desejo de elidir
 
@@ -165,7 +165,7 @@ de não durar mais que o tempo
 
 de temer e esperar."
 
-Ou a perfeição das linhas complezas e profundas que dissem:
+Ou a perfeição das linhas complexas e profundas que dizem:
 
 "Já não estou tão certa
 
@@ -183,7 +183,7 @@ que a fria, ardente,
 
 luminosa treva é o prêmio
 
-daquelo que nos vem sem ser buscado,
+daquilo que nos vem sem ser buscado,
 
 daquilo que se entrega em vivo fogo
 

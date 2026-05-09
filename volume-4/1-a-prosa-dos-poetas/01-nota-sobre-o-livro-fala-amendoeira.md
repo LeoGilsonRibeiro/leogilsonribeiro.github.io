@@ -11,13 +11,13 @@ abstract: "Jornal da Tarde, 1970-9-11. Aguardando revisão."
 order: 040101
 ---
 
-Transplantado para o Rio de Janeiro, o itabirita Carlos Drummond de Andrade levou na sua bagagem imaterial um segundo eu mineiro. Ao lado de sua grande poesia - meditação para orgão, que engloba todos os instrumentos - ele viu desabrochar sa crônica quase diária da cidade - um cravo modernizado, dotado de notas agudas para a ironia e graves para um humor auto-ironizante.
+Transplantado para o Rio de Janeiro, o itabirita Carlos Drummond de Andrade levou na sua bagagem imaterial um segundo eu mineiro. Ao lado de sua grande poesia - meditação para orgão, que engloba todos os instrumentos - ele viu desabrochar a crônica quase diária da cidade - um cravo modernizado, dotado de notas agudas para a ironia e graves para um humor auto-ironizante.
 
 É dessa melodia menor, mas da mesma origem, que brota essa amendoeira falante, essa coleção de crônicas deliciosas, divertidas, ágeis e participantes da vida do dia a dia da metrópole batizada de maravilhosa, desde os sambas até o erudito André Malraux, árbitro das artes na França.
 
 A crônica tem no Brasil uma variedade tropical de talentos: existe a verve cearense de Raquel de Queiroz; o encontro da poesia na vida diária de uma Cecília Meireles; a graça à la Art Buchwald de um Carlinhos de Oliveira. Mas Carlos Drummond de Andrade resume todas essas qualidades dispersas. E cria até uma crônica nova: a crônica-conto, perfeita como obra literária.
 
-É o caso qda que inicia a série intitulada "Mentiras": Garbo: Novidades. Talve não haja neste país tão rico em cronistas, desde Pero Vaz de Caminha, outra mais espirituosa, mais fina, mais encantadora. Porquê Carlos Drummond de Andrade inventa uma viagem imaginária de Gerta Garbo a Belo Horizonte, em 1929, quando a luta pela sucessão do Presidente Washington Luís precedia a ditadura getuliana. Quando a maravilhosa Diva de *Rainha Cristina* e *Ana Karenina* era o desvario de todos os cinemófilos mineiros, hindus, groelandeses, etc.
+É o caso da que inicia a série intitulada "Mentiras": Garbo: Novidades. Talvez não haja neste país tão rico em cronistas, desde Pero Vaz de Caminha, outra mais espirituosa, mais fina, mais encantadora. Porquê Carlos Drummond de Andrade inventa uma viagem imaginária de Gerta Garbo a Belo Horizonte, em 1929, quando a luta pela sucessão do Presidente Washington Luís precedia a ditadura getuliana. Quando a maravilhosa Diva de *Rainha Cristina* e *Ana Karenina* era o desvario de todos os cinemófilos mineiros, hindus, groelandeses, etc.
 
 Seria como contar o fim do filme revelar ao leitor o que acontece quando Greta Garbo vem, incógnita, a Belo Horizonte - declarando, logo ao descer no trem: "*I want to be alone*" sua frase clássica naquela voz inimitável.
 

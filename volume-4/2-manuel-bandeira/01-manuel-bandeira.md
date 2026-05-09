@@ -73,7 +73,7 @@ numa rosa, a Manuel Bandeira
 
 A confissão de Mallarmé: "Trata-se antes de tudo, de fazer música com a sua dor".
 
-Ajusta-se plenamente à vida de Manuel Bandeira, a correr paralela à sua poesia. Seu *ex-libris*, por ele imaginado, mostr aum leão sentado, com uma incongruente cabeça de carneiro. Sob o título *Ariesphinx* alinha o que essa imagem deve exprimir:
+Ajusta-se plenamente à vida de Manuel Bandeira, a correr paralela à sua poesia. Seu *ex-libris*, por ele imaginado, mostra um leão sentado, com uma incongruente cabeça de carneiro. Sob o título *Ariesphinx* alinha o que essa imagem deve exprimir:
 
 "A força da doçura
 
@@ -105,7 +105,7 @@ Foste conde aos vinte anos... Eu, nem isso...
 
 Eu não terei a Glória... nem fui bom."
 
-O irremediável da doença o exila para um quarto, para o ócio forçado "de se poupar", "não fazer nenhum esforço" repercute, a princípio, numa poesia romanticamente em surdina, cheia de queixumes, de evocações da infância descuidada e constatações de uma vida atual e futura apagada, morna, amortecida a vitalidade ela paralisia parcial imposta pela enfermidade:
+O irremediável da doença o exila para um quarto, para o ócio forçado "de se poupar", "não fazer nenhum esforço" repercute, a princípio, numa poesia romanticamente em surdina, cheia de queixumes, de evocações da infância descuidada e constatações de uma vida atual e futura apagada, morna, amortecida a vitalidade pela paralisia parcial imposta pela enfermidade:
 
 "Minha janela desmantelada
 
@@ -119,7 +119,7 @@ Aquele corvo, o voo torvo,
 
 O meu destino aquele corvo".
 
-O contato com a poesia de Edgar Allan Poe o leva a reconhecer no corvo agourento o símbolo de um espectro maléfico a zelar por sua vida, enchendo-a de sombra e sofrimento, como se seus sonhos e folguedos de infância e esperança da juventude tivessem sido relegados para o mundo do "Nunca mais!". Através de suas leituras de poetas ingleses usa também uma das frases mais amargas para dar título a um de seus poemas, a de Keats, que antes de morrer tão cedo achara que sua poesia de nada valia e que em vida nada mais fizera do que escrever seu nome e seus versos na água, isto é: vivera e criara poesia em vão, tudo logo sorvido pea supeorfície cambiante de um riacho que corre ou de um ado que num instante absorve as letras que sobre ele forem desenhadas: "Versos Escritos N'água"
+O contato com a poesia de Edgar Allan Poe o leva a reconhecer no corvo agourento o símbolo de um espectro maléfico a zelar por sua vida, enchendo-a de sombra e sofrimento, como se seus sonhos e folguedos de infância e esperança da juventude tivessem sido relegados para o mundo do "Nunca mais!". Através de suas leituras de poetas ingleses usa também uma das frases mais amargas para dar título a um de seus poemas, a de Keats, que antes de morrer tão cedo achara que sua poesia de nada valia e que em vida nada mais fizera do que escrever seu nome e seus versos na água, isto é: vivera e criara poesia em vão, tudo logo sorvido pela superfície cambiante de um riacho que corre ou de um ado que num instante absorve as letras que sobre ele forem desenhadas: "Versos Escritos N'água"
 
 Esta humilde e desesperada confissão tem uma importância ainda maior porque logo em seguida o poeta pernambucano adverte: não se procure em seus versos um rol de queixumes, de lamentos impotentes de um fraco, de choramingas. Não:
 
@@ -153,7 +153,7 @@ De um poema a outro, irrompe, a princípio vaga, depois mais segura, a certeza d
 
 Tua moral não foi a da massa burguesa"
 
-Manuel Bandeira não assume uma posição triunfante de que o poeta é "mais" do que os outros: ele apreende verdades mais sutis que o tropel materialista e oco. O amor, por exemplo, não é o aparato do véu e grinalda, a digestão farta dos banquetes de casamento, a partida para uma lua-de-mel convencional. Ele vislumbra, precocemente, que "isso de amor/ No fundo é amargo e triste e dói mais do que tudo". Como Rimbaud, que colocara a Beleza no colo e lhe achara um sabor de amargura, Manuel Bandeira subverte as noções líricas de um amor pregado em álbuns de família, com a noiva submissa, o noivo a lhe colocar no anular esquedo a aliança, os convidados a jogar arroz "para trazer sorte", enquanto a Marcha Nupcial de Mendelssohn ressoa pela igreja inteira e o padre os declara insissoluvelmente "marido e mulher"...
+Manuel Bandeira não assume uma posição triunfante de que o poeta é "mais" do que os outros: ele apreende verdades mais sutis que o tropel materialista e oco. O amor, por exemplo, não é o aparato do véu e grinalda, a digestão farta dos banquetes de casamento, a partida para uma lua-de-mel convencional. Ele vislumbra, precocemente, que "isso de amor/ No fundo é amargo e triste e dói mais do que tudo". Como Rimbaud, que colocara a Beleza no colo e lhe achara um sabor de amargura, Manuel Bandeira subverte as noções líricas de um amor pregado em álbuns de família, com a noiva submissa, o noivo a lhe colocar no anular esquedo a aliança, os convidados a jogar arroz "para trazer sorte", enquanto a Marcha Nupcial de Mendelssohn ressoa pela igreja inteira e o padre os declara indissoluvelmente "marido e mulher"...
 
 Há como que uma fatalidade que pesa sobre ele: dentuça, tísico, pobre, solitário, se compara o amor feliz do avô, consignado nas cartas que deixou à avó, conclui que o amor que a ele coube, ao contrário, é "fruto sem cuidado/ que ainda verde apodreceu". Mas jamais externa essa dor íntima: "O meu semblante está enxuto"
 
@@ -179,7 +179,7 @@ Da vida embriaga e exalta. E eu sinto, fibra a fibra
 
 Avassalar-me o ser a vontade de cura."
 
-O reconhecimento das limmitações impostas pela doença não desaparece:
+O reconhecimento das limitações impostas pela doença não desaparece:
 
 "E neste curto instante em que todo me exalto
 
@@ -193,7 +193,7 @@ Vós que me dais o grande exemplo de beleza
 
 E me dais o divino apetite da vida!"
 
-Essa lição da Natureza não comporta somente coragem e ânimo para a cura: a Natureza abrange tanto os seres humanos quanto a beleza, configurada nas rosas, no seu círculo do tempo, em que tudo brilha por um fugaz instante, tudo se torna fulgurante apenas por um breve momento: à amada bela que hesita em dar-lhe seu amor, ele faz uma parágrafe do poeta francês Ronsard e termina:
+Essa lição da Natureza não comporta somente coragem e ânimo para a cura: a Natureza abrange tanto os seres humanos quanto a beleza, configurada nas rosas, no seu círculo do tempo, em que tudo brilha por um fugaz instante, tudo se torna fulgurante apenas por um breve momento: à amada bela que hesita em dar-lhe seu amor, ele faz uma paráfrase do poeta francês Ronsard e termina:
 
 "Por que é que o vosso coração hesita?
 
@@ -229,7 +229,7 @@ Numa rara nota religiosa, esse agnóstico que colecionava crucifixos pelo seu va
 
 *Carnaval*, o livro seguinte de Manuel Bandeira, é a transição da sua poesia inicial, compungida, desolada, para a modificação quase radical que se processará a partir dessa fase. Um dos poemas que mais escândalo causou entre o público paulistano presente aos três dias da Semana de Arte Moderna, em 1922, no Teatro Municipal, foi justamente desse período, "Os Sapos". Cada verso recitado era alvo de apupos, de gritaria, de assovios, de vaias, de impropérios, a platéia em luta sem tréguas contra os modernistas, "um bando de loucos a zombar de gente séria e a criar a anti-Arte"...
 
-Onde já se vira um poeta usar a palavra "papo" ou a expressão chula "falar pelas tripas" num poema?! E que história era aquela de se afirmar que "não ha mais poesia", se os versos finamente cinzelados dos parnasianos estavam ali a mostrar que a poesia era encantamento sublime, trabalhado labor artístico, cinzelamento do verso como uma ourivesaria ou um friso de mármore do *Partenon* da Grécia Antiga?!
+Onde já se vira um poeta usar a palavra "papo" ou a expressão chula "falar pelas tripas" num poema?! E que história era aquela de se afirmar que "não há mais poesia", se os versos finamente cinzelados dos parnasianos estavam ali a mostrar que a poesia era encantamento sublime, trabalhado labor artístico, cinzelamento do verso como uma ourivesaria ou um friso de mármore do *Partenon* da Grécia Antiga?!
 
 Manuel Bandeira já avisara, em seu poema igualmente escandaloso, "Bacanal":
 
@@ -277,7 +277,7 @@ Poucos atentavam para o fato de que em oito versos apenas, no poema intitulado "
 
 "Tudo o que existe em mim de grave e carinhoso
 
-Te digo aqui como se fosse so teu ouvido...
+Te digo aqui como se fosse só teu ouvido...
 
 Só tu mesma ouvirás o que aos outros não ouso
 
@@ -291,7 +291,7 @@ Eu te direi no ouvido a minha desventura
 
 E tudo o que em mim há de grave e carinhoso."
 
-*Carnaval* acentua a auto-ironia do poeta, que quis fazer um *Carnaval* semelhante ao do magnífico compositor Schumann, mas de seus esforços só resultou "O meu carnaval sem nenhuma alegria!" e introduz, subrepticiamente, os temas da morte e da poesia culta calcada em um floclore popular. Há os versos tirados da canção infantil "O anel que tu me deste era vidro e se quebrou", do volume anterior, como neste novo livro há madrigais de um encantamento auditivo sabiamente apoiado na simplicidade do linguajar poético poular:
+*Carnaval* acentua a auto-ironia do poeta, que quis fazer um *Carnaval* semelhante ao do magnífico compositor Schumann, mas de seus esforços só resultou "O meu carnaval sem nenhuma alegria!" e introduz, subrepticiamente, os temas da morte e da poesia culta calcada em um folclore popular. Há os versos tirados da canção infantil "O anel que tu me deste era vidro e se quebrou", do volume anterior, como neste novo livro há madrigais de um encantamento auditivo sabiamente apoiado na simplicidade do linguajar poético popular:
 
 "A luz do sol bate na lua...
 
@@ -315,7 +315,7 @@ Aqui não: sente-se bem que cada um traz a sua alma.
 
 Cada criatura é única."
 
-Para terminar com a nota de inerradicável melancolia dessa época: a própria água que flui lembra "Que a vida pasas! que a vida passa!/ E a mocidade vai acabar."
+Para terminar com a nota de inerradicável melancolia dessa época: a própria água que flui lembra "Que a vida passa! que a vida passa!/ E a mocidade vai acabar."
 
 A dolorosa fotografia social dos míseros meninos carvoeiros que misturam seu duro trabalho com brincadeiras, as roupas em frangalhos, parecendo-os assemelharem-se a fantasmas ou espantalhos; o famoso poema da "Rua do Sabão", que relata a fuga de um balão que cai no mar; e finalmente o poema "Balõezinhos", que põe a nu a pobreza esquálida dos meninos indigentes, fascinados pelo homem subempregado que vende o que lhes parece maravilhas de um céu desconhecido - balõezinhos coloridos que não podem comprar -, toda essa fase dolorosamente solidária, mas sem tons de pieguismo, de Manuel Bandeira se modificou a sua inspiração, ampliando-a até o sofrimento coletivo, sem com isso abandonar o tom confessional pungente, comovido e comovente de uma poesia irretocável de tão perfeita como "Quando Perderes o Gosto Humilde da Travessia", toda essa fase constitui, na verdade, o primeiro momento de sua criação poética.
 
@@ -327,11 +327,11 @@ Por isso ele já começa a coletânea com um desafio surpreendente e provocante:
 
 Eu já tomei tristeza, hoje tomo alegria."
 
-A burguesia que ainda pensa na poesia como "o cultivo do Belo, do Elevado" se choca sem poder mais pronunciar o nome do poeta em rodas finas, onde haja moças e senhoras de família. Então, já não bastasse Carlos Drumond de Andrade falar insistentemente de "uma pedra no meio do caminho", sem que os "bem-pensantes" atinassem com a finura simbólica da metáfora e agora vinha aquele nordestino falar, em poesia, de sintomas repugnantes da tuberculose e de exames médicos desencorajadores como na poesia execrável denominada "Pneumotórax"?
+A burguesia que ainda pensa na poesia como "o cultivo do Belo, do Elevado" se choca sem poder mais pronunciar o nome do poeta em rodas finas, onde haja moças e senhoras de família. Então, já não bastasse Carlos Drummond de Andrade falar insistentemente de "uma pedra no meio do caminho", sem que os "bem-pensantes" atinassem com a finura simbólica da metáfora e agora vinha aquele nordestino falar, em poesia, de sintomas repugnantes da tuberculose e de exames médicos desencorajadores como na poesia execrável denominada "Pneumotórax"?
 
 Manuel Bandeira toma a sério sua libertação pelo humor. No poema "Poética" ele ironiza, veementemente, a poesia bem-comportada, certinha no português, escrita para namoradas, apoiada em dicionários castiços, burocrática; numa palavra: toda poesia que não servir à libertação das angústias de cada um, à expressão legítima de um anseio individual, não é poesia: lirismo é o dos loucos, dos bêbados, dos bobos da corte das peaças de Shakespeare que revelam que o Rei Lear está louco ou nu. Ou o lirismo é uma expressão da verdade ou é a mumificação do pensamento ou do sentimento, e portanto nem lirismo é.
 
-Desbragadamente, ele evoca o Recife de sua infância, como anteriormente fizera poemas só com palavras brasileiras, à la Raul Bopp, e, paralelamente a esta decisão de enfrentar a vida sem melancolias mas com doses de alegria como quem toma um elixir tonificante, ressurgem aqui e li o sentimento de derrota pessoal, o sentimento humilhante da pobreza e da incompreensão do intelectual de talento no Brasil de sempre, a melancolia que parece ter presidido como madrinha ao seu nascimento:
+Desbragadamente, ele evoca o Recife de sua infância, como anteriormente fizera poemas só com palavras brasileiras, à la Raul Bopp, e, paralelamente a esta decisão de enfrentar a vida sem melancolias mas com doses de alegria como quem toma um elixir tonificante, ressurgem aqui e ali o sentimento de derrota pessoal, o sentimento humilhante da pobreza e da incompreensão do intelectual de talento no Brasil de sempre, a melancolia que parece ter presidido como madrinha ao seu nascimento:
 
 "Andorinha lá fora está dizendo:
 
@@ -347,7 +347,7 @@ Se a lira correta, cheia de rimas ricas, de perfeição formal, estava quebrada 
 
 "Tem um processo seguro
 
-De impedir a a concepção"
+De impedir a concepção"
 
 A alegria espalhafatosa, imposta pela vontade do poeta, como que apresenta pequenas rachaduras que ameaçam fazê-la esboroar-se. Não, não é apenas a tristeza, não é nem mesmo a frustração que deixam seu sinete na criação poética de Bandeira: é um travo trágico, quase que se diria amargo, não fosse o sentido de humor que o dilui que nela se destaca. No poema dedicado ao dia de Finados, por exemplo, os quatro versos finais não poderiam ser mais fúnebres, nem na poesia romântica inglesa mais desesperançada de Thomas Gray e *Elegy written in a Country Church Yard:*
 

@@ -57,7 +57,7 @@ e me contemplo
 
 em seu regaço."
 
-Paciente e analista, torturado e algoz imbicados na massa amorfa em que o horror não se distingue mais da fria autópsia ou da douta vivissecção:
+Paciente e analista, torturado e algoz imbricados na massa amorfa em que o horror não se distingue mais da fria autópsia ou da douta vivissecção:
 
 "Havia o vermelho
 
@@ -85,11 +85,11 @@ não vos lembro o medo do passado
 
 a fúria da tortura
 
-que se embaa nos olhos
+que se embaça nos olhos
 
 do afogado..."
 
-E o que assegura o poeta: a docilidade? O conhecimento das regras de um jogo de embustes? O poeta, desassombradamente, é o que traz ânimo a todos que duvidam ou se entregaram à inércia da desistênci diante de qualquer veleidade de alteração:
+E o que assegura o poeta: a docilidade? O conhecimento das regras de um jogo de embustes? O poeta, desassombradamente, é o que traz ânimo a todos que duvidam ou se entregaram à inércia da desistência diante de qualquer veleidade de alteração:
 
 "Ao contrário
 
@@ -97,11 +97,11 @@ eu vos digo sim
 
 do fundo deste naufrágio"
 
-Torna-se rica a interpretaão destes poemas se se altera a ordem em que são lidos e se as falas do Analista ou do Sacerdote passam a estar alinhadas, saltando páginas. Assim, quando na sua auscultação do morto-vivo o esudioso das alma constata: "Toquei a mancha do soco/ na boca do meu estômago", em seguida sua análise se aprofunda: se "corria o rio seco/ dos coágulos", esse era o mapa de uma geografia do horror:
+Torna-se rica a interpretação destes poemas se se altera a ordem em que são lidos e se as falas do Analista ou do Sacerdote passam a estar alinhadas, saltando páginas. Assim, quando na sua auscultação do morto-vivo o estudioso das almas constata: "Toquei a mancha do soco/ na boca do meu estômago", em seguida sua análise se aprofunda: se "corria o rio seco/ dos coágulos", esse era o mapa de uma geografia do horror:
 
 "Eram feridas
 
-as ihas do arquipélago.
+as ilhas do arquipélago.
 
 Tomei ao largo o barco
 
@@ -111,7 +111,7 @@ Mortas abelhas do medo
 
 formavam o meu enxame."
 
-E mais adiante, em outros versos, a sua anatomia será, cada vez mais nitidamente, uma identificação inextricável entre quem sobre e quem contempla. Atingindo um dos ápices de sua criação poética nesse longo e coerente itinerário de poesia cosida junto às entranhas do social ou, em outros termos, do próximo, Mário Chamie faz o Analista dizer:
+E mais adiante, em outros versos, a sua anatomia será, cada vez mais nitidamente, uma identificação inextricável entre quem sofre e quem contempla. Atingindo um dos ápices de sua criação poética nesse longo e coerente itinerário de poesia cosida junto às entranhas do social ou, em outros termos, do próximo, Mário Chamie faz o Analista dizer:
 
 "Desci com olhos de águia
 
@@ -139,7 +139,7 @@ Vinha à tona do meu corpo
 
 Se o meu corpo era o seu todo".
 
-O Tempo e a Palavra Proibida são também ritmos desse canto: eles é que impõem aos personagens e a seus contendores da inércia impune e exporadora momentos mais ou menos lentos, de maior reflexão ou de afrouxamento da interiorização muda. Quem observa se contagia dessas premissas, o passar do tempo e a prisão ou liberdade das palavras. Usando uma linguagem dura, onomatopaica, voluntariamente rígida e cacofônica, o Analista nota que:
+O Tempo e a Palavra Proibida são também ritmos desse canto: eles é que impõem aos personagens e a seus contendores da inércia impune e exploradora momentos mais ou menos lentos, de maior reflexão ou de afrouxamento da interiorização muda. Quem observa se contagia dessas premissas, o passar do tempo e a prisão ou liberdade das palavras. Usando uma linguagem dura, onomatopaica, voluntariamente rígida e cacofônica, o Analista nota que:
 
 "Um marulho de pedregulhos
 
@@ -165,7 +165,7 @@ das esperanças do mundo."
 
 Contra a sabedoria cautelosa do *status quo* a insanidade de uma esperança aos frangalhos e desprovida de retórica, mas uma esperança que penetrou a medula dos que sofrem e esperam, traídos, adulados, enganados, esperam.
 
-Mais até do que em sua obra anterior *Plenoplenário*, Mário Chamie amplia com mais engenho semelhante a um vasto painel vivo, com a palpitação humana, solidária de *Lavra Lavra Lavra* e *Indústria*.
+Mais até do que em sua obra anterior *Planoplenário*, Mário Chamie amplia com mais engenho semelhante a um vasto painel vivo, com a palpitação humana, solidária de *Lavra Lavra Lavra* e *Indústria*.
 
 Creio que certas soluções, a meu ver fáceis, não empanam esse afresco soberbo em sua totalidade, como os versos descartáveis pelo insistente e vazio jogo de palavras que representam dentro de um longo poema épico como na realidade é esta *Quinta Parede*:
 

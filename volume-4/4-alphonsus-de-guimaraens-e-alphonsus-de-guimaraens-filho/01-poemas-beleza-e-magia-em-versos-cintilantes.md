@@ -15,9 +15,9 @@ Alphonsus de Guimaraens Filho tem uma série de peculiaridades que o isolam dent
 
 Elogiado por Manuel Bandeira e por Carlos Drummond de Andrade, Mário de Andrade, porém, mostrou-se reticente ao afirmar apenas que se tratava de um poeta "que acredita no trabalho, na reflexão estética, na cultura", quando não franco ao saudar *Lume de Estrelas* como a afirmação de "um poeta bastante forte num livro ainda bastante fraco". E não é só: *Lume de Estrelas*, em 1976, serviu para rebatizar uma rua no subúrbio carioca do Méier, que já tinha por si só um nome eloquentemente poético: rua da Esperança.
 
-Peculiar aos poetas, mais acentuado ainda nos poetas mineros como Henriqueta Lisboa, é o sentimento de um recolhimento interior, de um fuga aos holfotes da glória, da fama, que são a meta de tantos vates menores e astros de teatro, do cinema, da televisão. Alphonsus de Guimaraens Filho é e tem sido sempre, coerentemente, um poeta sem alardes, sem tambores rufando em torno de sua obra, melodia sutil, prateada que não quer os acentos de um *fortíssimo* sinfônico nem o revolcionário de uma poesia de Mário de Andrade, embora desta tenha preservado muito da melancolia com que contempla a vida. Carlos Drummond de Andrade ressalta o seu arrebato místico, sua profunda ascese. A essa caracerística teria de ser acrescentada a do recato, da contemplação tristonha do mundo dos homens, divorciado do amor cristão e transgredido nas guerras, na violência, na cupidez que sempre joga um homem contra o seu semelhante.
+Peculiar aos poetas, mais acentuado ainda nos poetas mineros como Henriqueta Lisboa, é o sentimento de um recolhimento interior, de uma fuga aos holofotes da glória, da fama, que são a meta de tantos vates menores e astros de teatro, do cinema, da televisão. Alphonsus de Guimaraens Filho é e tem sido sempre, coerentemente, um poeta sem alardes, sem tambores rufando em torno de sua obra, melodia sutil, prateada que não quer os acentos de um *fortíssimo* sinfônico nem o revolcionário de uma poesia de Mário de Andrade, embora desta tenha preservado muito da melancolia com que contempla a vida. Carlos Drummond de Andrade ressalta o seu arrebato místico, sua profunda ascese. A essa característica teria de ser acrescentada a do recato, da contemplação tristonha do mundo dos homens, divorciado do amor cristão e transgredido nas guerras, na violência, na cupidez que sempre joga um homem contra o seu semelhante.
 
-*Nó*, poemas de Alphonsus de Guimaraens Filho, Editora Record, 151 páginas não adiciona muito aos *Poemas Reunidos* (Editora José Olympio) publicados em 1960 e que contém, certamente, o melhor desse poeta cristalino, quase que se poderia dizer tímido, avesso a "salões" literários, à celebridade e ao festim de narcisismo que para poetas menores ela acarreta, sempre, é verdade, na proporão inversa a seu talento, felizmente. De fato, *Nó* reitera os tema de perplexidade do poeta diante do mundo letal e ferocíssimo do nosso século nuclear, reafirma sua solidariedade com a Humanidade, saúda o Cristo e a morte, esse *Yang* e *Yin* da poesia de todos os seus livros anteriores. Por certo que há, como sempre na sua vasta criação poética ática, sonetos perfeitos, aos quais Alphonsus de Guimaraens Filho infunde uma nota de desespero tipicamente moderna, mesclando a *Angst* existencial de nossos dias de bombas nêutrons, mísseis, terrorismo, catástrofes ecológicas e morte por inanição de milhões de seres humanos com o rigor clássico da métrica, da rima e dos 14 versos. Talvez o exemplo mais soberbo seja o do soneto intitulado "Soneto do Amor Fiel":
+*Nó*, poemas de Alphonsus de Guimaraens Filho, Editora Record, 151 páginas não adiciona muito aos *Poemas Reunidos* (Editora José Olympio) publicados em 1960 e que contém, certamente, o melhor desse poeta cristalino, quase que se poderia dizer tímido, avesso a "salões" literários, à celebridade e ao festim de narcisismo que para poetas menores ela acarreta, sempre, é verdade, na proporção inversa a seu talento, felizmente. De fato, *Nó* reitera os tema de perplexidade do poeta diante do mundo letal e ferocíssimo do nosso século nuclear, reafirma sua solidariedade com a Humanidade, saúda o Cristo e a morte, esse *Yang* e *Yin* da poesia de todos os seus livros anteriores. Por certo que há, como sempre na sua vasta criação poética ática, sonetos perfeitos, aos quais Alphonsus de Guimaraens Filho infunde uma nota de desespero tipicamente moderna, mesclando a *Angst* existencial de nossos dias de bombas nêutrons, mísseis, terrorismo, catástrofes ecológicas e morte por inanição de milhões de seres humanos com o rigor clássico da métrica, da rima e dos 14 versos. Talvez o exemplo mais soberbo seja o do soneto intitulado "Soneto do Amor Fiel":
 
 "Numa vida imperfeita, no imperfeito
 
@@ -45,7 +45,7 @@ Que o sentimento seja a frágil rosa
 
 à beira de um abismo que não vemos,
 
-cegos dde tanto respirar o dia..."
+cegos de tanto respirar o dia..."
 
 Como também, aqui e ali, cintilam versos humanamente imelhoráveis pela sua beleza, pela sua concisão, pela sua magia e perene deslumbramento como, entre tantos outros: "Fresca hora de amor, que nunca passa!"; "Cessa o festim que nem tiveste."; "Cada qual traz consigo um sol interno"; "E adormecer nas águas do poema".
 
@@ -59,7 +59,7 @@ Da estrela e do cigano, irmão do saltimbanco.
 
 Irmão da água, irmão da noite, irmão
 
-Da morte! Sempre irmão! Na carne desolad
+Da morte! Sempre irmão! Na carne desolada
 
 Que desce para o chão e curva o seu mistério
 

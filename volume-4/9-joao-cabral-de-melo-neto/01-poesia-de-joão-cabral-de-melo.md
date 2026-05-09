@@ -21,9 +21,9 @@ order: 040901
 
 João Cabral de Melo Neto
 
-Rara, a poesia social de alta qualidade atinge com o pernambucano João Cabral de Melo Neto a grandeza universal de dar ênfase à aventura de viver, mesmo à mínima alaegria do viver em contraste com o palavrório retumbante de poemas em que a ideologia trombeteia o advento de um regime paradisíaco que se distancia empre da retórica apregoada, uma vez instalado no poder. João Cabral de Melo Neto tem a origem de um Euclides da Cunha, de um Ariano Suassuna, de um Graciliano Ramos e de um Guimarães Rosa: a de identificar-se completamente com o que observa. Os retirantes do Nordeste, os jagunços enlouquecidos de Minas Gerais, os fanáticos da revolta de Canudos - todos se tornam indvisíveis de seu autor, que como que adentra em sua miséria mas também em seus mitos, desventuras e esperanças. Para o excelente, sóbrio poeta nordestino, o "vivente" não é apenas a vítima de um regime cruel e sádico nem a demonstração de um gráfico estatístico apavorante sobre a fome do Nordeste. O homem nem se pode dar ao luxo, em seus poemas, de se considerar modenamente um elemento integrante do delicado equilíbrio ecológico entre ele e a fauna, ele e a flora, ele e a terra: a natureza trava om ele um combate multissecular e desigual.
+Rara, a poesia social de alta qualidade atinge com o pernambucano João Cabral de Melo Neto a grandeza universal de dar ênfase à aventura de viver, mesmo à mínima alegria do viver em contraste com o palavrório retumbante de poemas em que a ideologia trombeteia o advento de um regime paradisíaco que se distancia empre da retórica apregoada, uma vez instalado no poder. João Cabral de Melo Neto tem a origem de um Euclides da Cunha, de um Ariano Suassuna, de um Graciliano Ramos e de um Guimarães Rosa: a de identificar-se completamente com o que observa. Os retirantes do Nordeste, os jagunços enlouquecidos de Minas Gerais, os fanáticos da revolta de Canudos - todos se tornam indivisíveis de seu autor, que como que adentra em sua miséria mas também em seus mitos, desventuras e esperanças. Para o excelente, sóbrio poeta nordestino, o "vivente" não é apenas a vítima de um regime cruel e sádico nem a demonstração de um gráfico estatístico apavorante sobre a fome do Nordeste. O homem nem se pode dar ao luxo, em seus poemas, de se considerar modenamente um elemento integrante do delicado equilíbrio ecológico entre ele e a fauna, ele e a flora, ele e a terra: a natureza trava com ele um combate multissecular e desigual.
 
-Qual a grande diferença então? A de que o homem, dentro de um sistema econômico feudal, aspira ao ideal do Renascimento de ser o centro e a medida de todas as coisas? Seria banal. João Cabral - e esse aspecto da sua poesia foi negligenciado até hoje, que se saiba -, fiel a seu espírito barroco descarnado de pomposidades, vê no ser humano uma transcendêcia. A vida pode ser "mofina", avara, mas o homem por si só representa a esperança. Uma esperança que começa na transformação da sua indigência biológica, e já aponta para uma redenção da dor em termos quase que místicos, através da pegada humana na caatinga, de uma visão da vida como *ensaio de outra vivência,* plena e menos desgarrada do amor.
+Qual a grande diferença então? A de que o homem, dentro de um sistema econômico feudal, aspira ao ideal do Renascimento de ser o centro e a medida de todas as coisas? Seria banal. João Cabral - e esse aspecto da sua poesia foi negligenciado até hoje, que se saiba -, fiel a seu espírito barroco descarnado de pomposidades, vê no ser humano uma transcendência. A vida pode ser "mofina", avara, mas o homem por si só representa a esperança. Uma esperança que começa na transformação da sua indigência biológica, e já aponta para uma redenção da dor em termos quase que místicos, através da pegada humana na caatinga, de uma visão da vida como *ensaio de outra vivência,* plena e menos desgarrada do amor.
 
 Exceto Jorge de Lima, possivelmente nenhum poeta brasileiro - fora os da nova geração de poetas negros - modelou sua visão do mundo tão fundamente no sofrimento do negro. O que é o negro na pirâmide social brasileira? O anônimo, o sem-rosto, aquela multidão andrajosa em que todos os rostos parecem iguais. Por isso a sua observação da natureza é inicialmente quase científica, objetiva, para depois nao conseguir ocultar a sua indignada e melancólica pulsação humana:
 
@@ -37,7 +37,7 @@ Exceto Jorge de Lima, possivelmente nenhum poeta brasileiro - fora os da nova ge
 > 
 > suja e mais mendiga
 > 
-> como sao os mendigos negros.
+> como são os mendigos negros.
 > 
 > Abre-se em mangues
 > 
@@ -49,7 +49,7 @@ Cecília Meireles, em seu irado e eloquente painel o *Romanceiro da Inconfidênc
 
 Tudo participa dessa miserabilidade humana: "Em silêncio,/ o rio carrega sua fecundidade pobre", "o rio sabia/ daqueles homens sem pêlos/ de suas barbas expostas,/ de seu doloroso cabelo/ de camarão e estopa". O canavial é um coral anônimo farfalhando ao vento, como os cortadores de cana não têm nada de seu, nem as ferramentas, nem os casebres, nem um nome próprio: a indigência, em seu diálogo infecundo com a natureza, é sempre sem rosto.
 
-Estaganadas como os hospícios, as penitenciárias, asilos, as vidas desnutridas, confusamente conscientes de que alguma coisa lhes está sendo roubada, os bóia-frias, os retirantes, os flagelados da seca ou das inundações do Nordeste não têm trajeto, não têm História com H maiúsculo: semi-existiram.
+Estagnadas como os hospícios, as penitenciárias, asilos, as vidas desnutridas, confusamente conscientes de que alguma coisa lhes está sendo roubada, os bóia-frias, os retirantes, os flagelados da seca ou das inundações do Nordeste não têm trajeto, não têm História com H maiúsculo: semi-existiram.
 
 > "O homem,
 > 
@@ -67,9 +67,9 @@ Esses homens e mulheres entorpecidos pela brutalização do trabalho, da avitami
 > 
 > o sangue de um homem
 > 
-> do que o sonho de um hiomem"
+> do que o sonho de um homem"
 
-Frequentemente, porém, o sonho desponta como aposta no futuro: a imagem final do *Auto da Morte e Vida Severina* em que todos parecem ajoelhar-se diante de uma manejdoura humílima, testemunhando nascer uma renovada esperança, nessa absurda persistência do sonho eternamente adiado:
+Frequentemente, porém, o sonho desponta como aposta no futuro: a imagem final do *Auto da Morte e Vida Severina* em que todos parecem ajoelhar-se diante de uma manjedoura humílima, testemunhando nascer uma renovada esperança, nessa absurda persistência do sonho eternamente adiado:
 
 > "E não há melhor resposta
 > 
@@ -137,7 +137,7 @@ Faz falta também a pitada de graça e sensibilidade de "Claros Varones", com ve
 > 
 > vivia estreito qual num pote."
 
-Tampouco nos parece servir a qualquer propósito fornecer ao leitor apenas excertos do *Auto do Frade*, dedicado ao mártir Frei Caneca, já que esses fragmentos esparsos e sem nexo, escolhidos pelo selecionador, desfguram o afresco do poema em seu desdobramento épico e lateajnte de uma emoção calada pela visão intelectual dos acontecimentos humanos que se cristaliza nessa síntese esplêndida de João Cabral de Melo Neto. O poeta preocupado com a arquitetura, com Brasília, com poetas franceses modernos, com pintores cubistas como Juan Gris ou com a paisagem hirsuta da Andaluzia fica, nesta antologia, apequenado. Possivelmente a ênfase que se quis dar, e se deu efetivamente, foi apenas, ou pelo menos com maior insistência, à parte poética de João Cabral que se preocupa fundamentalmente com os fenômenos sociais. Aí, sim, o leitor pode encontrar *uma das facetas* - mas não a única - deste poeta na realidade múltiplo, culto, de um regional - a miséria - que abrange o universal de 3/4 da Humanidade contemporânea.
+Tampouco nos parece servir a qualquer propósito fornecer ao leitor apenas excertos do *Auto do Frade*, dedicado ao mártir Frei Caneca, já que esses fragmentos esparsos e sem nexo, escolhidos pelo selecionador, desfiguram o afresco do poema em seu desdobramento épico e latejante de uma emoção calada pela visão intelectual dos acontecimentos humanos que se cristaliza nessa síntese esplêndida de João Cabral de Melo Neto. O poeta preocupado com a arquitetura, com Brasília, com poetas franceses modernos, com pintores cubistas como Juan Gris ou com a paisagem hirsuta da Andaluzia fica, nesta antologia, apequenado. Possivelmente a ênfase que se quis dar, e se deu efetivamente, foi apenas, ou pelo menos com maior insistência, à parte poética de João Cabral que se preocupa fundamentalmente com os fenômenos sociais. Aí, sim, o leitor pode encontrar *uma das facetas* - mas não a única - deste poeta na realidade múltiplo, culto, de um regional - a miséria - que abrange o universal de 3/4 da Humanidade contemporânea.
 
 Pelos escassos exemplos dos trechos de poemas irônicos, "Dois Parlamentos" destinados a senadores retóricos a perorar sem fim sobre "a tragédia da seca nordestina" ou com partitura especificada "com sotaque sulista" ou "sotaque nordestino", o leitor já intui que o poeta não se rebaixa a zombar dos que lucram com a indústria da seca no polígono que assola: seria pouco demais. Não: ele traça todo um cântico comovente, solene sobre a modéstia dos cemitérios onde se enterram os trabalhadores do campo: um *Kadish* noturno, minucioso, arrebatador e deum sofrimento hoje já cinicamente brasileiro:
 
@@ -187,7 +187,7 @@ Até o final patético de indigência metafórica:
 > 
 > Ou seria com nosso muro de afeganes e Gulag?
 
-Sem precisar apoiar-se em grandes poetas (não estamos sós já afirmava John Donne ao consignar que nenhum homem é uma ilha, nem em poetas desiguais, o Brecht que advertia que só sorri quem não sabe a verdade, matriz desta avenida cruzada, não precisando jamais, em um só verso, dizer "Coma-se o pão da solidariedade/ Beba-se o vinho do socialismo... E que o homem... seja noivo da felicidade (sic!)". João Cabral de Melo Neto com uma linha, quatro, cinco palavras desenha todo um Inferno do qual, felizmente, foi banida a mediocridade. Ou quem sabe um Inferno imperfeito, pois a mediocridade é uma forma de crueldade e o limbo da autenticidade? A sua, sim, é uma poesia espessa, inesquecível commo o rio e o real que faz desfilar em seus poemas:
+Sem precisar apoiar-se em grandes poetas (não estamos sós já afirmava John Donne ao consignar que nenhum homem é uma ilha, nem em poetas desiguais, o Brecht que advertia que só sorri quem não sabe a verdade, matriz desta avenida cruzada, não precisando jamais, em um só verso, dizer "Coma-se o pão da solidariedade/ Beba-se o vinho do socialismo... E que o homem... seja noivo da felicidade (sic!)". João Cabral de Melo Neto com uma linha, quatro, cinco palavras desenha todo um Inferno do qual, felizmente, foi banida a mediocridade. Ou quem sabe um Inferno imperfeito, pois a mediocridade é uma forma de crueldade e o limbo da autenticidade? A sua, sim, é uma poesia espessa, inesquecível como o rio e o real que faz desfilar em seus poemas:
 
 > "Espesso,
 > 

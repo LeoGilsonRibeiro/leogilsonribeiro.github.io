@@ -11,9 +11,9 @@ abstract: "Jornal da Tarde, 1991. Aguardando revisão."
 order: 041400
 ---
 
-O poeta carioca Sérgio Campos orgulha-se de sua profissão defender o réu, desempenho que alterna com um cultivo coerente da poesia de Jorge de Lima e da poesia experimental de poetas brasileiros contemporâneos como José Santiago Knaud, Leonardo Fróes e Floriano Martins, entre outros. Uma das supresas agradáveis que seu livro recém-lançado, *Móbiles de Sal*, revela é que Sérgio Campos é um intelectual culto, que cita a propósito os grandes poetas ingleses que venera como Blake, John Donne, Gerard Manley Hopkins.
+O poeta carioca Sérgio Campos orgulha-se de sua profissão defender o réu, desempenho que alterna com um cultivo coerente da poesia de Jorge de Lima e da poesia experimental de poetas brasileiros contemporâneos como José Santiago Knaud, Leonardo Fróes e Floriano Martins, entre outros. Uma das surpresas agradáveis que seu livro recém-lançado, *Móbiles de Sal*, revela é que Sérgio Campos é um intelectual culto, que cita a propósito os grandes poetas ingleses que venera como Blake, John Donne, Gerard Manley Hopkins.
 
-Várias vezes premiados seus livros de poemass, ele conta com conformada tristeza, batem às portas de editoras que por princípio nao recebem sequer a visita de poetas. Sem enviar livros para os críticos e sem atender aos poetas, as editoras brasileiras correm celeremente rumo ao *hara-kiri* coletivo. Mas o *doublé* de defensor público e poeta não esmorece: custeia suas próprias - e cuidadas - edições de versos. Sem querermos entrar na banalização ou no fetichismo de certa crítica literária de tudo querer encerrar em um gênero ou um rótulo advertimos porém que *Móbiles de Sal* tende para a poesia minimalista - e de fortíssimo pendor para o espírito poético ático de Ricardo Reis numa profunda e permanente saudade e reverência à Grécia Antiga. Um belo exemplo de concisão e inspiração fica consignado, entre vários outros poemas, no intitulado "Encantação dos Fios":
+Várias vezes premiados seus livros de poemas, ele conta com conformada tristeza, batem às portas de editoras que por princípio não recebem sequer a visita de poetas. Sem enviar livros para os críticos e sem atender aos poetas, as editoras brasileiras correm celeremente rumo ao *hara-kiri* coletivo. Mas o *doublé* de defensor público e poeta não esmorece: custeia suas próprias - e cuidadas - edições de versos. Sem querermos entrar na banalização ou no fetichismo de certa crítica literária de tudo querer encerrar em um gênero ou um rótulo advertimos porém que *Móbiles de Sal* tende para a poesia minimalista - e de fortíssimo pendor para o espírito poético ático de Ricardo Reis numa profunda e permanente saudade e reverência à Grécia Antiga. Um belo exemplo de concisão e inspiração fica consignado, entre vários outros poemas, no intitulado "Encantação dos Fios":
 
 "Ó Ariadne
 
@@ -29,7 +29,7 @@ na solidão desta ilha
 
 os ossos postos no cais"
 
-Solene, trágina, mas sempre atenta à incognoscível vontade dos deuses, a poesia de Sérgio Campos arranca fragmentos de fulgurante beleza em sua retomada dos eventos gregos os mitos, o teatro:
+Solene, trágica, mas sempre atenta à incognoscível vontade dos deuses, a poesia de Sérgio Campos arranca fragmentos de fulgurante beleza em sua retomada dos eventos gregos os mitos, o teatro:
 
 "funesto é o amor
 
@@ -79,6 +79,6 @@ petições do vento
 
 à lua caiada"
 
-Não seria possível, por medo de exclusão de algum nome importante, por esquecimento involuntário, enumerar os poetas modernos que continuam com este lírico carioca a grande tradição galaico-portuguesa de poesia que Portugal generosamente legou como seiva interior ao Brasil: Carlos Nejar, Mário Chamie, Hilda Hilst, Marly de Oliveira, João Cabral de Melo Neto e, sem dúvida, outros. De nenhum deles ele destoa em sua ascenção rumo ao plano domínio da meditação e da escrita poéticas.
+Não seria possível, por medo de exclusão de algum nome importante, por esquecimento involuntário, enumerar os poetas modernos que continuam com este lírico carioca a grande tradição galaico-portuguesa de poesia que Portugal generosamente legou como seiva interior ao Brasil: Carlos Nejar, Mário Chamie, Hilda Hilst, Marly de Oliveira, João Cabral de Melo Neto e, sem dúvida, outros. De nenhum deles ele destoa em sua ascenção rumo ao pleno domínio da meditação e da escrita poéticas.
 
 

@@ -11,7 +11,7 @@ abstract: "Jornal da Tarde, 1982-03-13. Aguardando revisão."
 order: 050101
 ---
 
-No armazém de secos e molhados das artes, São Paulo tinha um estoque modelar, naquele início de século XX: pintores que pintavam caipiras com a expressão apalermada de *demi-race*, pitando sua ignorância em telas a óleo rigorosamente seguindo os últimos figurinos acadêmicos de Paris. Era um retrato do exótico caboclo, uma *tranche de vie* (uma fatia de vida) vivíssima, que se comprava e se pendurava na parede da sala de visita, com solenidade. Na arquitetura, a revista *Cruzeiro* sugeria a seus leitores quatrocentões ou imigrantes italianos e árabes endinheirados *cotages* do tipo colonial norte-americano, patuscas casas de estilo "mexicano" onde só faltavam os bigodes de Panho Villa.
+No armazém de secos e molhados das artes, São Paulo tinha um estoque modelar, naquele início de século XX: pintores que pintavam caipiras com a expressão apalermada de *demi-race*, pitando sua ignorância em telas a óleo rigorosamente seguindo os últimos figurinos acadêmicos de Paris. Era um retrato do exótico caboclo, uma *tranche de vie* (uma fatia de vida) vivíssima, que se comprava e se pendurava na parede da sala de visita, com solenidade. Na arquitetura, a revista *Cruzeiro* sugeria a seus leitores quatrocentões ou imigrantes italianos e árabes endinheirados *cotages* do tipo colonial norte-americano, patuscas casas de estilo "mexicano" onde só faltavam os bigodes de Pancho Villa.
 
 A Catedral, essa, então, emergia gótica, deslocada em meio a uma praça febril de passantes: ou seria românica? Pois se até *vitraux* tinha! Era um colosso! E os que passavam, embasbacados, persignavam-se duas vezes: pela presença da fé no templo e pela cultura da cidade que se agigantava a olhos vistos. Em meio ao canteiro de obras que construía a selva de cimento armado, aquele era o pastor de almas arquitetônico imenso, a Sé, a guardar seu rebanho crescente de pecadores, réplica e admoestação da mamãe Europa em plena *urbs* sul-americana, ignara mas submissa. Em tudo os exemplos da Europa eram lições diante das quais não se permitia titubear: vinhos portugueses, italianos e franceses; monumentos imensos, comemorando o sentimento pátrio; o Museu da Independência ou o Cristo Redentor abrindo os braços em cruz sobre o Rio de Janeiro e encomendando a um escultor francês e iluminado à distância pelo papa; tudo imitava, até os cacoetes, uma visão atrasada de Paris, Lisboa, Madri e Roma. Dos móveis à gramática, tudo tinha de obedecer a um leve sopro de "modernização", pois não somos esquimós refratários à civilização européia de onde provimos, mas tudo sem exageros.
 
@@ -21,9 +21,9 @@ A matriz fornecedora de moldes passara de Portugal à França: o simbolismo, por
 
 O Brasil era, realmente, a terra apontada pelos descobridores, como a mais dadivosa, em se plantando, nela tudo dá: desde o café, com cartazes alvissareiros mostrando um homem de tronco nu a despejar um saco de café pelo orbe, com a inscrição em francês: "O Brasil alimenta de café todo o globo!", até mudas de movimentos criados nos mais requintados *salons* cafés da boêmia Paris, crisol do encanto!
 
-Os mestres parnasianos não estavam aí para responder, quase com uma contingência "presente!" quando Lacomte de Lisle, Herédia e outros os chamassem, do outro lado do oceano, perdão, do pélago atlântico? Seu poema épico máximo "O Caçador de Esmeraldas" de Olavo Bilac, tinha sido traduzido na Itália: não era a glória suprema ser reconhecido no país de Dante e da sua *Divina Comédia*?!
+Os mestres parnasianos não estavam aí para responder, quase com uma contingência "presente!" quando Leconte de Lisle, Herédia e outros os chamassem, do outro lado do oceano, perdão, do pélago atlântico? Seu poema épico máximo "O Caçador de Esmeraldas" de Olavo Bilac, tinha sido traduzido na Itália: não era a glória suprema ser reconhecido no país de Dante e da sua *Divina Comédia*?!
 
-Os parnasianos eram objeto de reuniões em que declamadoras e declamadores "de voz cheia" enchiam os saraus de um frêmito que misturava o orgulho pratriótico com as lágrimas de admiração. Bilac era um poeta ao mesmo tempo culto ledor dos franceses e italianos, aplaudido pelas Academias de Letras federais e estaduais, mas que exaltava os valores pátrios e - supresa! - distinguia até um tipo humano diferente como musa dos vates enlouquecidos por virgens germânicas, Walkyrias de Blumenau e Brusque.
+Os parnasianos eram objeto de reuniões em que declamadoras e declamadores "de voz cheia" enchiam os saraus de um frêmito que misturava o orgulho pratriótico com as lágrimas de admiração. Bilac era um poeta ao mesmo tempo culto ledor dos franceses e italianos, aplaudido pelas Academias de Letras federais e estaduais, mas que exaltava os valores pátrios e - surpresa! - distinguia até um tipo humano diferente como musa dos vates enlouquecidos por virgens germânicas, Walkyrias de Blumenau e Brusque.
 
 "Pára! Uma terra nova ao teu olhar figura!
 
@@ -49,7 +49,7 @@ A frescura do rio, o esplendor da alvorada...
 
 Beija-a, é a mais bela flor da Natureza inteira!
 
-E fartar-te de amor nessa cane cheirosa,
+E fartar-te de amor nessa carne cheirosa,
 
 Ó desvirginador da Terra Brasileira!"
 
@@ -59,7 +59,7 @@ Em 1922, a Semana (que durou só três *soirées*) de Arte Moderna escolhe como 
 
 Os que vieram de fora traziam de Paris, como o cameleônico Oswald de Andrade, um baú de "novidades" recebidas pelo autoditada e patriota que jamais quisera sair do Brasil, Mário de Andrade: uma chusma de "ismos*"* estonteantes - cubismo, dadaísmo, futurismo, surrealismo. Todos vindos de Paris, com a etiqueta dos grandes *boulevards*. Na pintura, Anita Malfatti, entre outras, demonstrava a absorção das lições que tivera com Corinth, na Alemanha, e a burguesia endinheirada ou a classe média inculta torcia o nariz quando não ria escancaradamente: onde já se viu uma mulher verde, um homem com três narizes, a arte ensandecera? Um dos pontífices do bom gosto no momento, Monteiro Lobato, vê indícios de perversão mental.
 
-"Há duas espécies de artistas. Uma composta dos que veem normalmente as coisas e, em consequência, fazem arte pura, guardados os eternos ritmos da vida, e adotados, para a concretização das emoções estéticas, os processos clássicos dos grande mestres.
+"Há duas espécies de artistas. Uma composta dos que veem normalmente as coisas e, em consequência, fazem arte pura, guardados os eternos ritmos da vida, e adotados, para a concretização das emoções estéticas, os processos clássicos dos grandes mestres.
 
 A outra espécie é formada dos que veem anormalmente a natureza e a interpretam à luz de teorias efêmeras, sob a sugestão estrábica excessiva. São produtos do cansaço e do sadismo de todos os períodos de decadência; são frutos de fim de estação, bichados ao nascedoiro. Estrelas cadentes, brilham um instante, as mais das vezes com a luz do esquecimento" (Ideias de Jeca Tatu).
 
@@ -71,13 +71,13 @@ O movimento modernista, sabe-se melhor hoje, não deu atenção à renovação r
 
 O professor Pietro Maria Bardi, em suas sutis e profundas ponderações sobre *O Modernismo no Brasil*, de sua autoria, assinala algumas falhas: por que os modernistas não descobriram logo aqui, onde eles vicejam, os pintores *naïf* do tipo de Douanier Rousseau? E já que o Brasil tem um contingente tão vasto de brasileiros descendentes de africanos, por que a arte, mais fortemente representada na Bahia afro-brasileira, não representou, na América do Sul, a inspiração que Picasso teria com as máscaras de África Negra no seu célebre quadro-escândalo "Les Demoiselles d'Avignon"? E por que os humoristas, chargistas excelentes, de vigorosa ou sutil grafia como Voltolino, J. Carlos e Belmonte, não foram lembrados? Ou havia preconceito quanto ao desenho humorístico, a *charge*, como um afluente insignificante de arte?
 
-Aparecida em 15 de maio de 1922, *Klaxon* durou menos de um ano mas é um repositório precioso das reivindicações dos modernistas fora do calor dos discuros de Menotti del Picchia, da intervenção de Graça Aranha, acadêmico convertido a um modernismo *outré*: desde a capa contemporânea, em contraste com as revistas do eixo Rio-São Paulo, rotineiras, sem imaginação, caipiras, até os textos e reproduções de obras de arte que continha.
+Aparecida em 15 de maio de 1922, *Klaxon* durou menos de um ano mas é um repositório precioso das reivindicações dos modernistas fora do calor dos discursos de Menotti del Picchia, da intervenção de Graça Aranha, acadêmico convertido a um modernismo *outré*: desde a capa contemporânea, em contraste com as revistas do eixo Rio-São Paulo, rotineiras, sem imaginação, caipiras, até os textos e reproduções de obras de arte que continha.
 
-Na própria e então incipiente, rastejante, arte publicitária, a propaganda dos chocolates Lacta e do Guaraná Espumante precede as histórias em quadrinhos, a mensagem sucinta de um cartaz comercial de rua. Como os anunciantes não gostaram de tanto "avanço", cortaram sua conta publicitária para aquele mensário que saía do bolso dos modernistas, a "vaquinha" proverbial que, no entanto, ao contrário das demais vacas de presepe, não diria "sim" a tudo, abanando a cabeça. Com humor e protesto divertido, os redatores da revista advertem que, se não receberem mais os anúncios, não hesitarão em propagar que tais produtos fazem mal à saúde e abrem suas páginass para qualquer reclamação de um leitor que tenha ingerido "esses ingratos ingredientes".
+Na própria e então incipiente, rastejante, arte publicitária, a propaganda dos chocolates Lacta e do Guaraná Espumante precede as histórias em quadrinhos, a mensagem sucinta de um cartaz comercial de rua. Como os anunciantes não gostaram de tanto "avanço", cortaram sua conta publicitária para aquele mensário que saía do bolso dos modernistas, a "vaquinha" proverbial que, no entanto, ao contrário das demais vacas de presepe, não diria "sim" a tudo, abanando a cabeça. Com humor e protesto divertido, os redatores da revista advertem que, se não receberem mais os anúncios, não hesitarão em propagar que tais produtos fazem mal à saúde e abrem suas páginas para qualquer reclamação de um leitor que tenha ingerido "esses ingratos ingredientes".
 
-*Klaxon* medita, nos seus nove meses de vida, sobre as proposições revolucionárias dos "modernistas", de tendência muitas vezes opostas, como Mário de Andrade, de simpatia pelo centro do espectro político, e Oswald de Andrade, pregando um comunismo bolchevista eivado de incrustações futuristas, cinematrográficas, dadaístas.
+*Klaxon* medita, nos seus nove meses de vida, sobre as proposições revolucionárias dos "modernistas", de tendência muitas vezes opostas, como Mário de Andrade, de simpatia pelo centro do espectro político, e Oswald de Andrade, pregando um comunismo bolchevista eivado de incrustações futuristas, cinematográficas, dadaístas.
 
-Esse veículo precioso guarda as intenções amadurecidas do grupo naquele consenso que era possível obter de ajuntamento tão heterogêneo. Mário de Andrade, por exemplo, com sua quase xenofobia, detestava o espírito de vândalo de parte do *Manifesto Futurista* de Marinetti, que manda destruir os museus e bibliotecas, o que, aplicado a um país raquítico de tais meios até hoje, siginifcaria a barbárie mais chã.
+Esse veículo precioso guarda as intenções amadurecidas do grupo naquele consenso que era possível obter de ajuntamento tão heterogêneo. Mário de Andrade, por exemplo, com sua quase xenofobia, detestava o espírito de vândalo de parte do *Manifesto Futurista* de Marinetti, que manda destruir os museus e bibliotecas, o que, aplicado a um país raquítico de tais meios até hoje, significaria a barbárie mais chã.
 
 Os redatores declaram-se prontos a morrer pela integridade da Pátria, com maiúscula, mas querem seu nacionalismo poroso, aberto ao espírito de seu tempo, por isso têm a graça de manter representantes da revista na Bélgica, na Suiça e imprimir poemas em francês e italiano. O que se reiterava, por escrito, era o que Menotti del Picchia liderara em sua fala no Teatro Municipal: a libertação das peias da gramática excessivamente lisboeta, severa com o linguajar desleixado das "três raças tristes" que antes de Lévy-Strauss já Olavo Bilac imortalizara em soneto parnasiano. E o mensário de vida breve brandia sua falta de preconceitos com relação aos imigrantes (Menotti del Picchia não era exatamente um nome do Algarve ou da Beira-Baixa...).
 
@@ -105,7 +105,7 @@ Grande Fabrica Internacional.
 
 Sonetos, Madrigaes, Balladas e Quadrinhas.
 
-Trabalho bem Acabado, garantido por cinco leituras, rapidez e dscreção. Fornecem-se idéias de todos os preços, cores e tamanhos.
+Trabalho bem Acabado, garantido por cinco leituras, rapidez e discrição. Fornecem-se idéias de todos os preços, cores e tamanhos.
 
 Tabela Geral
 

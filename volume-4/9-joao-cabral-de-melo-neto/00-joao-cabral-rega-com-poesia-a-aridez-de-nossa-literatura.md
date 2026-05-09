@@ -11,9 +11,9 @@ abstract: "Jornal da Tarde, 1975-12-06. Aguardando revisão."
 order: 040900
 ---
 
-Parabéns, Leitor. 1975 guardou para o final o melhor: o magnífico poeta pernambucano João Cabral da Melo Neto ressurge, em seu último livro - *Museu de Tudo* (Editora José Olympio, 96 páginas de ouro finíssimo, Cr$ 25,00 mas na realidade sem preço) com o renovado vigor dos cinquenta anos, com a amplificação de seus temas, com uma deslumbrante dilatação de seu restrito território lírico, voluntariamente contido, concentrado, conciso e perene.
+Parabéns, Leitor. 1975 guardou para o final o melhor: o magnífico poeta pernambucano João Cabral de Melo Neto ressurge, em seu último livro - *Museu de Tudo* (Editora José Olympio, 96 páginas de ouro finíssimo, Cr$ 25,00 mas na realidade sem preço) com o renovado vigor dos cinquenta anos, com a amplificação de seus temas, com uma deslumbrante dilatação de seu restrito território lírico, voluntariamente contido, concentrado, conciso e perene.
 
-Em entrevista recente, o soberbo autor de *Morte e Vida Severina* com oque abandonaria a responsabilidade pela sua poesia, achando que depois dos 45 anos de idade sua obra estava completa.
+Em entrevista recente, o soberbo autor de *Morte e Vida Severina* com que abandonaria a responsabilidade pela sua poesia, achando que depois dos 45 anos de idade sua obra estava completa.
 
 Nada mais incorreto, com perdão da impertinência *Museu de Tudo* de museu só tem o título e de tudo só cata o melhor, escolhido severamente.
 
@@ -25,11 +25,11 @@ As imagens das regiões da África Negra ou árabe assoladas pela seca, "Impress
 
 É um João Cabral de Melo combativo, que afirma a superioridade do fazer sobre o não fazer, embora ambos sejam possivelmente inúteis. Que recorre ao grande poeta espanhol Quevedo para atacar a poesia sem engenho e que se quer "mais que arte". Que combate eficazmente os poetelhos que pululam pelo Brasil afora que nada têm a dizer.
 
-Combativo socialmente também, ele continua sendo o maio poeta social brasileiro vivo, na celebração admirável de Frei Caneca, mártir da liberdade cujo nome no Rio de Janeiro acabou por designar um famoso presídio. Lúcido quando em quatro linhas devasta a morna Suiça de imoral submissão argentária em "Saudades de Berna". Reivindicativo quando apresentanto o escultor Franz Weissmann, ironiza os informalistas da arte ao passo que o escultor austríaco-carioca redimensiona o espaço, tornando-o "portanto justo".
+Combativo socialmente também, ele continua sendo o maior poeta social brasileiro vivo, na celebração admirável de Frei Caneca, mártir da liberdade cujo nome no Rio de Janeiro acabou por designar um famoso presídio. Lúcido quando em quatro linhas devasta a morna Suiça de imoral submissão argentária em "Saudades de Berna". Reivindicativo quando apresentando o escultor Franz Weissmann, ironiza os informalistas da arte ao passo que o escultor austríaco-carioca redimensiona o espaço, tornando-o "portanto justo".
 
 Enraizado na riqueza do idioma quando utiliza seus vocábulos clássicos, empoeirados pelo desuso da ignorância da maioria dos que manejam essa língua como se ela possuísse apenas meio milhar de palavras, João Cabral de Melo Neto ressuscita e dá cores e frescor novos a explosões expressivas como "esgalhamento", "pubescente", "cautérios", "treno", "travejamento". É toda uma orquestração sonora surpreendente em um poeta predominantemente visual mas que se torna compreensível pela composição arquitetônica de seus textos poéticos.
 
-Revelas mais seria ir além da medida. O leitor ganhou seu presente de Natal antes do dia 25 de dezembro. Como em seu *Morte e Vida Severina,* com o Menino e com a poesia desta qualidade perene fundem-se as datas: é a Páscoa precoce, é a Ressureição de fim de ano com a presença fascinante destes poemas, ou seja, a quitessência da própria cultura brasileira no que ela tem de mais imperecível, sensível e universal.
+Revelar mais seria ir além da medida. O leitor ganhou seu presente de Natal antes do dia 25 de dezembro. Como em seu *Morte e Vida Severina,* com o Menino e com a poesia desta qualidade perene fundem-se as datas: é a Páscoa precoce, é a Ressurreição de fim de ano com a presença fascinante destes poemas, ou seja, a quitessência da própria cultura brasileira no que ela tem de mais imperecível, sensível e universal.
 
 Este livro comprova a inata insubserviência de Pernambuco, que como Minas Gerais não mede sua superioridade pela quantidade de automóveis, de "progresso" ou poluição. Mais sutil e por isso mais profunda e mais inabalável, ela é feita de uma matéria predominantemente menos material: a massa cinzenta e a sensibilidade, impermeáveis à ferrugem.
 
@@ -179,7 +179,7 @@ Algumas peças do *Museu de Tudo*
 > 
 > seja espaço, quadrúpede, mesa,
 > 
-> está racioanal em suas patas;
+> está racional em suas patas;
 > 
 > está plantada, à margem e acima
 > 

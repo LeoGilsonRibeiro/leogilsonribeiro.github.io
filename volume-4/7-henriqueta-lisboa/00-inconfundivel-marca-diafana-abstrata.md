@@ -5,7 +5,7 @@ author: "Leo Gilson Ribeiro"
 citation:
   issued: "2022"
   type: chapter
-  original-publisher: "Jornal da Tardel"
+  original-publisher: "Jornal da Tarde"
   original-date: "1976-12-18"
 abstract: "Jornal da Tardel, 1976-12-18. Aguardando revisão."
 order: 040700
@@ -35,12 +35,12 @@ E desaguar na humanização da paisagem como se o ser humano fosse apenas um Éd
 
 > "Constelação de humano pranto em trajetória"
 
-E reconhece su finitude e sua incapacidade para abranger uma aproximação mística que "explicasse" a criação e a sua própria vida, em termos humanos:
+E reconhece sua finitude e sua incapacidade para abranger uma aproximação mística que "explicasse" a criação e a sua própria vida, em termos humanos:
 
 > "- da infinitude do aspirar
 > às barreiras do conhecer"
 
-O extraordinário é verificar que a poetisa mineira, aos 73 anos de idade, não só se mantém constante às suas imagens e aos *Leitmotive* de mais de 50 anos de dedicação poética de excelsa qualidade: o sentmento onipresente da morte, o fundo grito humano de desamparo diante do mistério, a predominância de metáforas visuais, a busca intimista e quase quietista de Deus através dos labirintos do absurdo. É extraordinário verficar ainda que Henriqueta Lisboa cria profundos *hai-kais* filosóficos em que seu tema constante do efêmero assume, na presença fugaz de um pássaro, o valor simbólico de uma inspecção muito próxima de Emily Dickinson ou de William Blake: a da tessitura divina oculta no inconsútil do homem, tão efêmero sobre a Terra quanto o pássaro, e semi-revelada na natureza, esse mudo espelho que ao refletir não aclara o enigma:
+O extraordinário é verificar que a poetisa mineira, aos 73 anos de idade, não só se mantém constante às suas imagens e aos *Leitmotive* de mais de 50 anos de dedicação poética de excelsa qualidade: o sentimento onipresente da morte, o fundo grito humano de desamparo diante do mistério, a predominância de metáforas visuais, a busca intimista e quase quietista de Deus através dos labirintos do absurdo. É extraordinário verificar ainda que Henriqueta Lisboa cria profundos *hai-kais* filosóficos em que seu tema constante do efêmero assume, na presença fugaz de um pássaro, o valor simbólico de uma inspecção muito próxima de Emily Dickinson ou de William Blake: a da tessitura divina oculta no inconsútil do homem, tão efêmero sobre a Terra quanto o pássaro, e semi-revelada na natureza, esse mudo espelho que ao refletir não aclara o enigma:
 
 > "Pousa o pássaro esquivo
 > 
@@ -70,7 +70,7 @@ O extraordinário é verificar que a poetisa mineira, aos 73 anos de idade, não
 > 
 > (sem memória) do instável?..."
 
-Finíssima tradutora de Dante, Henriqueta Lisboa atinge com seu "Quarteto" que intitula com um neologismo, "Nostaltália", uma admirável adequação da percepção sensível da paisgem urbana de Roma, Veneza, Florença e Triste, cifrando a essência aparente do visto em imagens rimadas de introspecão do pensamento e de eternização pela linguagem do captado pelos sentidos. É então uma divinatrória definição do significado íntimo de cada cidade que ela capta miraculosamente, traçando vinhetas fulminantes em que se conjugam a História, o presente, a majestade verbal e a sensibilidade aguçadíssima para o que há de perene por detrás do transitório. Roma, portanto, assume a forma maciça e o colorido ocre de sua arqutetura: "Paredes grossas paredes/ levantadas de orgulho" e vivifica o Império no fascínio atemporal de sua beleza sensorial:
+Finíssima tradutora de Dante, Henriqueta Lisboa atinge com seu "Quarteto" que intitula com um neologismo, "Nostaltália", uma admirável adequação da percepção sensível da paisagem urbana de Roma, Veneza, Florença e Triste, cifrando a essência aparente do visto em imagens rimadas de introspecção do pensamento e de eternização pela linguagem do captado pelos sentidos. É então uma divinatrória definição do significado íntimo de cada cidade que ela capta miraculosamente, traçando vinhetas fulminantes em que se conjugam a História, o presente, a majestade verbal e a sensibilidade aguçadíssima para o que há de perene por detrás do transitório. Roma, portanto, assume a forma maciça e o colorido ocre de sua arquitetura: "Paredes grossas paredes/ levantadas de orgulho" e vivifica o Império no fascínio atemporal de sua beleza sensorial:
 
 > "O passado não conta: está presente
 > 
@@ -100,9 +100,9 @@ Veneza sugere à poetisa a instabilidade do Tempo corporificada no ruído e no m
 > 
 > para restar em nostalgia"
 
-Mas se a vitalidade criativa de Henriqueta Lisboa se afirma nas páginas iniciais, que contêm os poemas novos, o leitor que desconhecer essa voz injustiaçada da poesia brasileira, relegada a um segundo plano que só a sua modéstia pessoal explica, é na rememoração dos poemas antigos, que formam a segunda parte do livro, que estão a surpresa e o encantamento de quem até hoje não conhecia a poesia da magnífica autora de "O Alvo Humano". Aí é que se constata claramente que Henriqueta Lisboa é a autora de alguns dos poemas mais perfeitos da língua portuguesa, com triunfos deslumbrantes de um dizer poético que é também entranhadamente filosófico e tecidos com apenas 4 ou no máximo 30 versos, sem nenhum desbordamento inútil. Aí é que o leitor das novas gerações encontrará poemas perfeitos como "Constância", "Lucidez", "O Anjo da Paz", "Sofrimento" e tantos mais. É impossível especificar em que momento a percepção poética é superior, se nestas 10 ou naquelas 20 linhas. Só uma preferência subjetiva poderia destacar, por exemplo, "Restauradora" commo "melhor" do que "Mármore".
+Mas se a vitalidade criativa de Henriqueta Lisboa se afirma nas páginas iniciais, que contêm os poemas novos, o leitor que desconhecer essa voz injustiçada da poesia brasileira, relegada a um segundo plano que só a sua modéstia pessoal explica, é na rememoração dos poemas antigos, que formam a segunda parte do livro, que estão a surpresa e o encantamento de quem até hoje não conhecia a poesia da magnífica autora de "O Alvo Humano". Aí é que se constata claramente que Henriqueta Lisboa é a autora de alguns dos poemas mais perfeitos da língua portuguesa, com triunfos deslumbrantes de um dizer poético que é também entranhadamente filosófico e tecidos com apenas 4 ou no máximo 30 versos, sem nenhum desbordamento inútil. Aí é que o leitor das novas gerações encontrará poemas perfeitos como "Constância", "Lucidez", "O Anjo da Paz", "Sofrimento" e tantos mais. É impossível especificar em que momento a percepção poética é superior, se nestas 10 ou naquelas 20 linhas. Só uma preferência subjetiva poderia destacar, por exemplo, "Restauradora" como "melhor" do que "Mármore".
 
-Uma aferição imparcial, porém, reconheceria em "O Véu" um dos poemas reflexivos mais pungentes e mais indagadores de toda a produção poética brasileira. Nele a poetisa divisa no tênue tecido que recobre os mortos a linha divisória entre os anda vivos e aqueles que ela descreve:
+Uma aferição imparcial, porém, reconheceria em "O Véu" um dos poemas reflexivos mais pungentes e mais indagadores de toda a produção poética brasileira. Nele a poetisa divisa no tênue tecido que recobre os mortos a linha divisória entre os ainda vivos e aqueles que ela descreve:
 
 > "Os mortos estão deitados
 > 
@@ -136,7 +136,7 @@ A morte é oposto da natureza, fugaz, assim como as rosas, sentidas em seu desaf
 
 Como no poeta que cultua, Hoelderlin, também a poetisa mineira entrevê, como nas doutrinas da filosofia religiosa do Hinduísmo, no Oriente, ou na filosofia transcendente de Heidegger, no Ocidente, o nexo sutil entre os nós do perecível enovelados com os nós do Eterno, quando ela equipara mutabilidade heraclitiana do rio que passa com a lição platoniana de que o homem é "lembrança do ser".
 
-Quando em *Sobre o Problema do Ser* (Editora Duas Cidades) Heidegger como que define a filosofia e a poesia como uma origem, um retorno a uma lembrança agora toldada pelo esquecimento - assim como Martin Buber nega o existencialismo ateu, definido o afastamento da fé como um "eclipse de Deus" e não o seu "desaparecimento", a poetisa consegue, com 4 versos imelhoráveis, sintetizar toda a profunda reflexão heideggeriana sorbe a coincidência entre recuperação da metafísica e a recuperação do esquecimento do ser:
+Quando em *Sobre o Problema do Ser* (Editora Duas Cidades) Heidegger como que define a filosofia e a poesia como uma origem, um retorno a uma lembrança agora toldada pelo esquecimento - assim como Martin Buber nega o existencialismo ateu, definido o afastamento da fé como um "eclipse de Deus" e não o seu "desaparecimento", a poetisa consegue, com 4 versos imelhoráveis, sintetizar toda a profunda reflexão heideggeriana sobre a coincidência entre recuperação da metafísica e a recuperação do esquecimento do ser:
 
 > "Além da Imagem: trama do inefável
 > 

@@ -15,7 +15,7 @@ O Simbolismo, como todos os movimentos literários anteriores à Semana de Arte 
 
 O Romantismo vingou logo, exuberante: afinal coincidia com o desejo de independência artística, para completar a separação política de Portugal; permitia formular uma poesia social, nativista (como se chamava o nacionalismo então) que cantava a natureza tropical. Sobretudo, ajustava-se perfeitamente ao sentimentalismo brasileiro: daí a popularidade inestinguível, até hoje, de Castro Alves e Casimiro de Abreu, entre outros.
 
-O Parnasianismo também pegou bem: correspondia a uma visão escultórica do poema, tronco forte no qual Olavo Bilac e Cia. Logo enxertariam a seiva de voluptuosidade brasileira, estranha aos Herédias e Leconte de Lisles francêses pelo menos nessa intensidade.
+O Parnasianismo também pegou bem: correspondia a uma visão escultórica do poema, tronco forte no qual Olavo Bilac e Cia. Logo enxertariam a seiva de voluptuosidade brasileira, estranha aos Herédias e Leconte de Lisle franceses pelo menos nessa intensidade.
 
 E o Simbolismo? Pobre flor de estufa, não resistiu à intensidade do sol brasileiro, que cresta qualquer vegetação mais sutil. Além disso, o Simbolismo exige um refinamento estético que o Brasil estava - e está - longe de possuir, com exceções contadas nos dedos de uma só mão.
 
@@ -25,9 +25,9 @@ Mas, nos últimos dez ou vinte anos, surgiram poetas tão abaladores desse *stat
 
 Outro fator deve pesar para ressuscitar essas vozes apagadas pelo realismo do romance nordestino (Graciliano Ramos) ou carioca (Lima Barreto) ou pela poesia antropofágica celebrada em 1922: o esnobismo cultural.
 
-Na Europa e nos Estados Unidos, há uma volta nostálgica ao período do *fin de siècle* da arte decadente da Paris de Mallarmé, Baudelaire e Proust: o *art Nouveau*. Por tabela, manuseando objetos de Gallé que pertenceram a Sarah Bernhardt ou de Tiffany - que formavam o brasão da *belle époque* de Toulouse-Lautrec e de Degas - uma parte da nossa elite alfaberizada redescobrirá o filão simbolista.
+Na Europa e nos Estados Unidos, há uma volta nostálgica ao período do *fin de siècle* da arte decadente da Paris de Mallarmé, Baudelaire e Proust: o *art Nouveau*. Por tabela, manuseando objetos de Gallé que pertenceram a Sarah Bernhardt ou de Tiffany - que formavam o brasão da *belle époque* de Toulouse-Lautrec e de Degas - uma parte da nossa elite alfabetizada redescobrirá o filão simbolista.
 
-Afonso Henriques da Costa Gimarães, a meu ver, tem todos os méritos para se tornar esse Lázaro poético, arrancado ao esquecimento que que jazia, 99 anos após seu nascimento em Ouro Preto.
+Afonso Henriques da Costa Guimarães, a meu ver, tem todos os méritos para se tornar esse Lázaro poético, arrancado ao esquecimento que jazia, 99 anos após seu nascimento em Ouro Preto.
 
 Menos rebuscado do que Cruz e Souza, o grande poeta negro da germânica Santa Catarina, Alphonsus de Guimaraens - como ele preferia se assinar, com arcaísmo voluntário -, é um cravo de sons amortecidos comparado com o órgão polifônico de Cruz e Souza. Sua melodia é sempre em surdina, mas sempre encantadora, esmaecida e lânguida.
 

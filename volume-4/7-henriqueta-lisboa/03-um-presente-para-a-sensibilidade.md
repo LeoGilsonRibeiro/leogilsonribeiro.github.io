@@ -139,7 +139,7 @@ onde a memória nunca acertaria."
 
 O humano sendo mero joguete, seu existir e seu rumo indevassáveis pela inteligência, a poetisa apreende o que há de incompleto, de incompreensivelmente lúdico na existência:
 
-"Criar quae prescinde do que existe.
+"Criar que prescinde do que existe.
 
 O que existe é somente
 
@@ -151,7 +151,7 @@ a fértil realidade destes longes.
 
 Laboriosa construo
 
-com este mel, paar os futuros sonhos
+com este mel, para os futuros sonhos
 
 aprazível morada."
 

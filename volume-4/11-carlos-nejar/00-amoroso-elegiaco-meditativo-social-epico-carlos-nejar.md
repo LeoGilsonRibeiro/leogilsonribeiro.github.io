@@ -11,7 +11,7 @@ abstract: "Jornal da Tarde, 1978-07-08. Aguardando revisão."
 order: 041100
 ---
 
-"E, contudo, uma meditação suficiente e persistente chega à convicção: a metafísica jamais proporciona, por sua essência, ao habitar humano a possibilidade de se estabelece propriamente na paragem, isto é: na essência do esquecimento do ser. É por isso que o pensamento e a poesia devem retornar lá, onde, de certo modo, já tínham sempre estado... Chegamos tarde demais para os Deuses e cedo demais para o Ser. Cujo rosto iniciado é o ser humano."
+"E, contudo, uma meditação suficiente e persistente chega à convicção: a metafísica jamais proporciona, por sua essência, ao habitar humano a possibilidade de se estabelecer propriamente na paragem, isto é: na essência do esquecimento do ser. É por isso que o pensamento e a poesia devem retornar lá, onde, de certo modo, já tínham sempre estado... Chegamos tarde demais para os Deuses e cedo demais para o Ser. Cujo rosto iniciado é o ser humano."
 
 Martin Heidegger em *Sobre o Problema do Ser* e *Aus der Erfahrung des Denkens.*
 
@@ -53,7 +53,7 @@ De que norte ou aragem,
 
 começamos a vida?"
 
-Esta síntese, vigorosa e despoajada de qualquer retórica rançosa e altissonante, dá seguimento a uma preocupação nuclear do poeta: em *Canga* (1971), principalmente, a dor da injustiça social se refletira na biografia dolorida de Jesualdo Montes, o irmão gaúcho dos miseráveis da área rural nordestina de *Morte e Vida Severina* e *Cão Sem Plumas*, do magnífico poeta de denúncia lapidar da exploração aviltante dos Severinos massacrados pelo poder deformado. "O Povo" é um Réquiem coletivo pelos Jesualdos individuais, que o poeta já amortalhara em suas esplêndidas metáfaforas em que a dor é comparada a um colorido e agônico:
+Esta síntese, vigorosa e despojada de qualquer retórica rançosa e altissonante, dá seguimento a uma preocupação nuclear do poeta: em *Canga* (1971), principalmente, a dor da injustiça social se refletira na biografia dolorida de Jesualdo Montes, o irmão gaúcho dos miseráveis da área rural nordestina de *Morte e Vida Severina* e *Cão Sem Plumas*, do magnífico poeta de denúncia lapidar da exploração aviltante dos Severinos massacrados pelo poder deformado. "O Povo" é um Réquiem coletivo pelos Jesualdos individuais, que o poeta já amortalhara em suas esplêndidas metáforas em que a dor é comparada a um colorido e agônico:
 
 "A dor não se retrai e anda sem pés,
 
@@ -65,7 +65,7 @@ Na praça, no país,
 
 Entre fuzis"
 
-Assim como o anonimato dos Severinos massacrados em Pernambuco o torna apenas um dado estatístico a mais a ser registrado pelos sobreviventes Jesualdo Montes é a célula inicial dessa tragédia de um povo ue eclode agora no último livro, o peão ignorante e sufocado pela miséria a quem o poeta indagara, lúcido:
+Assim como o anonimato dos Severinos massacrados em Pernambuco o torna apenas um dado estatístico a mais a ser registrado pelos sobreviventes Jesualdo Montes é a célula inicial dessa tragédia de um povo que eclode agora no último livro, o peão ignorante e sufocado pela miséria a quem o poeta indagara, lúcido:
 
 "Onde tua janela, Jesualdo,
 
@@ -95,7 +95,7 @@ um gibão de sementes
 
 na palavra."
 
-A palavra que nomeia, a palavra que traduz, a palavra que semeia - estas são a munição do poeta, seu mapa será rastreado pelo satélite, bússola e sismógrafo da palavra. Decifração humana do Cosmos. E a palavra é a antecâmara do conhecimento. Caraceristicamente, Carlos Nejar aproxima-se da lição de Platão de um conhecimento prévio da vida que o ser humano teria: a existência é lembrança e o nome é código, é a memória o catalisador de todas as ações humanas:
+A palavra que nomeia, a palavra que traduz, a palavra que semeia - estas são a munição do poeta, seu mapa será rastreado pelo satélite, bússola e sismógrafo da palavra. Decifração humana do Cosmos. E a palavra é a antecâmara do conhecimento. Caracteristicamente, Carlos Nejar aproxima-se da lição de Platão de um conhecimento prévio da vida que o ser humano teria: a existência é lembrança e o nome é código, é a memória o catalisador de todas as ações humanas:
 
 "Comemos
 
@@ -107,7 +107,7 @@ Vivemos
 
 com a pólvora
 
-do nome. Matamos, ferinos, oxidamos
+do nome. Matamos, ferimos, oxidamos
 
 com a lâmina do nome. Do abdômen do nome
 
@@ -121,11 +121,11 @@ a nênia."
 
 O nome, labirinto, senha, trombete do Juízo Final, vai sendo reconhecido como a matriz da política, da religião, da especulação filosófica, das leis, até chegar à Origem: "Acordão celestial do nome." O verbo bíblico está no princípio do Homem e é também seu meio e seu fim. De social e telúrica, a palavra poética passa a desfiar o novelo de uma enteléquia que desemboca em Deus. Místico, Carlos Nejar, em degraus cada vez mais altos de revelação do Desconhecido, reconhece com Plotino que "pode a alma ser bússola" E parte para um das mais soberbas e admiráveis Epifanias poéticas do mundo contemporâneo, não só no limite da língua portuguesa mas no âmbito mais amplo da poesia ocidental, com o coral deflagrado com a primeira frase do seu majestoso poema "A Chuva do Velho Testamento":
 
-"Encontrei a alna
+"Encontrei a alma
 
 Na infância."
 
-O fio da meada capaz de sair do labirinto meramente humano é a inocência, que os grandes poetas românticos alemães e ingleses celebraram desde a imortal ode de Wordsworth à imortalidade pressentida na infância até a cisão entre inocência e exeriência cantada por Blake em suas *Songs of Innocence* e *Songs of Experience*. A infância, sinônimo deslumbrante de alma, é a intuição central, prístina, que o conhecimento não abate:
+O fio da meada capaz de sair do labirinto meramente humano é a inocência, que os grandes poetas românticos alemães e ingleses celebraram desde a imortal ode de Wordsworth à imortalidade pressentida na infância até a cisão entre inocência e experiência cantada por Blake em suas *Songs of Innocence* e *Songs of Experience*. A infância, sinônimo deslumbrante de alma, é a intuição central, prístina, que o conhecimento não abate:
 
 "Quis possuir a alma
 
@@ -135,7 +135,7 @@ Na saga deste instante
 
 O corpo amado
 
-Paa o corpo amante."
+Para o corpo amante."
 
 Com acentos do Velho Testamento e de Dionísio de rebelião contra um Deus inescrutável por critérios humanos, ele se revolta inicialmente contra o acorrentamento da alma ao corpo - "Fui condenado ao corpo,/ Como isolar a alma,/ se está morto?" - e se vê, claramente, como adorador de uma divindade atroz, colérica e punitiva:
 
@@ -179,7 +179,7 @@ o fogo que o tolheu, com outro fogo
 
 que agora amanheceu, de vez, seu rosto."
 
-Unindo a travessia do ser humano pelos embates da vida-peleja a uma busca já épica de Deus, o poeta tem vislumbres profundos dos Inefável: Deus, o incognoscível, deixa seus vestígios perceptíveis na natureza. A *physis* da Grécia antiga, recolhida pela voz de Teixeira de Pascoais e de Hoelderlin, é o espelho que reflete o rosto de Deus: "O seu semblante/ é ser o campo". Deus fulgurante se deixa decifrar em pistas panteístas, o mundo permeado da Sua presença:
+Unindo a travessia do ser humano pelos embates da vida-peleja a uma busca já épica de Deus, o poeta tem vislumbres profundos do Inefável: Deus, o incognoscível, deixa seus vestígios perceptíveis na natureza. A *physis* da Grécia antiga, recolhida pela voz de Teixeira de Pascoais e de Hoelderlin, é o espelho que reflete o rosto de Deus: "O seu semblante/ é ser o campo". Deus fulgurante se deixa decifrar em pistas panteístas, o mundo permeado da Sua presença:
 
 "Deus, umidade na parede.
 
@@ -235,9 +235,9 @@ Santa, a vida.
 
 O mais é justaposto."
 
-Essa via tortuosa de júbilo e pranto, pelo reencontro de Deus fora e dentro do homem, cruza o firmamento da poesia brasileira para fincar-se como uma das mais extraordiárias litanias místicas desde o *Mira Coeli*, de Jorge de Lima, em todo o decurso de nossa literatura. Finíssimo poeta do amor mais uma nuance em sua matizadíssima rapsódia poética para Nejar confluem, no final, o amor, princípio que Dante vira como átomo gerador do próprio universo e dos astros, e Deus, o término, em um absoluto já pressentido com as próprias e imperfeitas antenas da sensibilidade humana:
+Essa via tortuosa de júbilo e pranto, pelo reencontro de Deus fora e dentro do homem, cruza o firmamento da poesia brasileira para fincar-se como uma das mais extraordinárias litanias místicas desde o *Mira Coeli*, de Jorge de Lima, em todo o decurso de nossa literatura. Finíssimo poeta do amor mais uma nuance em sua matizadíssima rapsódia poética para Nejar confluem, no final, o amor, princípio que Dante vira como átomo gerador do próprio universo e dos astros, e Deus, o término, em um absoluto já pressentido com as próprias e imperfeitas antenas da sensibilidade humana:
 
-"O abosoluto:
+"O absoluto:
 
 donde os amantes vêm
 
@@ -249,6 +249,6 @@ dente do mar.
 
 O absoluto amor"
 
-Carlos Nejar se alaç, com sua produção poética extensa e agora em seu apogeu do dizer, do pensar e do sentir, ao mais alto nível da poesia brasileira deste final de século. Nenhuma contagem qualificativa da nossa lírica estará sequer esboçada sem a menção de seu nome, aval de uma coerência estética e uma honestidade ética extremamente rarefeitas no Brasil da década de 70. *O Chapéus das Estações* é não só a soma de sua presenaç poética, o divisor de suas realizações, é um desafio temível para o poeta: como superar-se daqui por diante? Porque com este marco definitivo de maturidade poética formal e filosófica, Carlos Nejar depara-se com seu próprio repto supremo: como dar continuidade ao apogeu e como arcar com o legado terrível de ser a mais versátil voz poética brasileira surgida depois de Drummond, como transcender este umbral já tão colindante com a perfeição que ele ultrapassou agora?
+Carlos Nejar se alça, com sua produção poética extensa e agora em seu apogeu do dizer, do pensar e do sentir, ao mais alto nível da poesia brasileira deste final de século. Nenhuma contagem qualificativa da nossa lírica estará sequer esboçada sem a menção de seu nome, aval de uma coerência estética e uma honestidade ética extremamente rarefeitas no Brasil da década de 70. *O Chapéu das Estações* é não só a soma de sua presença poética, o divisor de suas realizações, é um desafio temível para o poeta: como superar-se daqui por diante? Porque com este marco definitivo de maturidade poética formal e filosófica, Carlos Nejar depara-se com seu próprio repto supremo: como dar continuidade ao apogeu e como arcar com o legado terrível de ser a mais versátil voz poética brasileira surgida depois de Drummond, como transcender este umbral já tão colindante com a perfeição que ele ultrapassou agora?
 
 

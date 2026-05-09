@@ -289,7 +289,7 @@ sob o céu violeta
 
 sob o céu de chumbo
 
-lê o horóscopo das crituras
+lê o horóscopo das criaturas
 
 que nos alagados
 
@@ -299,7 +299,7 @@ Como também podem voltar a um dos motivos centrais do poeta, a elocubração fu
 
 "Oi poeta!
 
-Do lado de lá, na moite, hem? fazendo seus
+Do lado de lá, na noite, hem? fazendo seus
 
 novent'anos...
 
@@ -337,7 +337,7 @@ a de passar,
 
 mescla do que foi, do que seria
 
-simulteneamente roejtados
+simultaneamente projetados
 
 na mesma tela branca de episódios
 
