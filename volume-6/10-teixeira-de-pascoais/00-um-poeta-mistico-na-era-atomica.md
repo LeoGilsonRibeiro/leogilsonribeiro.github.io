@@ -11,7 +11,7 @@ abstract: "Diário de Notícias, 1959-10-11. Aguardando revisão."
 order: 061000
 ---
 
-Para inaugurar "Pelos Caminhos da Cultura" pensamos que faríamos bem se começássemos com a divulgação de uma expressão literária em nosso próprio idioma. Ao mesmo tempo, é nosso propósito retirar esse extraordinário Poeta da penumbra de esquecimento a que ele está relegado - injustamente - entre nós. Daí dedicarmos a nossa primeira atenção ao meio poeta místico da nossa época, como ele é considerado por vários críticos suiços e alemães, a mais alta inspiração mística de Portugal, desde Frei Agostinho da Cruz, o eremita da Arrábida. Mais tarde voltaremos a analisar outros aspectos dessa rica e fascinante personalidade, atendo-nos hoje a considerações forçadamente lineares.
+Para inaugurar "Pelos Caminhos da Cultura" pensamos que faríamos bem se começássemos com a divulgação de uma expressão literária em nosso próprio idioma. Ao mesmo tempo, é nosso propósito retirar esse extraordinário Poeta da penumbra de esquecimento a que ele está relegado - injustamente - entre nós. Daí dedicarmos a nossa primeira atenção ao maior poeta místico da nossa época, como ele é considerado por vários críticos suiços e alemães, a mais alta inspiração mística de Portugal, desde Frei Agostinho da Cruz, o eremita da Arrábida. Mais tarde voltaremos a analisar outros aspectos dessa rica e fascinante personalidade, atendo-nos hoje a considerações forçadamente lineares.
 
 Já os primeiros versos dos *Cantos Indecisos* (publicados em 1921):
 

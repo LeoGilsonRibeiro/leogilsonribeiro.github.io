@@ -69,7 +69,7 @@ Quais os seus planos agora?
 
 Quando começou a escrever *O Delfim*, quanto tempo levou?
 
-"Comecei a escrever em 1964, ele foi publicado em 1968. Houve muitos intervalos nesses quatro anos: escrevi versões do livro, antes da definitva."
+"Comecei a escrever em 1964, ele foi publicado em 1968. Houve muitos intervalos nesses quatro anos: escrevi versões do livro, antes da definitiva."
 
 Na sua opinião, o que é *O Delfim*?
 
@@ -77,7 +77,7 @@ Na sua opinião, o que é *O Delfim*?
 
 Gafeira, onde se passa *O Delfim*, é real?
 
-"Não, é um território mítico que formei com a palavra "gafe" mais o sufixo "eira", que significa conjunto, população. É também para orientar erradamento o leitor, para ele ficar sem saber se houve ou não o crime, toda a história. Um caso curioso e propósito: tenho um artigo publicado no jornal *Notícias do Porto*, com um professor falando sobre o Abade, a monografia do Abade, corrigindo-me, dizendo que fiz citações erradas, etc. Mas tudo isso, eu que inventei, são livros irreais."
+"Não, é um território mítico que formei com a palavra "gafe" mais o sufixo "eira", que significa conjunto, população. É também para orientar erradamente o leitor, para ele ficar sem saber se houve ou não o crime, toda a história. Um caso curioso e propósito: tenho um artigo publicado no jornal *Notícias do Porto*, com um professor falando sobre o Abade, a monografia do Abade, corrigindo-me, dizendo que fiz citações erradas, etc. Mas tudo isso, eu que inventei, são livros irreais."
 
 Que é "marialva"?
 
@@ -85,7 +85,7 @@ Que é "marialva"?
 
 Acha que *O Delfim* pode ajudar na penetração da literatura portuguesa no Brasil?
 
-"Espero que sim, estou convencido que sim. Com poucas exceções, a literatura portuguesa é conhecida no Brasil em período bastante histórico: há uma série de preconceitos, especialmente em relação ao linguajar, que disfarçam a verdadeira realidade portuguesa. Há uma ideia deformada da literatura portuguesa contemporânea. Pensa-se que é retórica, empolada, universitária, como se o país estivesse parado. Um país aberto, que tem gente como Vieira da Silva em pintura, marchands inernacionais, um Fernando Lopes Graça na música, não é um país de pobres coitados. A coisa mais importante é o Brasil precisar se atualizar em relação a Portugal. Um país novo, cheio de vida e potencial, também tem de estar atualizado com relação a Portugal. Os portugueses estão muito mais atualizados com relação ao Brasil. Gostaria que houvesse um entendimento mais autêntico e profundo do que o que há atualmente."
+"Espero que sim, estou convencido que sim. Com poucas exceções, a literatura portuguesa é conhecida no Brasil em período bastante histórico: há uma série de preconceitos, especialmente em relação ao linguajar, que disfarçam a verdadeira realidade portuguesa. Há uma ideia deformada da literatura portuguesa contemporânea. Pensa-se que é retórica, empolada, universitária, como se o país estivesse parado. Um país aberto, que tem gente como Vieira da Silva em pintura, marchands internacionais, um Fernando Lopes Graça na música, não é um país de pobres coitados. A coisa mais importante é o Brasil precisar se atualizar em relação a Portugal. Um país novo, cheio de vida e potencial, também tem de estar atualizado com relação a Portugal. Os portugueses estão muito mais atualizados com relação ao Brasil. Gostaria que houvesse um entendimento mais autêntico e profundo do que o que há atualmente."
 
 Está escrevendo algum livro?
 
@@ -117,7 +117,7 @@ E era verdade. Espalmada na inscrição imperial, havia uma lagartixa. Parda, im
 
 Ficamos frente a frente, à luz do meio-dia. Eu, senhor, escritor da comarca de Portugal, e portanto animal tolerado, à margem, e ela, ser humilde, português, que habita ruínas de História; que cumpre uma existência entre pedras e sol, e se resigna (é espantoso); que é, ela própria, um fragmento de pedras gerado na pedra - um resto final, uma sobra; que se alimenta de nada (de quê) e é rápida no despertar, e sagaz, e ladina, embora votada ao isolamento de uma memória do império; que não tem voz, ou a perdeu, ou não se ouve... Lagartixa, meu brasão do tempo. Posso encontrá-la amanhã no mesmo sítio (talvez lá esteja ainda) ou nas traves do solar da lagoa, ou num buraco da adega que já foi o bodegón das minhas ceias no ano passado com o engenheiro e nunca mais o será. Posso, simbolicamente, supô-la no alto do portal, imposta sobre a legenda *Ad Usum Delphini*, porque em todos esses lugares ela estará perfeita na sua modéstia abstrata como a imagem de um tempo ou de uma idade em que os anos escorrem alheios à mão do homem e em que a erva cresce e morre e se diz: Afinal, também temos Primavera".
 
-Misto de *nouveau-roman* - em que o autor se coloca como observador, segundo os ditames da *école du regard* atual parisiense -; de irônico romance policial de mistério sobre dois crimes; de apreensão profunda das repercussões humanas da dependência política de um país com relação a outros; romance social sem panfletarismo esquerdizante; criação estilística do mais alto nível existente desde que a lingua portuguesa separou-se do castelhano na era medieval, *O Delfim* é o mais importante, o mais angustiante documento literário que nos vem de Portugal desde *A Ilustre Casa de Ramires* e *A Cidade e as Serras* ou do existencialismo niilista dos poemas de Fernando Pessoa.
+Misto de *nouveau-roman* - em que o autor se coloca como observador, segundo os ditames da *école du regard* atual parisiense -; de irônico romance policial de mistério sobre dois crimes; de apreensão profunda das repercussões humanas da dependência política de um país com relação a outros; romance social sem panfletarismo esquerdizante; criação estilística do mais alto nível existente desde que a língua portuguesa separou-se do castelhano na era medieval, *O Delfim* é o mais importante, o mais angustiante documento literário que nos vem de Portugal desde *A Ilustre Casa de Ramires* e *A Cidade e as Serras* ou do existencialismo niilista dos poemas de Fernando Pessoa.
 
 Mesmo para um Brasil que conta com um Guimarães Rosa, um Carlos Drummond de Andrade - é o inverno da Descoberta de 1500: a constatação de que Portugal continua esplêndidamente vivo na área que foi sempre a de seu maior triunfo: a palavra. País pequeno, pobre, espoliado, sua grandeza - como a da Grécia Antiga e dos judeus que criaram a Bíblia - é toda interior e perene: está cifrada nos grandes poetas, romancistas e contistas desde o século XII até hoje.
 

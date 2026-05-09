@@ -21,7 +21,7 @@ Pois evidentemente o movimento de profunda renovação da revista *Orpheu* não 
 
 Para não nos alongarmos demais neste assunto meridianamente claro e comprovável: se estávamos absolutamente certos em querer *deglutir* antropofagicamente a cultura européia e recusar-nos a escrever conforme a sintaxe e o léxico lisboetas, por outro lado erramos inconscientemente ao romper o contato vivo com a cultura e a literatura portuguesas. Em vez de imitarmos servilmente os modelos lisboetas - meta indesejável -, passamos ao extremo igualmente daninho, senão mais pernicioso: o de sermos *digeridos* pelos modelos norte-americanos que os meios de massa nos impõem como forma cabal de perda da identidade nacional, da qual, fundamentalmente, faz parte a nossa expressão básica em português. Sofremos, sem o saber, de um FMI da nossa inteligência.
 
-O excelente poeta gaúcho Carlos Nejar, uma das supremas manifestações poéticas do Brasil de hoje, deu um passo importante rumo ao reatamento de relações culturais entre o Brasil e Portugal: selecionou uma antologia denominada *Poesia Portuguesa Contemporânea* (Editora Ohno-Kempf, São Paulo). Já anteriormente o intelectual português, radicado no Brasil João Alves das Neves, fizera uma escolha sensível e judiciosa, publicada em 1967 com o título de *Os Poetas Portugueses Modernos* (Editora Civilização Brasileira). A seleta de Carlos Nejar tem, a nosso ver, um álibi inaceitável: o de não incluir Fernando Pessoa e Mário de Sá-Carneiro, omissão que justifica dizendo: prende-se somente ao fato de já serem suficientemente conhecidos no Brasil. Justificativa que não nos convence de modo algum. Além disso, esquece-se de citar versos de Teixeira de Pacoais e, possivelmente, alarga demais o prisma de uma antologia ao recolher desde poetas da geração de 1915 até o presente. Para isso seriam necessárias outras antologias, como as que ele nos dá a esperança de estampar mais tarde. Qualquer seleção de poetas e poemas implica sempre, inelutvelmente, uma forte dose de subjetivismo; no entanto, Carlos Nejar revela ao público leitor brasileiro três ou quatro valores incontestáveis da moderna poesia lusitana. A começar de Vitorino Nemésio. Conhecido em alguns círculos no Brasil principalmente como romancista (*Mau Tempo no Canal*, notadamente), é como poeta de ressonância atemporal, que ele aqui nos comove e perdura em nossa admiração, logo ele que lamenta a temporalidade de tudo, debruçado sobre uma memória que se esgarça e celebrando estoico a morte trinufadora:
+O excelente poeta gaúcho Carlos Nejar, uma das supremas manifestações poéticas do Brasil de hoje, deu um passo importante rumo ao reatamento de relações culturais entre o Brasil e Portugal: selecionou uma antologia denominada *Poesia Portuguesa Contemporânea* (Editora Ohno-Kempf, São Paulo). Já anteriormente o intelectual português, radicado no Brasil João Alves das Neves, fizera uma escolha sensível e judiciosa, publicada em 1967 com o título de *Os Poetas Portugueses Modernos* (Editora Civilização Brasileira). A seleta de Carlos Nejar tem, a nosso ver, um álibi inaceitável: o de não incluir Fernando Pessoa e Mário de Sá-Carneiro, omissão que justifica dizendo: prende-se somente ao fato de já serem suficientemente conhecidos no Brasil. Justificativa que não nos convence de modo algum. Além disso, esquece-se de citar versos de Teixeira de Pacoais e, possivelmente, alarga demais o prisma de uma antologia ao recolher desde poetas da geração de 1915 até o presente. Para isso seriam necessárias outras antologias, como as que ele nos dá a esperança de estampar mais tarde. Qualquer seleção de poetas e poemas implica sempre, inelutvelmente, uma forte dose de subjetivismo; no entanto, Carlos Nejar revela ao público leitor brasileiro três ou quatro valores incontestáveis da moderna poesia lusitana. A começar de Vitorino Nemésio. Conhecido em alguns círculos no Brasil principalmente como romancista (*Mau Tempo no Canal*, notadamente), é como poeta de ressonância atemporal, que ele aqui nos comove e perdura em nossa admiração, logo ele que lamenta a temporalidade de tudo, debruçado sobre uma memória que se esgarça e celebrando estoico a morte triunfadora:
 
 "O Pastor Morto"
 
@@ -99,7 +99,7 @@ Te arredonda a garupa retardada;
 
 Mas quem, pobre égua velha e sem comida?
 
-O poço aonde e a água deseajada?
+O poço aonde e a água desejada?
 
 Sinal de terra mexida
 
@@ -217,7 +217,7 @@ Que milhafre criou minha carne em seu bico?
 
 A mão qual foi que me rasgou no erro,
 
-Mulhr, o coração que te dedico?
+Mulher, o coração que te dedico?
 
 Quem era aquele de quem tirei o sangue forte,
 
@@ -259,7 +259,7 @@ Ah, aves de parabólica plumagem,
 
 Anjos de matéria nenhuma e de toda a arrogância,
 
-Mulheres e homens de que so a última viagem
+Mulheres e homens de que sou a última viagem
 
 Começada no mar que me salgou a infância!
 
@@ -267,7 +267,7 @@ Ah, ovo que deixei, bicado e quente,
 
 Vazio de mim, no mar,
 
-E que ainda hoje dee boiar, ardente Ilha!
+E que ainda hoje deve boiar, ardente Ilha!
 
 E que ainda hoje deve lá estar!
 
@@ -289,7 +289,7 @@ Ele o que A desviu e A violou no vento,
 
 Ele o que fez de mim o menino perdido
 
-E me deua a navalha com que me fiz violento!
+E me deu a navalha com que me fiz violento!
 
 Ele leva para o alto as cordeiras e come-as,
 
@@ -405,7 +405,7 @@ Martins Fontes, em seus piores momentos "filosóficos", não diria melhor com re
 
 Para futuras edições dessa desbravadora *Poesia Portuguesa Contemporânea*, seria fecundo que Carlos Nejar meditasse sobre a inclusão de versos enfeixados em outra antologia. Trata-se da *Antologia* em dois volumes organizada por M. Alberta Meneres e E. M. de Melo e Castro (Círculo de Poesia, Moraes Editores, com o patrocínio da Secretaria da Cultura, Lisboa, 1979). Dessa maneira, vários poetas que gozaram da paciência e da benevolência do selecionador gaúcho cederiam lugar a outros menos cultores da grandiloquência e de um involuntário *kitsch* na pior "tradição" pseudopoética ocidental.
 
-Carlos Nejar acerta, porém, quando dá espaço a Alenxandre O'Neill, indubitavelmente uma das figuras mais irreverentes e interessantes da poesia que se faz atualmente em Portugal. Poucos exemplos demonstram a que ponto Alexandre O'Neill é, no melhor sentido da palavra, sofisticado, cosmopolita, irônico e frequentemente magnífico poeta:
+Carlos Nejar acerta, porém, quando dá espaço a Alexandre O'Neill, indubitavelmente uma das figuras mais irreverentes e interessantes da poesia que se faz atualmente em Portugal. Poucos exemplos demonstram a que ponto Alexandre O'Neill é, no melhor sentido da palavra, sofisticado, cosmopolita, irônico e frequentemente magnífico poeta:
 
 "Guichê 1"
 
@@ -445,7 +445,7 @@ doçura do canteiro do rosto,
 
 enquanto o burocrata destrabalha.
 
-Geralmente não serce de nada pigarrear ou dizer com voz passadeira
+Geralmente não serve de nada pigarrear ou dizer com voz passadeira
 
 "Fazmobséquio".
 
@@ -503,7 +503,7 @@ Lembrando a galhofice e a graça desenvolta dos primeiros poemas de Carlos Drumm
 
 "O'Neill (Alexandre), moreno português,
 
-cabelo asa de corvo;; da angústia a cara,
+cabelo asa de corvo; da angústia a cara,
 
 nariguice que sobrepuja de través
 
@@ -529,7 +529,7 @@ Mas sofre de ternura, bebe demais e ri-se
 
 do que neste soneto sobre si mesmo disse..."
 
-Essa parentela de posição diante do mundo com Carlos Drummond de Andrade torna-se mais vincada à medida que Alexandre O'Neill mistura desdém com meditação auteticamente permeada de angústia e luminosa descrença:
+Essa parentela de posição diante do mundo com Carlos Drummond de Andrade torna-se mais vincada à medida que Alexandre O'Neill mistura desdém com meditação autenticamente permeada de angústia e luminosa descrença:
 
 "Animais Doentes"
 
@@ -591,7 +591,7 @@ Logo extintas na combustão das próximas
 
 Palavras que não esperassem
 
-Em sal ou em diamente
+Em sal ou em diamante
 
 O minuto ridículo preciso raro
 
@@ -689,7 +689,7 @@ Um octogenário divertido
 
 Um menino coleccionando estampas
 
-Um congressita que diz Eu não prossigo
+Um congressista que diz Eu não prossigo
 
 Uma velha que morre a páginas tantas."
 
@@ -779,7 +779,7 @@ E aceitai respeitos mil
 
 Do vosso
 
-Alecxandre O'Neill!"
+Alexandre O'Neill!"
 
 Dois poemas finais marquem o talento sincopado, atual, da poesia de O'Neill:
 
@@ -839,7 +839,7 @@ Antes para soldado ou para resto,
 
 escroto de velho, ronco de suíno..."
 
-Há, é lógico, outros poetas e poetisas que não cabem na exiguidade de um artigo de jornal. O decisivo é saber que a grande poesia portuguesa multissecular resistiu a todo estrangeiramento que lhe quiseram impor por patrulhas ideológicas da esquerda stalinista ou pela censura fascista de um governo que findou ao eclodir a poética revolução dos cravos, símbolo da libertação das "províncias ultramarinas" da hipocrisia salazarista e do próprio povo português. Portugal, no Brasli atual, foi alijado das aulas, dos livros de leitura, em prol de um "nacionalismo" xenófobo e emburrecedor e sua voz só nos chega de longe, "neutra" como se viesse da Lapônia ou da Sardenha. A realidade pujante da poesia portuguesa nega, porém, a mediocridade inculcada por dois governos durante tantas décadas. Bastariam os três poetas supremos da atualidade portuguesa, Teixeira de Pascoais, Mário de Sá-Carneiro (morto aos 26 anos de idade!) e o multiforme gênio universal de Fernando Pessoa para legitimar uma intuição profunda que o grande profeta poético descrevera como lúcido visionário no início deste século:
+Há, é lógico, outros poetas e poetisas que não cabem na exiguidade de um artigo de jornal. O decisivo é saber que a grande poesia portuguesa multissecular resistiu a todo estrangeiramento que lhe quiseram impor por patrulhas ideológicas da esquerda stalinista ou pela censura fascista de um governo que findou ao eclodir a poética revolução dos cravos, símbolo da libertação das "províncias ultramarinas" da hipocrisia salazarista e do próprio povo português. Portugal, no Brasil atual, foi alijado das aulas, dos livros de leitura, em prol de um "nacionalismo" xenófobo e emburrecedor e sua voz só nos chega de longe, "neutra" como se viesse da Lapônia ou da Sardenha. A realidade pujante da poesia portuguesa nega, porém, a mediocridade inculcada por dois governos durante tantas décadas. Bastariam os três poetas supremos da atualidade portuguesa, Teixeira de Pascoais, Mário de Sá-Carneiro (morto aos 26 anos de idade!) e o multiforme gênio universal de Fernando Pessoa para legitimar uma intuição profunda que o grande profeta poético descrevera como lúcido visionário no início deste século:
 
 "A ideia de uma Pátria anterior
 
@@ -847,7 +847,7 @@ Há, é lógico, outros poetas e poetisas que não cabem na exiguidade de um art
 
 Dói-me no que desejo, e vem bater
 
-Como uma onda de enconrtro à minha dor...
+Como uma onda de encontro à minha dor...
 
 Algumas obras, ainda, como exprimem coisas fundamentais da mentalidade de seu país, ou da civilização a que ele pertence, duram tanto quanto dura aquela civilização: essas alcançam a idade adulta da glória univeral. Mas outras duram além da civilização, cujos sentimentos expressam. Essas atingem aquela maturidade de vida que é tão mortal como os deuses, que começam mas não acabam, como acontece com o tempo; e estão sujeitas apenas ao mistério final que o Destino encobre para todo o sempre..."
 
