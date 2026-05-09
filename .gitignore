@@ -19,5 +19,6 @@ yarn-error.log*
 *~$*.docx
 src/
 /.quarto/
-
+_site/
 /.luarc.json
+.claude/
