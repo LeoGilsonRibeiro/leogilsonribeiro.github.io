@@ -25,6 +25,6 @@ Houve dias em que bastou um olhar, o piscar de olhos de um desconhecido para com
 
 Falar. As palavras são o nosso ofício, dizemos sem sombra de timidez ou de ironia. As palavras são coisas ternas, intratáveis e vivas, mas feitas para o homem e não o homem para elas. Todos sentimos que vivemos numa época em que se torna necessário restituir às palavras a sólida e desnuda limpidez de quando o homem as criava para delas se servir. E sucede que, precisamente por isso, porque servem ao homem, as novas palavras nos comovem e possuem como nenhuma das vozes mais pomposas do mundo que morre, nos comovem como uma prece ou um boletim de guerra.
 
-Nosso objetivo é difícil, mas vivo. É também o único que tem um significado e uma esperança. São homens os que esperam por nossas palavras, pobres homens como nós, quando esquecemos que a vida é comunhão. Eles nos escutarão com rigor e com fé, prontos a encarnar as palavras que diremos. Desiludi-los seria trai-los, seria também trair o nosso passado.
+Nosso objetivo é difícil, mas vivo. É também o único que tem um significado e uma esperança. São homens os que esperam por nossas palavras, pobres homens como nós, quando esquecemos que a vida é comunhão. Eles nos escutarão com rigor e com fé, prontos a encarnar as palavras que diremos. Desiludir-los seria traí-los, seria também trair o nosso passado.
 
 

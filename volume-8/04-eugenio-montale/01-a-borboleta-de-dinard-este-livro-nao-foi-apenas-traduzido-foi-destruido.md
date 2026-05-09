@@ -13,7 +13,7 @@ order: 080401
 
 São sempre situações humanas colhidas com uma delicada ironia e uma doce compaixão pelo próximo que nada tem de pieguismo.
 
-Depois da meia-noite, num hotel, um hóspede insone passeia pelos corredores. Enquanto o telefone tilinta e uma voz de mulher adverte a um Attilio, do outro lado do fio, que não venha, porque lá fora um infeliz está passeando de lá para cá. Várias hipóteses se apresentam ao que perambula sem sono: retirar-se, ignorando o incidente? Salvar a mulher de um importuno que a acossa? Ou seus passeios teriam sido um mero pretexto para dizer "não" ao insistente chamado noturno? Resolve não ser ártbitro da vida alheia, mas pelo menos conseguir uma explicação para tanta acuidade. "Disse então numa voz excessivamente alta que ressoou pelo corredor afora:
+Depois da meia-noite, num hotel, um hóspede insone passeia pelos corredores. Enquanto o telefone tilinta e uma voz de mulher adverte a um Attilio, do outro lado do fio, que não venha, porque lá fora um infeliz está passeando de lá para cá. Várias hipóteses se apresentam ao que perambula sem sono: retirar-se, ignorando o incidente? Salvar a mulher de um importuno que a acossa? Ou seus passeios teriam sido um mero pretexto para dizer "não" ao insistente chamado noturno? Resolve não ser árbitro da vida alheia, mas pelo menos conseguir uma explicação para tanta acuidade. "Disse então numa voz excessivamente alta que ressoou pelo corredor afora:
 
 - Já acabei o passeio, minha senhora. Mas como sabe que eu sou infeliz?
 

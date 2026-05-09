@@ -29,7 +29,7 @@ Estava com duas amigas, elas também de pele, e se bem que mais jovens me pareci
 
 Deslizei, fugindo, entre dois casais parados na calçada e revelei-me: pareceu que me visse, talvez tivesse me reconhecido, certamente seu olhar altivo se encontrou por um instante com o meu, enquanto a multidão avançava tentando arrastá-la com ela, senti o coração escapar-me resvalando, é sempre esta sensação que o amor me provoca nos momentos de êxtase, eu estava para falar com ela quando pelas suas costas apareceu um homem.
 
-Era alto, vestido de escuro. Enlaçou-a pintura e a levou embora.
+Era alto, vestido de escuro. Enlaçou-a pela cintura e a levou embora.
 
 Certos dias me invade de alegria a certeza de poder esquecê-la, de saber aceitar lhanamente a realidade, como acontece depois de um sonho inefável. Sei que você existe, eu dizia a mim mesmo, ainda que eu não possa tê-la como minha. Saía com Nora, telefonava para Elisa, algumas vezes Adriana me acompanhava à praia onde tenho uma casa. Eu as ouvia falar, depois que tínhamos nos amado, sem que nenhuma de suas palavras me causasse uma única vibração. Eu olhava para longe, pensando nela, e isto tornava mais estranha ainda a presença física das outras.
 
@@ -73,7 +73,7 @@ Acabou me arrastando para um bar.
 
 Eu deveria tê-lo matado, me libertado dele imediatamente, porque não teria tido mais força para comparecer de novo diante dela.
 
-Escrevi-lhe duas vezes, nos últimos meses, enderençando ao grande *magasin*. As cartas me foram restituídas, estando destituídas dos dados genéricos necessários para serem entregues. Aí voltei a procurá-la, vencendo a minha hesitação, mas não estava mais no lugar de costume. Pedi notícias dela.
+Escrevi-lhe duas vezes, nos últimos meses, endereçando ao grande *magasin*. As cartas me foram restituídas, estando destituídas dos dados genéricos necessários para serem entregues. Aí voltei a procurá-la, vencendo a minha hesitação, mas não estava mais no lugar de costume. Pedi notícias dela.
 
 - "Desculpe", disse o gerente, "mas se tivéssemos que nos lembrar de todas..."
 

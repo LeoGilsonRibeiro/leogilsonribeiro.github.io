@@ -1,6 +1,6 @@
 ---
 title: |
-  Nem arauto nem bobo da corte. O escritor, segundo Caltellaneta
+  Nem arauto nem bobo da corte. O escritor, segundo Castellaneta
 author: "Leo Gilson Ribeiro"
 citation:
   issued: "2022"
@@ -55,7 +55,7 @@ Castellaneta -- "Não, não me refiro a "de baixo" como preconceito: eu também,
 
 LGR -- Mas aí chegamos ao *franglais*, aquele francês tão permeado de palavras inglesas...
 
-Castellaneta -- "Sim, que causou tanta polêmica na França, em defesa da pureza do idioma castiço, mas ninguém pode negar que certas palavras tirados do inglês foram reinventadas pelos franceses como *picniquer*, diz-se com maior naturalidade *on va picniquer*, mas na Itália absolutamente ninguém diz *andaimo a picnicare*!"
+Castellaneta -- "Sim, que causou tanta polêmica na França, em defesa da pureza do idioma castiço, mas ninguém pode negar que certas palavras tirados do inglês foram reinventadas pelos franceses como *picniquer*, diz-se com maior naturalidade *on va picniquer*, mas na Itália absolutamente ninguém diz *andiamo a picnicare*!"
 
 LGR -- Seria um barbarismo?
 
@@ -135,6 +135,6 @@ Castellaneta -- "Ah, sim, tanto que hoje eu escandalizei os universitários (da 
 
 LGR -- Mas embora às vezes amoral, o escritor não é a consciência do seu tempo, a sua percepção pelo menos?
 
-Castellaneta -- "O escritor é uma testemunha do seu tempo, uma testemunha que age, não uma testemunha inerte, passiva. A meta do escritor é a de transmitir, não obstante as múltiplas angústias, os múltiplos medos da nossa época, talvez a mais escura da história da humanidade, somos bombardeados diariamente por notícias aterrorizantes: não há mais petróleo, há bombas atômicas prestes a explodir, os ratos nos destruirão -- tudo isso intimida e é uma verdade ecológica. O escritor não pode, creio, negar e dizer: não, a peste não é uma ameaça; não, as bombas atômicas são benéficas. A única função da literatura é, através de um texto, atingir uma consciência individual e fazer o leitor compreender que as coisas podem mudar: depende de nós, pois no final somos nós mesmos os árbitros das nossas vidas. A literatura não tem o mesmo impacto imediato de um comício político, de um programa televisivo como o livro *A Cabana do Pai Tomás* de Harriet Beecher Stowe na eclosão da guerra de secessão que terminou por libertar os negros nos Estados Unidos. A literatura age sobe a realidade, mas com um ritmo mais lento mais aristocrático, pois exige uma preparação cultural. É preciso desfazer a ilusão da esquerda revolucionária e repetir que o escritor não é um combatente na primeira fila da batalha. O escritor é um senhor amedrontado, aninhado no quartel-general, do qual envia mensagens de advertência que, quem sabe?, um dia serão ouvidas.
+Castellaneta -- "O escritor é uma testemunha do seu tempo, uma testemunha que age, não uma testemunha inerte, passiva. A meta do escritor é a de transmitir, não obstante as múltiplas angústias, os múltiplos medos da nossa época, talvez a mais escura da história da humanidade, somos bombardeados diariamente por notícias aterrorizantes: não há mais petróleo, há bombas atômicas prestes a explodir, os ratos nos destruirão -- tudo isso intimida e é uma verdade ecológica. O escritor não pode, creio, negar e dizer: não, a peste não é uma ameaça; não, as bombas atômicas são benéficas. A única função da literatura é, através de um texto, atingir uma consciência individual e fazer o leitor compreender que as coisas podem mudar: depende de nós, pois no final somos nós mesmos os árbitros das nossas vidas. A literatura não tem o mesmo impacto imediato de um comício político, de um programa televisivo como o livro *A Cabana do Pai Tomás* de Harriet Beecher Stowe na eclosão da guerra de secessão que terminou por libertar os negros nos Estados Unidos. A literatura age sobre a realidade, mas com um ritmo mais lento mais aristocrático, pois exige uma preparação cultural. É preciso desfazer a ilusão da esquerda revolucionária e repetir que o escritor não é um combatente na primeira fila da batalha. O escritor é um senhor amedrontado, aninhado no quartel-general, do qual envia mensagens de advertência que, quem sabe?, um dia serão ouvidas.
 
 
