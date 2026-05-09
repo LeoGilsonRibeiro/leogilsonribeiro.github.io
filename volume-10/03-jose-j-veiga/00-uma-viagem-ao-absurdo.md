@@ -36,7 +36,7 @@ Todo o clima do absurdo é mantido habilmente pelo autor: no final não se tem c
 
 A opressão totalitária é tão ampla hoje em dia que *Sombras dos Reis Barbudos* pode ser interpretado como uma obra polivalente: dependendo da posição política do leitor será uma ditadura sul-americana ou uma crítica velada à perda de liberdade de imprensa no Brasil ou ainda o símbolo da condenação moral do autor de regimes autoritários, da Madrid franquista ao Paraguai de Stroessner.
 
-José J. Veiga insiste na fluidez de seu romance seco, pontiagudo, fascinante. Mas por detrás dessa flexibilidade de interpretações existe uma sólida estrutura: a denúncia ética de uma coletividade. A ditatura não é um acontecimento que surge do nada: é produto de um ininterrupto encadeamento de atos e omissões, de colaborações e ausências.
+José J. Veiga insiste na fluidez de seu romance seco, pontiagudo, fascinante. Mas por detrás dessa flexibilidade de interpretações existe uma sólida estrutura: a denúncia ética de uma coletividade. A ditadura não é um acontecimento que surge do nada: é produto de um ininterrupto encadeamento de atos e omissões, de colaborações e ausências.
 
 Quando os cidadãos sentem medo, os elos dessa cadeia que desembocam no campo de concentração de Direita ou de Esquerda forjam-se concretamente: as lacunas do que fazemos ou deixamos de fazer são preenchidas implacavelmente pelos partidos nazista, fascista, bolchevique que brotam com a espontaneidade da erva daninha.
 

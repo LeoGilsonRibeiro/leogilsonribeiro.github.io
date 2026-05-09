@@ -22,7 +22,7 @@ Nos últimos 25 ou 30 anos, praticamente todas as correntes literárias se incor
 
 Como é impossível debater sobre preferências e gostos pessoais, acataremos certas predileções do Organizador. Isto é: se ele dá espaço a contos de Otto Lara Rezende ("Gato, Gato, Gato") e de Nélida Piñon ("Colheita") em vez de reserva-lo para produções possivelmente superiores como "A Cilada" de Otto Lara Rezende e algum conto de uma coletânea incomparavelmente melhor de Nélida Piñon como *O Tempo das Frutas* em vez do seu fraco e desigual *Sala de Armas*, não há como divergir. Literatura não tem sua superioridade *provada* com leis físicas, com Inquisições ideológicas ou religiosas, com testes de genética estrutural, fórmulas matemáticas que deixem irrefutável o dogma ou axioma de que este ou aquele conto é *melhor* do que o outro. Há unanimidades genéticas, como por exemplo, jamais alguém poderá considerar Tchecov, Katharine Mansfield, Clarice Lispector, Guimarães Rosa criadores de segundo nível, de "continhos" fadados a serem consumidos em almanaques de farmácia, junto com o tônico Capivarol.
 
-Assim sendo, respeitem-se as estratégias de quem elabora qualquer antologia, palavra tão poética que em grego antigo significa maço de flores ou colher flores -- neste caso, literárias. Cada um, nessa jardinagem das letras, tem seu canteiros subjetivos e cultiva literalmente "*son propre jardin*".
+Assim sendo, respeitem-se as estratégias de quem elabora qualquer antologia, palavra tão poética que em grego antigo significa maço de flores ou colher flores -- neste caso, literárias. Cada um, nessa jardinagem das letras, tem seus canteiros subjetivos e cultiva literalmente "*son propre jardin*".
 
 E de bom, o que há neste *O Conto Brasileiro Contemporâneo*?
 

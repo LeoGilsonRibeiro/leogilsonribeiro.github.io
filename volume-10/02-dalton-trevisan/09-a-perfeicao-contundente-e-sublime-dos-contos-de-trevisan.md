@@ -22,7 +22,7 @@ GR: "No primeiro número, dedicamos todas as páginas ao Brasil: contos de Clari
 
 LGR: Foi o primeiro livro dele, não?
 
-GR: "Sim, o primeiro e desde então fiquei sempre muito atento a tudo que saísse publicado com o seu nome. Como a *Odyssey* tinha terminado, publiquei as *Novelas Nada Exemplares* em outra revista literária quadrimestral. Depois, quando fizemos uma antologia de Dalton Trevisan para ser publicada pela editora Knopf, de Nova York, quatro ou cinco contos ficaram de fora, que depois encontraram guarida em outros *quarterlies*. De qualquer maneira, selecionamos contos de vários livros de Trevisan e demos o título genérico de *O Vampiro de Curitiba e Outras Histórias*, porque achamos que era um título chamariz, capas de despertar a atenção do leitor norte-americano, pois nos Estanos Unidos é muito difícil vender coletâneas de contos, por isso o título parecia um pouco *jazzy* e atrairia leitores."
+GR: "Sim, o primeiro e desde então fiquei sempre muito atento a tudo que saísse publicado com o seu nome. Como a *Odyssey* tinha terminado, publiquei as *Novelas Nada Exemplares* em outra revista literária quadrimestral. Depois, quando fizemos uma antologia de Dalton Trevisan para ser publicada pela editora Knopf, de Nova York, quatro ou cinco contos ficaram de fora, que depois encontraram guarida em outros *quarterlies*. De qualquer maneira, selecionamos contos de vários livros de Trevisan e demos o título genérico de *O Vampiro de Curitiba e Outras Histórias*, porque achamos que era um título chamariz, capas de despertar a atenção do leitor norte-americano, pois nos Estados Unidos é muito difícil vender coletâneas de contos, por isso o título parecia um pouco *jazzy* e atrairia leitores."
 
 LGR: E o público leitor nos EUA aderiu à ideia?
 
