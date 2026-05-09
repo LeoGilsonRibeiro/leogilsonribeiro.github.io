@@ -20,7 +20,7 @@ end
 
 def create_folder(folder)
   if File.exist?(folder)
-    FileUtils.rm_rf(folder)
+#     FileUtils.rm_rf(folder)
     logger.warn "Erasing \"#{folder}\" ..."
   end
   Dir.mkdir(folder)
@@ -29,7 +29,8 @@ end
 # create_folder(DOCS_MARKDOWN)
 
 # Primeira parte: docx → md
-DOCX_SKIP = true
+# DOCX_SKIP = true
+DOCX_SKIP = false
 logger.warn 'Skipping conversion of docx into markdown' if DOCX_SKIP
 
 unless DOCX_SKIP

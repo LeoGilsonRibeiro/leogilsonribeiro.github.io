@@ -1,5 +1,6 @@
 format:
   lgr-pdf
+#   latex-auto-install: false
 
 project:
   type: book
