@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1970 (s-data, por ocasião da publicação da 2ª edição do livro Cemitério de Elefantes)"
-abstract: "Jornal da Tarde, 1970 (s-data, por ocasião da publicação da 2ª edição do livro Cemitério de Elefantes). Aguardando revisão."
+abstract: "Jornal da Tarde, 1970 (s-data, por ocasião da publicação da 2ª edição do livro Cemitério de Elefantes)."
 ---
 
 "Há um cemitério de bêbados na minha cidade. Nos fundos do mercado de peixe e à margem do rio ergue-se o velho ingazeiro -- ali os bêbados são felizes. A população considera-os animais sagrados e provê às suas necessidades de cachaça e peixe com pirão de farinha. No trivial contentam-se com as sobras do mercado."

@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Conferência para o curso de 1961 (9 páginas datilografadas)"
   original-date: "1961"
-abstract: "Conferência para o curso de 1961 (9 páginas datilografadas). Aguardando revisão."
+abstract: "Conferência para o curso de 1961 (9 páginas datilografadas)."
 status: Transcrição completa.
 ---
 

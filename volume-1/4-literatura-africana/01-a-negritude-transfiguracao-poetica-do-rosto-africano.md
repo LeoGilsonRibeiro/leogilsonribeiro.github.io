@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Correio da Manhã"
   original-date: "1964/12/20"
-abstract: "Correio da Manhã, 1964/12/20. Aguardando revisão."
+abstract: "Correio da Manhã, 1964/12/20."
 order: 010301
 ---
 

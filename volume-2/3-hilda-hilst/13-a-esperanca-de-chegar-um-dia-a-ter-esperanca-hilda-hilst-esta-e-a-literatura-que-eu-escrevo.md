@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Interview, n. 82"
   original-date: "1985"
-abstract: "Interview, n. 82, 1985. Aguardando revisão."
+abstract: "Interview, n. 82, 1985."
 order: 020313
 ---
 

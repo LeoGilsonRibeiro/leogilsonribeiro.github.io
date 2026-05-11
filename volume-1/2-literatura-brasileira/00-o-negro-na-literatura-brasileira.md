@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Anais do Seminários de Literatura brasileira: ensaios"
   original-date: "1990"
-abstract: "Anais do Seminários de Literatura brasileira: ensaios, 1990. Aguardando revisão."
+abstract: "Anais do Seminários de Literatura brasileira: ensaios, 1990."
 order: 010100
 status: Transcrição completa.
 ---

@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "196/08/26"
-abstract: "Jornal da Tarde, 196/08/26. Aguardando revisão."
+abstract: "Jornal da Tarde, 196/08/26."
 order: 030300
 status: Transcrição completa.
 ---

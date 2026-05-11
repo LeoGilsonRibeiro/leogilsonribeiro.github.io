@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "O Estado de São Paulo"
   original-date: "1987/06/13"
-abstract: "O Estado de São Paulo, 1987/06/13. Aguardando revisão."
+abstract: "O Estado de São Paulo, 1987/06/13."
 status: Transcrição completa.
 ---
 

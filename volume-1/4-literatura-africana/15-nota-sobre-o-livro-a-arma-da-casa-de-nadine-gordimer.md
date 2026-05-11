@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Caros Amigos, n.39"
   original-date: "2000/06"
-abstract: "Caros Amigos, n.39, 2000/06. Aguardando revisão."
+abstract: "Caros Amigos, n.39, 2000/06."
 order: 010315
 ---
 

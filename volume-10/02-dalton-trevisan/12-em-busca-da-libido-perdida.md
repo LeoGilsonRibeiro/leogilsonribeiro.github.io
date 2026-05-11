@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1981-11-21"
-abstract: "Jornal da Tarde, 1981-11-21. Aguardando revisão."
+abstract: "Jornal da Tarde, 1981-11-21."
 ---
 
 Que inferno a vida, não é, doutor? indaga uma das infinitas mulheres martirizadas pelos maridos, sátiros monstruosos e velhuscos, em um dos contos de *A Trombeta do Anjo Vingador*, nesta 3ª edição com capa esplêndida da Editora Record, 124 páginas. Na revisão atual do livro, publicado em 1977, Dalton Trevisan ao mesmo tempo que resume o número de linhas que relato os nichos desse inferno, injeta mais enxofre e dor em cada uma de suas vidas aqui colhidas em relances sem piedade. É sabido, já foi proclamado inúmeras vezes, que o magnífico autor paranaense tem como objetivo final, como aliás o tinha também Guimarães Rosa, atingir a perfeição do conto-telegrama, do *kaikai* de 17 sílabas apenas. Arqui-surrado também é o argumento dos que leem apressadamente e logo se enfastiam: "O Dalton conta sempre as mesmas histórias, com pequenas alterações, com os mesmos personagens, as mesmas situações. Já cansou". É um engano desculpável porque são mínimas as mudanças e inegavelmente insistentes as obsessões do autor. Há, porém, uma diferença que anula qualquer cansaço do leitor diante de novo giro do carrossel de Curitiba que ele gira de um livro para outro.

@@ -7,7 +7,7 @@ citation:
   editor: "Fernando Rey Puente"
   original-publisher: "Texto inédito proferido na Escola de Teatro da Universidade da Bahia"
   original-date: "Julho de 1959"
-abstract: "Texto inédito proferido na Escola de Teatro da Universidade da Bahia, Julho de 1959. Aguardando revisão."  
+abstract: "Texto inédito proferido na Escola de Teatro da Universidade da Bahia, Julho de 1959."  
 order: 090301
 ---
 

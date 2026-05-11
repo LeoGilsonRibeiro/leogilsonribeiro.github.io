@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Veja"
   original-date: "1975-7-16"
-abstract: "Veja, 1975-7-16. Aguardando revisão."
+abstract: "Veja, 1975-7-16."
 ---
 
 Ele conhece a maioria das bibocas do Grande São Paulo. Nas espeluncas das ruas Itaboca e Aimorés, reduto do chamado baixo meretrício da capital paulista, aprendeu a jogar sinuca e traçar uma cervejinha gelada. E lá teria conhecido Malagueta, um velho mandrião que vive de expedientes, Perus, um jovem aprendiz de "virador", e Bacanaço, malandro maduro, transpirando picardia.

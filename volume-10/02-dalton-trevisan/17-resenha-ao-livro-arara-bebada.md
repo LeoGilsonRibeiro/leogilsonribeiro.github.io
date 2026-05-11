@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Caros Amigos nº 88"
   original-date: "Sem data"
-abstract: "Caros Amigos nº 88, sem data. Aguardando revisão."  
+abstract: "Caros Amigos nº 88, sem data."  
 ---
 
 Creio que o último livro publicado pelo contista paranaense Dalton Trevisan, *Arara Bêbada*, Editora Record, com a capa tirada dos desenhos do pintor alemão Georg Grosz, atingiu o difícil intento já declarado pelo autor anteriormente: escrever contos cada vez mais curtos, telegráficos.

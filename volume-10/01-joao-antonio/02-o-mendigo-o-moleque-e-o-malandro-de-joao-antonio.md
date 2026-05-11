@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1975-10-4"
-abstract: "Jornal da Tarde, 1975-10-4. Aguardando revisão."
+abstract: "Jornal da Tarde, 1975-10-4."
 ---
 
 João Antônio é que atinge lascas mais próximas de medula. Sua classe não tem classificação social, muito menos perspectivas de ascensão ou transformação em potenciais integrantes da sociedade que, rotulada "de consumo", na realidade consome os que a consomem: a estrutura deglutindo a carne e a alma em troca de trinta dinheiros escassos açulados pela publicidade criadora de necessidades supérfluas.

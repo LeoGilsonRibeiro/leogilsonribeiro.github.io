@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores"
   original-date: "1987"
-abstract: "In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores, 1987. Aguardando revisão."
+abstract: "In COLINA, Paulo. A noite não pede licença, Roswitha Kempf Editores, 1987."
 order: 010114
 ---
 

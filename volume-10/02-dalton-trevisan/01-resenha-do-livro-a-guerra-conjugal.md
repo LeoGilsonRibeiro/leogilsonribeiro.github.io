@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1969-12-17"
-abstract: "Jornal da Tarde, 1969-12-17. Aguardando revisão."
+abstract: "Jornal da Tarde, 1969-12-17."
 ---
 
 Nos contos de *A Guerra Conjugal*, o ótimo escritor Dalton Trevisan, mostra imagens do amor frustrado de certas situações conjugais. Um dos melhores livros de nossa literatura.

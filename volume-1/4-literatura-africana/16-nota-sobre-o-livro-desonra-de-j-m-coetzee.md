@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Caros Amigos, n.46"
   original-date: "2001/01"
-abstract: "Caros Amigos, n.46, 2001/01. Aguardando revisão."
+abstract: "Caros Amigos, n.46, 2001/01."
 order: 010316
 ---
 

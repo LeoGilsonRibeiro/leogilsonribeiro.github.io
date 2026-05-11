@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "25-08-1983"
-abstract: "Jornal da Tarde, 25-08-1983. Aguardando revisão."
+abstract: "Jornal da Tarde, 25-08-1983."
 order: 060700
 ---
 

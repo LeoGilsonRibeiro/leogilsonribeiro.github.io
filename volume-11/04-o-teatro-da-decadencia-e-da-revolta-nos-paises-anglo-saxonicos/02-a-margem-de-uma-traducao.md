@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "(Prefácio à tradução que LGR fez da peça de T. Williams À Margem da Vida, Rio de Janeiro, Edições Bloch, 1ª edição: Editora Letas e Artes, 1964)"
   original-date: "1968"
-abstract: "(Prefácio à tradução que LGR fez da peça de T. Williams À Margem da Vida, Rio de Janeiro, Edições Bloch, 1ª edição: Editora Letas e Artes, 1964), 1968. Aguardando revisão."
+abstract: "(Prefácio à tradução que LGR fez da peça de T. Williams À Margem da Vida, Rio de Janeiro, Edições Bloch, 1ª edição: Editora Letas e Artes, 1964), 1968."
 status: Transcrição completa.
 ---
 

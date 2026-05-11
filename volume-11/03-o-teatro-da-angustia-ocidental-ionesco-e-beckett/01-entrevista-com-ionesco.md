@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Suplemento Dominical do Jornal do Brasil"
   original-date: "1960/11/6"
-abstract: "Suplemento Dominical do Jornal do Brasil, 1960/11/6. Aguardando revisão."
+abstract: "Suplemento Dominical do Jornal do Brasil, 1960/11/6."
 status: Transcrição completa.
 ---
 

@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Veja"
   original-date: "1973-7-25"
-abstract: "Veja, 1973-7-25. Aguardando revisão."
+abstract: "Veja, 1973-7-25."
 ---
 
 Há um capítulo-trailer, em que dois personagens vão visitar, numa penitenciária, Paulo Morel, aliás Paulo Morais. Enquadramentos estilísticos típicos da contenção de *Os Prisioneiros* e *Lúcia McCartney*: "Cubículo pequeno. Cama estreita com cobertor cinzento. Mesa cheia de livros; rádio portátil; pia; latrina; mais livros empilhados no chão". O prisioneiro quer ajuda para escrever um livro e ter certeza de que será publicado. O flash inicial termina com todos comendo biscoitos e a pergunta sem resposta: "Você já escreveu alguma coisa?"

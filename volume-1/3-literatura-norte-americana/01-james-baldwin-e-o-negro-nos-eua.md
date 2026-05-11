@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Correio da Manhã (Caminhos da cultura)"
   original-date: "1965"
-abstract: "Correio da Manhã (Caminhos da cultura), 1965. Aguardando revisão."
+abstract: "Correio da Manhã (Caminhos da cultura), 1965."
 order: 010201
 ---
 

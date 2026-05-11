@@ -7,7 +7,7 @@ citation:
   editor: "Fernando Rey Puente"
   original-publisher: "Veja"
   original-date: "1969/7/23"
-abstract: "Veja, 1969/7/23. Aguardando revisão."
+abstract: "Veja, 1969/7/23."
 order: 090801
 ---
 

@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Caros Amigos"
   original-date: "Outubro de 2000"
-abstract: "Caros Amigos, Outubro de 2000. Aguardando revisão."
+abstract: "Caros Amigos, Outubro de 2000."
 order: 060304
 ---
 

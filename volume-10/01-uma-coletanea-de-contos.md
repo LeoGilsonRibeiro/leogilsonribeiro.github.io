@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1977-04-16"
-abstract: "Jornal da Tarde, 1977-04-16. Aguardando revisão."
+abstract: "Jornal da Tarde, 1977-04-16."
 ---
 
 João Antônio foi o primeiro a desfraldar as Bandeiras da Santa Cruzada. Ao vento tremulavam as flâmulas rútilas como transparentes em um comício: "É preciso refletir e repensar as realidades brasileiras"; "Vida a Literatura de aparência amassada, descarnada, inconveniente, fedida", enquanto em coro os peregrinos gritavam: "Fora os modelos deformadores impostos por um colonialismo sócio-cultural!" com o rataplán de uma favela com bateria quentíssima: "Abaixo o toque beletrístico!"

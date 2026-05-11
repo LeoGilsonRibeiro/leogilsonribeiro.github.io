@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1988-11-19"
-abstract: "Jornal da Tarde, 1988-11-19. Aguardando revisão."
+abstract: "Jornal da Tarde, 1988-11-19."
 ---
 
 Rubem Fonseca e o autor norte-americano Bem Traven, cujo romance *O Tesouro de Sierra Madre* foi magnificamente adaptado para o cinema, têm em comum a preservação obsessiva de seu anonimato como pessoas e a experiência camusiana da inutilidade das ações e sonhos humanos. O último livro do escritor mineiro radicado desde a infância no Rio de Janeiro, *Vastas Emoções e Pensamentos Imperfeitos*, Editora Companhia de Letras, confirma a linhagem amarga, desesperançada dos célebres versos de Shakespeare, duvidando de que a vida tivesse qualquer sentido inteligível para o ser humano, não passando de um amontoado de "som e fúria" sem significar nada. Não há Deus, não há racionalidade, não há ética: tudo se perde na veloz voragem de uma vida sem sentido.

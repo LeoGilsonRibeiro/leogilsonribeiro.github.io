@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Diário de Notícias"
   original-date: "1964/12/13"
-abstract: "Diário de Notícias, 1964/12/13. Aguardando revisão."
+abstract: "Diário de Notícias, 1964/12/13."
 order: 030603
 status: Transcrição completa.
 ---

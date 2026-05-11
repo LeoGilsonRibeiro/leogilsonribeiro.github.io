@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: ""
   original-date: "1985-08-17"
-abstract: "17-8-1985. Aguardando revisão."
+abstract: "17-8-1985."
 order: 040103
 ---
 

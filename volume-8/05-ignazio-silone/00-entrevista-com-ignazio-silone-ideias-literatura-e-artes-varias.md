@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Diário de Notícias"
   original-date: "1962/10/7"
-abstract: "Diário de Notícias, 1962/10/7. Aguardando revisão."
+abstract: "Diário de Notícias, 1962/10/7."
 order: 080500
 ---
 

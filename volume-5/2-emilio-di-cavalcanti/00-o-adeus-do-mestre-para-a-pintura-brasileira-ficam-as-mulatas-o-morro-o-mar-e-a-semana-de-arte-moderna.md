@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Veja"
   original-date: "1971-11-3"
-abstract: "Veja, 1971-11-3. Aguardando revisão."
+abstract: "Veja, 1971-11-3."
 order: 050200
 ---
 

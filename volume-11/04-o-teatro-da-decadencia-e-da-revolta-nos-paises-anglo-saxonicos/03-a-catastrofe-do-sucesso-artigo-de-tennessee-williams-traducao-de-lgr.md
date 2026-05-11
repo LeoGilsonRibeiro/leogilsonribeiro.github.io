@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "(Texto incluído como introdução à tradução da peça À Margem da vida, Rio de Janeiro, Edições Bloch, pp.15-22)"
   original-date: "1968"
-abstract: "(Texto incluído como introdução à tradução da peça À Margem da vida, Rio de Janeiro, Edições Bloch, pp.15-22), 1968. Aguardando revisão."
+abstract: "(Texto incluído como introdução à tradução da peça À Margem da vida, Rio de Janeiro, Edições Bloch, pp.15-22), 1968."
 status: Transcrição completa.
 ---
 

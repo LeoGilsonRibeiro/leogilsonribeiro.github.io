@@ -6,7 +6,7 @@ citation:
   type: chapter
   original-publisher: "Diário de Notícias"
   original-date: "1960/02/24"
-abstract: "Diário de Notícias, 1960/02/24. Aguardando revisão."
+abstract: "Diário de Notícias, 1960/02/24."
 order: 030601
 status: Transcrição completa.
 ---

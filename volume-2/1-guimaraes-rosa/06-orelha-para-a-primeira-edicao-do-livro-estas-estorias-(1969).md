@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Estas Estórias"
   original-date: "1969"
-abstract: "Estas Estórias, 1969. Aguardando revisão."
+abstract: "Estas Estórias, 1969."
 order: 020106
 ---
 

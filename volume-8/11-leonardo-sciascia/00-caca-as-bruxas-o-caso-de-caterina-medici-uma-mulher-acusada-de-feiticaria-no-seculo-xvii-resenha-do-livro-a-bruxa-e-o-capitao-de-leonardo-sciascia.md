@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Isto é-Senhor"
   original-date: "1989/09/27"
-abstract: "Isto é-Senhor, 1989/09/27. Aguardando revisão."
+abstract: "Isto é-Senhor, 1989/09/27."
 order: 081100
 ---
 

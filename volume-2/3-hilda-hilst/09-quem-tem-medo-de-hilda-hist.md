@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Polímica: revista semestral de crítica e criação nº 2"
   original-date: "1980"
-abstract: "Polímica: revista semestral de crítica e criação nº 2, 1980. Aguardando revisão."
+abstract: "Polímica: revista semestral de crítica e criação nº 2, 1980."
 order: 020309
 ---
 

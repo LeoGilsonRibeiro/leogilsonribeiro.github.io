@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1975-10-4"
-abstract: "Jornal da Tarde, 1975-10-4. Aguardando revisão."
+abstract: "Jornal da Tarde, 1975-10-4."
 ---
 
 Para usar seu estilo ficando no linguajar popular, Dalton Trevisan, é, "sem favor algum", um dos supremos contistas do idioma, que em seu laboratório secreto de Curitiba revira tubos, decepa cenas de vida humana e as examina com a lente de aumento, com o microscópio, ou secciona com um fino bisturi.

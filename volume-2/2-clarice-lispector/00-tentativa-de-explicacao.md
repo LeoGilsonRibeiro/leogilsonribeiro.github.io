@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Correio da Manhã"
   original-date: "1965-03-21"
-abstract: "Correio da Manhã, 1965-03-21. Aguardando revisão."
+abstract: "Correio da Manhã, 1965-03-21."
 order: 020200
 ---
 

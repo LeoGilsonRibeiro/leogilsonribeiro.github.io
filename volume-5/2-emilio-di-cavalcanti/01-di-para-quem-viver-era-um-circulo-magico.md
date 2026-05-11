@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Correio do Povo, Caderno de Sábado"
   original-date: "1976-10-30"
-abstract: "Correio do Povo, Caderno de Sábado, 1976-10-30. Aguardando revisão."
+abstract: "Correio do Povo, Caderno de Sábado, 1976-10-30."
 order: 050201
 ---
 

@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde / O Estado de São Paulo"
   original-date: "1980-3-15 / 1980-3-16"
-abstract: "Jornal da Tarde / O Estado de São Paulo, 1980-3-15 / 1980-3-16. Aguardando revisão."
+abstract: "Jornal da Tarde / O Estado de São Paulo, 1980-3-15 / 1980-3-16."
 order: 020307
 ---
 

@@ -7,7 +7,7 @@ citation:
   editor: "Fernando Rey Puente"
   original-publisher: "Texto inédito"
   annote: "Data incerta. Provavelmente 1960/1."
-abstract: "Texto inédito, data incerta (provavelmente 1960/1). Aguardando revisão."
+abstract: "Texto inédito, data incerta (provavelmente 1960/1)."
 order: 090101
 ---
 

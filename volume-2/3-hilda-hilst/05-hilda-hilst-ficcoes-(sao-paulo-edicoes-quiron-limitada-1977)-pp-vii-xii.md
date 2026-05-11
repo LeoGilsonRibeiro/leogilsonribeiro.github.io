@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Edições Quíron Limitada"
   original-date: "1977"
-abstract: "Edições Quíron Limitada, 1977. Aguardando revisão."
+abstract: "Edições Quíron Limitada, 1977."
 order: 020305
 ---
 

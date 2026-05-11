@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1976-9-18"
-abstract: "Jornal da Tarde, 1976-9-18. Aguardando revisão."
+abstract: "Jornal da Tarde, 1976-9-18."
 ---
 
 O Congresso ou Parlamento, chamado de Casa do Couro, foi fechado e fumigado: a grande tribo está vivendo com medo dos espiões disfarçados em toda parte. Civilização é uma palavra antiga, capaz de comprometer quem a usa. Ela irrita o Chefe Supremo, o Uhmala, que se dedica só a caçadas e partidas do jogo de abóbora. Para o povo, ele baixa os 400 Princípios, que não podem ser transgredidos. Terminou a Era dos Inventos, a capacidade de criar atrofiou-se: agora os rádios, as vitrolas, as televisões, as lâmpadas amontoam-se, inúteis, nos Armazéns Proibidos. Um dos passeios que restam é ir ver as ruínas dos automóveis, empilhados e apodrecendo no Cemitério dos Trambolhos de Rodas. Há muitas gerações nem os aviões, as naus celestes, aterrissam na oca daquela gente conformista, medrosa, que involuiu no tempo e na dignidade humana.

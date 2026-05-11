@@ -6,7 +6,7 @@ citation:
   type: chapter
   original-publisher: "Inédito"
   original-date: "Sem data"
-abstract: "Inédito, Sem data. Aguardando revisão."
+abstract: "Inédito, Sem data."
 order: 030600
 status: Transcrição completa.
 ---

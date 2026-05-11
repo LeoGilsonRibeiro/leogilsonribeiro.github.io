@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "In 'O Bom Crioulo'"
   original-date: "1983"
-abstract: "In 'O Bom Crioulo', 1983. Aguardando revisão."
+abstract: "In 'O Bom Crioulo', 1983."
 order: 010104
 ---
 

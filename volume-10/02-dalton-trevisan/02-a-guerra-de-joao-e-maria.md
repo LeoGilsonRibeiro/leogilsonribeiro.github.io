@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Veja"
   original-date: "1969"
-abstract: "Veja, 1969. Aguardando revisão."
+abstract: "Veja, 1969."
 ---
 
 Adolescente, o ideal do escritor paranaense Dalton Trevisan "era ser corredor de 110 metros com barreiras. Jovem de bigodinho, sonhei ser farol de *dancing*, o galã amado por todas as *taxi-girls*. Nem atleta, nem bailarino de gravatinha borboleta, meu lugar é entre os últimos dos contistas menores (a sombra ligeira de um sorriso)". Pelo menos a corrida com barreiras do I Concurso de Contos lançado pelo Estado do Paraná, em 1967, o autor de *O Vampiro de Curitiba* venceu, recebendo o maior prêmio para contos da história do Brasil (10.000 cruzeiros novos) e fugindo da imprensa, alérgico de nascença a entrevistas. Num de seus raros momentos menos lacônicos ("Nada tenho a dizer fora dos meus livros. Só a obra tem importância, o autor não vale o personagem"), ele respondeu: "Vampiro eu sou, sim, mas de almas. Espião dos corações solitários. Um escorpião de bote armado, eis o contista". Os corações solitários já tinham sido sugados de seu sangue na coletânea que contém três de seus contos premiados -- *Desastres do Amor*, lançado no ano passado. Agora, Dalton Trevisan arma o bote em torno do mesmo casal fundamental, João e Maria, em seu novo livro, publicado na semana passada pela Editora Civilização Brasileira (177 páginas). Os mesmos amantes, namorados, noivos e amásios do livro anterior transferiram para o Inferno a domicílio do casamento suas trágicas e hilariantes escaramuças amorosas.

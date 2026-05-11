@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Texto inédito (11 páginas datilografadas)"
   original-date: "Sem data"
-abstract: "Texto inédito (11 páginas datilografadas), Sem data. Aguardando revisão."
+abstract: "Texto inédito (11 páginas datilografadas), Sem data."
 status: Transcrição completa.
 ---
 

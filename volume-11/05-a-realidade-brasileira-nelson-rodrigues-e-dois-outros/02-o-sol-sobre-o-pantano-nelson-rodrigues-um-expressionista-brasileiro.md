@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Cadernos Brasileiros Ano VI, nº1, pp. 50-60"
   original-date: "Sem data"
-abstract: "Cadernos Brasileiros Ano VI, nº1, pp. 50-60, Sem data. Aguardando revisão."
+abstract: "Cadernos Brasileiros Ano VI, nº1, pp. 50-60, Sem data."
 status: Transcrição completa.
 ---
 

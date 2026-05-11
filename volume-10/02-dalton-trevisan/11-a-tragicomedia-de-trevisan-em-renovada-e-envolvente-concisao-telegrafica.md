@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1980-10-11"
-abstract: "Jornal da Tarde, 1980-10-11. Aguardando revisão."
+abstract: "Jornal da Tarde, 1980-10-11."
 ---
 
 O esplêndido contista Dalton Trevisan em seu 17º livro, *Lincha Tarado*, consegue a concisão telegráfica de um haicai em prosa e dissimula entre suas tragicomédias curitibanas citações que mesclam Shakespeare e o sambista Noel Rosa. A noite escura da alma do poeta espanhol, San Juan de la Cruz, as fatídicas horas coaguladas em todos os relógios do poema de García Lorca, o final do mundo de Eliot com um estrondo, mesmo a macha que não saía das mãos assassinas de Lady Macbeth ou o "morrer, talvez dormir" , da dúvida do Hamlet shakespeariano -- todos surgem como comentários universais de uma dor local. Até a natureza intervém, com seu coro de pássaros a sublinhar mais um infortúnio humano naquele inferno de Eros e crueldade. Para um leitor menos imaginativo, Dalton Trevisan se repete, para uma percepção mais nítida, ele inova a sua epopeia de guerras conjugais e de sátiros alquebrados pela velhice, mas ainda insaciados.

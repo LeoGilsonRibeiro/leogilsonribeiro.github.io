@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Leia"
   original-date: "1987/01"
-abstract: "Leia, 1987/01. Aguardando revisão."
+abstract: "Leia, 1987/01."
 order: 020315
 ---
 

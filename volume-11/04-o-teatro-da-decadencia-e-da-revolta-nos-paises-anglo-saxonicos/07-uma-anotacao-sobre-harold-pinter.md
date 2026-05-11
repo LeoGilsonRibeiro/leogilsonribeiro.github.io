@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Diário de Notícias"
   original-date: "1964/06/21"
-abstract: "Diário de Notícias, 1964/06/21. Aguardando revisão."
+abstract: "Diário de Notícias, 1964/06/21."
 status: Transcrição completa.
 ---
 

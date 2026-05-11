@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Correio da Manhã"
   original-date: "1965/02/07"
-abstract: "Correio da Manhã, 1965/02/07. Aguardando revisão."
+abstract: "Correio da Manhã, 1965/02/07."
 status: Transcrição completa.
 ---
 

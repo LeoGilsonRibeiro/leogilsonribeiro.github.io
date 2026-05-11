@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1975-5-17"
-abstract: "Jornal da Tarde, 1975-5-17. Aguardando revisão."
+abstract: "Jornal da Tarde, 1975-5-17."
 ---
 
 *A Guerra Conjugal*: muito antes das feministas, explodia esse Vietnam dos dois sexos divididos pela hostilidade da união. Trinta contos, quase todos curtos, em que todos os homens são João, todas as mulheres, Maria. E um caleidoscópio com os mesmos vidrilhos coloridos que só mudam de posição e de relação, presos no Inferno pessoal da solidão a dois.

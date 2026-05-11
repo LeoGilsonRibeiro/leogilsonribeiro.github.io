@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1989 provavelmente agosto ou setembro"
-abstract: "Jornal da Tarde, 1989 provavelmente agosto ou setembro. Aguardando revisão."
+abstract: "Jornal da Tarde, 1989 provavelmente agosto ou setembro."
 order: 081400
 ---
 

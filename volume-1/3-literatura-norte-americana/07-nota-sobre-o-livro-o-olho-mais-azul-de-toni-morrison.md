@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Caros Amigos, n.71"
   original-date: "2003/02"
-abstract: "Caros Amigos, n.71, 2003/02. Aguardando revisão."
+abstract: "Caros Amigos, n.71, 2003/02."
 order: 010207
 ---
 

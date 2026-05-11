@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Correio da Manhã"
   original-date: "1963/10/19"
-abstract: "Correio da Manhã, 1963/10/19. Aguardando revisão."
+abstract: "Correio da Manhã, 1963/10/19."
 order: 030402
 ---
 

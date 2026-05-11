@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal de Letras"
   original-date: "1961/08"
-abstract: "Jornal de Letras, 1961/08. Aguardando revisão."
+abstract: "Jornal de Letras, 1961/08."
 order: 030602
 status: Transcrição completa.
 ---

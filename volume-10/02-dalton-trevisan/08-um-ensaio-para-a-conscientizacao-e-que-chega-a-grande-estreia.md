@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1978-1-14"
-abstract: "Jornal da Tarde, 1978-1-14. Aguardando revisão."
+abstract: "Jornal da Tarde, 1978-1-14."
 ---
 
 Bruxos ambos, Carlitos e Dalton Trevisan remexem em seus caldeirões as mesmas poções diabólicas de compaixão e riso, lágrimas escorrendo ao mesmo ressoar das gargalhadas sufocadas, afluentes de uma mesma e incongruente receita mágica de arte. Enquanto o cineasta inglês revolve a massa humana com a lente da câmera perceptiva das desditas dos mortais, o escritor brasileiro traça, com a caneta, cotidianos Infernos de inibições, ambições frustradas, uma tristeza tenuamente disfarçada pela caricatura.

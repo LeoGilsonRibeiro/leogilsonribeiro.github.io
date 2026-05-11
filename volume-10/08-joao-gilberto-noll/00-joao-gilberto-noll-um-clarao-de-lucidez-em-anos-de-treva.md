@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1980-08-16"
-abstract: "Jornal da Tarde, 1980-08-16. Aguardando revisão."
+abstract: "Jornal da Tarde, 1980-08-16."
 ---
 
 Enfim, a Revolução pariu um escritor.

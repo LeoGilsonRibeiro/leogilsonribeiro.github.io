@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Veja"
   original-date: "1972 (s-data determinada)"
-abstract: "Veja, 1972 (s-data determinada). Aguardando revisão."
+abstract: "Veja, 1972 (s-data determinada)."
 ---
 
 A carreira de certos escritores tem uma semelhança inquietante com a balística: ambas descrevem curvas de quedas inexoráveis. Dalton Trevisan sempre cultivou, com coerência, o mito do escritor difícil, que nunca concede entrevista, é sempre visto e nunca interrogado. Esconde-se dos importunos, detesta falar de literatura e é mais fácil vê-lo num botequim popular discutindo futebol do que lendo, digamos, Kierkegaard ou Maurice Blanchot. Era o vampiro de uma Curitiba que ele via como uma cidade provinciana e que dava o título a um de seus melhores livros. Fazendo da capital paranaense seu espaço geográfico, localizou na pequena burguesia e seus mitos um filão que explorou exaustivamente. Era o Inferno do tédio, dos amores desfeitos, das mulheres que atiçam fogo ao vestido ou bebem formicida, apaixonadas por galãs libidinosos e estroinas. Como uma tragicomédia humana, desfilam os Joões cheios de brilhantina e frases melosas, as Marias adúlteras ou megeras, os maridos carrascos. Entre os dramas individuais de paixão, sexo e remorso, inserem-se murais coletivos. É o caso da obra-prima que enfeixa a coleção *Cemitério de Elefantes* -- os párias da cidade, os bêbados, os mendigos, que vêm morrer, como os velhos paquidermes inúteis, na pacata praça da República local. Ou de *A Guerra Conjugal*, quando chegou à perfeição estilística.

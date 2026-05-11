@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1982-11-13"
-abstract: "Jornal da Tarde, 1982-11-13. Aguardando revisão."
+abstract: "Jornal da Tarde, 1982-11-13."
 ---
 
 *Dedo-Duro*, de João Antônio (Editora Record, 181 páginas), significa, claramente, um ponto de inflexão na obra já extensa do autor de *Malagueta, Perus e Bacanaço* e *Leão-de-Chácara*.

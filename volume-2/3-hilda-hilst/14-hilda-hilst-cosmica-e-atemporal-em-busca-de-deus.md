@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "> Jornal da Tarde"
   original-date: "17 de janeiro de 1987"
-abstract: "> Jornal da Tarde, 17 de janeiro de 1987. Aguardando revisão."
+abstract: "> Jornal da Tarde, 17 de janeiro de 1987."
 order: 020314
 ---
 

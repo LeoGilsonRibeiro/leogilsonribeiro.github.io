@@ -7,7 +7,7 @@ citation:
   editor: "Fernando Rey Puente"
   original-publisher: "Texto de Hugo von Hofmannsthal traduzido por Leo Gilson Ribeiro"
   original-date: "?"
-abstract: "Texto de Hugo von Hofmannsthal traduzido por Leo Gilson Ribeiro. Aguardando revisão."  
+abstract: "Texto de Hugo von Hofmannsthal traduzido por Leo Gilson Ribeiro."  
 order: 090201
 ---
 

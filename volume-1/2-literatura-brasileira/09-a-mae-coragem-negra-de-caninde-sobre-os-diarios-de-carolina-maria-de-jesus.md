@@ -7,9 +7,9 @@ citation:
   type: chapter
   original-publisher: "Christ und Welt, n.28, ano XV"
   original-date: "1962/07/13"
-abstract: "Christ und Welt, n.28, ano XV, 1962/07/13. Aguardando revisão."
+abstract: "Christ und Welt, n.28, ano XV, 1962/07/13."
 order: 010109
-status: Transcrição completa. Tradução do alemão de Fernando Rey Puente. Aguardando revisão.
+status: Transcrição completa. Tradução do alemão de Fernando Rey Puente.
 ---
 
 Através do mapa de São Paulo corre uma linha sombria que representa simbolicamente a estrutura social e a rígida hierarquia da metrópole industrial da América Latina de quatro milhões de habitantes. Dos terrenos ondulados dos quarteirões aristocráticos -- Jardim Europa, Morumbi -- com suas mansões milionárias essa linha desce para o centro comercial e para os quarteirões proletários, Brás e Vila Maria, até que ela desemboca na escuridão putrefata da favela Canindé, localizada entre as águas negras do rio Tietê e a reluzente autoestrada que leva ao Rio de Janeiro.

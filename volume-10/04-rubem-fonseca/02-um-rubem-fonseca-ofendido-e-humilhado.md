@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1979-11-10"
-abstract: "Jornal da Tarde, 1979-11-10. Aguardando revisão."
+abstract: "Jornal da Tarde, 1979-11-10."
 ---
 
 Homens comuns da região mais violenta do mundo, a Baixada Fluminense, apostam dinheiro numa lúgubre loteria dos cadáveres futuros: os próximos mortos pelo Esquadrão da Morte serão dez, vinte ou vinte e seis naquele mês?

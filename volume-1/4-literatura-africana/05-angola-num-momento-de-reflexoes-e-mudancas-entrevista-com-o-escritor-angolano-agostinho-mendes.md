@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "Sem data"
-abstract: "Jornal da Tarde, Sem data. Aguardando revisão."
+abstract: "Jornal da Tarde, Sem data."
 order: 010305
 ---
 

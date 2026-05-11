@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: ""
   original-date: "Sem data"
-abstract: "Sem data. Aguardando revisão."
+abstract: "Sem data."
 order: 080802
 ---
 

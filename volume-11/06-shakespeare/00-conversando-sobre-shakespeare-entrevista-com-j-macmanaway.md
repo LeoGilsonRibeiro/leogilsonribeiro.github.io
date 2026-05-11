@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Diário de Notícias"
   original-date: "1960/03/27"
-abstract: "Diário de Notícias, 1960/03/27. Aguardando revisão."
+abstract: "Diário de Notícias, 1960/03/27."
 status: Transcrição completa.
 ---
 

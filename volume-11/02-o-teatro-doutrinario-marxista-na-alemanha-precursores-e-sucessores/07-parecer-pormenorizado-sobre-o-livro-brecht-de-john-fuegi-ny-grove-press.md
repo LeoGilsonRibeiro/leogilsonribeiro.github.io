@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Para a editora Scipione"
   original-date: "1996/09/16"
-abstract: "Para a editora Scipione, 1996/09/16. Aguardando revisão."
+abstract: "Para a editora Scipione, 1996/09/16."
 status: Transcrição completa.
 ---
 

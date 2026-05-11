@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "O Estado de São Paulo"
   original-date: "1975-05-31"
-abstract: "O Estado de São Paulo, 1975-05-31. Aguardando revisão."
+abstract: "O Estado de São Paulo, 1975-05-31."
 order: 041200
 ---
 

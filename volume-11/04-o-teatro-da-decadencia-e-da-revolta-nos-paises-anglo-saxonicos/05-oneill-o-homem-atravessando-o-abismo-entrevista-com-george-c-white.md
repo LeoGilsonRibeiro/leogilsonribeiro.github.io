@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Jornal da Tarde"
   original-date: "1988/10/01"
-abstract: "Jornal da Tarde, 1988/10/01. Aguardando revisão."
+abstract: "Jornal da Tarde, 1988/10/01."
 status: Transcrição completa.
 ---
 

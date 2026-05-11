@@ -7,7 +7,7 @@ citation:
   editor: "Fernando Rey Puente"
   original-publisher: "In: O Universo Mágico do Barroco Brasileiro"
   original-date: "1998"
-abstract: "In: O Universo Mágico do Barroco Brasileiro, 1998. Aguardando revisão."
+abstract: "In: O Universo Mágico do Barroco Brasileiro, 1998."
 order: 090401
 ---
 

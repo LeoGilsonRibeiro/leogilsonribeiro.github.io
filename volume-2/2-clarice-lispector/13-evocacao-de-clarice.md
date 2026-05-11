@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Inédito"
   original-date: "1994/06/12-13"
-abstract: "Inédito, 1994/06/12-13. Aguardando revisão."
+abstract: "Inédito, 1994/06/12-13."
 order: 020213
 ---
 

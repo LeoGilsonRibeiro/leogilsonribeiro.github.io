@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1985-8-10"
-abstract: "Jornal da Tarde, 1985-8-10. Aguardando revisão."
+abstract: "Jornal da Tarde, 1985-8-10."
 ---
 
 José J. Veiga escreve sempre fora do círculo de relações pessoais de obrigatória admiração mútua longe dos ambientes em que os ditos literatos e toda uma indústria de prêmios e louvações se auto ungem sem cessar. Alheio aos favores, às concessões, aos conchavos em torno dos quais pulula uma grande parte dos que julgam que escrevem e julgam criar poesia entre nós, o seu recolhimento não é fruto de provincianismo. Goiano, nunca precisou de se arvorar em grande intérprete da criatividade goiana, ao contrário de tantos outros escritores bairristas, amarrados à sua origem estadual como ao logotipo de uma mediocridade intocável: nasceu em tal ou tal Estado! Culto, leitor de Kafka, de Orwell, de Swift, de Karel Čapek, domina o inglês com rara fluência, mas nunca se jactou de seus profundos conhecimentos da melhor literatura estrangeira. Seus contos e romances já o tornaram, involuntariamente, citado em excelentes resenhas do *New York Times Book Review*, do jornal alemão *Frankfurt Allgemeine Zeitung* e divulgado por editoras atentas e seletivas como a Bruguera, de Barcelona, ou a Alfred Knopf, de Nova York. Em *Os Cavalinhos de Platiplanto*, *A Hora dos Ruminantes*, *A Estranha Máquina Extraviada* sobretudo no admirável *Sombras de Reis Barbudos*, José J. Veiga já construíra todo um mundo de fortíssimas alegorias.

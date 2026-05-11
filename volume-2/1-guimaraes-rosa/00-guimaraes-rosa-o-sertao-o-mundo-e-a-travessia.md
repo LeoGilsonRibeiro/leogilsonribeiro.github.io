@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Inédito"
   original-date: "1965/07"
-abstract: "Inédito, 1965/07. Aguardando revisão."
+abstract: "Inédito, 1965/07."
 order: 020100
 ---
 

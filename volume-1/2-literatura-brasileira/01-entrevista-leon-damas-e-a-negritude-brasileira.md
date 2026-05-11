@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Correio da Manhã"
   original-date: "1965/04/03"
-abstract: "Correio da Manhã, 1965/04/03. Aguardando revisão."
+abstract: "Correio da Manhã, 1965/04/03."
 order: 010101
 status: Transcrição completa.
 ---

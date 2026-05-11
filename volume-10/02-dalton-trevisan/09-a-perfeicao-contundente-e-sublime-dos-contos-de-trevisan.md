@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1979-9-1"
-abstract: "Jornal da Tarde, 1979-9-1. Aguardando revisão."
+abstract: "Jornal da Tarde, 1979-9-1."
 ---
 
 Integrante destacado e militante da delegação dos EUA à Reunião Mundial do Pen-Clube, realizado no Rio de Janeiro, o professor Gregory Rabassa, de origem catalã, mora com a esposa e os filhos em Nova York, onde leciona no Queens College. Excelente tradutor de Dalton Trevisan nos EUA, é talvez o intelectual norte-americano que melhor conhece a literatura brasileira de Gregório de Matos a Guimarães Rosa, Sua tese de doutoramento sobre o assunto foi recebida com a nota máxima na Universidade de Harvard.

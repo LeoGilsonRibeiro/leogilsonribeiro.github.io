@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Leitura nº 30"
   original-date: "1984-11"
-abstract: "Leitura nº 30, 1984-11. Aguardando revisão."
+abstract: "Leitura nº 30, 1984-11."
 order: 050500
 ---
 

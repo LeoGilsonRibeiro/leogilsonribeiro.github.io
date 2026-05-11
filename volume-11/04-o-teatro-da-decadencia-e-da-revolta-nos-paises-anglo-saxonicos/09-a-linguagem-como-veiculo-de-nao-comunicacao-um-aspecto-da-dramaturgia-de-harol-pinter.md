@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Comentário - Ano X, vol. 10, nº1 (37) 1º Trimestre, pp. 32-36"
   original-date: "1969"
-abstract: "Comentário - Ano X, vol. 10, nº1 (37) 1º Trimestre, pp. 32-36, 1969. Aguardando revisão."
+abstract: "Comentário - Ano X, vol. 10, nº1 (37) 1º Trimestre, pp. 32-36, 1969."
 status: Transcrição completa.
 ---
 

@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Sesc-SP (58 páginas datilografadas e revistas pelo autor em 1994)"
   original-date: "1993"
-abstract: "Sesc-SP (58 páginas datilografadas e revistas pelo autor em 1994), 1993. Aguardando revisão."
+abstract: "Sesc-SP (58 páginas datilografadas e revistas pelo autor em 1994), 1993."
 order: 050602
 ---
 

@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Caros Amigos nº 6"
   original-date: "1997-09"
-abstract: "Caros Amigos nº 6, 1997-09. Aguardando revisão."
+abstract: "Caros Amigos nº 6, 1997-09."
 ---
 
 Como durante todos os séculos de existência do Brasil em seu aspecto de nação culta -- em sua maioria atuante nas esferas criadora, intelectual, cultural e artística --, o livro continua indispensável. Exceto, naturalmente, os que trazem lucros através da imbecilidade dos *best-sellers* neste país que nem ao capitalismo selvagem chegou. Estamos ainda na era do ávido e míope mercantilismo pré-capitalista que nos legaram, na parte negativa, nossos colonizadores portugueses, ai de nós!

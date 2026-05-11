@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Revista Goodyear"
   original-date: "1989/07-08"
-abstract: "Revista Goodyear, 1989/07-08. Aguardando revisão."
+abstract: "Revista Goodyear, 1989/07-08."
 order: 020316
 ---
 

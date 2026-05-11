@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Caros Amigos nº 67"
   original-date: "2002-10"
-abstract: "Caros Amigos nº 67, 2002-10. Aguardando revisão."
+abstract: "Caros Amigos nº 67, 2002-10."
 ---
 
 Guilherme Scalzilli é, fora de qualquer dúvida, um dos raros autores jovens brasileiros mais absurdamente talentosos. Se seu primeiro livro *A Colina* já demonstrava que ele está a um passo da genialidade, agora este segundo livro de contos, *Acrimônia*, será praticamente impossível distinguir qual é o conto mais arrojado, mais revolucionário. Porém, é certamente, em minha opinião, uma revolução do conto do mesmo teor que *Finnegans Wake* de Joyce. É originalíssimo -- um motoqueiro fazendo suas entregas em meio à autêntica guerra, comédia e risco de morte que é o trânsito de qualquer metrópole brasileira. Chama-se "O Vingador Mascarad*o*" e tem a dinamite dos últimos contos de Hilda Hilst, como "Teologia Natural" ou "O Vicioso Kadek".

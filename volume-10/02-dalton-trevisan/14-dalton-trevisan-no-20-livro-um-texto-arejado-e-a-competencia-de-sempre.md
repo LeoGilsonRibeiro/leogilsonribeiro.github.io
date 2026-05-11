@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1983-11-26"
-abstract: "Jornal da Tarde, 1983-11-26. Aguardando revisão."
+abstract: "Jornal da Tarde, 1983-11-26."
 ---
 
 É ridículo pretender, apressadamente, como muitos, que Dalton Trevisan conta sempre as mesmas histórias, exponha sempre os mesmos personagens.

@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1979-08-11"
-abstract: "Jornal da Tarde, 1979-08-11. Aguardando revisão."
+abstract: "Jornal da Tarde, 1979-08-11."
 ---
 
 No "Inferno" de Dante, Francesca da Rimini, lamentando o passado, diz que nenhuma dor é maior do que a de recordar os tempos melhores. Com seu livro último *O Inferno é aqui mesmo*, o contista mineiro Luiz Vilela provou que, realmente, a trágica personagem da *Divina Comédia* tinha razão. Ele, que já foi um dos melhores contistas brasileiros, reporta-se justamente ao passado da sua obra como tendo sido excelente e enumera os críticos dos mais variados matizes -- de Antônio Cândido a Nélson Werneck Sodré, passando pelo autor destas mal alinhavadas linhas, que acenderam as luzes da sua resplandecente marquise. Havia, de fato, quando, por exemplo, Luiz Vilela, escreveu, há 9 anos, sua coletânea de contos *Tarde da Noite*, motivos para um moderado narcisismo. Luiz Vilela com o impacto de um estampido mortal em suas histórias pungentes, sem verborragias nem frases feitas.

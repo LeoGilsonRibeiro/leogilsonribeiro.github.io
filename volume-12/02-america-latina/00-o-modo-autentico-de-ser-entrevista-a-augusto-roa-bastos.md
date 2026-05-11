@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Inédito"
   original-date: "1989/03/25"
-abstract: "Inédito, 1989/03/25. Aguardando revisão."
+abstract: "Inédito, 1989/03/25."
 status: Transcrição completa.
 ---
 

@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Melhores Poemas de Carlos Nejar, São Paulo: Editora Global"
   original-date: "1997"
-abstract: "Melhores Poemas de Carlos Nejar, São Paulo: Editora Global, 1997. Aguardando revisão."
+abstract: "Melhores Poemas de Carlos Nejar, São Paulo: Editora Global, 1997."
 order: 041102
 ---
 

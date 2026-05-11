@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1982-10-23"
-abstract: "Jornal da Tarde, 1982-10-23. Aguardando revisão."
+abstract: "Jornal da Tarde, 1982-10-23."
 ---
 
 A confirmação surpreendente dos quase 20 livros já publicados de Dalton Trevisan é a de que, desde Adolfo Caminha, nenhum autor brasileiro se mostrou mais coerente e convincentemente feminista em nossa literatura. É claro que se os 18 volumes anteriores acentuavam a guerra letal entre o homem e a mulher, a crueldade dos filhos e cônjuges com os paus e companheiros velhos, agora em *Essas Malditas Mulheres* (Editora Record) os objetivos do magnífico contista paranaense, debruçado sobre a sua minúscula Dublin, Curitiba, estão sendo obtidos de maneira mais concisa, telegráfica, impessoal. Não são diálogos propriamente entre esta moça presumivelmente jovem, bonita, desesperada e seu confessor, amante à força, saldador de pequenas dívidas dela e no fundo o agente (permitido contra a relutância dela) de uma concupiscência sempre ativa. Tudo isso nada mais é do que a expressão do egoísmo feroz masculino simultaneamente com a coisificação da mulher. Histórias de amores contrastados, súplicas, vislumbres da sua própria condição espezinhada em seus mínimos direitos humanos -- nada comove a lubricidade de quem quer sugar a figura bonita e aflita: a mulher é apenas um doce sabor logo transformado em bagaço pela inescrupulosidade absoluta de seu pseudo-interlocutor.

@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Jornal da Tarde"
   original-date: "Sem data"
-abstract: "Jornal da Tarde, Sem data. Aguardando revisão."
+abstract: "Jornal da Tarde, Sem data."
 status: Transcrição completa.
 ---
 

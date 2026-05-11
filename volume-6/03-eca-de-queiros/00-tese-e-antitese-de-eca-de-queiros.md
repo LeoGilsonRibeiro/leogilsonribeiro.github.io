@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Diário de Notícias"
   original-date: "1964-08-02"
-abstract: "Diário de Notícias, 1964-08-02. Aguardando revisão."
+abstract: "Diário de Notícias, 1964-08-02."
 order: 060300
 ---
 

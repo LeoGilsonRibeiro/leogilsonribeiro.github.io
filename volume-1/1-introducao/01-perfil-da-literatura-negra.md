@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Mostra Internacional de São Paulo"
   original-date: "1985/05/20-26"
-abstract: "Mostra Internacional de São Paulo, 1985/05/20-26. Aguardando revisão."
+abstract: "Mostra Internacional de São Paulo, 1985/05/20-26."
 order: 010001
 ---
 

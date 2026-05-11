@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1971-01-25"
-abstract: "Jornal da Tarde, 1971-01-25. Aguardando revisão."
+abstract: "Jornal da Tarde, 1971-01-25."
 ---
 
 Amantes num breve passeio pela cidade brigam sem motivo, mas marcam um encontro para o dia seguinte, presos apenas pela rotina e pelo medo à solidão.

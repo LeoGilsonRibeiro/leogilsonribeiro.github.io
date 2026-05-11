@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "16/6/1984 (publicado depois como posfácio do livro"
-abstract: "Jornal da Tarde, 16/6/1984 (publicado depois como posfácio do livro. Aguardando revisão."
+abstract: "Jornal da Tarde, 16/6/1984 (publicado depois como posfácio do livro."
 order: 020312
 ---
 

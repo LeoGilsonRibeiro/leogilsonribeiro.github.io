@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1976-01-31"
-abstract: "Jornal da Tarde, 1976-01-31. Aguardando revisão."
+abstract: "Jornal da Tarde, 1976-01-31."
 ---
 
 LGR -- Notei em seu admirável *As Pompas do Mundo* uma obsessão com a morte como não via em nenhuma criação literária brasileira desde *Boitempo*, de Drummond. É certa esta observação?

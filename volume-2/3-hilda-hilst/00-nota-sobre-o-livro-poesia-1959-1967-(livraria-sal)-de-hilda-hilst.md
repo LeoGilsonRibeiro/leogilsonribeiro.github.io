@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "O Estado de São Paulo"
   original-date: "1967"
-abstract: "O Estado de São Paulo, 1967. Aguardando revisão."
+abstract: "O Estado de São Paulo, 1967."
 order: 020300
 ---
 

@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal do Brasil"
   original-date: "1960/08/21"
-abstract: "Jornal do Brasil, 1960/08/21. Aguardando revisão."
+abstract: "Jornal do Brasil, 1960/08/21."
 order: 080701
 ---
 

@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Diário de Notícias"
   original-date: "1964/09/6"
-abstract: "Diário de Notícias, 1964/09/6. Aguardando revisão."
+abstract: "Diário de Notícias, 1964/09/6."
 order: 080900
 ---
 

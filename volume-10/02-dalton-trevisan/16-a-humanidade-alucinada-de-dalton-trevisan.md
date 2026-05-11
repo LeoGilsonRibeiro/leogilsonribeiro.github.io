@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1988-3-19"
-abstract: "Jornal da Tarde, 1988-3-19. Aguardando revisão."
+abstract: "Jornal da Tarde, 1988-3-19."
 ---
 
 Dalton Trevisan conseguiu resumir sua implacável odisseia doméstica, sua feroz guerra conjugal, em frases telegráficas. Até em *hai-kais* mínimos, sintéticos ou em versos, ele pode relatar uma tragédia incongruentemente *kitsch* e inebriante:

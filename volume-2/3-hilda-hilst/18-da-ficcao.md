@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Cadernos de Literatura Brasileira: Hilda Hilst (Editora: Instituto Moreira Salles)"
   original-date: "1999-10"
-abstract: "Cadernos de Literatura Brasileira: Hilda Hilst (Editora: Instituto Moreira Salles), 1999-10. Aguardando revisão."
+abstract: "Cadernos de Literatura Brasileira: Hilda Hilst (Editora: Instituto Moreira Salles), 1999-10."
 order: 020318
 ---
 

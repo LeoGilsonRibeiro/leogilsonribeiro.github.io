@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Inédito"
   original-date: "Sem data (provavelmente meados dos anos 60)"
-abstract: "Inédito, Sem data (provavelmente meados dos anos 60). Aguardando revisão."
+abstract: "Inédito, Sem data (provavelmente meados dos anos 60)."
 order: 040501
 ---
 

@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "O Estado de São Paulo - Suplemento Literário"
   original-date: "1966/03/12"
-abstract: "O Estado de São Paulo - Suplemento Literário, 1966/03/12. Aguardando revisão."
+abstract: "O Estado de São Paulo - Suplemento Literário, 1966/03/12."
 order: 030403
 ---
 

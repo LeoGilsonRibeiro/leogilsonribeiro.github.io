@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1976-10-2"
-abstract: "Jornal da Tarde, 1976-10-2. Aguardando revisão."
+abstract: "Jornal da Tarde, 1976-10-2."
 ---
 
 "*Wie is dan in hemelsnaam deze* Dalton Trevisan?!", perguntou estupefato o escritor holandês August Willemsen, ao conhecer a obra do vampiro curitibano: "Quem, em nome de Deus, é este Dalton Trevisan?!"

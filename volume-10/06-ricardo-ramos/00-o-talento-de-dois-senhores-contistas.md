@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1971-1-15"
-abstract: "Jornal da Tarde, 1971-1-15. Aguardando revisão."
+abstract: "Jornal da Tarde, 1971-1-15."
 ---
 
 O conto atual brasileiro só se esgota nos grandes nomes, já de expressão internacional, para o leitor desatento. Porque surgiram importantes revelações à sombra da perfeição estilística do paranaense Dalton Trevisan, com sua dissecação pungente da repressão sexual e dos sonhos feitos de lantejoulas baratas do Zé-povinho de Curitiba. E depois da incursão renovadora dos contos abstratos, angustiados, de Clarice Lispector em sua fase inicial, comunicando de forma nova por esse meio conciso pela sua própria estrutura.

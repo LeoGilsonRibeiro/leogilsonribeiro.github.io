@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1970-08-05"
-abstract: "Jornal da Tarde, 1970-08-05. Aguardando revisão."
+abstract: "Jornal da Tarde, 1970-08-05."
 ---
 
 O Éden, brasileiro, ainda, deslumbrou todos os viajantes estrangeiros que chegaram ao Brasil, desde a era colonial. Humboldt, Hans Staden, Debret, Rugendas fixaram da nossa imagem colonial, a par da selva ou do sonolento centro urbano, os animais. O exotismo das lendas sobre o Eldorado estendeu-se desde o início, à fauna fabulosa de animais que misturavam vários reinos ao mesmo tempo: plantas carnívoras, com cabeças humanas, aves maravilhosas com semitroncos povoariam o Brasil desconhecido.

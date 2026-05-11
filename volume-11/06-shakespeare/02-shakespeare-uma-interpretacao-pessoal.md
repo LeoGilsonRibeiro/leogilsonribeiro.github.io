@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Texto publicado em um jornal não identificado"
   original-date: "Sem data"
-abstract: "Texto publicado em um jornal não identificado, Sem data. Aguardando revisão."
+abstract: "Texto publicado em um jornal não identificado, Sem data."
 status: Transcrição completa.
 ---
 

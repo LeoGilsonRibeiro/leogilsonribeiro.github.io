@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Jornal da Tarde"
   original-date: "1987/05/02"
-abstract: "Jornal da Tarde, 1987/05/02. Aguardando revisão."
+abstract: "Jornal da Tarde, 1987/05/02."
 order: 070313
 ---
 

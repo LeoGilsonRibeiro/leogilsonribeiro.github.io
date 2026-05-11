@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Revista Goodyear"
   original-date: "Sem data"
-abstract: "Revista Goodyear, Sem data. Aguardando revisão."
+abstract: "Revista Goodyear, Sem data."
 order: 020103
 ---
 

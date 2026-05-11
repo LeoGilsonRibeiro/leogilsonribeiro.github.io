@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Jornal da Tarde"
   original-date: "1966/05/07"
-abstract: "Jornal da Tarde, 1966/05/07. Aguardando revisão."
+abstract: "Jornal da Tarde, 1966/05/07."
 status: Transcrição completa.
 ---
 

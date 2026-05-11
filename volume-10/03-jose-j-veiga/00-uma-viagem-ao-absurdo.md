@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1972-6-5"
-abstract: "Jornal da Tarde, 1972-6-5. Aguardando revisão."
+abstract: "Jornal da Tarde, 1972-6-5."
 ---
 
 A partir de agora, a literatura brasileira tem um local que não está delimitado nos mapas geográficos, mas que abrange qualquer vilarejo do vasto interior. Taitara é uma aldeia simbólica: resume o lugarejo perdido na Amazônia, a cidadezinha da região do agreste nordestino, o ponto quase anônimo do típico subdesenvolvimento. Algumas ruas tortas, uma população envilecida pela miséria, a esperança supersticiosa de uma ajuda sobrenatural que virá dar vida a uma comunidade primitiva, que vive da substância diária e pobre, de horizontes econômicos desgastados, sem perspectiva de melhora.

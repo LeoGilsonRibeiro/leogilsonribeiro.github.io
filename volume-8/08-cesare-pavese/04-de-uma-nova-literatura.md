@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Tradução de LGR do ensaio de Cesare Pavese"
   original-date: "Sem data"
-abstract: "Tradução de LGR do ensaio de Cesare Pavese, Sem data. Aguardando revisão."
+abstract: "Tradução de LGR do ensaio de Cesare Pavese, Sem data."
 order: 080804
 ---
 

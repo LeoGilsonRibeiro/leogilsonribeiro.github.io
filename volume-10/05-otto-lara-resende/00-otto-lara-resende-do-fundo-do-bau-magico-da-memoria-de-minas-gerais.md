@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1976-01-31"
-abstract: "Jornal da Tarde, 1976-01-31. Aguardando revisão."
+abstract: "Jornal da Tarde, 1976-01-31."
 ---
 
 Não tem fundo o Baú da Literatura de Minas Gerais. Quanto mais fundo se mete a mão na memória mineira, mais livros brotam o joio misturado com o trigo. Mas o baú mágico, generoso, recompensa quase todos os que nele se adentram. Seria um baú ou uma Caixa de Pandora nacional?

@@ -7,7 +7,7 @@ citation:
   type: chapter  
   original-publisher: "Psicologia Atual"
   original-date: "Sem data (revista editada de 1977-86)"
-abstract: "Psicologia Atual, sem data (revista editada de 1977-86). Aguardando revisão." 
+abstract: "Psicologia Atual, sem data (revista editada de 1977-86)." 
 order: 090601
 ---
 

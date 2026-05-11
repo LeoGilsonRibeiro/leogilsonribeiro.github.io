@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Veja"
   original-date: "1970/11/04"
-abstract: "Veja, 1970/11/04. Aguardando revisão."
+abstract: "Veja, 1970/11/04."
 status: Transcrição completa.
 ---
 

@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "O Estado de São Paulo"
   original-date: "2002/09/29"
-abstract: "O Estado de São Paulo, 2002/09/29. Aguardando revisão."
+abstract: "O Estado de São Paulo, 2002/09/29."
 status: Transcrição completa.
 ---
 

@@ -7,7 +7,7 @@ citation:
   type: chapter
   original-publisher: "Jornal da Tarde"
   original-date: "1979-12-15"
-abstract: "Jornal da Tarde, 1979-12-15. Aguardando revisão."
+abstract: "Jornal da Tarde, 1979-12-15."
 ---
 
 Na Curitiba da pasmaceira, os amantes das estrelas distantes de Hollywood cortam os pulsos quando leem sobre o casamento de suas amadas inacessíveis, outros enviam à cantora da tela uma carta de amor em português castiço e com um falo ereto desenhado a nanquim no final. O campo de concentração do sexo de Dalton Trevisan raramente tem tropas aliadas para libertar seus prisioneiros daquele Auschwitz da luxúria paga com a vida. A libido é sinônimo do inferno: um beijo se purga com a impotência causada pela doença venérea, a empregadinha virgem é deflorada de pé junto ao balcão da firma pelo velho sátiro baboso, a moça "de programa" paga o romantismo da paixão pelo seu gigolô com o abandono em meio ao lixo. O amor só aparece nas canequinhas de louça barata, com um flamejante A maiúsculo, ondulado, vermelho, com fosforescências de amarelo.

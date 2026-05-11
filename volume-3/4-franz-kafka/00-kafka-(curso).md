@@ -7,7 +7,7 @@ citation:
   issued: "2024"
   original-publisher: "Inédito"
   original-date: "Sem data"
-abstract: "Inédito, Sem data. Aguardando revisão."
+abstract: "Inédito, Sem data."
 order: 030400
 status: Transcrição completa. 
 ---
