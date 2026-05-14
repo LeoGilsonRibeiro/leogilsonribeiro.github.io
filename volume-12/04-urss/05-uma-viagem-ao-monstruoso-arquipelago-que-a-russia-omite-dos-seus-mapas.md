@@ -21,7 +21,7 @@ Era uma situação imprevista para os russos. O que fazer? Ofereceram-lhe uma *d
 
 É inútil procurar nos mapas da Rússia esse monstruoso arquipélago. Está murado, o *Inturist*, o Centro de Turismo da União Soviética, não o levará lá, os guias e intérpretes abanam a cabeça: nunca ouviram falar de tal coisa. E é possível que nunca tenham mesmo. Gulag é uma catacumba, um rio subterrâneo de massa humana, nacionalistas da Ucrânia, da Estônia, da Lituânia, cientistas, professores de filosofia, estudantes, operários -- todos compõem esse gigantesco universo carcerário que flui incessantemente. Nutre-se de denúncias, de cartas anônimas, de trens abarrotados de prisioneiros -- milhares dos quais totalmente inocentes -- que vomitam sua carga pelo vasto território quase três vezes maior que o Brasil, os 22 milhões de km^2^ da URSS.
 
-Na bacia do rio Kolimá, noticia a revista *Priroda* (Natureza), da Academia de Ciências de Moscou, acharam-se , em 1949, fósseis de peixes denominados tritões, que, embora sob espessa camada multimilenar de gelo, estavam tão frescos que podiam ser saboreados pelos presentes com prazer. Kolimá era a ilha maior desse arquipélago desconhecido e os que devoravam esses tritões eram os prisioneiros: o leitor dessa nota aparentemente só de interesse científico é Aleksandr Solzhenitsyn, preso 11 anos por ter ironizado a figura de Stalin numa carta a um amigo.
+Na bacia do rio Kolimá, noticia a revista *Priroda* (Natureza), da Academia de Ciências de Moscou, acharam-se, em 1949, fósseis de peixes denominados tritões, que, embora sob espessa camada multimilenar de gelo, estavam tão frescos que podiam ser saboreados pelos presentes com prazer. Kolimá era a ilha maior desse arquipélago desconhecido e os que devoravam esses tritões eram os prisioneiros: o leitor dessa nota aparentemente só de interesse científico é Aleksandr Solzhenitsyn, preso 11 anos por ter ironizado a figura de Stalin numa carta a um amigo.
 
 Ele recorda:
 
@@ -29,7 +29,7 @@ Ele recorda:
 
 Entretanto, como se tivessem perdido o dom da fala nas ilhas do arquipélago, eles guardavam silêncio.
 
-Numa inesperada virada da nossa história, uma parte insignificante desse arquipélago foi dada a conhecer ao mundo. (Quando, em 1956, durante o 20° Congresso do Partido Comunista da URSS, Kruchev denunciou os crimes de Stalin e permitiu a publicação de *Um Dia na Vida de Ivan Denissovitch*, do ex-prisioneiro Solzhnenitsyn). Mas as mesmas mãos que nos apertaram as algemas abrem agora conciliadoramente as palmas e dizem: "Não\... Não se deve mexer no passado!\... Aquele que recorda o passado perde um olho!" E, no entanto, o provérbio acrescenta: "Aquele que esquece perde os dois!"
+Numa inesperada virada da nossa história, uma parte insignificante desse arquipélago foi dada a conhecer ao mundo. (Quando, em 1956, durante o 20° Congresso do Partido Comunista da URSS, Kruchev denunciou os crimes de Stalin e permitiu a publicação de *Um Dia na Vida de Ivan Denissovitch*, do ex-prisioneiro Solzhenitsyn). Mas as mesmas mãos que nos apertaram as algemas abrem agora conciliadoramente as palmas e dizem: "Não\... Não se deve mexer no passado!\... Aquele que recorda o passado perde um olho!" E, no entanto, o provérbio acrescenta: "Aquele que esquece perde os dois!"
 
 As décadas vão correndo e lambem irrecuperavelmente as cicatrizes e úlceras do passado. Outras ilhas, durante esse tempo, estremeceram, foram-se derretendo, desbordaram, e o mar polar do esquecimento vem bater sobre elas. E um dia, no século futuro, este arquipélago, o seu ar e os ossos dos seus habitantes, congelados numa camada glacial, serão apresentados aos descendentes como um inverossímil tritão.
 
@@ -43,7 +43,7 @@ Os métodos de prisão, o clima, o sadismo bestial e a arrogância da polícia s
 
 Se você entra numa fábrica, verificam seu cartão de identidade e o prendem. Se você está com 39 graus de febre num hospital militar, se você está sendo operado numa mesa de cirurgia, quase sem vida, banhado em sangue, conduzem você para a cela de Lubianka, no centro de Moscou. Você é preso pelo eletricista que foi anotar seu relógio de luz, pelo ciclista que esbarrou em você, pelo funcionário da Caixa Econômica, pelo gerente do cinema: todos os podem prender e só "depois, tarde demais, você verá, muito escondida, a chapa vermelha" da KGB.
 
-Fugir? É impossível. Na URSS existem, como para os pretos na África do Sul, passaportes internos. Quem quer ir a outra cidade tem que ter autorização da delegacia de polícia locar, explicar o motivo da viagem, quanto tempo ficará lá. E chegando ao destino, se for dada a permissão, dentro de 24 horas você tem obrigação de registrar-se na delegacia locam em que se encontrar.
+Fugir? É impossível. Na URSS existem, como para os pretos na África do Sul, passaportes internos. Quem quer ir a outra cidade tem que ter autorização da delegacia de polícia local, explicar o motivo da viagem, quanto tempo ficará lá. E chegando ao destino, se for dada a permissão, dentro de 24 horas você tem obrigação de registrar-se na delegacia local em que se encontrar.
 
 Como todo governo totalitário, o regime instituído na Rússia depois de 1917 vive esquizofrenicamente tomado pelo medo, por isso as ondas de milhões de detentos se avolumam ano a ano:
 
@@ -93,7 +93,7 @@ E é o povo que está encarcerado, humilhado, violado, torturado:
 
 "Acaso não é nosso povo, ultrajado e enganado, que jaz ao nosso lado, sobre os catres dos corredores?"
 
-A Rússia tzarista iniciou, com Tchekov, com Dostoievski, a literatura carcerária, seguida por *Le Mie Prigioni*, de Silvio Pelico, na Itália, por *Memórias do Cárcere* de Graciliano Ramos, encarcerado pela ditadura getulista no Brasil.
+A Rússia tzarista iniciou, com Tchekov, com Dostoievski, a literatura carcerária, seguida por *Le Mie Prigioni*, de Silvio Pellico, na Itália, por *Memórias do Cárcere* de Graciliano Ramos, encarcerado pela ditadura getulista no Brasil.
 
 No entanto, neste século do terror, este horripilante *Arquipélago Gulag* forma com dois outros livros a mais cabal acusação ao totalitarismo engendrador da violência sem punição: forma, ao lado de *Treblinka* e de *Ascensão e Queda do Terceiro Reich*, a mais profunda meditação humana sobre a desumanização do homem pela bestialidade da violência, um grito de alerta e, apesar de todo o sofrimento, de esperança também no ser humano:
 
@@ -107,7 +107,7 @@ Para discutir qualquer opção ideológica, o leitor brasileiro consciente -- ma
 
 A conclusão realista a que se chega é a de que o Nazismo foi apenas o primeiro estágio da barbárie em dimensões mundiais, abatido graças ao sacrifício de dezenas de milhões de vidas. O nazismo renasceu, porém, sob a capa do social-imperialismo soviético, neste indelével e devastador arquipélago Gulag, que regurgita não do "sangue, suor e lágrimas" de Churchill, mas do sangue, suor e horror extraído de milhões de seres humanos agora, neste mesmo instante em que se lê este Jornal.
 
-Nas palavras eloquentes de Solzhenitsyn, consciência de uma Nação como antes dele já o tinham sido Tolstoi, Tchekov e Dostoievski, Parternack e inúmeros outros defensores da integridade humana e da sua dignidade intrínseca;
+Nas palavras eloquentes de Solzhenitsyn, consciência de uma Nação como antes dele já o tinham sido Tolstoi, Tchekov e Dostoievski, Pasternak e inúmeros outros defensores da integridade humana e da sua dignidade intrínseca;
 
 "Feche os olhos, amigo leitor. Ouve o ranger das rodas? São os trens vermelhos (dos prisioneiros) que passam. A cada minuto do dia e da noite. A cada dia do ano. E esta água que marulha? São os barcos dos detentos que vagam. E os motores dos "tintureiros" (como fora escrito em cores vivas: "Transporte de Carnes" ou "Beba Champagne Russa!"). Desembarca-se, embarca-se, translada-se sem cessar. E este rumor? As celas superlotadas das prisões de trânsito. E estes gritos? Os prantos das pessoas roubadas, violentadas, espancadas.
 

@@ -37,7 +37,7 @@ Mas *Um Dia na Vida de Ivan Denisovitch*, uma vez atingido o propósito utilitar
 
 A Rússia é o único país que possui os grandes valores de sua literatura proibidos de divulgação e só conhecidos de seu povo em edições clandestinas.
 
-É talvez a primeira vez na história que uma literatura nacional existe fora de seu país e de seu território linguístico. Desde os tempos da Inquisição na Europa o escritor não sofria uma perseguição tão intolerante por suas ideais consideradas heréticas: heresia religiosa durante a Inquisição católica em 1400, heresia política durante o regime comunista russo em 1960. São grandes nomes que completam uma lista de dezenas de artistas silenciados pelo Partido Comunista.
+É talvez a primeira vez na história que uma literatura nacional existe fora de seu país e de seu território linguístico. Desde os tempos da Inquisição na Europa o escritor não sofria uma perseguição tão intolerante por suas ideias consideradas heréticas: heresia religiosa durante a Inquisição católica em 1400, heresia política durante o regime comunista russo em 1960. São grandes nomes que completam uma lista de dezenas de artistas silenciados pelo Partido Comunista.
 
 É o Partido, através do Sindicato de Escritores, que decide até que escritor terá direito a uma datilógrafa, a viajar ao estrangeiro, a ter uma *dacha* (casa de campo), a fazer traduções, a lecionar, a pronunciar conferências, a declamar em público, a aparecer na televisão ou a entrar em contato com visitantes estrangeiros, a ler jornais mesmo comunistas do estrangeiro como o italiano *L'Unità* ou o francês *L'Humanité* e a receber direitos autorais nacionais ou estrangeiros.
 
@@ -45,7 +45,7 @@ Os meios de combate variaram, desde os tempos de Stalin: hoje em dia a execuçã
 
 A censura soviética tenta esconder a verdade usando táticas variadas. *Afastando de cargos importantes os escritores dissidentes* -- Evtuchenko é desligado da revista *Yunost* (Juventude) depois que assina um telegrama de protesto pela invasão russa da Tchecoslováquia.
 
-*Encarcerando-os em campos de concentração distantes e com trabalhos forçados que equivalem a uma morte lenta e torturada* -- Yuli Daniel e sua mulher Larissa, Siniavsky, Alksandr Solzhenitsyn, Evgenia Guinzburg acusados de escritos "anti-soviéticos" têm suas obras proibidas depois de publicadas de contrabando no estrangeiro.
+*Encarcerando-os em campos de concentração distantes e com trabalhos forçados que equivalem a uma morte lenta e torturada* -- Yuli Daniel e sua mulher Larissa, Siniavsky, Aleksandr Solzhenitsyn, Evgenia Guinzburg acusados de escritos "anti-soviéticos" têm suas obras proibidas depois de publicadas de contrabando no estrangeiro.
 
 *Internando-os em hospícios para correção ideológica* -- o filho do grande poeta Essenin, Essenin-Volpine e o novelista Valeryi Tarsis são internados como "loucos e débeis mentais" em Institutos para Nervosos do Estado, uma experiência apavorante que Tarsis, refugiado em Londres, relata em *Enfermaria 7* (Editora Expressão e Cultura).
 

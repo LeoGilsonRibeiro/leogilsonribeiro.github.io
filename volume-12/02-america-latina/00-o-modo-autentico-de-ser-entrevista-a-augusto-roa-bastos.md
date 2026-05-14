@@ -53,7 +53,7 @@ RB: Ah, creio que isso não passa de um exagero, talvez motivado pelo afeto e pe
 
 LGR: Mas Ítalo Svevo também começou a escrever aos 56 anos de idade\...
 
-RB: Sim, mas com isto eu quero dizer que nunca tive uma profunda vocação par escrever, foi provavelmente o exílio.
+RB: Sim, mas com isto eu quero dizer que nunca tive uma profunda vocação para escrever, foi provavelmente o exílio.
 
 LGR: Como opção social e política?
 
@@ -69,7 +69,7 @@ RB: É um tema que deriva da verificação do poder absoluto.
 
 LGR: Um tema ético?
 
-RB: Ético, universal, mas ao mesmo tempo muito local: o a país que é o meu e que se chama Paraguai nasceu da institucionalização do poder absoluto. Sobre a base de uma Constituição de Poder de Roma Antiga, o Paraguai começou com um Consulado, depois com um ditador\...
+RB: Ético, universal, mas ao mesmo tempo muito local: o país que é o meu e que se chama Paraguai nasceu da institucionalização do poder absoluto. Sobre a base de uma Constituição de Poder de Roma Antiga, o Paraguai começou com um Consulado, depois com um ditador\...
 
 LGR: Um pouco como o conceito do poder absolutista dos reis Luiz XIV E Luiz XV dos reis da França, não?
 
@@ -85,7 +85,7 @@ RB: Para o Paraguai significou a sua destruição total! E o que me assombra é 
 
 LGR: Tem havido certa revisão, por parte de alguns historiadores, da figura de López, dando-lhe até alguma razão para agir como agiu.
 
-RB: Bem, razões ele as tinha, mas o que acontece é que não soube ornao-las como um verdadeiro estrategista\...
+RB: Bem, razões ele as tinha, mas o que acontece é que não soube operá-las como um verdadeiro estrategista\...
 
 LGR: Por que era um passional?
 
@@ -117,7 +117,7 @@ RB: Sim, além disso a vida inteira do guarani estava ritualizada, todas as dan�
 
 LGR: Então esses dois episódios demonstram que o Paraguai queria romper com um sistema, não no sentido marxista de opressão, mas da afirmação de um verdadeiro indianismo, com a afirmação de valores autóctones, não os literários de um Chateaubriand, de um Cooper, de um José de Alencar. Os jesuítas não se renderam perante a grandeza ou até superioridade de uma cultura religiosa?
 
-RB: Creioq eu tanto o episódio de López como das Missões jesuíticas têm muito pouca semelhança entre si e não podemos esquecer que os jesuítas vinham com uma missão que lhes tinha sido confiada pela Coroa Espanhola: especificamente a de submeter os índios, cristianizá-los e pôr fim a rixas por problemas de posse de territórios, de hierarquias etc; por isso eles vinham para criar as *reducciones* (reduções) guaranis, ou seja, reduzi-los a um sistema de religião e de civilização que não era o deles, os indígenas. Por isso, sob esse ângulo, a obra dos jesuítas também foi de certo modo "uma colonização". Só que muito mais atenuada e de caráter diferente das *encomendas* e a exercida pela colônia administrativa, não é? A tal ponto que se chegou a um ponto de tensão entre a colônia administrativa e as Missões jesuíticas, após algum tempo. Mas é verdade que como evangelizadores eles foram conquistados pela obra\...
+RB: Creio que tanto o episódio de López como das Missões jesuíticas têm muito pouca semelhança entre si e não podemos esquecer que os jesuítas vinham com uma missão que lhes tinha sido confiada pela Coroa Espanhola: especificamente a de submeter os índios, cristianizá-los e pôr fim a rixas por problemas de posse de territórios, de hierarquias etc; por isso eles vinham para criar as *reducciones* (reduções) guaranis, ou seja, reduzi-los a um sistema de religião e de civilização que não era o deles, os indígenas. Por isso, sob esse ângulo, a obra dos jesuítas também foi de certo modo "uma colonização". Só que muito mais atenuada e de caráter diferente das *encomendas* e a exercida pela colônia administrativa, não é? A tal ponto que se chegou a um ponto de tensão entre a colônia administrativa e as Missões jesuíticas, após algum tempo. Mas é verdade que como evangelizadores eles foram conquistados pela obra\...
 
 LGR: É justamente o que eu estava tentando dizer\...
 
@@ -149,7 +149,7 @@ RB: Que pena que toda a nossa entrevista, temo, tenha sido tão incoerente, não
 
 LGR: Mas seria uma grande perda para a humanidade tal infortúnio, não?
 
-RB: Toda erosão de uma cultura autóctone qualquer no mundo significa uma drenagem tremenda para a cultura global, porque tudo está interrelacionado. Somos uma galáxia. Todas as culturas antigas indígenas da América Latina mantêm uma fidelidade muito grande a seu modo de ser específico, o que em guarani se chama cm uma palavra muito bela, intraduzível: *tê kô*, que seria assim como "o modo de ser de cada grupo ou de cada um" e *tê* *kô etê* que é "o verdadeiro e absoluto modo de ser". Esse *tê* *kô etê* dos guaranis manteve-se como uma força nuclear cultural e humana muito forte e nem as agressões do Tempo e de todos os tipos conseguiram destruí-lo, não é? Seu núcleo é ao mesmo tempo muito sólido e muito espiritualizado. Seria realmente uma catástrofe que essa gente desaparecesse.
+RB: Toda erosão de uma cultura autóctone qualquer no mundo significa uma drenagem tremenda para a cultura global, porque tudo está interrelacionado. Somos uma galáxia. Todas as culturas antigas indígenas da América Latina mantêm uma fidelidade muito grande a seu modo de ser específico, o que em guarani se chama com uma palavra muito bela, intraduzível: *tê kô*, que seria assim como "o modo de ser de cada grupo ou de cada um" e *tê* *kô etê* que é "o verdadeiro e absoluto modo de ser". Esse *tê* *kô etê* dos guaranis manteve-se como uma força nuclear cultural e humana muito forte e nem as agressões do Tempo e de todos os tipos conseguiram destruí-lo, não é? Seu núcleo é ao mesmo tempo muito sólido e muito espiritualizado. Seria realmente uma catástrofe que essa gente desaparecesse.
 
 LGR: E que se perdesse também sua literatura\...
 

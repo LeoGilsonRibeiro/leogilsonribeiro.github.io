@@ -11,11 +11,11 @@ abstract: "Jornal da Tarde, 1970/10/09."
 status: Transcrição completa.
 ---
 
-Ver o mundo como uma prisão é uma constante dos escritores russos. Também é , um reflexo da sociedade em que vivem, desde a época tzarista, passando pelo terror stalinista. Essa sociedade penal realça dramaticamente o que há de básico na condição humana. O trivial torna-se trágico, o absurdo torna-se profundo, a fraqueza virá força.
+Ver o mundo como uma prisão é uma constante dos escritores russos. Também é , um reflexo da sociedade em que vivem, desde a época tzarista, passando pelo terror stalinista. Essa sociedade penal realça dramaticamente o que há de básico na condição humana. O trivial torna-se trágico, o absurdo torna-se profundo, a fraqueza vira força.
 
 Esse é o mundo em que vive Aleksander I. Solzhenitsyn, Prêmio Nobel de Literatura de 1970. Esse é o mundo dos seus livros, sofridos e amargurados. Mas, no meio dessa asfixia, Solzhenitsyn sobrevive graças a um talento de observar e narrar a miséria ao seu redor, com uma percepção digna dos grandes clássicos, Tolstoi, Dostoievski ou Turgeniev.
 
-O que chama primeiramente a atenção nas obras de Solzhenitsyn é exatamente esse classicismo, semelhante ao de um grande escritor do século XIX que, de repente, surgisse em pleno século XX. Numa entrevista, concedida em 1968, o poeta concedida em 1968, o poeta Evtuchenko declarou: "Solzhenitsyn é nosso único clássico vivo".
+O que chama primeiramente a atenção nas obras de Solzhenitsyn é exatamente esse classicismo, semelhante ao de um grande escritor do século XIX que, de repente, surgisse em pleno século XX. Numa entrevista concedida em 1968, o poeta Evtuchenko declarou: "Solzhenitsyn é nosso único clássico vivo".
 
 Seus livros não têm truques de vanguarda, exagero de fluxo de consciência, filosofia existencialista. São escritos numa prosa direta e dura, usando muito a linguagem coloquial e uma preocupação pelos detalhes que o liga aos realistas e naturalistas do século passado, especialmente Emile Zola. Ele conta apenas o que acontece, a fantasia é uma ausência na sua obra.
 
@@ -47,7 +47,7 @@ Avisou que esses manuscritos cruzariam a fronteira e seriam publicados no exteri
 
 Seguiu-se uma longa discussão em Moscou, que culminou com um encontro informal de Solzhenitsyn junto aos seus colegas da União, em 22 de setembro de 1967. O escritor pediu que seus livros fossem publicados; exigiram que ele escrevesse uma carta aberta denunciando a exploração da sua obra no Ocidente e repudiando "o papel que lhe haviam atribuído no Ocidente", o de "líder da oposição política". Ele recusou.
 
-Não havia qualquer proibição formal à publicação de *Pavilhão dos Cancerosa* e a *Novy Mir* extraiu as primeiras provas do livro, que foram corrigidas pelo autor. A data marcada para publicação era janeiro de 1968. Mas isso nunca aconteceu, como resultado de uma decisão pessoal de Leonid Brezhnev, ratificada mais tarde pelo *Politiburo*.
+Não havia qualquer proibição formal à publicação de *Pavilhão dos Cancerosos* e a *Novy Mir* extraiu as primeiras provas do livro, que foram corrigidas pelo autor. A data marcada para publicação era janeiro de 1968. Mas isso nunca aconteceu, como resultado de uma decisão pessoal de Leonid Brezhnev, ratificada mais tarde pelo *Politburo*.
 
 *Pavilhão dos Cancerosos* apareceu quase imediatamente na Europa Ocidental, em tradução de uma edição mimeografada russa. O tema, como o da prisão, foi testemunhado e suportado pelo autor. É o mundo confinado dos condenados pelo câncer. Agora, o mal não é criado pelo homem, como o campo de concentração; tem origem divina, é inescapável e eterno.
 
@@ -59,7 +59,7 @@ A matéria-prima do livro foi a estadia do autor num hospital de Tashkent por vo
 
 Mas é difícil ao leitor lembrar-se que lê apenas um romance sobre câncer. Há frases como: "Um homem cria um tumor e morre -- como então pode uma nação viver cirando campos e exílios?" Os pacientes de câncer são exilados: um ex-prisioneiro, um guarda de campo de concentração, um burocrata da polícia secreta cujas denúncias mandaram dúzias de pessoas para a prisão.
 
-Como em *Um Dia na Vida de Ivan Denosivich* refere-se à agonia russa sob Stalin, o *Pavilhão* alude a uma imagem do período pós-stalinista, quando vítimas e executores eram presos, igualmente mutilados, no pavilhão do câncer da nação.
+Como em *Um Dia na Vida de Ivan Denisovich* refere-se à agonia russa sob Stalin, o *Pavilhão* alude a uma imagem do período pós-stalinista, quando vítimas e executores eram presos, igualmente mutilados, no pavilhão do câncer da nação.
 
 Depois de sua exclusão da União de Escritores, Solzhenitsyn retirou-se para a cidade de Ryazan, a 157 quilómetros de Moscou. Enfrentando sempre muitas críticas, inclusive o convite que a União dos Escritores lhe fez para sair definitivamente da Rússia, indo "para onde que suas obras sejam apreciadas".
 

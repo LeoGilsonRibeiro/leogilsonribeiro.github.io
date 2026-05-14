@@ -23,7 +23,7 @@ Porque no mundo ocidental as duas grandes literaturas têm um ponto em comum: ta
 
 É possível que quando o mundo conhecer na sua inteireza a fisionomia trágica, sóbria e no entanto veemente da literatura esmagada pelos tanques e pela censura se tenha uma real concepção do totalitarismo como a organizada força anti-humana.
 
-Aí terão menor importância o pan-eslavismo arcaico que empana o pensamento corajoso de Solzhenityn, a frivolidade estreita de um Milan Kundera e sua leveza de conteúdo intelectual. Porque livros assombrosos emergirão das duas fontes, a do exílio e a do *samizdat* (edições feitas à máquina, com várias cópias e circuladas clandestinamente nos países dominados pelo Império soviético).
+Aí terão menor importância o pan-eslavismo arcaico que empana o pensamento corajoso de Solzhenitsyn, a frivolidade estreita de um Milan Kundera e sua leveza de conteúdo intelectual. Porque livros assombrosos emergirão das duas fontes, a do exílio e a do *samizdat* (edições feitas à máquina, com várias cópias e circuladas clandestinamente nos países dominados pelo Império soviético).
 
 Agota Kristof revela, através das brechas do silêncio instalado pelo terror as mentiras e a penúria, mostra quais são as verdadeiras vidas do Leste europeu hermeticamente fechada ao mundo exterior, no período anterior à promissora era Gorbatchóv atual.
 
@@ -43,7 +43,7 @@ Fica claro, à medida que penetramos neste livro doloroso, esturricado como o ag
 
 Um homossexual platônico representa a conivência com o frenesi do Partido único, maneira relutante, mas eficaz de se manter vivo. As tragédias humanas são agravadas pela proibição de cruzar a fronteira: uma mãe solteira, seduzida pelo próprio pai, dá à luz um filho deformado, corcunda: Ela usou durante tempo demais durante a gravidez um corpete justo que disfarçava o volume crescente do seu ventre.
 
-Tudo faz aparte do clima de totalitarismo que aprisiona aquela nação, aquela indefesa comunidade humana. As bibliotecas "do povo" estão recheadas apenas de duas coisas: reles escrevinhações de adulação dos poderosos, cantando as "glórias" múltiplas do regime. E caixotes cheios de livros proibidos, que estão na lista negra como o *index* do Vaticano em seu período de força inquisitorial:
+Tudo faz parte do clima de totalitarismo que aprisiona aquela nação, aquela indefesa comunidade humana. As bibliotecas "do povo" estão recheadas apenas de duas coisas: reles escrevinhações de adulação dos poderosos, cantando as "glórias" múltiplas do regime. E caixotes cheios de livros proibidos, que estão na lista negra como o *index* do Vaticano em seu período de força inquisitorial:
 
 "Romances escritos para a glória do regime. É de se acreditar que já não existem escritores no nosso país". Os livros bons "são retirados de circulação", são "proibidos. Desaparecidos". Como a "Arte degenerada" (*entartete Kunst*) nazista a jogar na fogueira os grandes nomes que plasmaram a literatura de nosso tempo e suas obras de arte.
 
@@ -63,7 +63,7 @@ Com leves modificações, já em 1988 a autora não captava exatamente a luta, a
 
 Sem talvez o saber, a própria escritora adverte: "Escrever não é a mesma coisa que fazer vestidos".
 
-Quem jamais esperou na Literatura apenas um divertimento reconhecerá neste livro doloroso, de uma febre "controlada", mas veemente o depoimento daqueles cujas almas estavam amordaçadas, mas nunca mortas. Em meio à rigidez cadavérica de Lenin e Mao embalsamados ou Fidel Castro, e Pinochet e Stroessner, este livro soberbo é mais uma lápide insigne que se coloca no pesadelo do totalitarismo: nazista o soviético, já que ambos, como comprova a História, são idênticos.
+Quem jamais esperou na Literatura apenas um divertimento reconhecerá neste livro doloroso, de uma febre "controlada", mas veemente o depoimento daqueles cujas almas estavam amordaçadas, mas nunca mortas. Em meio à rigidez cadavérica de Lenin e Mao embalsamados ou Fidel Castro, e Pinochet e Stroessner, este livro soberbo é mais uma lápide insigne que se coloca no pesadelo do totalitarismo: nazista ou soviético, já que ambos, como comprova a História, são idênticos.
 
 E para o leitor fica o desfecho terrível da "prova", quando as vidas vividas no martírio se tornam inexistentes no jargão burocrático do regime que estiver no poder. Que admirável lição de consciência, de perfeição literária, de indômita ressurreição dos mais altos princípios éticos nestas escassas 147 páginas!
 
