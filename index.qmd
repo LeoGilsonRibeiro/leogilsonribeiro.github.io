@@ -15,11 +15,20 @@ citation:
 > Sou-lhe reconhecido pelo que nos traz: uma informação sob nítida luz e uma interpretação sempre redimidora.
 
 -- Ass. **Guimarães Rosa** – Rio, 4 de julho de 1964.
-In: Orelha do livro *Cronistas do Absurdo. Kafka, Büchner, Brecht, Ionesco.*
-
-
- 
+In: Orelha do livro *Cronistas do Absurdo. Kafka, Büchner, Brecht, Ionesco.* 
 ---
+
+### Maio de 2026
+
+::: {.content-visible when-format="html"}
+::: {#fig-vol .column-page-right}
+
+[![](img/Volume-13.pdf){#fig-vol13 width="25%"}](https://raw.githubusercontent.com/LeoGilsonRibeiro/leogilsonribeiro.github.io/main/_pdf/volume-13.pdf)
+
+Lançamento do volume 13 da coleção.
+:::::
+:::::
+
 
 
 ### Junho de 2024
@@ -37,8 +46,6 @@ Lançamento dos volumes 11 e 12 da coleção.
 
 
 ### Outubro de 2023
-
-- Confira os novos volumes em PDF!
 
 ::: {.content-visible when-format="html"}
 

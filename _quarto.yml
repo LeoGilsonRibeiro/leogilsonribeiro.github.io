@@ -725,6 +725,7 @@ website:
             contents:
               - volume-12/06-eua/00-gore-vidal-um-gay-peso-pesado.md
               - volume-12/06-eua/01-gore-vidal-um-escriba-impiedoso.md
+      - "---"
       - section: "13 A Literatura Norte-Americana"
         href: volume-13/index.qmd
         contents:
