@@ -1,0 +1,13 @@
+cover:
+  title: A Literatura Norte-Americana
+  label-color: "teal!40"
+citation:
+  citation-key: LGRVol13
+  type: book
+  volume: 13
+  container-title: "A Literatura Norte-Americana"
+  collection-title: "Textos Reunidos de Leo Gilson Ribeiro"
+  issued: 2024
+  editor: "Fernando Rey Puente"
+  doi: 10.5281/zenodo.8368806
+version: 2026-05-15

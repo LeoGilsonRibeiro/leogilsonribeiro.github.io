@@ -1,0 +1,32 @@
+---
+author: "Fernando Rey Puente"
+published: true
+template-partials:
+  - _extensions/lgr/empty/title-block.html
+  - _extensions/lgr/empty/title-metadata.html
+---
+
+::: {.content-hidden when-format="html"}
+
+# {{< meta cover.title >}} {.unnumbered}
+
+:::
+
+
+
+Desde criança LGR foi apaixonado pela língua inglesa. Após completar 18 anos saiu do Brasil para começar seus estudos superiores nos Estados Unidos, mais precisamente na Universidade da California onde concluiu seu *Master of Arts* no qual analisava a obra do poeta romântico inglês Percy Bysshe Shelley. Todavia, suas circunstâncias econômicas o obrigaram a dar continuidade aos seus estudos de Literatura Comparada não em um país de língua inglesa, mas sim na Alemanha, onde graças à gratuidade do ensino universitário ele poderia trabalhar no período de férias e assim se sustentar.
+
+Logo ao chegar ao Brasil em 1959, após diversos anos na Europa, e até o seu último emprego na revista *Caros Amigos* ele sempre tratou de autores de língua inglesa. Neste volume nos restringimos aos seus textos relativos a escritores norte-americanos. Organizamos os inúmeros artigos de LGR sobre esses escritores cronologicamente, tal como já o havíamos feito com os textos dele sobre escritores italianos.
+
+Prova deste interesse pela literatura norte-americana é o livro de quase quatrocentas páginas de Robert E. Spiller, *O Ciclo da Literatura Norte-Americana* que nosso crítico traduziu em 1960 para a editora Fundo de Cultura do Rio de Janeiro. Além disso, no volume que reunimos sobre Teatro, já pudemos constatar a grande influência do teatro norte-americano para LGR que chegou até mesmo a escrever dramas em inglês que encontramos entre seus papéis.
+
+Assim, desde sua coluna "Caminhos de Cultura" no *Diário de Notícias*, passando pela *Veja* e principalmente pelo *Jornal da Tarde* até a secção "Janelas Abertas" na *Caros Amigos* Leo Gilson não deixou de se interessar pela literatura norte-americana, como alguns artigos aqui reunidos o mostram e como essas breves citações oriundas da secção da *Caros Amigos* explicitam: comentando a respeito de John Steinbeck e de seu livro *Vinhas da Ira*, LGR não poupa elogios ao mesmo afirmando tratar-se de "um dos três ou quatro livros americanos claramente discerníveis como obras-primas" explicitando as razões de seu juízo ao dizer que ele é "um livro monumental que rivaliza com as obras de William Faulkner, William James e Herman Melville ao focalizarem nos diferentes aspectos da desumanidade do homem para com o homem na alta sociedade, ou enlouquecidos pela proposital falta de empregos e de um lugar digno onde possam trabalhar e, ontologicamente, ser" (*Caros Amigos*, n. 59, fevereiro de 2002). Igualmente volta a elogiar e recomendar outro escritor americano, desta vez, William Saroyan e sua obra, que acabara de ser reeditada, *A Comédia Humana*, que LGR define como sendo "um hilariante e humaníssimo enfoque do dia a dia norte-americano". E recomenda: "é preciso reeditar logo sua obra-prima, *The Daring Young Man on the Flying Trapeze*, e também algumas de suas peças de teatro, vivíssimas de calor humano e dignas, algumas delas, de evocarem *Nossa Cidade* (*Our Town*) de Thornton Wilder" (*Caros Amigos*, março de 2003). O livro de contos *O Jovem Audaz no Trapézio Volante e outras histórias* acabou sendo reeditado cinco anos depois, em 2008, pela Editora Paz e Terra.
+
+Acreditamos que essa recolha de artigos aqui enfeixados possa oferecer um panorama bastante amplo da riqueza da literatura norte-americana e da sua influência no Brasil, o que se evidencia pelo artigo inicial, que apareceu na importante revista *The Kenyon Review* no ano de 1961. Vali-me desse artigo, traduzido para o português e de um outro, publicado no número 1 da revista *Comentário* no ano de 1960 para oferecer ao leitor um texto com uma visão mais abrangente, da recepção da literatura norte-americana do Brasil e de uma abordagem sinóptica da literatura norte-americana. Os demais artigos, como sempre, são em sua grande maioria circunstanciais, ou seja, escritos tendo em vista publicações e republicações de traduções de autores norte-americanos no Brasil ou textos escritores em função da morte ou de algum prêmio atribuído a algum desses escritores. Apesar desse caráter menos acadêmico, creio que eles realizam análises muito pertinentes e sérias, elogiosas ou muito críticas sobre alguns desses escritores norte-americanos.
+
+Na elaboração deste volume fiquei com uma dúvida: deveria ou não publicar aqui dois ilustres escritores norte-americanos que resolveram se tornar cidadãos britânicos (caso de Henry James e de T. S. Elitot)? Decidi-me por resolver essa questão de modo distinto para cada um deles. Henry James, que não se adaptou à sua nova pátria tão bem quanto imaginava, eu resolvi incluir neste volume; já no caso de T. S. Eliot que tão bem se adaptou ao Reino Unido resolvi inclui-lo no volume que abordará a literatura inglesa e outras literaturas europeias.
+
+Espero então que esses textos aqui reunidos possam suscitar o interesse daquelas ou daqueles que porventura leiam essas páginas e que assim, influenciadas/os pelo entusiasmo de Leo Gilson Ribeiro pela literatura, possam se aprofundar em textos que as/os remeterão a obras que as/os levarão a melhor conhecer o mundo norte-americano e, em alguns casos, o mundo humano apresentado em sua universalidade a partir de uma análise circunscrita à vida na América do Norte tanto em seus aspectos mais belos quanto mais vis.
+
+
+{{< include _extensions/lgr/_mainmatter.qmd >}}

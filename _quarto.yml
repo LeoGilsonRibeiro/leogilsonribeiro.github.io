@@ -101,6 +101,8 @@ website:
           href: _pdf/volume-11.pdf
         - text: Volume 12
           href: _pdf/volume-12.pdf
+        - text: Volume 13
+          href: _pdf/volume-13.pdf
     - text: "GitHub"
       icon: github
       href: https://github.com/LeoGilsonRibeiro/leogilsonribeiro.github.io
@@ -723,3 +725,102 @@ website:
             contents:
               - volume-12/06-eua/00-gore-vidal-um-gay-peso-pesado.md
               - volume-12/06-eua/01-gore-vidal-um-escriba-impiedoso.md
+      - section: "13 A Literatura Norte-Americana"
+        href: volume-13/index.qmd
+        contents:
+          - volume-13/01-recepcao-no-brasil/00-brasil-entre-dogpatch-e-yoknapatawpha.md
+          - volume-13/01-recepcao-no-brasil/01-a-literatura-de-protesto-americana-e-as-suas-raizes-romanticas.md
+          - section: "E. A. Poe (1809-1848)"
+            contents:
+              - volume-13/02-e-a-poe/00-o-pai-do-medo-resenha-do-livro-historias-extraordinarias-de-e-a-poe.md
+          - section: "Walt Whitman (1819-1892)"
+            contents:
+              - volume-13/03-walt-whitman/00-walt-whitman-poeta-polemico.md
+          - section: "Emily Dickinson (1830-1886)"
+            contents:
+              - volume-13/04-emily-dickinson/00-emily-dickinson.md
+          - section: "Mark Twain (1835-1910)"
+            contents:
+              - volume-13/05-mark-twain/00-mark-twain-segundo-o-professor-hamlin-hill.md
+              - volume-13/05-mark-twain/01-patriotas-e-traidores-mark-twain.md
+          - section: "Henry James (1843-1916)"
+            contents:
+              - volume-13/06-henry-james/00-a-redescoberta-de-henry-james.md
+              - volume-13/06-henry-james/01-a-redescoberta-de-henry-james-ii.md
+              - volume-13/06-henry-james/02-a-tragedia-e-a-vitoria-de-henry-james.md
+          - section: "Ezra Pound (1855-1972)"
+            contents:
+              - volume-13/07-ezra-pound/00-ezra-pound-1855-1972.md
+              - volume-13/07-ezra-pound/01-ezra-pound-um-criador-hermetico-dificil-talvez-inimitavel-como-joyce.md
+          - section: "Henry Miller (1891-1980)"
+            contents:
+              - volume-13/08-henry-miller/00-a-nova-edicao-de-tropico-de-cancer-e-a-primeira-de-plexus.md
+              - volume-13/08-henry-miller/01-a-morte-de-henry-miller-a-importancia-de-sua-obra.md
+              - volume-13/08-henry-miller/02-a-literatura-e-o-mundo-de-henry-miller-uma-proibicao-a-obediencia.md
+          - section: "Scott Fitzgerald (1896-1940)"
+            contents:
+              - volume-13/09-scott-fitzgerald/00-fitzgerald-e-o-mito-americano.md
+              - volume-13/09-scott-fitzgerald/01-scott-e-zelda-um-caso-de-amor-nos-anos-loucos.md
+          - section: "John dos Passos (1896-1970)"
+            contents:
+              - volume-13/10-john-dos-passos/00-dez-anos-sem-john-dos-passos-um-vazio-de-lucidez.md
+          - section: "W. Faulkner (1897-1962)"
+            contents:
+              - volume-13/11-william-faulkner/00-william-faulkner-e-a-exegese-do-sul.md
+              - volume-13/11-william-faulkner/01-william-faulkner-o-mito-a-arte-a-etica.md
+              - volume-13/11-william-faulkner/02-o-urso-um-painel-uma-tragedia-uma-outra-geografia.md
+              - volume-13/11-william-faulkner/03-faulkner-o-poeta-das-velhas-verdades.md
+          - section: "E. Hemingway (1899-1961)"
+            contents:
+              - volume-13/12-ernest-hemingway/00-resenha-do-livro-papa-hemingway-de-a-e-hotchner.md
+              - volume-13/12-ernest-hemingway/01-hemingway-o-grande-nao-passou-de-uma-lenda.md
+              - volume-13/12-ernest-hemingway/02-hemingway-que-horror-resenha-do-livro-postumo-o-jardim-do-eden.md
+          - section: "Nabokov (1899-1977)"
+            contents:
+              - volume-13/13-nabokov/00-nabokov.md
+              - volume-13/13-nabokov/01-nabokov-bufao-lucido-critico-irresistivel-e-irrepetivel.md
+          - section: "Auden (1907-1963)"
+            contents:
+              - volume-13/14-auden/00-auden.md
+          - section: "W. Saroyan (1908-1981)"
+            contents:
+              - volume-13/15-william-saroyan/00-ainda-existem-leitores-para-temas-como-os-desse-escritor-ingenuo.md
+          - section: "Paul Bowles (1910-1999)"
+            contents:
+              - volume-13/16-paul-bowles/00-mundos-incomunicaveis-resenha-do-livro-cha-nas-montanhas.md
+          - section: "E. Bishop (1911-1979)"
+            contents:
+              - volume-13/17-elizabeth-bishop/00-a-poetisa-o-caju-e-o-micucu-entrevista.md
+          - section: "S. Bellow (1915-2005)"
+            contents:
+              - volume-13/18-saul-bellow/00-ironia-letrada-e-brados-humanistas-entre-bocejos.md
+              - volume-13/18-saul-bellow/01-um-diagnostico-do-contraste-entre-politica-e-paz-por-saul-bellow.md
+              - volume-13/18-saul-bellow/02-a-saga-tragicomica-de-um-americano-nada-tranquilo.md
+          - section: "J. D. Salinger (1909-2010)"
+            contents:
+              - volume-13/19-j-d-salinger/00-j-d-salinger.md
+          - section: "R. Bradbury (1920-2012)"
+            contents:
+              - volume-13/20-ray-bradbury/00-o-terrivel-futuro-de-bradbury.md
+              - volume-13/20-ray-bradbury/01-memorias-do-futuro.md
+          - section: "N. Mailer (1923-2007)"
+            contents:
+              - volume-13/21-norman-mailer/00-673-paginas-que-levam-a-exaustao-sem-recompensa.md
+          - section: "T. Capote (1924-1984)"
+            contents:
+              - volume-13/22-truman-capote/00-o-ultimo-livro-de-truman-capote.md
+              - volume-13/22-truman-capote/01-capote-um-escritor-a-sangue-frio.md
+              - volume-13/22-truman-capote/02-um-livro-que-consola-ate-os-quatro-quintos-da-humanidade-que-nao-comem.md
+          - section: "W. Kennedy (1928)"
+            contents:
+              - volume-13/23-william-kennedy/00-william-kennedy-o-humanista-entrevista.md
+          - section: "P. Roth (1933-2018)"
+            contents:
+              - volume-13/24-philip-roth/00-comedia-sexual-resenha-do-livro-complexo-de-portnoy.md
+              - volume-13/24-philip-roth/01-a-terapia-que-rendeu-um-milhao-de-dolares.md
+          - section: "Raymond Carver (1938-1988)"
+            contents:
+              - volume-13/25-raymond-carver/00-o-poeta-dos-vencidos-entrevista.md
+          - section: "P. Auster (1947-2024)"
+            contents:
+              - volume-13/26-paul-auster/00-a-ficcao-que-nao-foi-inventada-entrevista.md
